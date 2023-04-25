@@ -1,0 +1,10 @@
+# conda env create|update -f environment.yml
+name: event-extraction
+channels:
+- defaults
+dependencies:
+- python=3.10.*
+- pip=23.*
+- pip:
+  - -r requirements.txt
+  - --editable=src/.
