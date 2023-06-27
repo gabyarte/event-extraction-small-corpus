@@ -3,7 +3,7 @@ name: event-extraction
 channels:
 - defaults
 dependencies:
-- python=3.10.*
+- python=3.9.*
 - pip=23.*
 - pip:
   - -r requirements.txt
