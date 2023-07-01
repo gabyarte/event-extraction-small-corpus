@@ -38,40 +38,89 @@ def compute_average_similarity_score(true_data, predict_data, label):
     ])
 
 
-def calculate_metrics(confusion_matrix, as_df=False):
-    tp, tn, fp, fn = confusion_matrix['TP'], confusion_matrix['TN'], confusion_matrix['FP'], confusion_matrix['FN']
-    accuracy = (tp + tn) / (tp + tn + fp + fn)
-    precision = tp / (tp + fp)
-    recall = tp / (tp + fn)
-    f1 = (2 * (precision * recall) / (precision + recall)
-          if precision + recall
-          else 0)
-    metrics = {
-        'accuracy': accuracy,
-        'precision': precision,
-        'recall': recall,
-        'f1': f1,
-    }
-    return pd.DataFrame(metrics, index=['metrics']).T if as_df else metrics
+def precision_recall_f1_score(metrics, type='exact'):
+    pos = metrics.loc[['COR', 'INC', 'PAR', 'MIS']].sum()
+    act = metrics.loc[['COR', 'INC', 'PAR', 'SPU']].sum()
+
+    num = (metrics.loc['COR']
+           if type == 'exact'
+           else metrics.loc['COR'] + 0.5 * metrics.loc['PAR'])
+    
+    precision, recall = num.div(act), num.div(pos)
+    f1_score = 2 * (precision * recall) / (precision + recall)
+
+    return pd.DataFrame(
+        [precision, recall, f1_score],
+        columns=metrics.columns,
+        index=['Precision', 'Recall', 'F1 Score']
+    )
 
 
-def evaluate_label_metrics(true_data, predict_data, label, threshold=0.5):
-    confusion_matrix = {
-        'TP': 0,
-        'TN': 0,
-        'FP': 0,
-        'FN': 0
-    }
-    for y_true, y_pred in zip(true_data, predict_data):
-        if y_true[label] == y_pred[label]:
-            metric = 'TN' if y_true is None else 'TP'
-        elif y_true[label] is None or y_pred[label] is None:
-            metric = 'FP' if y_true is None else 'FN'
-        else:
+def get_metric(span1, span2, type1=None, type2=None, type='exact'):
+    if type != 'type':
+        if span1 == span2:
             metric = (
-                'FP'
-                if similarity_meassure(y_true[label], y_pred[label]) <= threshold
-                else 'TP')
+                'COR'
+                if type in ['exact', 'partial'] \
+                    or (type == 'strict' and type1 == type2)
+                else 'INC')
+        elif span1 is None:
+            metric = 'SPU'
+        elif span2 is None:
+            metric = 'MIS'
+        else:
+            metric = 'INC'
+            if type == 'partial':
+                similarity = similarity_meassure(span1, span2)
+                metric = 'PAR' if similarity > 0.5 else 'INC'
+    else:
+        similarity = similarity_score(span1, span2)
+        if similarity <= 0.5:
+            metric = 'INC'
+        elif type1 == type2:
+            metric = 'COR'
+        elif type1 is None:
+            metric = 'SPU'
+        elif type2 is None:
+            metric = 'MIS'
+        else:
+            metric = 'INC'
+    return metric
 
-        confusion_matrix[metric] += 1
-    return confusion_matrix
+
+def match_score(true_data, predict_data, type='exact'):
+    metrics_table = pd.DataFrame(
+        [[0] * 4] * 5,
+        columns=['Subject', 'Object', 'Event', 'Total'],
+        index=['COR', 'INC', 'PAR', 'MIS', 'SPU']
+    )
+
+    for y_true, y_pred in zip(true_data, predict_data):
+
+        signature_true, signature_pred = (
+            y_true['relationSignature'].split('-'),
+            y_pred['relationSignature'].split('-'))
+        types = {
+            'subject': (signature_true[0], signature_pred[0]),
+            'object': (signature_true[1], signature_pred[1]),
+            'event': (y_true['relationType'], y_pred['relationType'])
+        }
+
+        for label in ['subject', 'object', 'event']:
+            label_true, label_pred = y_true[label], y_pred[label]
+            type_true, type_pred = types[label]
+            metric = get_metric(
+                label_true, label_pred, type_true, type_pred, type=type)
+            metrics_table.loc[metric, label.title()] += 1
+
+    metrics_table['Total'] = metrics_table[[
+        'Subject', 'Object', 'Event']].sum(1)
+    
+    metric_type = 'exact' if type in ['exact', 'strict'] else ['partial', 'type']
+
+    metrics_table = pd.concat([
+        metrics_table,
+        precision_recall_f1_score(metrics_table, type=metric_type)
+    ])
+
+    return metrics_table

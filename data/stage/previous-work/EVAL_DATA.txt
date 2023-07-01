@@ -42,7 +42,7 @@ RelationType: Norelation (rel)
 RelationSignature: LegalEntity-LegalAgent (e1, e2)
 RelationType: Noright (rel)
 
-11	<rel>No se podrán celebrar</rel> <comp>contratos</rel> para la formación y el aprendizaje cuando el puesto de trabajo correspondiente al contrato haya sido desempeñado con anterioridad por el <e2>trabajador</e2> en la misma <e1>empresa</e1> por tiempo superior a doce meses.
+11	<rel>No se podrán celebrar</rel> <comp>contratos</comp> para la formación y el aprendizaje cuando el puesto de trabajo correspondiente al contrato haya sido desempeñado con anterioridad por el <e2>trabajador</e2> en la misma <e1>empresa</e1> por tiempo superior a doce meses.
 RelationSignature: LegalEntity-LegalAgent (e1, e2)
 RelationType: Noright (rel)
 
