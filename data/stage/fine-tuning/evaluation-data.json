@@ -1,0 +1,54 @@
+[
+    {
+        "prompt": "Los trabajos realizados a t\u00edtulo de amistad, benevolencia o buena vecindad.\n\n###\n\n",
+        "completion": " trabajos/object/LegalConcept\nrealizados/trigger/Norelation\nvecindad/subject/LegalConcept\n###"
+    },
+    {
+        "prompt": "Las situaciones de incapacidad temporal, nacimiento, adopci\u00f3n, guarda con fines de adopci\u00f3n, acogimiento, riesgo durante el embarazo, riesgo durante la lactancia y violencia de g\u00e9nero interrumpir\u00e1n el c\u00f3mputo de la duraci\u00f3n del contrato.\n\n###\n\n",
+        "completion": " interrumpir\u00e1n/trigger/Norelation\ncontrato/subject/LegalConcept\n###"
+    },
+    {
+        "prompt": "Si el trabajador tuviera asignadas condiciones o retribuciones especiales en virtud de contraprestaciones establecidas en la parte no v\u00e1lida del contrato, el \u00f3rgano de la jurisdicci\u00f3n social que a instancia de parte declare la nulidad har\u00e1 el debido pronunciamiento sobre la subsistencia o supresi\u00f3n en todo o en parte de dichas condiciones o retribuciones.\n\n###\n\n",
+        "completion": " trabajador/object/LegalAgent\n\u00f3rgano de la jurisdicci\u00f3n social/subject/LegalEntity\nhar\u00e1/trigger/Duty\npronunciamiento/complement/\n###"
+    },
+    {
+        "prompt": "En caso de nulidad por discriminaci\u00f3n salarial por raz\u00f3n de sexo, el trabajador tendr\u00e1 derecho a la retribuci\u00f3n correspondiente al trabajo igual o de igual valor.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\ntendr\u00e1 derecho/trigger/Right\nretribuci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "Si el empresario diera un trabajo en com\u00fan a un grupo de sus trabajadores, conservar\u00e1 respecto de cada uno, individualmente, sus derechos y deberes.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ntrabajadores/object/LegalAgent\nconservar\u00e1/trigger/Right\nderechos y deberes/complement/\n###"
+    },
+    {
+        "prompt": "El jefe del grupo ostentar\u00e1 la representaci\u00f3n de los que lo integren, respondiendo de las obligaciones inherentes a dicha representaci\u00f3n.\n\n###\n\n",
+        "completion": " jefe del grupo/subject/LegalAgent\nostentar\u00e1/trigger/Right\nrepresentaci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "Si el empresario hubiese celebrado un contrato con un grupo de trabajadores considerado en su totalidad, no tendr\u00e1 frente a cada uno de sus miembros los derechos y deberes que como tal le competen.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ngrupo de trabajadores/object/LegalAgent\nno tendr\u00e1/trigger/NoRight\nderechos y deberes/complement/\n###"
+    },
+    {
+        "prompt": "Tampoco se podr\u00e1 estar contratado en pr\u00e1cticas en la misma empresa para el mismo puesto de trabajo por tiempo superior a dos a\u00f1os, aunque se trate de distinta titulaci\u00f3n o distinto certificado de profesionalidad.\n\n###\n\n",
+        "completion": " Tampoco se podr\u00e1 estar/trigger/NoRight\ncontratado en pr\u00e1cticas/complement/\nempresa/subject/LegalEntity\n###"
+    },
+    {
+        "prompt": "A los efectos de este art\u00edculo, los t\u00edtulos de grado, m\u00e1ster y, en su caso, doctorado, correspondientes a los estudios universitarios no se considerar\u00e1n la misma titulaci\u00f3n, salvo que al ser contratado por primera vez mediante un contrato en pr\u00e1cticas el trabajador estuviera ya en posesi\u00f3n del t\u00edtulo superior de que se trate.\n\n###\n\n",
+        "completion": " t\u00edtulos de grado/object/LegalConcept\ntrabajador/subject/LegalAgent\nestuviera/trigger/Norelation\n###"
+    },
+    {
+        "prompt": "Si al t\u00e9rmino del contrato el trabajador continuase en la empresa no podr\u00e1 concertarse un nuevo periodo de prueba, comput\u00e1ndose la duraci\u00f3n de las pr\u00e1cticas a efecto de antig\u00fcedad en la empresa.\n\n###\n\n",
+        "completion": " trabajador/object/LegalAgent\nempresa/subject/LegalEntity\nno podr\u00e1 concertarse/trigger/Noright\nperiodo de prueba/complement/\n###"
+    },
+    {
+        "prompt": "No se podr\u00e1n celebrar contratos para la formaci\u00f3n y el aprendizaje cuando el puesto de trabajo correspondiente al contrato haya sido desempe\u00f1ado con anterioridad por el trabajador en la misma empresa por tiempo superior a doce meses.\n\n###\n\n",
+        "completion": " No se podr\u00e1n celebrar/trigger/Noright\ncontratos/complement/\ntrabajador/object/LegalAgent\nempresa/subject/LegalEntity\n###"
+    },
+    {
+        "prompt": "No obstante, tambi\u00e9n podr\u00e1 recibir dicha formaci\u00f3n en la propia empresa cuando la misma dispusiera de las instalaciones y el personal adecuados a los efectos de la acreditaci\u00f3n de la competencia o cualificaci\u00f3n profesional a que se refiere la letra e), sin perjuicio de la necesidad, en su caso, de la realizaci\u00f3n de periodos de formaci\u00f3n complementarios en los centros de la red mencionada.\n\n###\n\n",
+        "completion": " podr\u00e1 recibir/trigger/Right\nformaci\u00f3n/complement/\nempresa/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "El empresario y la representaci\u00f3n de los trabajadores podr\u00e1n acordar en cualquier momento la sustituci\u00f3n del periodo de consultas por el procedimiento de mediaci\u00f3n o arbitraje que sea de aplicaci\u00f3n en el \u00e1mbito de la empresa, que deber\u00e1 desarrollarse dentro del plazo m\u00e1ximo se\u00f1alado para dicho periodo.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nrepresentaci\u00f3n de los trabajadores/object/LegalEntity\npodr\u00e1n acordar/trigger/Right\nsustituci\u00f3n del periodo de consultas/complement/\n###"
+    }
+]

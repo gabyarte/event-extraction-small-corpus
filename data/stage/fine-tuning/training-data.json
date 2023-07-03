@@ -1,0 +1,390 @@
+[
+    {
+        "prompt": "El empresario est\u00e1 obligado a comunicar a la oficina p\u00fablica de empleo, en el plazo de los diez d\u00edas siguientes a su concertaci\u00f3n y en los t\u00e9rminos que reglamentariamente se determinen, el contenido de los contratos de trabajo que celebre o las pr\u00f3rrogas de los mismos, deban o no formalizarse por escrito.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nest\u00e1 obligado a comunicar/trigger/Duty\noficina p\u00fablica de empleo/object/LegalEntity\ncontratos de trabajo/complement/\n###"
+    },
+    {
+        "prompt": "El empresario entregar\u00e1 a la representaci\u00f3n legal de los trabajadores una copia b\u00e1sica de todos los contratos que deban celebrarse por escrito, a excepci\u00f3n de los contratos de relaci\u00f3n laboral especial de alta direcci\u00f3n sobre los que se establece el deber de notificaci\u00f3n a la representaci\u00f3n legal de los trabajadores.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nentregar\u00e1/trigger/Duty\nrepresentaci\u00f3n legal de los trabajadores/object/LegalEntity\ncontratos/complement/\n###"
+    },
+    {
+        "prompt": "La copia b\u00e1sica se entregar\u00e1 por el empresario, en plazo no superior a diez d\u00edas desde la formalizaci\u00f3n del contrato, a los representantes legales de los trabajadores, quienes la firmar\u00e1n a efectos de acreditar que se ha producido la entrega.\n\n###\n\n",
+        "completion": " copia b\u00e1sica/complement/\nse entregar\u00e1/trigger/Duty\nempresario/subject/LegalAgent\nrepresentantes legales de los trabajadores/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Cuando la relaci\u00f3n laboral sea de duraci\u00f3n superior a cuatro semanas, el empresario deber\u00e1 informar por escrito al trabajador, en los t\u00e9rminos y plazos que se establezcan reglamentariamente, sobre los elementos esenciales del contrato y las principales condiciones de ejecuci\u00f3n de la prestaci\u00f3n laboral, siempre que tales elementos y condiciones no figuren en el contrato de trabajo formalizado por escrito.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ndeber\u00e1 informar/trigger/Duty\ntrabajador/object/LegalAgent\ncontrato/complement/\ncondiciones de ejecuci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "Conforme a lo establecido en dicha regulaci\u00f3n, el trabajador podr\u00e1 solicitar de la Administraci\u00f3n p\u00fablica competente la expedici\u00f3n del correspondiente certificado de profesionalidad, t\u00edtulo de formaci\u00f3n profesional o, en su caso, acreditaci\u00f3n parcial acumulable.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\npodr\u00e1 solicitar/trigger/Right\nAdministraci\u00f3n p\u00fablica/object/LegalEntity\ncertificado de profesionalidad/complement/\nt\u00edtulo de formaci\u00f3n profesional/complement/\nacreditaci\u00f3n parcial acumulable/complement/\n###"
+    },
+    {
+        "prompt": "A fin de posibilitar la movilidad voluntaria en el trabajo a tiempo parcial, el empresario deber\u00e1 informar a los trabajadores de la empresa sobre la existencia de puestos de trabajo vacantes, de manera que aquellos puedan formular solicitudes de conversi\u00f3n voluntaria de un trabajo a tiempo completo en un trabajo a tiempo parcial y viceversa, o para el incremento del tiempo de trabajo de los trabajadores a tiempo parcial, todo ello de conformidad con los procedimientos que se establezcan en convenio colectivo.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ndeber\u00e1 informar/trigger/Duty\ntrabajadores/object/LegalAgent\npuestos de trabajo/complement/\n###"
+    },
+    {
+        "prompt": "El empresario solo podr\u00e1 exigir la realizaci\u00f3n de horas complementarias cuando as\u00ed lo hubiera pactado expresamente con el trabajador.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\npodr\u00e1 exigir/trigger/Right\nhoras complementarias/complement/\ntrabajador/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Los empresarios habr\u00e1n de notificar a la representaci\u00f3n legal de los trabajadores en las empresas los contratos realizados de acuerdo con las modalidades de contrataci\u00f3n por tiempo determinado previstas en este art\u00edculo cuando no exista obligaci\u00f3n legal de entregar copia b\u00e1sica de los mismos.\n\n###\n\n",
+        "completion": " empresarios/subject/LegalAgent\nhabr\u00e1n de notificar/trigger/Duty\nrepresentaci\u00f3n legal de los trabajadores en las empresas/object/LegalEntity\ncontratos/complement/\n###"
+    },
+    {
+        "prompt": "Asimismo, el Gobierno podr\u00e1 otorgar subvenciones, desgravaciones y otras medidas para fomentar el empleo de grupos espec\u00edficos de trabajadores que encuentren dificultades especiales para acceder al empleo.\n\n###\n\n",
+        "completion": " Gobierno/subject/LegalEntity\npodr\u00e1 otorgar/trigger/Privilege\nsubvenciones/complement/\ndesgravaciones/complement/\n###"
+    },
+    {
+        "prompt": "El empresario est\u00e1 obligado a garantizar que cada trabajador reciba una formaci\u00f3n te\u00f3rica y pr\u00e1ctica, suficiente y adecuada, en materia preventiva tanto en el momento de su contrataci\u00f3n, cualquiera que sea la modalidad o duraci\u00f3n de esta, como cuando se produzcan cambios en las funciones que desempe\u00f1e o se introduzcan nuevas tecnolog\u00edas o cambios en los equipos de trabajo.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nest\u00e1 obligado a garantizar/trigger/Duty\ntrabajador/object/LegalAgent\nformaci\u00f3n te\u00f3rica/complement/\n###"
+    },
+    {
+        "prompt": "El trabajador estar\u00e1 obligado a realizar el trabajo convenido bajo la direcci\u00f3n del empresario o persona en quien este delegue.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\nestar\u00e1 obligado a realizar/trigger/Duty\ntrabajo/complement/\nempresario/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "El empresario podr\u00e1 adoptar las medidas que estime m\u00e1s oportunas de vigilancia y control para verificar el cumplimiento por el trabajador de sus obligaciones y deberes laborales, guardando en su adopci\u00f3n y aplicaci\u00f3n la consideraci\u00f3n debida a su dignidad y teniendo en cuenta, en su caso, la capacidad real de los trabajadores con discapacidad.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\npodr\u00e1 adoptar/trigger/Right\nmedidas/complement/\ntrabajador/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "El empresario podr\u00e1 verificar el estado de salud del trabajador que sea alegado por este para justificar sus faltas de asistencia al trabajo, mediante reconocimiento a cargo de personal m\u00e9dico. \n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\npodr\u00e1 verificar/trigger/Right\nestado de salud/complement/\ntrabajador/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Los trabajadores tienen derecho a la intimidad en el uso de los dispositivos digitales puestos a su disposici\u00f3n por el empleador, a la desconexi\u00f3n digital y a la intimidad frente al uso de dispositivos de videovigilancia y geolocalizaci\u00f3n en los t\u00e9rminos establecidos en la legislaci\u00f3n vigente en materia de protecci\u00f3n de datos personales y garant\u00eda de los derechos digitales.\n\n###\n\n",
+        "completion": " trabajadores/subject/LegalAgent\ntienen derecho/trigger/Right\ndispositivos digitales/complement/\nempleador/object/LegalAgent\ndesconexi\u00f3n digital/complement/\n###"
+    },
+    {
+        "prompt": "Excepcionalmente, la empresa no no estar\u00e1 obligada a comunicar aquellas informaciones espec\u00edficas relacionadas con secretos industriales, financieros o comerciales cuya divulgaci\u00f3n pudiera, seg\u00fan criterios objetivos, obstaculizar el funcionamiento de la empresa o del centro de trabajo u ocasionar graves perjuicios en su estabilidad econ\u00f3mica.\n\n###\n\n",
+        "completion": " empresa/subject/LegalEntity\nno estar\u00e1 obligada a comunicar/trigger/Right\ninformaciones/complement/\n###"
+    },
+    {
+        "prompt": "El trabajador deber\u00e1 recibir la formaci\u00f3n inherente al contrato para la formaci\u00f3n y el aprendizaje directamente en un centro formativo de la red a que se refiere la disposici\u00f3n adicional quinta de la Ley Org\u00e1nica 5/2002, de 19 de junio, de las Cualificaciones y de la Formaci\u00f3n Profesional, previamente reconocido para ello por el Sistema Nacional de Empleo.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\ndeber\u00e1 recibir/trigger/Right\nformaci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "El empresario deber\u00e1 conservar los res\u00famenes mensuales de los registros de jornada durante un periodo m\u00ednimo de cuatro a\u00f1os.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ndeber\u00e1 conservar/trigger/Duty\nregistros de jornada/complement/\n###"
+    },
+    {
+        "prompt": "La denegaci\u00f3n de la solicitud deber\u00e1 ser notificada por el empresario al trabajador por escrito y de manera motivada.\n\n###\n\n",
+        "completion": " denegaci\u00f3n/complement/\ndeber\u00e1 ser notificada/trigger/Duty\nempresario/subject/LegalAgent\ntrabajador/object/LegalConcept\n###"
+    },
+    {
+        "prompt": "Los trabajadores menores de dieciocho a\u00f1os no podr\u00e1n realizar trabajos nocturnos ni aquellas actividades o puestos de trabajo respecto a los que se establezcan limitaciones a su contrataci\u00f3n conforme a lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales, y en las normas reglamentarias aplicables.\n\n###\n\n",
+        "completion": " trabajadores menores de dieciocho a\u00f1os/object/LegalAgent\nno podr\u00e1n realizar/trigger/Noright\ntrabajos nocturnos/complement/\n###"
+    },
+    {
+        "prompt": "Se proh\u00edbe realizar horas extraordinarias a los menores de dieciocho a\u00f1os\n\n###\n\n",
+        "completion": " Se proh\u00edbe realizar/trigger/Noright\nhoras extraordinarias/complement/\nmenores de dieciocho a\u00f1os/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Los promotores comunicar\u00e1n a la empresa y a la oficina p\u00fablica dependiente de la autoridad laboral su prop\u00f3sito de celebrar elecciones con un plazo m\u00ednimo de, al menos, un mes de antelaci\u00f3n al inicio del proceso electoral.\n\n###\n\n",
+        "completion": " promotores/subject/LegalAgent\ncomunicar\u00e1n/trigger/Duty\nempresa/object/LegalEntity\nelecciones/complement/\n###"
+    },
+    {
+        "prompt": "Dichos acuerdos deber\u00e1n comunicarse a la oficina p\u00fablica dependiente de la autoridad laboral para su dep\u00f3sito y publicidad.\n\n###\n\n",
+        "completion": " acuerdos/complement/\ndeber\u00e1n comunicarse/trigger/Duty\noficina p\u00fablica/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "Los representantes de la Administraci\u00f3n, as\u00ed como los de las organizaciones sindicales y de las asociaciones empresariales, que tengan acceso a la copia b\u00e1sica de los contratos en virtud de su pertenencia a los \u00f3rganos de participaci\u00f3n institucional que reglamentariamente tengan tales facultades, observar\u00e1n sigilo profesional, no pudiendo utilizar dicha documentaci\u00f3n para fines distintos de los que motivaron su conocimiento.\n\n###\n\n",
+        "completion": " representantes de la Administraci\u00f3n/subject/LegalEntity\nobservar\u00e1n/trigger/Duty\nsigilo profesional/complement/\n###"
+    },
+    {
+        "prompt": "En caso de que el contrato resultase nulo, el trabajador podr\u00e1 exigir, por el trabajo que ya hubiese prestado, la remuneraci\u00f3n consiguiente a un contrato v\u00e1lido.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\npodr\u00e1 exigir/trigger/Right\nremuneraci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "En caso de nulidad por discriminaci\u00f3n salarial por raz\u00f3n de sexo, el trabajador tendr\u00e1 derecho a la retribuci\u00f3n correspondiente al trabajo igual o de igual valor.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\ntendr\u00e1 derecho/trigger/Right\nretribuci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "Ning\u00fan trabajador podr\u00e1 estar contratado en pr\u00e1cticas en la misma o distinta empresa por tiempo superior a dos a\u00f1os en virtud de la misma titulaci\u00f3n o certificado de profesionalidad.\n\n###\n\n",
+        "completion": " trabajador/object/LegalEntity\npodr\u00e1 estar/trigger/Noright\ncontratado en pr\u00e1cticas/complement/\nempresa/subject/LegalAgent\n###"
+    },
+    {
+        "prompt": "Expirada la duraci\u00f3n del contrato para la formaci\u00f3n y el aprendizaje, el trabajador no podr\u00e1 ser contratado bajo esta modalidad por la misma o distinta empresa, salvo que la formaci\u00f3n inherente al nuevo contrato tenga por objeto la obtenci\u00f3n de distinta cualificaci\u00f3n profesional.\n\n###\n\n",
+        "completion": " trabajador/object/LegalAgent\nno podr\u00e1 ser/trigger/Noright\ncontratado/complement/\nempresa/subject/LegalAgent\n###"
+    },
+    {
+        "prompt": "Los trabajadores a tiempo parcial no podr\u00e1n realizar horas extraordinarias, salvo en los supuestos a los que se refiere el art\u00edculo 35.3.\n\n###\n\n",
+        "completion": " trabajadores a tiempo parcial/subject/LegalAgent\nno podr\u00e1n realizar/trigger/Noright\nhoras extraordinarias/complement/\n###"
+    },
+    {
+        "prompt": "El trabajador no podr\u00e1 ser despedido ni sufrir ning\u00fan otro tipo de sanci\u00f3n o efecto perjudicial por el hecho de rechazar esta conversi\u00f3n, sin perjuicio de las medidas que, de conformidad con lo dispuesto en los art\u00edculos 51 y 52.c), puedan adoptarse por causas econ\u00f3micas, t\u00e9cnicas, organizativas o de producci\u00f3n. \n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\nno podr\u00e1 ser/trigger/Right\nsanci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "El empresario deber\u00e1 informar a los trabajadores de la empresa con contratos de duraci\u00f3n determinada o temporales, incluidos los contratos formativos, sobre la existencia de puestos de trabajo vacantes, a fin de garantizarles las mismas oportunidades de acceder a puestos permanentes que los dem\u00e1s trabajadores.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ndeber\u00e1 informar/trigger/Duty\ntrabajadores/object/LegalAgent\npuestos de trabajo/complement/\n###"
+    },
+    {
+        "prompt": "En el supuesto de compensaci\u00f3n econ\u00f3mica por la plena dedicaci\u00f3n, el trabajador podr\u00e1 rescindir el acuerdo y recuperar su libertad de trabajo en otro empleo, comunic\u00e1ndolo por escrito al empresario con un preaviso de treinta d\u00edas, perdi\u00e9ndose en este caso la compensaci\u00f3n econ\u00f3mica u otros derechos vinculados a la plena dedicaci\u00f3n\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\npodr\u00e1 rescindir/trigger/Right\nacuerdo/complement/\nempresario/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Los trabajadores con al menos un a\u00f1o de antig\u00fcedad en la empresa tienen derecho a un permiso retribuido de veinte horas anuales de formaci\u00f3n profesional para el empleo, vinculada a la actividad de la empresa, acumulables por un periodo de hasta cinco a\u00f1os.\n\n###\n\n",
+        "completion": " trabajadores/subject/LegalAgent\nempresa/object/LegalEntity\ntienen derecho/trigger/Right\npermiso retribuido/complement/\n###"
+    },
+    {
+        "prompt": "El empresario est\u00e1 obligado a pagar por la prestaci\u00f3n de un trabajo de igual valor la misma retribuci\u00f3n, satisfecha directa o indirectamente, y cualquiera que sea la naturaleza de la misma, salarial o extrasalarial, sin que pueda producirse discriminaci\u00f3n alguna por raz\u00f3n de sexo en ninguno de los elementos o condiciones de aquella.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nest\u00e1 obligado a pagar/trigger/Duty\nretribuci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "El empresario est\u00e1 obligado a llevar un registro con los valores medios de los salarios, los complementos salariales y las percepciones extrasalariales de su plantilla, desagregados por sexo y distribuidos por grupos profesionales, categor\u00edas profesionales o puestos de trabajo iguales o de igual valor.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nest\u00e1 obligado a llevar/trigger/Duty\nsalarios/complement/\n###"
+    },
+    {
+        "prompt": "El Fondo de Garant\u00eda Salarial, organismo aut\u00f3nomo adscrito al Ministerio de Empleo y Seguridad Social, con personalidad jur\u00eddica y capacidad de obrar para el cumplimiento de sus fines, abonar\u00e1 a los trabajadores el importe de los salarios pendientes de pago a causa de insolvencia o concurso del empresario.\n\n###\n\n",
+        "completion": " Fondo de Garant\u00eda Salarial/subject/LegalEntity\nabonar\u00e1/trigger/Duty\ntrabajadores/object/LegalAgent\nsalarios/complement/\n###"
+    },
+    {
+        "prompt": "El Fondo de Garant\u00eda Salarial, en los casos del apartado anterior, abonar\u00e1 indemnizaciones reconocidas como consecuencia de sentencia, auto, acto de conciliaci\u00f3n judicial o resoluci\u00f3n administrativa a favor de los trabajadores a causa de despido o extinci\u00f3n de los contratos conforme a los art\u00edculos 50, 51 y 52 de esta ley, y de extinci\u00f3n de contratos conforme al art\u00edculo 64 de la Ley 22/2003, de 9 de julio, Concursal, as\u00ed como las indemnizaciones por extinci\u00f3n de contratos temporales o de duraci\u00f3n determinada en los casos que legalmente procedan\n\n###\n\n",
+        "completion": " Fondo de Garant\u00eda Salarial/subject/LegalEntity\nabonar\u00e1/trigger/Duty\nindemnizaciones/complement/\ntrabajadores/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "El Fondo de Garant\u00eda Salarial prestar\u00e1 a la instituci\u00f3n de garant\u00eda competente la colaboraci\u00f3n que le sea requerida en relaci\u00f3n con su intervenci\u00f3n en el procedimiento y con el reembolso de las cantidades abonadas a los trabajadores.\n\n###\n\n",
+        "completion": " Fondo de Garant\u00eda Salarial/subject/LegalEntity\nprestar\u00e1/trigger/Duty\ninstituci\u00f3n/object/LegalEntity\ncolaboraci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "Los trabajadores menores de dieciocho a\u00f1os  no podr\u00e1n realizar m\u00e1s de ocho horas diarias de trabajo efectivo, incluyendo, en su caso, el tiempo dedicado a la formaci\u00f3n y, si trabajasen para varios empleadores, las horas realizadas con cada uno de ellos.\n\n###\n\n",
+        "completion": " trabajadores menores de dieciocho a\u00f1os/subject/LegalAgent\nno podr\u00e1n realizar/trigger/Noright\ntrabajo efectivo/complement/\n###"
+    },
+    {
+        "prompt": "La persona trabajadora tendr\u00e1 derecho a solicitar el regreso a su jornada o modalidad contractual anterior una vez concluido el periodo acordado o cuando el cambio de las circunstancias as\u00ed lo justifique, aun cuando no hubiese transcurrido el periodo previsto.\n\n###\n\n",
+        "completion": " persona trabajadora/subject/LegalAgent\ntendr\u00e1 derecho a solicitar/trigger/Right\njornada/complement/\n###"
+    },
+    {
+        "prompt": "Las sustituciones, revocaciones, dimisiones y extinciones de mandato se comunicar\u00e1n a la oficina p\u00fablica dependiente de la autoridad laboral y al empresario, public\u00e1ndose asimismo en el tabl\u00f3n de anuncios.\n\n###\n\n",
+        "completion": " sustituciones/complement/\nrevocaciones/complement/\ndimisiones/complement/\nextinciones de mandato/complement/\nse comunicar\u00e1n/trigger/Duty\noficina p\u00fablica/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "La empresa conservar\u00e1 los registros a que se refiere este precepto durante cuatro a\u00f1os y permanecer\u00e1n a disposici\u00f3n de las personas trabajadoras, de sus representantes legales y de la Inspecci\u00f3n de Trabajo y Seguridad Social.\n\n###\n\n",
+        "completion": " empresa/subject/LegalEntity\nconservar\u00e1/trigger/Duty\nregistros/complement/\n###"
+    },
+    {
+        "prompt": "El empresario que recurra regularmente a la realizaci\u00f3n de trabajo nocturno deber\u00e1 informar de ello a la autoridad laboral.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ndeber\u00e1 informar/trigger/Duty\nautoridad laboral/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "El empresario deber\u00e1 garantizar que los trabajadores nocturnos que ocupe dispongan de una evaluaci\u00f3n gratuita de su estado de salud, antes de su afectaci\u00f3n a un trabajo nocturno y, posteriormente, a intervalos regulares, en los t\u00e9rminos establecidos en la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales, y en sus normas de desarrollo. \n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ndeber\u00e1 garantizar/trigger/Duty\ntrabajadores nocturnos/object/LegalAgent\nestado de salud/complement/\n###"
+    },
+    {
+        "prompt": "Los trabajadores nocturnos a los que se reconozcan problemas de salud ligados al hecho de su trabajo nocturno tendr\u00e1n derecho a ser destinados a un puesto de trabajo diurno que exista en la empresa y para el que sean profesionalmente aptos.\n\n###\n\n",
+        "completion": " trabajadores nocturnos/subject/LegalAgent\ntendr\u00e1n derecho/trigger/Right\npuesto de trabajo diurno/complement/\nempresa/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "Los trabajadores que tengan la consideraci\u00f3n de v\u00edctimas de violencia de g\u00e9nero o de v\u00edctimas del terrorismo tendr\u00e1n derecho, para hacer efectiva su protecci\u00f3n o su derecho a la asistencia social integral, a la reducci\u00f3n de la jornada de trabajo con disminuci\u00f3n proporcional del salario o a la reordenaci\u00f3n del tiempo de trabajo, a trav\u00e9s de la adaptaci\u00f3n del horario, de la aplicaci\u00f3n del horario flexible o de otras formas de ordenaci\u00f3n del tiempo de trabajo que se utilicen en la empresa.\n\n###\n\n",
+        "completion": " trabajadores/subject/LegalAgent\ntendr\u00e1n derecho/trigger/Right\njornada de trabajo/complement/\nempresa/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "El empresario deber\u00e1 comunicar su decisi\u00f3n y las razones de esta a los representantes de los trabajadores.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ndeber\u00e1 comunicar/trigger/Duty\ndecisi\u00f3n/complement/\nrepresentantes de los trabajadores/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "En el caso de encomienda de funciones superiores a las del grupo profesional por un periodo superior a seis meses durante un a\u00f1o u ocho durante dos a\u00f1os, el trabajador podr\u00e1 reclamar el ascenso, si a ello no obsta lo dispuesto en convenio colectivo o, en todo caso, la cobertura de la vacante correspondiente a las funciones por \u00e9l realizadas conforme a las reglas en materia de ascensos aplicables en la empresa, sin perjuicio de reclamar la diferencia salarial correspondiente.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\npodr\u00e1 reclamar/trigger/Right\nascenso/complement/\n###"
+    },
+    {
+        "prompt": "Contra la negativa de la empresa, y previo informe del comit\u00e9 o, en su caso, de los delegados de personal, el trabajador podr\u00e1 reclamar ante la jurisdicci\u00f3n social.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\npodr\u00e1 reclamar/trigger/Right\njurisdicci\u00f3n social/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "La decisi\u00f3n de traslado deber\u00e1 ser notificada por el empresario al trabajador, as\u00ed como a sus representantes legales, con una antelaci\u00f3n m\u00ednima de treinta d\u00edas a la fecha de su efectividad.\n\n###\n\n",
+        "completion": " traslado/complement/\ndeber\u00e1 ser notificada/trigger/Duty\nempresario/subject/LegalAgent\ntrabajador/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Terminado este periodo, los trabajadores podr\u00e1n optar entre el regreso a su puesto de trabajo anterior o la continuidad en el nuevo.\n\n###\n\n",
+        "completion": " trabajadores/subject/LegalAgent\npodr\u00e1n optar/trigger/Right\npuesto de trabajo/complement/\n###"
+    },
+    {
+        "prompt": "El trabajador deber\u00e1 ser informado del desplazamiento con una antelaci\u00f3n suficiente a la fecha de su efectividad, que no podr\u00e1 ser inferior a cinco d\u00edas laborables en el caso de desplazamientos de duraci\u00f3n superior a tres meses; en este \u00faltimo supuesto, el trabajador tendr\u00e1 derecho a un permiso de cuatro d\u00edas laborables en su domicilio de origen por cada tres meses de desplazamiento, sin computar como tales los de viaje, cuyos gastos correr\u00e1n a cargo del empresario.\n\n###\n\n",
+        "completion": " trabajador/object/LegalAgent\ndeber\u00e1 ser informado/trigger/Right\ndesplazamiento/complement/\n###"
+    },
+    {
+        "prompt": "La direcci\u00f3n de la empresa podr\u00e1 acordar modificaciones sustanciales de las condiciones de trabajo cuando existan probadas razones econ\u00f3micas, t\u00e9cnicas, organizativas o de producci\u00f3n.\n\n###\n\n",
+        "completion": " direcci\u00f3n de la empresa/subject/LegalEntity\npodr\u00e1 acordar/trigger/Right\ncondiciones de trabajo/complement/\n###"
+    },
+    {
+        "prompt": "A estos efectos, la direcci\u00f3n de la empresa deber\u00e1 comunicar de manera fehaciente a los trabajadores o a sus representantes su intenci\u00f3n de iniciar el procedimiento de modificaci\u00f3n sustancial de condiciones de trabajo.\n\n###\n\n",
+        "completion": " direcci\u00f3n de la empresa/subject/LegalEntity\ndeber\u00e1 comunicar/trigger/Duty\ntrabajadores/object/LegalAgent\ncondiciones de trabajo/complement/\n###"
+    },
+    {
+        "prompt": "Transcurrido el plazo m\u00e1ximo para la constituci\u00f3n de la comisi\u00f3n representativa, la direcci\u00f3n de la empresa podr\u00e1 comunicar el inicio del periodo de consultas a los representantes de los trabajadores.\n\n###\n\n",
+        "completion": " direcci\u00f3n de la empresa/subject/LegalEntity\npodr\u00e1 comunicar/trigger/Privilege\nperiodo de consultas/complement/\nrepresentantes de los trabajadores/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "El empresario principal, salvo el transcurso del plazo antes se\u00f1alado respecto a la Seguridad Social, y durante los tres a\u00f1os siguientes a la terminaci\u00f3n de su encargo, responder\u00e1 solidariamente de las obligaciones referidas a la Seguridad Social contra\u00eddas por los contratistas y subcontratistas durante el periodo de vigencia de la contrata.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nSeguridad Social/object/LegalEntity\nresponder\u00e1/trigger/Duty\nobligaciones/complement/\n###"
+    },
+    {
+        "prompt": "Los trabajadores del contratista o subcontratista deber\u00e1n ser informados por escrito por su empresario de la identidad de la empresa principal para la cual est\u00e9n prestando servicios en cada momento.\n\n###\n\n",
+        "completion": " trabajadores/object/LegalAgent\ndeber\u00e1n ser informados/trigger/Duty\nempresario/subject/LegalAgent\nempresa principal/complement/\n###"
+    },
+    {
+        "prompt": "Asimismo, el contratista o subcontratista deber\u00e1n informar de la identidad de la empresa principal a la Tesorer\u00eda General de la Seguridad Social en los t\u00e9rminos que reglamentariamente se determinen.\n\n###\n\n",
+        "completion": " contratista/subject/LegalAgent\ndeber\u00e1n informar/trigger/Duty\nempresa principal/complement/\nTesorer\u00eda General de la Seguridad Social/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "La empresa contratista o subcontratista deber\u00e1 informar igualmente a los representantes legales de sus trabajadores, antes del inicio de la ejecuci\u00f3n de la contrata, sobre los mismos extremos a que se refieren el apartado 3 anterior y las letras b) a e) del apartado 4.\n\n###\n\n",
+        "completion": " empresa contratista/subject/LegalEntity\ndeber\u00e1 informar/trigger/Duty\nrepresentantes legales/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Los trabajadores de las empresas contratistas y subcontratistas, cuando no tengan representaci\u00f3n legal, tendr\u00e1n derecho a formular a los representantes de los trabajadores de la empresa principal cuestiones relativas a las condiciones de ejecuci\u00f3n de la actividad laboral, mientras compartan centro de trabajo y carezcan de representaci\u00f3n.\n\n###\n\n",
+        "completion": " trabajadores/subject/LegalAgent\ntendr\u00e1n derecho a formular/trigger/Right\nrepresentantes de los trabajadores/object/LegalAgent\nactividad laboral/complement/\n###"
+    },
+    {
+        "prompt": "El trabajador con al menos una antig\u00fcedad en la empresa de un a\u00f1o tiene derecho a que se le reconozca la posibilidad de situarse en excedencia voluntaria por un plazo no menor a cuatro meses y no mayor a cinco a\u00f1os.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\ntiene derecho a que se le reconozca/trigger/Right\nexcedencia/complement/\n###"
+    },
+    {
+        "prompt": "Los trabajadores tendr\u00e1n derecho a un periodo de excedencia de duraci\u00f3n no superior a tres a\u00f1os para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza, como por adopci\u00f3n, o en los supuestos de guarda con fines de adopci\u00f3n o acogimiento permanente, a contar desde la fecha de nacimiento o, en su caso, de la resoluci\u00f3n judicial o administrativa.\n\n###\n\n",
+        "completion": " trabajadores/subject/LegalAgent\ntendr\u00e1n derecho/trigger/Right\nexcedencia/complement/\n###"
+    },
+    {
+        "prompt": "Asimismo podr\u00e1n solicitar su paso a la situaci\u00f3n de excedencia en la empresa los trabajadores que ejerzan funciones sindicales de \u00e1mbito provincial o superior mientras dure el ejercicio de su cargo representativo.\n\n###\n\n",
+        "completion": " podr\u00e1n solicitar/trigger/Right\nexcedencia/complement/\nempresa/object/LegalEntity\ntrabajadores/subject/LegalAgent\n###"
+    },
+    {
+        "prompt": "El empresario podr\u00e1 suspender el contrato de trabajo por causas econ\u00f3micas, t\u00e9cnicas, organizativas o de producci\u00f3n, con arreglo a lo previsto en este art\u00edculo y al procedimiento que se determine reglamentariamente.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\npodr\u00e1 suspender/trigger/Right\ncontrato de trabajo/complement/\n###"
+    },
+    {
+        "prompt": "La autoridad laboral dar\u00e1 traslado de la comunicaci\u00f3n empresarial a la entidad gestora de las prestaciones por desempleo y recabar\u00e1 informe preceptivo de la Inspecci\u00f3n de Trabajo y Seguridad Social sobre los extremos de dicha comunicaci\u00f3n y sobre el desarrollo del periodo de consultas.\n\n###\n\n",
+        "completion": " autoridad laboral/subject/LegalEntity\ndar\u00e1 traslado/trigger/Duty\ncomunicaci\u00f3n empresarial/complement/\nentidad gestora/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "Tras la finalizaci\u00f3n del periodo de consultas el empresario notificar\u00e1 a los trabajadores y a la autoridad laboral su decisi\u00f3n sobre la suspensi\u00f3n de contratos, que surtir\u00e1 efectos a partir de la fecha de su comunicaci\u00f3n a la autoridad laboral, salvo que en ella se contemple una posterior. \n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nnotificar\u00e1/trigger/Duty\ntrabajadores/object/LegalAgent\nsuspensi\u00f3n de contratos/complement/\n###"
+    },
+    {
+        "prompt": "Tras la finalizaci\u00f3n del periodo de consultas el empresario notificar\u00e1 a los trabajadores y a la autoridad laboral su decisi\u00f3n sobre la suspensi\u00f3n de contratos, que surtir\u00e1 efectos a partir de la fecha de su comunicaci\u00f3n a la autoridad laboral, salvo que en ella se contemple una posterior.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nnotificar\u00e1/trigger/Duty\ntrabajadores/object/LegalEntity\nautoridad laboral/object/LegalEntity\nsuspensi\u00f3n de contratos/complement/\n###"
+    },
+    {
+        "prompt": "La autoridad laboral comunicar\u00e1 la decisi\u00f3n empresarial a la entidad gestora de la prestaci\u00f3n por desempleo .\n\n###\n\n",
+        "completion": " autoridad laboral/subject/LegalEntity\ncomunicar\u00e1/trigger/Duty\ndecisi\u00f3n empresarial/complement/\nentidad gestora de la prestaci\u00f3n por desempleo/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "La persona trabajadora deber\u00e1 comunicar a la empresa, con una antelaci\u00f3n m\u00ednima de quince d\u00edas, el ejercicio de este derecho en los t\u00e9rminos establecidos, en su caso, en los convenios colectivos.\n\n###\n\n",
+        "completion": " persona trabajadora/subject/LegalAgent\ndeber\u00e1 comunicar/trigger/Duty\nempresa/object/LegalEntity\nderecho/complement/\n###"
+    },
+    {
+        "prompt": "Cuando los dos progenitores que ejerzan este derecho trabajen para la misma empresa, la direcci\u00f3n empresarial podr\u00e1 limitar su ejercicio simult\u00e1neo por razones fundadas y objetivas, debidamente motivadas por escrito.\n\n###\n\n",
+        "completion": " progenitores/object/LegalEntity\ndirecci\u00f3n empresarial/subject/LegalAgent\npodr\u00e1 limitar/trigger/Right\nejercicio/complement/\n###"
+    },
+    {
+        "prompt": "A la finalizaci\u00f3n del contrato, excepto en los casos del contrato de interinidad y de los contratos formativos, el trabajador tendr\u00e1 derecho a recibir una indemnizaci\u00f3n de cuant\u00eda equivalente a la parte proporcional de la cantidad que resultar\u00eda de abonar doce d\u00edas de salario por cada a\u00f1o de servicio, o la establecida, en su caso, en la normativa espec\u00edfica que sea de aplicaci\u00f3n.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\ntendr\u00e1 derecho a recibir/trigger/Right\nindemnizaci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "El empresario, con ocasi\u00f3n de la extinci\u00f3n del contrato, al comunicar a los trabajadores la denuncia, o, en su caso, el preaviso de la extinci\u00f3n del mismo, deber\u00e1 acompa\u00f1ar una propuesta del documento de liquidaci\u00f3n de las cantidades adeudadas.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ntrabajadores/object/LegalAgent\ndeber\u00e1 acompa\u00f1ar/trigger/Duty\nliquidaci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "El trabajador podr\u00e1 solicitar la presencia de un representante legal de los trabajadores en el momento de proceder a la firma del recibo del finiquito, haci\u00e9ndose constar en el mismo el hecho de su firma en presencia de un representante legal de los trabajadores, o bien que el trabajador no ha hecho uso de esta posibilidad.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\npodr\u00e1 solicitar/trigger/Right\nrepresentante legal de los trabajadores/complement/\n###"
+    },
+    {
+        "prompt": "La comunicaci\u00f3n de la apertura del periodo de consultas se realizar\u00e1 mediante escrito dirigido por el empresario a los representantes legales de los trabajadores, una copia del cual se har\u00e1 llegar a la autoridad laboral.\n\n###\n\n",
+        "completion": " periodo de consultas/complement/\nse realizar\u00e1/trigger/Duty\nempresario/subject/LegalAgent\nrepresentantes legales de los trabajadores/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Recibida la comunicaci\u00f3n, la autoridad laboral dar\u00e1 traslado de la misma a la entidad gestora de las prestaciones por desempleo y recabar\u00e1, con car\u00e1cter preceptivo, informe de la Inspecci\u00f3n de Trabajo y Seguridad Social sobre los extremos de la comunicaci\u00f3n a que se refieren los p\u00e1rrafos anteriores y sobre el desarrollo del periodo de consultas.\n\n###\n\n",
+        "completion": " comunicaci\u00f3n/complement/\nautoridad laboral/subject/LegalAgent\ndar\u00e1 traslado/trigger/Duty\nentidad gestora/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "Transcurrido el periodo de consultas el empresario comunicar\u00e1 a la autoridad laboral el resultado del mismo.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ncomunicar\u00e1/trigger/Duty\nautoridad laboral/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "La empresa deber\u00e1 dar traslado de dicha decisi\u00f3n a los representantes de los trabajadores y a la autoridad laboral.\n\n###\n\n",
+        "completion": " empresa/subject/LegalEntity\ndeber\u00e1 dar traslado/trigger/Duty\ndecisi\u00f3n/complement/\nrepresentantes de los trabajadores/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "La empresa que lleve a cabo un despido colectivo que afecte a m\u00e1s de cincuenta trabajadores deber\u00e1 ofrecer a los trabajadores afectados un plan de recolocaci\u00f3n externa a trav\u00e9s de empresas de recolocaci\u00f3n autorizadas.\n\n###\n\n",
+        "completion": " empresa/subject/LegalEntity\ntrabajadores/object/LegalAgent\ndeber\u00e1 ofrecer/trigger/Duty\nplan de recolocaci\u00f3n externa/complement/\n###"
+    },
+    {
+        "prompt": "Previamente el empresario deber\u00e1 ofrecer al trabajador un curso dirigido a facilitar la adaptaci\u00f3n a las modificaciones operadas.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\ndeber\u00e1 ofrecer/trigger/Duty\ntrabajador/object/LegalAgent\ncurso/complement/\n###"
+    },
+    {
+        "prompt": "El tiempo destinado a la formaci\u00f3n se considerar\u00e1 en todo caso tiempo de trabajo efectivo y el empresario abonar\u00e1 al trabajador el salario medio que viniera percibiendo.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\nabonar\u00e1/trigger/Duty\ntrabajador/object/LegalAgent\nsalario/complement/\n###"
+    },
+    {
+        "prompt": "Al realizarlo, el empresario pondr\u00e1 a disposici\u00f3n del trabajador los salarios devengados en los d\u00edas intermedios, manteni\u00e9ndole durante los mismos en alta en la Seguridad Social.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\npondr\u00e1/trigger/Duty\ntrabajador/object/LegalAgent\nsalarios/complement/\n###"
+    },
+    {
+        "prompt": "Cuando la sentencia que declare la improcedencia del despido se dicte transcurridos m\u00e1s de noventa d\u00edas h\u00e1biles desde la fecha en que se present\u00f3 la demanda, el empresario podr\u00e1 reclamar del Estado el abono de la percepci\u00f3n econ\u00f3mica a la que se refiere el apartado 2, correspondiente al tiempo que exceda de dichos noventa d\u00edas h\u00e1biles.\n\n###\n\n",
+        "completion": " empresario/subject/LegalAgent\npodr\u00e1 reclamar/trigger/Right\nEstado/object/LegalEntity\nabono/complement/\n###"
+    },
+    {
+        "prompt": "De conformidad con lo dispuesto en el art\u00edculo 4 y sin perjuicio de otras formas de participaci\u00f3n, los trabajadores tienen derecho a participar en la empresa a trav\u00e9s de los \u00f3rganos de representaci\u00f3n regulados en este t\u00edtulo.\n\n###\n\n",
+        "completion": " trabajadores/subject/LegalAgent\ntienen derecho a participar/trigger/Right\nempresa/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "El comit\u00e9 de empresa tendr\u00e1 derecho a ser informado y consultado por el empresario sobre aquellas cuestiones que puedan afectar a los trabajadores, as\u00ed como sobre la situaci\u00f3n de la empresa y la evoluci\u00f3n del empleo en la misma, en los t\u00e9rminos previstos en este art\u00edculo.\n\n###\n\n",
+        "completion": " comit\u00e9 de empresa/object/LegalEntity\ntendr\u00e1 derecho a ser informado/trigger/Right\nempresario/subject/LegalAgent\n###"
+    },
+    {
+        "prompt": "Asimismo, el comit\u00e9 de empresa tendr\u00e1 derecho a recibir la copia b\u00e1sica de los contratos as\u00ed como la notificaci\u00f3n de las pr\u00f3rrogas y de las denuncias correspondientes a los mismos en el plazo de diez d\u00edas siguientes a que tuvieran lugar.\n\n###\n\n",
+        "completion": " comit\u00e9 de empresa/subject/LegalEntity\ntendr\u00e1 derecho a recibir/trigger/Right\ncontratos/complement/\n###"
+    },
+    {
+        "prompt": "La informaci\u00f3n se deber\u00e1 facilitar por el empresario al comit\u00e9 de empresa, sin perjuicio de lo establecido espec\u00edficamente en cada caso, en un momento, de una manera y con un contenido apropiados, que permitan a los representantes de los trabajadores proceder a su examen adecuado y preparar, en su caso, la consulta y el informe\n\n###\n\n",
+        "completion": " informaci\u00f3n/complement/\nse deber\u00e1 facilitar/trigger/Duty\nempresario/subject/LegalAgent\ncomit\u00e9 de empresa/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "Se proh\u00edbe la admisi\u00f3n al trabajo a los menores de diecis\u00e9is a\u00f1os.\n\n###\n\n",
+        "completion": " Se proh\u00edbe/trigger/Noright\ntrabajo/complement/\nmenores de diecis\u00e9is a\u00f1os/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "En el supuesto de que el contrato se extinga antes de alcanzar la duraci\u00f3n m\u00ednima indicada, el empresario estar\u00e1 obligado a celebrar un nuevo contrato en los mismos t\u00e9rminos del extinguido, por el tiempo restante.\n\n###\n\n",
+        "completion": " contrato/complement/\nempresario/subject/LegalAgent\nestar\u00e1 obligado a celebrar/trigger/Duty\n###"
+    },
+    {
+        "prompt": "En tales casos, el trabajador tendr\u00e1 derecho a las indemnizaciones se\u00f1aladas para el despido improcedente.\n\n###\n\n",
+        "completion": " trabajador/subject/LegalAgent\ntendr\u00e1 derecho/trigger/Right\nindemnizaciones/complement/\n###"
+    },
+    {
+        "prompt": "El despido deber\u00e1 ser notificado por escrito al trabajador, haciendo figurar los hechos que lo motivan y la fecha en que tendr\u00e1 efectos.\n\n###\n\n",
+        "completion": " despido/complement/\ndeber\u00e1 ser notificado por escrito/trigger/Duty\ntrabajador/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "El Gobierno, previas las consultas que considere oportunas a las asociaciones empresariales y organizaciones sindicales, dictar\u00e1 las normas necesarias para la aplicaci\u00f3n del t\u00edtulo II en aquellas empresas pertenecientes a sectores de actividad en las que sea relevante el n\u00famero de trabajadores no fijos o el de trabajadores menores de dieciocho a\u00f1os, as\u00ed como a los colectivos en los que, por la naturaleza de sus actividades, se ocasione una movilidad permanente, una acusada dispersi\u00f3n o unos desplazamientos de localidad, ligados al ejercicio normal de sus actividades, y en los que concurran otras circunstancias que hagan aconsejable su inclusi\u00f3n en el \u00e1mbito de aplicaci\u00f3n del t\u00edtulo II citado.\n\n###\n\n",
+        "completion": " Gobierno/subject/LegalAgent\ndictar\u00e1/trigger/Privileg\nnormas/complement/\nempresas/object/LegalEntity\n###"
+    },
+    {
+        "prompt": "Junto a las seis semanas de disfrute obligatorio, los progenitores/as podr\u00e1n disponer de un total de doce semanas de disfrute voluntario que deber\u00e1n disfrutar de forma ininterrumpida dentro de los doce meses siguientes a la resoluci\u00f3n judicial por la que se constituya la adopci\u00f3n o bien a la decisi\u00f3n administrativa de guarda con fines de adopci\u00f3n o de acogimiento, de conformidad con lo previsto en el art\u00edculo 48.5.\n\n###\n\n",
+        "completion": " disfrute/complement/\nprogenitores/as/subject/LegalAgent\npodr\u00e1n disponer/trigger/Right\n###"
+    },
+    {
+        "prompt": "Las empresas que celebren contratos para la formaci\u00f3n y el aprendizaje con trabajadores con discapacidad tendr\u00e1n derecho a una reducci\u00f3n del cincuenta por ciento en las cuotas empresariales de la Seguridad Social previstas para los contratos para la formaci\u00f3n y el aprendizaje.\n\n###\n\n",
+        "completion": " empresas/subject/LegalAgent\ntendr\u00e1n derecho/trigger/Right\nreducci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "En el caso de nacimiento, la madre biol\u00f3gica disfrutar\u00e1 completamente de los periodos de suspensi\u00f3n regulados en el Real Decreto-ley 6/2019, de 1 de marzo, desde su entrada en vigor.\n\n###\n\n",
+        "completion": " madre biol\u00f3gica/subject/LegalAgent\ndisfrutar\u00e1/trigger/Right\nperiodos de suspensi\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "El Ministerio de Empleo y Seguridad Social, o el \u00f3rgano correspondiente de las comunidades aut\u00f3nomas con competencia en la materia, podr\u00e1n extender, con los efectos previstos en el art\u00edculo 82.3, las disposiciones de un convenio colectivo en vigor a una pluralidad de empresas y trabajadores o a un sector o subsector de actividad, por los perjuicios derivados para los mismos de la imposibilidad de suscribir en dicho \u00e1mbito un convenio colectivo de los previstos en este t\u00edtulo III, debida a la ausencia de partes legitimadas para ello.\n\n###\n\n",
+        "completion": " Ministerio de Empleo y Seguridad Social/subject/LegalEntity\npodr\u00e1n extender/trigger/Privilege\nconvenio colectivo/complement/\nempresas y trabajadores/object/LegalAgent\n###"
+    },
+    {
+        "prompt": "Los convenios deber\u00e1n ser presentados ante la autoridad laboral competente, a los solos efectos de registro, dentro del plazo de quince d\u00edas a partir del momento en que las partes negociadoras lo firmen.\n\n###\n\n",
+        "completion": " convenios/complement/\ndeber\u00e1n ser presentados/trigger/Duty\nautoridad laboral competente/object/LegalEntity\npartes negociadoras/subject/LegalAgent\n###"
+    },
+    {
+        "prompt": "En el plazo m\u00e1ximo de un mes a partir de la recepci\u00f3n de la comunicaci\u00f3n, se proceder\u00e1 a constituir la comisi\u00f3n negociadora; la parte receptora de la comunicaci\u00f3n deber\u00e1 responder a la propuesta de negociaci\u00f3n y ambas partes establecer\u00e1n un calendario o plan de negociaci\u00f3n. \n\n###\n\n",
+        "completion": " parte receptora/subject/LegalAgent\ndeber\u00e1 responder/trigger/Duty\nnegociaci\u00f3n/complement/\n###"
+    },
+    {
+        "prompt": "La representaci\u00f3n de los trabajadores, o de los empresarios, que promueva la negociaci\u00f3n, lo comunicar\u00e1 a la otra parte, expresando detalladamente en la comunicaci\u00f3n, que deber\u00e1 hacerse por escrito, la legitimaci\u00f3n que ostenta de conformidad con los art\u00edculos anteriores, los \u00e1mbitos del convenio y las materias objeto de negociaci\u00f3n.\n\n###\n\n",
+        "completion": " representaci\u00f3n de los trabajadores/subject/LegalEntity\nnegociaci\u00f3n/complement/\ncomunicar\u00e1/trigger/Duty\nla otra parte/object/LegalEntity\n###"
+    }
+]
