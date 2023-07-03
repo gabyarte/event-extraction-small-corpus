@@ -96,13 +96,9 @@ def match_score(true_data, predict_data, type='exact'):
     )
 
     for y_true, y_pred in zip(true_data, predict_data):
-
-        signature_true, signature_pred = (
-            y_true['relationSignature'].split('-'),
-            y_pred['relationSignature'].split('-'))
         types = {
-            'subject': (signature_true[0], signature_pred[0]),
-            'object': (signature_true[1], signature_pred[1]),
+            'subject': (y_true['subjectLabel'], y_pred['subjectLabel']),
+            'object': (y_true['objectLabel'], y_pred['objectLabel']),
             'event': (y_true['relationType'], y_pred['relationType'])
         }
 
