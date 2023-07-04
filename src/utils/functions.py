@@ -25,6 +25,15 @@ def get_completion(prompt, model='gpt-3.5-turbo', temperature=0):
     return response.choices[0].message['content']
 
 
+def get_completion_from_messages(messages, model="gpt-3.5-turbo", temperature=0):
+    response = openai.ChatCompletion.create(
+        model=model,
+        messages=messages,
+        temperature=temperature,
+    )
+    return response.choices[0].message["content"]
+
+
 def get_dict_from_data(sentences):
     data = []
 
@@ -82,22 +91,22 @@ def prepare_data_for_fine_tune(data):
         completion_data = []
         if sentence["subject"]:
             subject = sentence["subject"]
-            subject_item = f'{subject}/subject/{sentence["subjectLabel"]}'
+            subject_item = f'{subject} / subject / {sentence["subjectLabel"]}'
             completion_data.append((subject_item, text.index(subject)))
 
         if sentence["object"]:
             for object in sentence["object"]:
-                object_item = f'{object}/object/{sentence["objectLabel"]}'
+                object_item = f'{object} / object / {sentence["objectLabel"]}'
                 completion_data.append((object_item, text.index(object)))
 
         if sentence["event"]:
             event = sentence["event"]
-            event_item = f'{event}/trigger/{sentence["relationType"]}'
+            event_item = f'{event} / trigger / {sentence["relationType"]}'
             completion_data.append((event_item, text.index(event)))
 
         if sentence["complement"]:
             for complement in sentence["complement"]:
-                complement_item = f'{complement}/complement/'
+                complement_item = f'{complement} / complement / '
                 completion_data.append(
                     (complement_item, text.index(complement)))
 
@@ -110,3 +119,52 @@ def prepare_data_for_fine_tune(data):
         fine_tune_data.append(fine_tune_prompt)
 
     return fine_tune_data
+
+
+def get_examples(data):
+    examples = {
+        'role': [],
+        'subject-type': [],
+        'object-type': [],
+        'relation-type': []
+    }
+
+    for i, sentence in enumerate(data):
+        examples['role'].append(
+            f'Example {i + 1}:\n'
+            f'Input: {sentence["text"]}\n'
+            f'Output:\n'
+            f'    * subject: {sentence["subject"] or "missing"}\n'
+            f'    * object: {sentence["object"] or "missing"}\n'
+            f'    * event: {sentence["event"] or "missing"}\n'
+            f'    * complement: {sentence["complement"] or "missing"}\n'
+        )
+
+        examples['subject-type'].append(
+            f'Example {i + 1}:\n'
+            f'Input:\n'
+            f'    * sentence: {sentence["text"]}\n'
+            f'    * subject: {sentence["subject"]}\n'
+            f'Output: {sentence["subjectLabel"]}\n'
+        )
+
+        examples['object-type'].append(
+            f'Example {i + 1}:\n'
+            f'Input:\n'
+            f'    * sentence: {sentence["text"]}\n'
+            f'    * object: {", ".join(sentence["object"]) or "missing"}\n'
+            f'Output: {sentence["objectLabel"]}\n'
+        )
+
+        examples['relation-type'].append(
+            f'Example {i + 1}:\n'
+            f'Input:\n'
+            f'    * sentence: {sentence["text"]}\n'
+            f'    * subject: {sentence["subject"] or "missing"}\n'
+            f'    * event: {sentence["event"] or "missing"}\n'
+            f'    * object: {sentence["object"] or "missing"}\n'
+            f'Output: {sentence["relationType"]}\n'
+        )
+
+    return examples
+
