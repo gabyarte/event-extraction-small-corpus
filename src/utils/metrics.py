@@ -88,10 +88,12 @@ def get_metric(span1, span2, type1=None, type2=None, type='exact'):
     return metric
 
 
-def match_score(true_data, predict_data, type='exact'):
+def match_score(true_data, predict_data, type='exact', labels=None):
+    labels = labels or ['subject', 'object', 'event', 'complement']
+
     metrics_table = pd.DataFrame(
-        [[0] * 4] * 5,
-        columns=['Subject', 'Object', 'Event', 'Total'],
+        [[0] * 5] * 5,
+        columns=[label.title() for label in labels] + ['Total'],
         index=['COR', 'INC', 'PAR', 'MIS', 'SPU']
     )
 
@@ -102,16 +104,21 @@ def match_score(true_data, predict_data, type='exact'):
             'event': (y_true['relationType'], y_pred['relationType'])
         }
 
-        for label in ['subject', 'object', 'event']:
-            label_true, label_pred = y_true[label], y_pred[label]
-            type_true, type_pred = types[label]
-            metric = get_metric(
-                label_true, label_pred, type_true, type_pred, type=type)
-            metrics_table.loc[metric, label.title()] += 1
+        for label in labels:
+            label_pairs = [(y_true[label], y_pred[label])]
+            type_true, type_pred = None, None
+            if isinstance(label_pairs[0][0], list):
+                label_pairs = list(zip(*label_pairs[0]))
+            if label != 'complement':
+                type_true, type_pred = types[label]
+            for label_true, label_pred in label_pairs:
+                metric = get_metric(
+                    label_true, label_pred, type_true, type_pred, type=type)
+                metrics_table.loc[metric, label.title()] += 1
 
     metrics_table['Total'] = metrics_table[[
-        'Subject', 'Object', 'Event']].sum(1)
-    
+        label.title() for label in labels]].sum(1)
+
     metric_type = 'exact' if type in ['exact', 'strict'] else ['partial', 'type']
 
     metrics_table = pd.concat([
@@ -119,4 +126,4 @@ def match_score(true_data, predict_data, type='exact'):
         precision_recall_f1_score(metrics_table, type=metric_type)
     ])
 
-    return metrics_table
+    return metrics_table.fillna(0)
