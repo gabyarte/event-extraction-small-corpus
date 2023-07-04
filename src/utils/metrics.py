@@ -92,24 +92,25 @@ def match_score(true_data, predict_data, type='exact', labels=None):
     labels = labels or ['subject', 'object', 'event', 'complement']
 
     metrics_table = pd.DataFrame(
-        [[0] * 5] * 5,
+        [[0] * (len(labels) + 1)] * 5,
         columns=[label.title() for label in labels] + ['Total'],
         index=['COR', 'INC', 'PAR', 'MIS', 'SPU']
     )
 
     for y_true, y_pred in zip(true_data, predict_data):
-        types = {
-            'subject': (y_true['subjectLabel'], y_pred['subjectLabel']),
-            'object': (y_true['objectLabel'], y_pred['objectLabel']),
-            'event': (y_true['relationType'], y_pred['relationType'])
-        }
+        if type in ('strict', 'type'):
+            types = {
+                'subject': (y_true['subjectLabel'], y_pred['subjectLabel']),
+                'object': (y_true['objectLabel'], y_pred['objectLabel']),
+                'event': (y_true['relationType'], y_pred['relationType'])
+            }
 
         for label in labels:
             label_pairs = [(y_true[label], y_pred[label])]
             type_true, type_pred = None, None
             if isinstance(label_pairs[0][0], list):
                 label_pairs = list(zip(*label_pairs[0]))
-            if label != 'complement':
+            if label != 'complement' and type in ('strict', 'type'):
                 type_true, type_pred = types[label]
             for label_true, label_pred in label_pairs:
                 metric = get_metric(
