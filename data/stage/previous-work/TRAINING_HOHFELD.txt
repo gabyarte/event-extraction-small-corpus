@@ -76,12 +76,12 @@ RelationType: Duty (rel)
 
 19	Los <e2>trabajadores menores de dieciocho años</e2> <rel>no podrán realizar</rel> <comp>trabajos nocturnos</comp> ni aquellas actividades o puestos de trabajo respecto a los que se establezcan limitaciones a su contratación conforme a lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y en las normas reglamentarias aplicables.
 RelationSignature: LegalEntity-LegalAgent (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 MissingE1: empresa
 
 20	<rel>Se prohíbe realizar</rel> <comp>horas extraordinarias</comp> a los <e2>menores de dieciocho años</e2>
 RelationSignature: LegalEntity-LegalAgent (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 MissingE1: empresa
 
 21	Los <e1>promotores</e1> <rel>comunicarán</rel> a la <e2>empresa</e2> y a la oficina pública dependiente de la autoridad laboral su propósito de celebrar <comp>elecciones</comp> con un plazo mínimo de, al menos, un mes de antelación al inicio del proceso electoral.
@@ -110,15 +110,15 @@ MissingE2: empresa
 
 26	<mod>Ningún</mod> <e2>trabajador</e2> <rel>podrá estar</rel> <comp>contratado en prácticas</comp> en la misma o distinta <e1>empresa</e1> por tiempo superior a dos años en virtud de la misma titulación o certificado de profesionalidad.
 RelationSignature: LegalAgent-LegalEntity (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 
 27	Expirada la duración del contrato para la formación y el aprendizaje, el <e2>trabajador</e2> <rel>no podrá ser</rel> <comp>contratado</comp> bajo esta modalidad por la misma o distinta <e1>empresa</e1>, salvo que la formación inherente al nuevo contrato tenga por objeto la obtención de distinta cualificación profesional.
 RelationSignature: LegalAgent-LegalAgent (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 
 28	Los <e1>trabajadores a tiempo parcial</e1> <rel>no podrán realizar</rel> <comp>horas extraordinarias</comp>, salvo en los supuestos a los que se refiere el artículo 35.3.
 RelationSignature: LegalAgent-LegalEntity (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 MissingE2: empresa
 
 29	El <e1>trabajador</e1> <rel>no podrá ser</rel> despedido ni sufrir ningún otro tipo de <comp>sanción</comp> o efecto perjudicial por el hecho de rechazar esta conversión, sin perjuicio de las medidas que, de conformidad con lo dispuesto en los artículos 51 y 52.c), puedan adoptarse por causas económicas, técnicas, organizativas o de producción. 
@@ -162,7 +162,7 @@ RelationType: Duty (rel)
 
 38	Los <e1>trabajadores menores de dieciocho años</e1>  <rel>no podrán realizar</rel> más de ocho horas diarias de <comp>trabajo efectivo</comp>, incluyendo, en su caso, el tiempo dedicado a la formación y, si trabajasen para varios empleadores, las horas realizadas con cada uno de ellos.
 RelationSignature: LegalAgent-LegalEntity (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 MissingE2: empresa
 
 39	La <e1>persona trabajadora</e1> <rel>tendrá derecho a solicitar</rel> el regreso a su <comp>jornada</comp> o modalidad contractual anterior una vez concluido el periodo acordado o cuando el cambio de las circunstancias así lo justifique, aun cuando no hubiese transcurrido el periodo previsto.
@@ -368,7 +368,7 @@ RelationType: Duty (rel)
 
 86	<rel>Se prohíbe</rel> la admisión al <comp>trabajo</comp> a los <e2>menores de dieciséis años</e2>.
 RelationSignature: LegalAgent-LegalEntity (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 
 87	En el supuesto de que el contrato se extinga antes de alcanzar la duración mínima indicada, el <e1>empresario</e1> <rel>estará obligado a celebrar</rel> un nuevo <comp>contrato</comp> en los mismos términos del extinguido, por el tiempo restante.
 RelationSignature: LegalAgent-LegalEntity (e1, e2)
@@ -384,7 +384,7 @@ RelationType: Duty (rel)
 
 90	El <e1>Gobierno</e1>, previas las consultas que considere oportunas a las asociaciones empresariales y organizaciones sindicales, <rel>dictará</rel> las <comp>normas</comp> necesarias para la aplicación del título II en aquellas <e2>empresas</e2> pertenecientes a sectores de actividad en las que sea relevante el número de trabajadores no fijos o el de trabajadores menores de dieciocho años, así como a los colectivos en los que, por la naturaleza de sus actividades, se ocasione una movilidad permanente, una acusada dispersión o unos desplazamientos de localidad, ligados al ejercicio normal de sus actividades, y en los que concurran otras circunstancias que hagan aconsejable su inclusión en el ámbito de aplicación del título II citado.
 RelationSignature: LegalAgent-LegalEntity (e1, e2)
-RelationType: Privileg (rel)
+RelationType: Privilege (rel)
 
 91	Junto a las seis semanas de disfrute obligatorio, los <e1>progenitores/as</e1> <rel>podrán disponer</rel> de un total de doce semanas de <comp>disfrute</comp> voluntario que deberán disfrutar de forma ininterrumpida dentro de los doce meses siguientes a la resolución judicial por la que se constituya la adopción o bien a la decisión administrativa de guarda con fines de adopción o de acogimiento, de conformidad con lo previsto en el artículo 48.5.
 RelationSignature: LegalAgent-LegalEntity (e1, e2)

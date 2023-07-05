@@ -40,11 +40,11 @@ RelationType: Norelation (rel)
 
 10	Si al término del contrato el <e2>trabajador</e2> continuase en la <e1>empresa</e1> <rel>no podrá concertarse</rel> un nuevo <comp>periodo de prueba</comp>, computándose la duración de las prácticas a efecto de antigüedad en la empresa.
 RelationSignature: LegalEntity-LegalAgent (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 
 11	<rel>No se podrán celebrar</rel> <comp>contratos</comp> para la formación y el aprendizaje cuando el puesto de trabajo correspondiente al contrato haya sido desempeñado con anterioridad por el <e2>trabajador</e2> en la misma <e1>empresa</e1> por tiempo superior a doce meses.
 RelationSignature: LegalEntity-LegalAgent (e1, e2)
-RelationType: Noright (rel)
+RelationType: NoRight (rel)
 
 12	No obstante, también <rel>podrá recibir</rel> dicha <comp>formación</comp> en la propia <e2>empresa</e2> cuando la misma dispusiera de las instalaciones y el personal adecuados a los efectos de la acreditación de la competencia o cualificación profesional a que se refiere la letra e), sin perjuicio de la necesidad, en su caso, de la realización de periodos de formación complementarios en los centros de la red mencionada.
 RelationSignature: LegalAgent-LegalEntity (e1, e2)

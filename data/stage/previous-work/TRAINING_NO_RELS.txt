@@ -1,0 +1,143 @@
+1	Se entenderá igualmente como despido colectivo la extinción de los contratos de trabajo que afecten a la totalidad de la plantilla de la <e1>empresa</e1>, siempre que el número de <e2>trabajadores</e2> afectados sea superior a cinco, cuando aquel se produzca como consecuencia de la cesación total de su actividad empresarial fundada en las mismas causas anteriormente señaladas.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+2	Se entiende que concurren causas técnicas cuando se produzcan cambios, entre otros, en el ámbito de los medios o instrumentos de producción; causas organizativas cuando se produzcan cambios, entre otros, en el ámbito de los sistemas y métodos de trabajo del <e1>personal</e1> o en el modo de organizar la producción y causas productivas cuando se produzcan cambios, entre otros, en la demanda de los productos o servicios que la <e2>empresa</e2> pretende colocar en el mercado.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Norelation (rel)
+
+3	Esta ley será de aplicación a los <e1>trabajadores</e1> que voluntariamente presten sus servicios retribuidos por cuenta ajena y dentro del ámbito de organización y dirección de otra persona, física o jurídica, denominada empleador o <e2>empresario</e2>.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+4	A los efectos de esta ley, serán <e1>empresarios</e1> todas las personas, físicas o jurídicas, o comunidades de bienes que reciban la prestación de servicios de las personas referidas en el apartado anterior, así como de las personas contratadas para ser cedidas a <e2>empresas</e2> usuarias por empresas de trabajo temporal legalmente constituidas.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Norelation (rel)
+
+5	La actividad que se limite, pura y simplemente, al mero desempeño del cargo de consejero o miembro de los <e1>órganos de administración</e1> en las <e2>empresas</e2> que revistan la forma jurídica de sociedad y siempre que su actividad en la empresa solo comporte la realización de cometidos inherentes a tal cargo.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Norelation (rel)
+
+6	La legislación laboral española será de aplicación al trabajo que presten los <e1>trabajadores</e1> españoles contratados en España al servicio de <e2>empresas</e2> españolas en el extranjero, sin perjuicio de las normas de orden público aplicables en el lugar de trabajo.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Norelation (rel)
+
+7	Esta ley se dicta de acuerdo con lo establecido en el artículo 149.1.7.ª de la Constitución Española, que atribuye al <e1>Estado</e1> la competencia exclusiva en materia de legislación laboral sin perjuicio de su ejecución por los <e2>órganos de las comunidades autónomas</e2>.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Norelation (rel)
+
+8	Se entiende que concurren causas económicas cuando de los resultados de la <e1>empresa</e1> se desprenda una situación económica negativa, en casos tales como la existencia de pérdidas actuales o previstas, o la disminución persistente de su nivel de ingresos ordinarios o ventas.
+RelationSignature: LegalEntity (e1)
+RelationType: Norelation (rel)
+
+9	En todo caso, se entenderá que la disminución es persistente si durante tres trimestres consecutivos el nivel de ingresos ordinarios o ventas de cada trimestre es inferior al registrado en el mismo trimestre del año anterior.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+10	A efectos de lo dispuesto en esta ley se entenderá por despido colectivo la extinción de contratos de trabajo fundada en causas económicas, técnicas, organizativas o de producción cuando, en un periodo de noventa días, la extinción afecte al menos a.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+11	El diez por ciento del número de <e1>trabajadores</e1> de la <e2>empresa</e2> en aquellas que ocupen entre cien y trescientos trabajadores.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Norelation (rel)
+
+12	Cualquier otro incumplimiento grave de sus obligaciones por parte del <e1>empresario</e1>, salvo los supuestos de fuerza mayor, así como la negativa del mismo a reintegrar al <e2>trabajador</e2> en sus anteriores condiciones de trabajo en los supuestos previstos en los artículos 40 y 41, cuando una sentencia judicial haya declarado los mismos injustificados.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+13	Si en la <e1>empresa</e1> no hubiera ningún <e2>trabajador</e2> comparable a tiempo completo, se considerará la jornada a tiempo completo prevista en el convenio colectivo de aplicación o, en su defecto, la jornada máxima legal.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+14	Serán igualmente nulas las órdenes de discriminar y las decisiones del <e1>empresario</e1> que supongan un trato desfavorable de los </e2>trabajadores</e2> como reacción ante una reclamación efectuada en la empresa o ante una acción administrativa o judicial destinada a exigir el cumplimiento del principio de igualdad de trato y no discriminación.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+15	Expirada dicha duración máxima o realizada la obra o servicio objeto del contrato, si no hubiera denuncia y se continuara en la prestación laboral, el contrato se considerará prorrogado tácitamente por tiempo indefinido, salvo prueba en contrario que acredite la naturaleza temporal de la prestación.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+16	Para la aplicación de lo dispuesto en el párrafo anterior, se considerará <e1>trabajador nocturno</e1> a aquel que realice normalmente en periodo nocturno una parte no inferior a tres horas de su jornada diaria de trabajo, así como a aquel que se prevea que puede realizar en tal periodo una parte no inferior a un tercio de su jornada de trabajo anual.
+RelationSignature: LegalAgent (e1)
+RelationType: Norelation (rel)
+
+17	Será nulo el pacto que establezca un periodo de prueba cuando el <e1>trabajador</e1> haya ya desempeñado las mismas funciones con anterioridad en la <e2>empresa</e2>, bajo cualquier modalidad de contratación.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Norelation (rel)
+
+18	Se entenderán nulos y sin efecto los preceptos reglamentarios, las cláusulas de los convenios colectivos, los pactos individuales y las decisiones unilaterales del <e1>empresario</e1> que den lugar en el empleo, así como en materia de retribuciones, jornada y demás condiciones de trabajo, a situaciones de discriminación directa o indirecta desfavorables por razón de edad o discapacidad o a situaciones de discriminación directa o indirecta por razón de sexo, origen, incluido el racial o étnico, estado civil, condición social, religión o convicciones, ideas políticas, orientación o condición sexual, adhesión o no a <e2>sindicatos</e2> y a sus acuerdos, vínculos de parentesco con personas pertenecientes a o relacionadas con la empresa y lengua dentro del Estado español.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Norelation (rel)
+
+19	 A los efectos de lo dispuesto en esta ley, se considera trabajo nocturno el realizado entre las diez de la noche y las seis de la mañana.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+20	A los efectos de este artículo se entiende que existe insolvencia del <e1>empresario</e1> cuando, instada la ejecución en la forma establecida por la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social, no se consiga satisfacción de los créditos laborales.
+RelationSignature: LegalAgent (e1)
+RelationType: Norelation (rel)
+
+21	Representantes de quienes presten servicios en trabajos fijos-discontinuos y de <e1>trabajadores no fijos</e1>.
+RelationSignature: LegalAgent (e1)
+RelationType: Norelation (rel)
+
+22	Mediante los convenios colectivos, y en su ámbito correspondiente, los <e1>trabajadores</e1> y <e2>empresarios</e2> regulan las condiciones de trabajo y de productividad.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+23	Los convenios colectivos, como resultado de la negociación desarrollada por los <e1>representantes de los trabajadores</e1> y de los <e2>empresarios</e2>, constituyen la expresión del acuerdo libremente adoptado por ellos en virtud de su autonomía colectiva.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+24	Mediante los convenios colectivos, y en su ámbito correspondiente, los <e1>trabajadores</e1> y <e2>empresarios</e2> regulan las condiciones de trabajo y de productividad.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+25	La cuantía del salario base y de los complementos salariales, incluidos los vinculados a la situación y resultados de la empresa.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+26	El abono o la compensación de las horas extraordinarias y la retribución específica del trabajo a turnos.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+27	Cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+28	Aplicación de los límites de duración del contrato por obra o servicio determinados y al encadenamiento de contratos en las <e1>Administraciones Públicas</e1>.
+RelationSignature: LegalEntity (e1)
+RelationType: Norelation (rel)
+
+29	Los <e1>trabajadores fijos-discontinuos</e1> serán llamados en el orden y la forma que se determine en los respectivos convenios colectivos, pudiendo el <e2>trabajador</e2>, en caso de incumplimiento, reclamar en procedimiento de despido ante la jurisdicción social, iniciándose el plazo para ello desde el momento en que tuviese conocimiento de la falta de convocatoria.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Norelation (rel)
+
+30	Aplicación del despido por causas económicas, técnicas, organizativas o de producción en el sector público.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+31	La impartición de esta formación deberá justificarse a la finalización del contrato.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+32	El tiempo de trabajo efectivo, que habrá de ser compatible con el tiempo dedicado a las actividades formativas, no podrá ser superior al setenta y cinco por ciento, durante el primer año, o al ochenta y cinco por ciento, durante el segundo y tercer año, de la jornada máxima prevista en el convenio colectivo o, en su defecto, a la jornada máxima legal.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+33	Artículo 16.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+34	Igualdad de remuneración por razón de sexo.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+35	La embriaguez habitual o toxicomanía si repercuten negativamente en el trabajo.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
+
+36	El acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual y el acoso sexual o por razón de sexo al empresario o a las personas que trabajan en la empresa.
+RelationSignature: NoEntities
+RelationType: Norelation (rel)
