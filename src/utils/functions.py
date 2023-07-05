@@ -2,7 +2,8 @@ import re
 import openai
 
 from sklearn.model_selection import train_test_split
-
+from random import sample
+from itertools import groupby, chain
 
 def inspect_nulls(df):
     nulls = df.isna().sum()
@@ -58,9 +59,9 @@ def get_dict_from_data(sentences):
         for role, pattern in patterns.items():
             role_text = re.findall(pattern, raw_sentence)
             role_text = (
-                role_text and role_text[0]
+                (role_text[0] if role_text else None)
                 if role not in ('complement', 'object') else
-                role_text or []
+                (role_text or [])
             )
             if role != 'relationSignature':
                 sentence_data[role] = role_text
@@ -70,8 +71,10 @@ def get_dict_from_data(sentences):
                     if role_text else
                     [None, None]
                 )
-                sentence_data['subjectLabel'] = relation_signature[0]
-                sentence_data['objectLabel'] = relation_signature[1]
+                if sentence_data['subject']:
+                    sentence_data['subjectLabel'] = relation_signature[0]
+                if sentence_data['object']:
+                    sentence_data['objectLabel'] = relation_signature[1]
 
         data.append(sentence_data)
 
@@ -134,10 +137,10 @@ def get_examples(data):
             f'Example {i + 1}:\n'
             f'Input: {sentence["text"]}\n'
             f'Output:\n'
-            f'    * subject: {sentence["subject"] or "missing"}\n'
-            f'    * object: {sentence["object"] or "missing"}\n'
-            f'    * event: {sentence["event"] or "missing"}\n'
-            f'    * complement: {sentence["complement"] or "missing"}\n'
+            f'    * subject: {sentence["subject"] or "[]"}\n'
+            f'    * object: {sentence["object"] or "[]"}\n'
+            f'    * event: {sentence["event"] or "[]"}\n'
+            f'    * complement: {sentence["complement"] or "[]"}\n'
         )
 
         examples['subject-type'].append(
@@ -145,26 +148,54 @@ def get_examples(data):
             f'Input:\n'
             f'    * sentence: {sentence["text"]}\n'
             f'    * subject: {sentence["subject"]}\n'
-            f'Output: {sentence["subjectLabel"]}\n'
+            f'Output: {sentence["subjectLabel"] if "subjectLabel" in sentence else "None"}\n'
         )
 
         examples['object-type'].append(
             f'Example {i + 1}:\n'
             f'Input:\n'
             f'    * sentence: {sentence["text"]}\n'
-            f'    * object: {", ".join(sentence["object"]) or "missing"}\n'
-            f'Output: {sentence["objectLabel"]}\n'
+            f'    * object: {", ".join(sentence["object"]) or "[]"}\n'
+            f'Output: {sentence["objectLabel"] if "objectLabel" in sentence else "None"}\n'
         )
 
         examples['relation-type'].append(
             f'Example {i + 1}:\n'
             f'Input:\n'
             f'    * sentence: {sentence["text"]}\n'
-            f'    * subject: {sentence["subject"] or "missing"}\n'
-            f'    * event: {sentence["event"] or "missing"}\n'
-            f'    * object: {sentence["object"] or "missing"}\n'
+            f'    * subject: {sentence["subject"] or "[]"}\n'
+            f'    * event: {sentence["event"] or "[]"}\n'
+            f'    * object: {sentence["object"] or "[]"}\n'
             f'Output: {sentence["relationType"]}\n'
         )
 
     return examples
 
+
+def example_validation_split(data, k, stratum=None):
+    if not stratum:
+        sampled_data = sample(list(enumerate(data)), k)
+    else:
+        _data = sorted(
+            enumerate(data),
+            key=lambda x, stratum=stratum: x[1][stratum])
+        print(_data)
+        grouped_data = groupby(
+            _data, lambda x, stratum=stratum: x[1][stratum])
+        sampled_data = list(chain.from_iterable(
+            [sample(list(strata), k) for _, strata in grouped_data]))
+    sampled_indexes = [example_data[0] for example_data in sampled_data]
+    return (
+        [example_data[1] for example_data in sampled_data],
+        [data[i] for i in range(len(data)) if i not in sampled_indexes]
+    )
+
+
+def fix_model_output(output):
+    _output = output.copy()
+    for sentence in _output:
+        if not isinstance(sentence['object'], list) and sentence['object'] is not None:
+            sentence['object'] = [sentence['object']]
+        if not isinstance(sentence['complement'], list) and sentence['complement'] is not None:
+            sentence['complement'] = [sentence['complement']]
+    return _output

@@ -32,10 +32,31 @@ def similarity_score(str1, str2):
 
 
 def compute_average_similarity_score(true_data, predict_data, label):
+    data = []
+    for y_true, y_pred in zip(true_data, predict_data):
+        if isinstance(y_true[label], list) or isinstance(y_pred[label], list):
+            data += similarity_zip(y_true[label], y_pred[label])
+        else:
+            data += [(y_true[label], y_pred[label])]
     return np.average([
-        similarity_score(y_true[label], y_pred[label])
-        for y_true, y_pred in zip(true_data, predict_data)
+        similarity_score(y_true, y_pred)
+        for y_true, y_pred in data
     ])
+
+
+def compute_similar_observations_by_threshold(true_data, predict_data, label, threshold=0.5):
+    data = []
+    for y_true, y_pred in zip(true_data, predict_data):
+        if isinstance(y_true[label], list) or isinstance(y_pred[label], list):
+            data += similarity_zip(y_true[label], y_pred[label])
+        else:
+            data += [(y_true[label], y_pred[label])]
+    similar_observations = sum(
+        similarity_score(y_true, y_pred) > threshold
+        for y_true, y_pred in data
+    )
+    print(similar_observations, len(data))
+    return similar_observations / len(data)
 
 
 def precision_recall_f1_score(metrics, type='exact'):
@@ -57,12 +78,14 @@ def precision_recall_f1_score(metrics, type='exact'):
 
 
 def get_metric(span1, span2, type1=None, type2=None, type='exact'):
+    _type1 = type1.lower() if isinstance(type1, str) else type1 or None
+    _type2 = type2.lower() if isinstance(type2, str) else type2 or None
     if type != 'type':
         if span1 == span2:
             metric = (
                 'COR'
                 if type in ['exact', 'partial'] \
-                    or (type == 'strict' and type1 == type2)
+                    or (type == 'strict' and _type1 == _type2)
                 else 'INC')
         elif span1 is None:
             metric = 'SPU'
@@ -77,15 +100,42 @@ def get_metric(span1, span2, type1=None, type2=None, type='exact'):
         similarity = similarity_score(span1, span2)
         if similarity <= 0.5:
             metric = 'INC'
-        elif type1 == type2:
+        elif _type1 == _type2:
             metric = 'COR'
-        elif type1 is None:
+        elif _type1 is None:
             metric = 'SPU'
-        elif type2 is None:
+        elif _type2 is None:
             metric = 'MIS'
         else:
             metric = 'INC'
     return metric
+
+
+def similarity_zip(iter1, iter2):
+    zipped_pairs, paired, available = [], [], list(range(len(iter2 or [])))
+    for i in range(len(iter1)):
+        max_score, max_idx = 0, 0
+        for j in available:
+            score = similarity_score(iter1[i], iter2[j])
+            if score == 1:
+                max_score, max_idx = 1, j
+                break
+            if score > max_score:
+                max_score, max_idx = score, j
+        if max_score >= 0.5:
+            zipped_pairs.append((iter1[i], iter2[max_idx]))
+            paired.append(i)
+            available.remove(max_idx)
+    not_paired = list(set(range(len(iter1))).difference(paired))
+    if not_paired:
+        zipped_pairs += [(iter1[i], iter2[j]) for i, j in zip(not_paired, available)]
+    if len(iter1) == len(iter2 or []) == 0 and not iter1:
+        zipped_pairs += [(None, None)]
+    if len(iter1) > len(iter2 or []):
+        zipped_pairs += [(iter1[i], None) for i in not_paired[len(available):]]
+    if len(iter1) < len(iter2 or []):
+        zipped_pairs += [(None, iter2[i]) for i in available[len(not_paired):]]
+    return zipped_pairs
 
 
 def match_score(true_data, predict_data, type='exact', labels=None):
@@ -100,21 +150,26 @@ def match_score(true_data, predict_data, type='exact', labels=None):
     for y_true, y_pred in zip(true_data, predict_data):
         if type in ('strict', 'type'):
             types = {
-                'subject': (y_true['subjectLabel'], y_pred['subjectLabel']),
-                'object': (y_true['objectLabel'], y_pred['objectLabel']),
-                'event': (y_true['relationType'], y_pred['relationType'])
+                'subject': (
+                    'subjectLabel' in y_true and y_true['subjectLabel'], y_pred['subjectLabel']),
+                'object': (
+                    'objectLabel' in y_true and y_true['objectLabel'], y_pred['objectLabel']),
+                'event': (
+                    'relationType' in y_true and y_true['relationType'], y_pred['relationType'])
             }
 
         for label in labels:
             label_pairs = [(y_true[label], y_pred[label])]
             type_true, type_pred = None, None
             if isinstance(label_pairs[0][0], list):
-                label_pairs = list(zip(*label_pairs[0]))
+                label_pairs = list(similarity_zip(*label_pairs[0]))
             if label != 'complement' and type in ('strict', 'type'):
                 type_true, type_pred = types[label]
             for label_true, label_pred in label_pairs:
                 metric = get_metric(
                     label_true, label_pred, type_true, type_pred, type=type)
+                if metric == 'INC' and label == 'event':
+                    print(label_pairs, type_true, type_pred)
                 metrics_table.loc[metric, label.title()] += 1
 
     metrics_table['Total'] = metrics_table[[
