@@ -137,9 +137,9 @@ def get_examples(data):
             f'Example {i + 1}:\n'
             f'Input: {sentence["text"]}\n'
             f'Output:\n'
-            f'    * subject: {sentence["subject"] or "[]"}\n'
+            f'    * subject: {sentence["subject"] or "null"}\n'
             f'    * object: {sentence["object"] or "[]"}\n'
-            f'    * event: {sentence["event"] or "[]"}\n'
+            f'    * event: {sentence["event"] or "null"}\n'
             f'    * complement: {sentence["complement"] or "[]"}\n'
         )
 
@@ -148,23 +148,23 @@ def get_examples(data):
             f'Input:\n'
             f'    * sentence: {sentence["text"]}\n'
             f'    * subject: {sentence["subject"]}\n'
-            f'Output: {sentence["subjectLabel"] if "subjectLabel" in sentence else "None"}\n'
+            f'Output: {sentence["subjectLabel"] if "subjectLabel" in sentence else "null"}\n'
         )
 
         examples['object-type'].append(
             f'Example {i + 1}:\n'
             f'Input:\n'
             f'    * sentence: {sentence["text"]}\n'
-            f'    * object: {", ".join(sentence["object"]) or "[]"}\n'
-            f'Output: {sentence["objectLabel"] if "objectLabel" in sentence else "None"}\n'
+            f'    * object: {sentence["object"] or "[]"}\n'
+            f'Output: {sentence["objectLabel"] if "objectLabel" in sentence else "null"}\n'
         )
 
         examples['relation-type'].append(
             f'Example {i + 1}:\n'
             f'Input:\n'
             f'    * sentence: {sentence["text"]}\n'
-            f'    * subject: {sentence["subject"] or "[]"}\n'
-            f'    * event: {sentence["event"] or "[]"}\n'
+            f'    * subject: {sentence["subject"] or "null"}\n'
+            f'    * event: {sentence["event"] or "null"}\n'
             f'    * object: {sentence["object"] or "[]"}\n'
             f'Output: {sentence["relationType"]}\n'
         )
@@ -179,11 +179,16 @@ def example_validation_split(data, k, stratum=None):
         _data = sorted(
             enumerate(data),
             key=lambda x, stratum=stratum: x[1][stratum])
-        print(_data)
-        grouped_data = groupby(
-            _data, lambda x, stratum=stratum: x[1][stratum])
+        grouped_data = [
+            list(strata)
+            for _, strata in groupby(
+                _data, lambda x, stratum=stratum: x[1][stratum])
+        ]
+        _k = k
+        if isinstance(k, int):
+            _k = [k] * len(grouped_data)
         sampled_data = list(chain.from_iterable(
-            [sample(list(strata), k) for _, strata in grouped_data]))
+            [sample(strata, i) for i, strata in zip(_k, grouped_data)]))
     sampled_indexes = [example_data[0] for example_data in sampled_data]
     return (
         [example_data[1] for example_data in sampled_data],
@@ -194,8 +199,10 @@ def example_validation_split(data, k, stratum=None):
 def fix_model_output(output):
     _output = output.copy()
     for sentence in _output:
-        if not isinstance(sentence['object'], list) and sentence['object'] is not None:
+        if not isinstance(sentence['object'], list) and sentence['object']:
             sentence['object'] = [sentence['object']]
-        if not isinstance(sentence['complement'], list) and sentence['complement'] is not None:
+        if not isinstance(sentence['complement'], list) and sentence['complement']:
             sentence['complement'] = [sentence['complement']]
+        if isinstance(sentence['subject'], list):
+            sentence['subject'] = sentence['subject'][0] if sentence['subject'] else None
     return _output

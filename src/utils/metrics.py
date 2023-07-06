@@ -80,24 +80,26 @@ def precision_recall_f1_score(metrics, type='exact'):
 def get_metric(span1, span2, type1=None, type2=None, type='exact'):
     _type1 = type1.lower() if isinstance(type1, str) else type1 or None
     _type2 = type2.lower() if isinstance(type2, str) else type2 or None
+    _span1 = span1.lower().strip() if isinstance(span1, str) else span1 or None
+    _span2 = span2.lower().strip() if isinstance(span2, str) else span2 or None
     if type != 'type':
-        if span1 == span2:
+        if _span1 == _span2:
             metric = (
                 'COR'
                 if type in ['exact', 'partial'] \
                     or (type == 'strict' and _type1 == _type2)
                 else 'INC')
-        elif span1 is None:
+        elif _span1 is None:
             metric = 'SPU'
-        elif span2 is None:
+        elif _span2 is None:
             metric = 'MIS'
         else:
             metric = 'INC'
             if type == 'partial':
-                similarity = similarity_meassure(span1, span2)
+                similarity = similarity_meassure(_span1, _span2)
                 metric = 'PAR' if similarity > 0.5 else 'INC'
     else:
-        similarity = similarity_score(span1, span2)
+        similarity = similarity_score(_span1, _span2)
         if similarity <= 0.5:
             metric = 'INC'
         elif _type1 == _type2:
@@ -148,6 +150,8 @@ def match_score(true_data, predict_data, type='exact', labels=None):
     )
 
     for y_true, y_pred in zip(true_data, predict_data):
+        if y_true['text'].strip() != y_pred['text'].strip():
+            print('!!!')
         if type in ('strict', 'type'):
             types = {
                 'subject': (
@@ -165,11 +169,13 @@ def match_score(true_data, predict_data, type='exact', labels=None):
                 label_pairs = list(similarity_zip(*label_pairs[0]))
             if label != 'complement' and type in ('strict', 'type'):
                 type_true, type_pred = types[label]
+                if type_pred == 'None': type_pred = None
             for label_true, label_pred in label_pairs:
                 metric = get_metric(
                     label_true, label_pred, type_true, type_pred, type=type)
-                if metric == 'INC' and label == 'event':
-                    print(label_pairs, type_true, type_pred)
+                # if metric in ('INC') and label == 'subject':
+                #     print(label_pairs, type_true, type_pred)
+                #     print(y_true['text'].strip())
                 metrics_table.loc[metric, label.title()] += 1
 
     metrics_table['Total'] = metrics_table[[
@@ -183,3 +189,44 @@ def match_score(true_data, predict_data, type='exact', labels=None):
     ])
 
     return metrics_table.fillna(0)
+
+
+def match_relation_type_score(true_data, predict_data):
+    tp, tn, fp, fn = 0, 0, 0, 0
+    score_per_type = {}
+
+    for y_true, y_pred in zip(true_data, predict_data):
+        type1, type2 = y_true['relationType'], y_pred['relationType']
+        type1 = type1.lower() if isinstance(type1, str) else type1
+        type2 = type2.lower() if isinstance(type2, str) else type2
+        if (type1 is None or type1 == 'norelation') and (type2 is None or type2 == 'norelation'):
+            tn += 1
+        if type2 is None or type2 == 'norelation':
+            fn += 1
+        if type1 == type2:
+            tp += 1
+        fp += 1
+    print(tp, tn, fp, fn)
+    p, r = tp / (tp + fp), tp / (tp + fn)
+    f1 = 2 * (p * r) / (p + r)
+    return (p, r, f1)
+
+
+def confusion_matrix(true_data, predict_data, label, none_class='none'):
+    classes = list(set(sentence[label].lower() for sentence in true_data if label in sentence))
+    if none_class not in classes:
+        classes.append(none_class)
+    cm = pd.DataFrame(
+        [[0] * len(classes)] * len(classes),
+        columns=classes,
+        index=classes,
+    )
+
+    for y_true, y_pred in zip(true_data, predict_data):
+        type1, type2 = y_true[label] if label in y_true else none_class, y_pred[label]
+        type1 = type1.lower() if isinstance(type1, str) else str(type1).lower()
+        type2 = type2.lower() if isinstance(type2, str) else str(type2).lower()
+
+        cm.loc[type1, type2] += 1
+
+    return cm
