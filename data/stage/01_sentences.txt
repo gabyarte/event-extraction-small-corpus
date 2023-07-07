@@ -1,3 +1,33 @@
+El artículo Uno.d) de la Ley 20/2014, de 29 de octubre, por la que se delega en el Gobierno la potestad de dictar diversos textos refundidos, en virtud de lo establecido en el artículo 82 y siguientes de la Constitución Española, autorizó al Gobierno para aprobar un texto refundido en el que se integrasen, debidamente regularizadas, aclaradas y armonizadas, el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado mediante Real Decreto Legislativo 1/1995, de 24 de marzo, y todas las disposiciones legales relacionadas que se enumeran en ese apartado, así como las normas con rango de ley que las hubieren modificado
+
+El plazo para la realización de dicho texto era de doce meses a partir de la entrada en vigor de la citada Ley 20/2014, que tuvo lugar el 31 de octubre de 2014.
+
+Este real decreto legislativo ha sido sometido a consulta de las organizaciones sindicales y empresariales más representativas
+
+El plazo Además, ha sido informado por el Consejo Económico y Social
+
+Se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores que se inserta a continuación
+
+El Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores
+
+La disposición adicional cuarta y la disposición transitoria segunda de la Ley 12/2001, de 9 de julio, de medidas urgentes de reforma del mercado de trabajo para el incremento del empleo y la mejora de su calidad
+
+La disposición adicional séptima y la disposición transitoria segunda de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo
+
+Las disposiciones adicionales primera y tercera y las disposiciones transitorias primera, segunda y duodécima de la Ley 35/2010, de 17 de septiembre, de medidas urgentes para la reforma del mercado de trabajo
+
+El artículo 5, la disposición adicional quinta y las disposiciones transitorias primera y segunda del Real Decreto-ley 10/2011, de 26 de agosto, de medidas urgentes para la promoción del empleo de los jóvenes, el fomento de la estabilidad en el empleo y el mantenimiento del programa de recualificación profesional de las personas que agoten su protección por desempleo
+
+El artículo 17, las disposiciones adicionales sexta y novena, las disposiciones transitorias quinta y sexta, el apartado 1 de la disposición transitoria novena y las disposiciones transitorias décima y decimoquinta de la Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral
+
+La disposición transitoria séptima del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad
+
+La disposición adicional sexta del Real Decreto-ley 5/2013, de 15 de marzo, de medidas para favorecer la continuidad de la vida laboral de los trabajadores de mayor edad y promover el envejecimiento activo
+
+La disposición transitoria única del Real Decreto-ley 16/2013, de 20 de diciembre, de medidas para favorecer la contratación estable y mejorar la empleabilidad de los trabajadores
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto legislativo y en el texto refundido que aprueba y, en particular, La disposición transitoria segunda de la Ley 1/2014, de 28 de febrero, para la protección de los trabajadores a tiempo parcial y otras medidas urgentes en el orden económico y social
+
 Esta ley será de aplicación a los trabajadores que voluntariamente presten sus servicios retribuidos por cuenta ajena y dentro del ámbito de organización y dirección de otra persona, física o jurídica, denominada empleador o empresario
 
 A los efectos de esta ley, serán empresarios todas las personas, físicas o jurídicas, o comunidades de bienes que reciban la prestación de servicios de las personas referidas en el apartado anterior, así como de las personas contratadas para ser cedidas a empresas usuarias por empresas de trabajo temporal legalmente constituidas
@@ -15,6 +45,8 @@ Se excluyen del ámbito regulado por esta ley Los trabajos familiares, salvo que
 Se considerarán familiares, a estos efectos, siempre que convivan con el empresario, el cónyuge, los descendientes, ascendientes y demás parientes por consanguinidad o afinidad, hasta el segundo grado inclusive y, en su caso, por adopción
 
 Se excluyen del ámbito regulado por esta ley La actividad de las personas que intervengan en operaciones mercantiles por cuenta de uno o más empresarios, siempre que queden personalmente obligados a responder del buen fin de la operación asumiendo el riesgo y ventura de la misma
+
+Se excluyen del ámbito regulado por esta ley En general, todo trabajo que se efectúe en desarrollo de relación distinta de la que define el apartado 1.
 
 A tales efectos se entenderá excluida del ámbito laboral la actividad de las personas prestadoras del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares, realizada, mediante el correspondiente precio, con vehículos comerciales de servicio público cuya propiedad o poder directo de disposición ostenten, aun cuando dichos servicios se realicen de forma continuada para un mismo cargador o comercializador
 
@@ -160,7 +192,7 @@ Los representantes de la Administración, así como los de las organizaciones si
 
 Cuando la relación laboral sea de duración superior a cuatro semanas, el empresario deberá informar por escrito al trabajador, en los términos y plazos que se establezcan reglamentariamente, sobre los elementos esenciales del contrato y las principales condiciones de ejecución de la prestación laboral, siempre que tales elementos y condiciones no figuren en el contrato de trabajo formalizado por escrito
 
-Si el trabajador tuviera asignadas condiciones o retribuciones especiales en virtud de contraprestaciones establecidas en la parte no válida del contrato, el órgano de la jurisdicción social que a instancia de parte declare la nulidad hará el debido pronunciamiento sobre la subsistencia o supresión en todo o en parte de dichas condiciones o retribuciones
+Si resultase nula solo una parte del contrato de trabajo, este permanecerá válido en lo restante, y se entenderá completado con los preceptos jurídicos adecuados conforme a lo dispuesto en el artículo 3.1.Si el trabajador tuviera asignadas condiciones o retribuciones especiales en virtud de contraprestaciones establecidas en la parte no válida del contrato, el órgano de la jurisdicción social que a instancia de parte declare la nulidad hará el debido pronunciamiento sobre la subsistencia o supresión en todo o en parte de dichas condiciones o retribuciones
 
 En caso de que el contrato resultase nulo, el trabajador podrá exigir, por el trabajo que ya hubiese prestado, la remuneración consiguiente a un contrato válido
 
@@ -188,9 +220,9 @@ Ningún trabajador Tampoco se podrá estar contratado en prácticas en la misma 
 
 A los efectos de este artículo, los títulos de grado, máster y, en su caso, doctorado, correspondientes a los estudios universitarios no se considerarán la misma titulación, salvo que al ser contratado por primera vez mediante un contrato en prácticas el trabajador estuviera ya en posesión del título superior de que se trate
 
-La retribución del trabajador será la fijada en convenio colectivo para los trabajadores en prácticas, sin que, en su defecto, pueda ser inferior al sesenta o al setenta y cinco por ciento durante el primero o el segundo año de vigencia del contrato, respectivamente, del salario fijado en convenio para un trabajador que desempeñe el mismo o equivalente puesto de trabajo
+El contrato de trabajo en prácticas podrá concertarse con quienes estuvieren en posesión de título universitario o de formación profesional de grado medio o superior o títulos oficialmente reconocidos como equivalentes, de acuerdo con las leyes reguladoras del sistema educativo vigente, o de certificado de profesionalidad de acuerdo con lo previsto en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, que habiliten para el ejercicio profesional, dentro de los cinco años, o de siete años cuando el contrato se concierte con un trabajador con discapacidad, siguientes a la terminación de los correspondientes estudios, de acuerdo con las siguientes reglas La retribución del trabajador será la fijada en convenio colectivo para los trabajadores en prácticas, sin que, en su defecto, pueda ser inferior al sesenta o al setenta y cinco por ciento durante el primero o el segundo año de vigencia del contrato, respectivamente, del salario fijado en convenio para un trabajador que desempeñe el mismo o equivalente puesto de trabajo
 
-Si al término del contrato el trabajador continuase en la empresa no podrá concertarse un nuevo periodo de prueba, computándose la duración de las prácticas a efecto de antigüedad en la empresa
+El contrato de trabajo en prácticas podrá concertarse con quienes estuvieren en posesión de título universitario o de formación profesional de grado medio o superior o títulos oficialmente reconocidos como equivalentes, de acuerdo con las leyes reguladoras del sistema educativo vigente, o de certificado de profesionalidad de acuerdo con lo previsto en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, que habiliten para el ejercicio profesional, dentro de los cinco años, o de siete años cuando el contrato se concierte con un trabajador con discapacidad, siguientes a la terminación de los correspondientes estudios, de acuerdo con las siguientes reglas Si al término del contrato el trabajador continuase en la empresa no podrá concertarse un nuevo periodo de prueba, computándose la duración de las prácticas a efecto de antigüedad en la empresa
 
 El contrato para la formación y el aprendizaje tendrá por objeto la cualificación profesional de los trabajadores en un régimen de alternancia de actividad laboral retribuida en una empresa con actividad formativa recibida en el marco del sistema de formación profesional para el empleo o del sistema educativo
 
@@ -278,19 +310,15 @@ De no observarse estas exigencias, el contrato se presumirá celebrado a jornada
 
 El contrato a tiempo parcial se regirá por las siguientes reglas Cuando el contrato a tiempo parcial conlleve la ejecución de una jornada diaria inferior a la de los trabajadores a tiempo completo y esta se realice de forma partida, solo será posible efectuar una única interrupción en dicha jornada diaria, salvo que se disponga otra cosa mediante convenio colectivo
 
-El empresario deberá conservar los resúmenes mensuales de los registros de jornada durante un periodo mínimo de cuatro años
+El contrato a tiempo parcial se regirá por las siguientes reglas Los trabajadores a tiempo parcial no podrán realizar horas extraordinarias, salvo en los supuestos a los que se refiere el artículo 35.3.La realización de horas complementarias se regirá por lo dispuesto en el apartado 5.En todo caso, la suma de las horas ordinarias y complementarias, incluidas las previamente pactadas y las voluntarias, no podrá exceder del límite legal del trabajo a tiempo parcial definido en el apartado 1.A estos efectos, la jornada de los trabajadores a tiempo parcial se registrará día a día y se totalizará mensualmente, entregando copia al trabajador, junto con el recibo de salarios, del resumen de todas las horas realizadas en cada mes, tanto las ordinarias como las complementarias a que se refiere el apartado 5.El empresario deberá conservar los resúmenes mensuales de los registros de jornada durante un periodo mínimo de cuatro años
 
 En caso de incumplimiento de las referidas obligaciones de registro, el contrato se presumirá celebrado a jornada completa, salvo prueba en contrario que acredite el carácter parcial de los servicios
 
-Las personas trabajadoras a tiempo parcial tendrán los mismos derechos que los trabajadores a tiempo completo
+El contrato a tiempo parcial se regirá por las siguientes reglas Las personas trabajadoras a tiempo parcial tendrán los mismos derechos que los trabajadores a tiempo completo
 
 Cuando corresponda en atención a su naturaleza, tales derechos serán reconocidos en las disposiciones legales y reglamentarias y en los convenios colectivos de manera proporcional, en función del tiempo trabajado, debiendo garantizarse en todo caso la ausencia de discriminación, tanto directa como indirecta, entre mujeres y hombres
 
-El empresario deberá conservar los resúmenes mensuales de los registros de jornada durante un periodo mínimo de cuatro años
-
-En caso de incumplimiento de las referidas obligaciones de registro, el contrato se presumirá celebrado a jornada completa, salvo prueba en contrario que acredite el carácter parcial de los servicios
-
-La conversión de un trabajo a tiempo completo en un trabajo parcial y viceversa tendrá siempre carácter voluntario para el trabajador y no se podrá imponer de forma unilateral o como consecuencia de una modificación sustancial de condiciones de trabajo al amparo de lo dispuesto en el artículo 41.1.a). El trabajador no podrá ser despedido ni sufrir ningún otro tipo de sanción o efecto perjudicial por el hecho de rechazar esta conversión, sin perjuicio de las medidas que, de conformidad con lo dispuesto en los artículos 51 y 52.c), puedan adoptarse por causas económicas, técnicas, organizativas o de producción
+El contrato a tiempo parcial se regirá por las siguientes reglas La conversión de un trabajo a tiempo completo en un trabajo parcial y viceversa tendrá siempre carácter voluntario para el trabajador y no se podrá imponer de forma unilateral o como consecuencia de una modificación sustancial de condiciones de trabajo al amparo de lo dispuesto en el artículo 41.1.a). El trabajador no podrá ser despedido ni sufrir ningún otro tipo de sanción o efecto perjudicial por el hecho de rechazar esta conversión, sin perjuicio de las medidas que, de conformidad con lo dispuesto en los artículos 51 y 52.c), puedan adoptarse por causas económicas, técnicas, organizativas o de producción
 
 A fin de posibilitar la movilidad voluntaria en el trabajo a tiempo parcial, el empresario deberá informar a los trabajadores de la empresa sobre la existencia de puestos de trabajo vacantes, de manera que aquellos puedan formular solicitudes de conversión voluntaria de un trabajo a tiempo completo en un trabajo a tiempo parcial y viceversa, o para el incremento del tiempo de trabajo de los trabajadores a tiempo parcial, todo ello de conformidad con los procedimientos que se establezcan en convenio colectivo
 
@@ -298,11 +326,7 @@ Con carácter general, las solicitudes a que se refiere el párrafo anterior deb
 
 La denegación de la solicitud deberá ser notificada por el empresario al trabajador por escrito y de manera motivada
 
-El empresario deberá conservar los resúmenes mensuales de los registros de jornada durante un periodo mínimo de cuatro años
-
-En caso de incumplimiento de las referidas obligaciones de registro, el contrato se presumirá celebrado a jornada completa, salvo prueba en contrario que acredite el carácter parcial de los servicios
-
-Los convenios colectivos establecerán medidas para facilitar el acceso efectivo de los trabajadores a tiempo parcial a la formación profesional continua, a fin de favorecer su progresión y movilidad profesionales
+El contrato a tiempo parcial se regirá por las siguientes reglas Los convenios colectivos establecerán medidas para facilitar el acceso efectivo de los trabajadores a tiempo parcial a la formación profesional continua, a fin de favorecer su progresión y movilidad profesionales
 
 Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas El empresario solo podrá exigir la realización de horas complementarias cuando así lo hubiera pactado expresamente con el trabajador
 
@@ -320,27 +344,19 @@ Los convenios colectivos podrán establecer otro porcentaje máximo, que, en nin
 
 Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas El trabajador deberá conocer el día y la hora de realización de las horas complementarias pactadas con un preaviso mínimo de tres días, salvo que el convenio establezca un plazo de preaviso inferior
 
-2.ª Necesidades formativas, siempre que se acredite la incompatibilidad horaria
+Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas El pacto de horas complementarias podrá quedar sin efecto por renuncia del trabajador, mediante un preaviso de quince días, una vez cumplido un año desde su celebración, cuando concurra alguna de las siguientes circunstancias Necesidades formativas, siempre que se acredite la incompatibilidad horaria
 
-la incompatibilidad 3.ª Incompatibilidad con otro contrato a tiempo parcial
+Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas El pacto de horas complementarias podrá quedar sin efecto por renuncia del trabajador, mediante un preaviso de quince días, una vez cumplido un año desde su celebración, cuando concurra alguna de las siguientes circunstancias Incompatibilidad con otro contrato a tiempo parcial
 
-El pacto de horas complementarias y las condiciones de realización de las mismas estarán sujetos a las reglas previstas en las letras anteriores
+Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas El pacto de horas complementarias y las condiciones de realización de las mismas estarán sujetos a las reglas previstas en las letras anteriores
 
-El pacto En caso de incumplimiento de tales reglas, la negativa del trabajador a la realización de las horas complementarias, pese a haber sido pactadas, no constituirá conducta laboral sancionable
+horas En caso de incumplimiento de tales reglas, la negativa del trabajador a la realización de las horas complementarias, pese a haber sido pactadas, no constituirá conducta laboral sancionable
 
-2.ª Necesidades formativas, siempre que se acredite la incompatibilidad horaria
-
-la incompatibilidad 3.ª Incompatibilidad con otro contrato a tiempo parcial
-
-Sin perjuicio del pacto de horas complementarias, en los contratos a tiempo parcial de duración indefinida con una jornada de trabajo no inferior a diez horas semanales en cómputo anual, el empresario podrá, en cualquier momento, ofrecer al trabajador la realización de horas complementarias de aceptación voluntaria, cuyo número no podrá superar el quince por ciento, ampliables al treinta por ciento por convenio colectivo, de las horas ordinarias objeto del contrato
+Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas Sin perjuicio del pacto de horas complementarias, en los contratos a tiempo parcial de duración indefinida con una jornada de trabajo no inferior a diez horas semanales en cómputo anual, el empresario podrá, en cualquier momento, ofrecer al trabajador la realización de horas complementarias de aceptación voluntaria, cuyo número no podrá superar el quince por ciento, ampliables al treinta por ciento por convenio colectivo, de las horas ordinarias objeto del contrato
 
 La negativa del trabajador a la realización de estas horas no constituirá conducta laboral sancionable
 
-2.ª Necesidades formativas, siempre que se acredite la incompatibilidad horaria
-
-la incompatibilidad 3.ª Incompatibilidad con otro contrato a tiempo parcial
-
-Las horas complementarias efectivamente realizadas se retribuirán como ordinarias, computándose a efectos de bases de cotización a la Seguridad Social y periodos de carencia y bases reguladoras de las prestaciones
+Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas Las horas complementarias efectivamente realizadas se retribuirán como ordinarias, computándose a efectos de bases de cotización a la Seguridad Social y periodos de carencia y bases reguladoras de las prestaciones
 
 A tal efecto, el número y retribución de las horas complementarias realizadas se deberá recoger en el recibo individual de salarios y en los documentos de cotización a la Seguridad Social
 
@@ -481,8 +497,6 @@ En los supuestos previstos en los apartados 1.a) y 5, el empresario deberá faci
 En todo caso, el trabajador podrá solicitar, por escrito, al Servicio Público de Empleo correspondiente un certificado de los contratos de duración determinada o temporales celebrados, a los efectos de poder acreditar su condición de trabajador fijo en la empresa
 
 El Servicio Público de Empleo emitirá dicho documento y lo pondrá en conocimiento de la empresa en la que el trabajador preste sus servicios
-
-Contrato fijo-discontinuo
 
 El contrato por tiempo indefinido fijo-discontinuo se concertará para realizar trabajos que tengan el carácter de fijos-discontinuos y no se repitan en fechas ciertas, dentro del volumen normal de actividad de la empresa
 
@@ -798,7 +812,7 @@ En este último caso, se indicarán las razones objetivas en las que se sustenta
 
 La persona trabajadora tendrá derecho a solicitar el regreso a su jornada o modalidad contractual anterior una vez concluido el periodo acordado o cuando el cambio de las circunstancias así lo justifique, aun cuando no hubiese transcurrido el periodo previsto
 
-Las discrepancias surgidas entre la dirección de la empresa y la persona trabajadora serán resueltas por la jurisdicción social a través del procedimiento establecido en el artículo 139 de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social
+Lo dispuesto en los párrafos anteriores se entiende, en todo caso, sin perjuicio de los permisos a los que tenga derecho la persona trabajadora de acuerdo con lo establecido en el artículo 37.Las discrepancias surgidas entre la dirección de la empresa y la persona trabajadora serán resueltas por la jurisdicción social a través del procedimiento establecido en el artículo 139 de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social
 
 La empresa garantizará el registro diario de jornada, que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de cada persona trabajadora, sin perjuicio de la flexibilidad horaria que se establece en este artículo
 
@@ -821,8 +835,6 @@ El Gobierno podrá suprimir o reducir el número máximo de horas extraordinaria
 No se tendrá en cuenta, a efectos de la duración máxima de la jornada ordinaria laboral, ni para el cómputo del número máximo de las horas extraordinarias autorizadas, el exceso de las trabajadas para prevenir o reparar siniestros y otros daños extraordinarios y urgentes, sin perjuicio de su compensación como horas extraordinarias
 
 A efectos del cómputo de horas extraordinarias, la jornada de cada trabajador se registrará día a día y se totalizará en el periodo fijado para el abono de las retribuciones, entregando copia del resumen al trabajador en el recibo correspondiente
-
-Trabajo nocturno, trabajo a turnos y ritmo de trabajo
 
 A los efectos de lo dispuesto en esta ley, se considera trabajo nocturno el realizado entre las diez de la noche y las seis de la mañana
 
@@ -856,8 +868,6 @@ El empresario que organice el trabajo en la empresa según un cierto ritmo deber
 
 Dichas exigencias deberán ser tenidas particularmente en cuenta a la hora de determinar los periodos de descanso durante la jornada de trabajo
 
-Descanso semanal, fiestas y permisos
-
 Los trabajadores tendrán derecho a un descanso mínimo semanal, acumulable por periodos de hasta catorce días, de día y medio ininterrumpido que, como regla general, comprenderá la tarde del sábado o, en su caso, la mañana del lunes y el día completo del domingo
 
 La duración del descanso semanal de los menores de dieciocho años será, como mínimo, de dos días ininterrumpidos
@@ -888,13 +898,11 @@ El trabajador, previo aviso y justificación, podrá ausentarse del trabajo, con
 
 Cuando conste en una norma legal o convencional un periodo determinado, se estará a lo que esta disponga en cuanto a duración de la ausencia y a su compensación económica
 
-En el supuesto de que el trabajador, por cumplimiento del deber o desempeño del cargo, perciba una indemnización, se descontará el importe de la misma del salario a que tuviera derecho en la empresa
+Cuando el cumplimiento del deber antes referido suponga la imposibilidad de la prestación del trabajo debido en más del veinte por ciento de las horas laborables en un periodo de tres meses, podrá la empresa pasar al trabajador afectado a la situación de excedencia regulada en el artículo 46.1.En el supuesto de que el trabajador, por cumplimiento del deber o desempeño del cargo, perciba una indemnización, se descontará el importe de la misma del salario a que tuviera derecho en la empresa
 
-el importe Para realizar funciones sindicales o de representación del personal en los términos establecidos legal o convencionalmente
+El trabajador, previo aviso y justificación, podrá ausentarse del trabajo, con derecho a remuneración, por alguno de los motivos y por el tiempo siguiente Para realizar funciones sindicales o de representación del personal en los términos establecidos legal o convencionalmente
 
-En el supuesto de que el trabajador, por cumplimiento del deber o desempeño del cargo, perciba una indemnización, se descontará el importe de la misma del salario a que tuviera derecho en la empresa
-
-el importe Por el tiempo indispensable para la realización de exámenes prenatales y técnicas de preparación al parto y, en los casos de adopción, guarda con fines de adopción o acogimiento, para la asistencia a las preceptivas sesiones de información y preparación y para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, siempre, en todos los casos, que deban tener lugar dentro de la jornada de trabajo
+El trabajador, previo aviso y justificación, podrá ausentarse del trabajo, con derecho a remuneración, por alguno de los motivos y por el tiempo siguiente Por el tiempo indispensable para la realización de exámenes prenatales y técnicas de preparación al parto y, en los casos de adopción, guarda con fines de adopción o acogimiento, para la asistencia a las preceptivas sesiones de información y preparación y para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, siempre, en todos los casos, que deban tener lugar dentro de la jornada de trabajo
 
 En los supuestos de nacimiento, adopción, guarda con fines de adopción o acogimiento, de acuerdo con el artículo 45.1.d), las personas trabajadoras tendrán derecho a una hora de ausencia del trabajo, que podrán dividir en dos fracciones, para el cuidado del lactante hasta que este cumpla nueve meses
 
@@ -1024,7 +1032,7 @@ Dicho acuerdo requerirá la conformidad de la mayoría de los representantes leg
 
 La interposición del conflicto paralizará la tramitación de las acciones individuales iniciadas, hasta su resolución
 
-El empresario y la representación de los trabajadores podrán acordar en cualquier momento la sustitución del periodo de consultas a que se refiere este apartado por la aplicación del procedimiento de mediación o arbitraje que sea de aplicación en el ámbito de la empresa, que deberá desarrollarse dentro del plazo máximo señalado para dicho periodo
+El acuerdo con los representantes de los trabajadores en el periodo de consultas se entenderá sin perjuicio del derecho de los trabajadores afectados al ejercicio de la opción prevista en el párrafo tercero del apartado 1.El empresario y la representación de los trabajadores podrán acordar en cualquier momento la sustitución del periodo de consultas a que se refiere este apartado por la aplicación del procedimiento de mediación o arbitraje que sea de aplicación en el ámbito de la empresa, que deberá desarrollarse dentro del plazo máximo señalado para dicho periodo
 
 Si por traslado uno de los cónyuges cambia de residencia, el otro, si fuera trabajador de la misma empresa, tendrá derecho al traslado a la misma localidad, si hubiera puesto de trabajo
 
@@ -1132,17 +1140,37 @@ La comisión negociadora estará integrada por un máximo de trece miembros en r
 
 La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a las secciones sindicales cuando estas así lo acuerden, siempre que tengan la representación mayoritaria en los comités de empresa o entre los delegados de personal de los centros de trabajo afectados, en cuyo caso representarán a todos los trabajadores de los centros afectados
 
-En defecto de lo previsto en el párrafo anterior, la intervención como interlocutores se regirá por las siguientes reglas Si el procedimiento afecta a más de un centro de trabajo, la intervención como interlocutores corresponderá:En primer lugar, al comité intercentros, siempre que tenga atribuida esa función en el convenio colectivo en que se hubiera acordado su creación
+En defecto de lo previsto en el párrafo anterior, la intervención como interlocutores se regirá por las siguientes reglas Si el procedimiento afecta a más de un centro de trabajo, la intervención como interlocutores corresponderá En primer lugar, al comité intercentros, siempre que tenga atribuida esa función en el convenio colectivo en que se hubiera acordado su creación
 
-En otro caso, a una comisión representativa que se constituirá de acuerdo con las siguientes reglas:1.ª Si todos los centros de trabajo afectados por el procedimiento cuentan con representantes legales de los trabajadores, la comisión estará integrada por estos
+En otro caso, a una comisión representativa que se constituirá de acuerdo con las siguientes reglas Si todos los centros de trabajo afectados por el procedimiento cuentan con representantes legales de los trabajadores, la comisión estará integrada por estos
 
-2.ª Si alguno de los centros de trabajo afectados cuenta con representantes legales de los trabajadores y otros no, la comisión estará integrada únicamente por representantes legales de los trabajadores de los centros que cuenten con dichos representantes
+Sin perjuicio de los procedimientos específicos que puedan establecerse en la negociación colectiva, la decisión de modificación sustancial de condiciones de trabajo de carácter colectivo deberá ir precedida de un periodo de consultas con los representantes legales de los trabajadores, de duración no superior a quince días, que versará sobre las causas motivadoras de la decisión empresarial y la posibilidad de evitar o reducir sus efectos, así como sobre las medidas necesarias para atenuar sus consecuencias para los trabajadores afectados
+
+La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
+
+La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
+
+La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a las secciones sindicales cuando estas así lo acuerden, siempre que tengan la representación mayoritaria en los comités de empresa o entre los delegados de personal de los centros de trabajo afectados, en cuyo caso representarán a todos los trabajadores de los centros afectados
+
+En defecto de lo previsto en el párrafo anterior, la intervención como interlocutores se regirá por las siguientes reglas Si el procedimiento afecta a más de un centro de trabajo, la intervención como interlocutores corresponderá En primer lugar, al comité intercentros, siempre que tenga atribuida esa función en el convenio colectivo en que se hubiera acordado su creación
+
+En otro caso, a una comisión representativa que se constituirá de acuerdo con las siguientes reglas Si alguno de los centros de trabajo afectados cuenta con representantes legales de los trabajadores y otros no, la comisión estará integrada únicamente por representantes legales de los trabajadores de los centros que cuenten con dichos representantes
 
 Y ello salvo que los trabajadores de los centros que no cuenten con representantes legales opten por designar la comisión a que se refiere la letra a), en cuyo caso la comisión representativa estará integrada conjuntamente por representantes legales de los trabajadores y por miembros de las comisiones previstas en dicho párrafo, en proporción al número de trabajadores que representen
 
 la comisión En el supuesto de que uno o varios centros de trabajo afectados por el procedimiento que no cuenten con representantes legales de los trabajadores opten por no designar la comisión de la letra a), se asignará su representación a los representantes legales de los trabajadores de los centros de trabajo afectados que cuenten con ellos, en proporción al número de trabajadores que representen
 
-3.ª Si ninguno de los centros de trabajo afectados por el procedimiento cuenta con representantes legales de los trabajadores, la comisión representativa estará integrada por quienes sean elegidos por y entre los miembros de las comisiones designadas en los centros de trabajo afectados conforme a lo dispuesto en la letra a), en proporción al número de trabajadores que representen
+Sin perjuicio de los procedimientos específicos que puedan establecerse en la negociación colectiva, la decisión de modificación sustancial de condiciones de trabajo de carácter colectivo deberá ir precedida de un periodo de consultas con los representantes legales de los trabajadores, de duración no superior a quince días, que versará sobre las causas motivadoras de la decisión empresarial y la posibilidad de evitar o reducir sus efectos, así como sobre las medidas necesarias para atenuar sus consecuencias para los trabajadores afectados
+
+La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
+
+La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
+
+La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a las secciones sindicales cuando estas así lo acuerden, siempre que tengan la representación mayoritaria en los comités de empresa o entre los delegados de personal de los centros de trabajo afectados, en cuyo caso representarán a todos los trabajadores de los centros afectados
+
+En defecto de lo previsto en el párrafo anterior, la intervención como interlocutores se regirá por las siguientes reglas Si el procedimiento afecta a más de un centro de trabajo, la intervención como interlocutores corresponderá En primer lugar, al comité intercentros, siempre que tenga atribuida esa función en el convenio colectivo en que se hubiera acordado su creación
+
+En otro caso, a una comisión representativa que se constituirá de acuerdo con las siguientes reglas Si ninguno de los centros de trabajo afectados por el procedimiento cuenta con representantes legales de los trabajadores, la comisión representativa estará integrada por quienes sean elegidos por y entre los miembros de las comisiones designadas en los centros de trabajo afectados conforme a lo dispuesto en la letra a), en proporción al número de trabajadores que representen
 
 En todos los supuestos contemplados en este apartado, si como resultado de la aplicación de las reglas indicadas anteriormente el número inicial de representantes fuese superior a trece, estos elegirán por y entre ellos a un máximo de trece, en proporción al número de trabajadores que representen
 
@@ -1204,7 +1232,7 @@ Los trabajadores de las empresas contratistas y subcontratistas, cuando no tenga
 
 Los trabajadores Lo dispuesto en el párrafo anterior no será de aplicación a las reclamaciones del trabajador respecto de la empresa de la que depende
 
-La capacidad de representación y ámbito de actuación de los representantes de los trabajadores, así como su crédito horario, vendrán determinados por la legislación vigente y, en su caso, por los convenios colectivos de aplicación
+Los representantes legales de los trabajadores de la empresa principal y de las empresas contratistas y subcontratistas, cuando compartan de forma continuada centro de trabajo, podrán reunirse a efectos de coordinación entre ellos y en relación con las condiciones de ejecución de la actividad laboral en los términos previstos en el artículo 81.La capacidad de representación y ámbito de actuación de los representantes de los trabajadores, así como su crédito horario, vendrán determinados por la legislación vigente y, en su caso, por los convenios colectivos de aplicación
 
 La contratación de trabajadores para cederlos temporalmente a otra empresa solo podrá efectuarse a través de empresas de trabajo temporal debidamente autorizadas en los términos que legalmente se establezcan
 
@@ -1321,8 +1349,6 @@ Asimismo podrán solicitar su paso a la situación de excedencia en la empresa l
 El trabajador en excedencia voluntaria conserva solo un derecho preferente al reingreso en las vacantes de igual o similar categoría a la suya que hubiera o se produjeran en la empresa
 
 La situación de excedencia podrá extenderse a otros supuestos colectivamente acordados, con el régimen y los efectos que allí se prevean
-
-Suspensión del contrato o reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor
 
 El empresario podrá suspender el contrato de trabajo por causas económicas, técnicas, organizativas o de producción, con arreglo a lo previsto en este artículo y al procedimiento que se determine reglamentariamente
 
@@ -1466,27 +1492,21 @@ Si el contrato de trabajo de duración determinada es superior a un año, la par
 
 El contrato de trabajo se extinguirá Por dimisión del trabajador, debiendo mediar el preaviso que señalen los convenios colectivos o la costumbre del lugar
 
-Por jubilación del trabajador
+El contrato de trabajo se extinguirá Por jubilación del trabajador
 
-Por muerte, jubilación en los casos previstos en el régimen correspondiente de la Seguridad Social, o incapacidad del empresario, sin perjuicio de lo dispuesto en el artículo 44, o por extinción de la personalidad jurídica del contratante
+El contrato de trabajo se extinguirá Por muerte, jubilación en los casos previstos en el régimen correspondiente de la Seguridad Social, o incapacidad del empresario, sin perjuicio de lo dispuesto en el artículo 44, o por extinción de la personalidad jurídica del contratante
 
 En los casos de muerte, jubilación o incapacidad del empresario, el trabajador tendrá derecho al abono de una cantidad equivalente a un mes de salario
 
-Por despido colectivo fundado en causas económicas, técnicas, organizativas o de producción
+El contrato de trabajo se extinguirá Por despido colectivo fundado en causas económicas, técnicas, organizativas o de producción
 
-Por voluntad del trabajador, fundamentada en un incumplimiento contractual del empresario
+El contrato de trabajo se extinguirá Por voluntad del trabajador, fundamentada en un incumplimiento contractual del empresario
 
-Por despido colectivo fundado en causas económicas, técnicas, organizativas o de producción
+El contrato de trabajo se extinguirá Por despido del trabajador
 
-Por despido del trabajador
+El contrato de trabajo se extinguirá Por causas objetivas legalmente procedentes
 
-Por despido colectivo fundado en causas económicas, técnicas, organizativas o de producción
-
-Por causas objetivas legalmente procedentes
-
-Por despido colectivo fundado en causas económicas, técnicas, organizativas o de producción
-
-Por decisión de la trabajadora que se vea obligada a abandonar definitivamente su puesto de trabajo como consecuencia de ser víctima de violencia de género
+El contrato de trabajo se extinguirá Por decisión de la trabajadora que se vea obligada a abandonar definitivamente su puesto de trabajo como consecuencia de ser víctima de violencia de género
 
 El empresario, con ocasión de la extinción del contrato, al comunicar a los trabajadores la denuncia, o, en su caso, el preaviso de la extinción del mismo, deberá acompañar una propuesta del documento de liquidación de las cantidades adeudadas
 
@@ -1542,25 +1562,149 @@ La falta de constitución de la comisión representativa no impedirá el inicio 
 
 La comunicación de la apertura del periodo de consultas se realizará mediante escrito dirigido por el empresario a los representantes legales de los trabajadores, una copia del cual se hará llegar a la autoridad laboral
 
-Número y clasificación profesional de los trabajadores afectados por el despido
+El despido colectivo deberá ir precedido de un periodo de consultas con los representantes legales de los trabajadores de una duración no superior a treinta días naturales, o de quince en el caso de empresas de menos de cincuenta trabajadores
 
-Número y clasificación profesional de los trabajadores empleados habitualmente en el último año
+La consulta con los representantes legales de los trabajadores deberá versar, como mínimo, sobre las posibilidades de evitar o reducir los despidos colectivos y de atenuar sus consecuencias mediante el recurso a medidas sociales de acompañamiento, tales como medidas de recolocación o acciones de formación o reciclaje profesional para la mejora de la empleabilidad
 
-Número y clasificación profesional de los trabajadores afectados por el despido
+La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
 
-Periodo previsto para la realización de los despidos
+La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
 
-Número y clasificación profesional de los trabajadores afectados por el despido
+La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a los sujetos indicados en el artículo 41.4, en el orden y condiciones señalados en el mismo
 
-Criterios tenidos en cuenta para la designación de los trabajadores afectados por los despidos
+La comisión representativa de los trabajadores deberá quedar constituida con carácter previo a la comunicación empresarial de apertura del periodo de consultas
 
-Número y clasificación profesional de los trabajadores afectados por el despido
+A estos efectos, la dirección de la empresa deberá comunicar de manera fehaciente a los trabajadores o a sus representantes su intención de iniciar el procedimiento de despido colectivo
 
-Copia de la comunicación dirigida a los trabajadores o a sus representantes por la dirección de la empresa de su intención de iniciar el procedimiento de despido colectivo
+El plazo máximo para la constitución de la comisión representativa será de siete días desde la fecha de la referida comunicación, salvo que alguno de los centros de trabajo que vaya a estar afectado por el procedimiento no cuente con representantes legales de los trabajadores, en cuyo caso el plazo será de quince días
 
-Número y clasificación profesional de los trabajadores afectados por el despido
+Transcurrido el plazo máximo para la constitución de la comisión representativa, la dirección de la empresa podrá comunicar formalmente a los representantes de los trabajadores y a la autoridad laboral el inicio del periodo de consultas
 
-Representantes de los trabajadores que integrarán la comisión negociadora o, en su caso, indicación de la falta de constitución de esta en los plazos legales
+La falta de constitución de la comisión representativa no impedirá el inicio y transcurso del periodo de consultas, y su constitución con posterioridad al inicio del mismo no comportará, en ningún caso, la ampliación de su duración
+
+La comunicación de la apertura del periodo de consultas se realizará mediante escrito dirigido por el empresario a los representantes legales de los trabajadores, una copia del cual se hará llegar a la autoridad laboral
+
+En dicho escrito se consignarán los siguientes extremos Número y clasificación profesional de los trabajadores afectados por el despido
+
+El despido colectivo deberá ir precedido de un periodo de consultas con los representantes legales de los trabajadores de una duración no superior a treinta días naturales, o de quince en el caso de empresas de menos de cincuenta trabajadores
+
+La consulta con los representantes legales de los trabajadores deberá versar, como mínimo, sobre las posibilidades de evitar o reducir los despidos colectivos y de atenuar sus consecuencias mediante el recurso a medidas sociales de acompañamiento, tales como medidas de recolocación o acciones de formación o reciclaje profesional para la mejora de la empleabilidad
+
+La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
+
+La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
+
+La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a los sujetos indicados en el artículo 41.4, en el orden y condiciones señalados en el mismo
+
+La comisión representativa de los trabajadores deberá quedar constituida con carácter previo a la comunicación empresarial de apertura del periodo de consultas
+
+A estos efectos, la dirección de la empresa deberá comunicar de manera fehaciente a los trabajadores o a sus representantes su intención de iniciar el procedimiento de despido colectivo
+
+El plazo máximo para la constitución de la comisión representativa será de siete días desde la fecha de la referida comunicación, salvo que alguno de los centros de trabajo que vaya a estar afectado por el procedimiento no cuente con representantes legales de los trabajadores, en cuyo caso el plazo será de quince días
+
+Transcurrido el plazo máximo para la constitución de la comisión representativa, la dirección de la empresa podrá comunicar formalmente a los representantes de los trabajadores y a la autoridad laboral el inicio del periodo de consultas
+
+La falta de constitución de la comisión representativa no impedirá el inicio y transcurso del periodo de consultas, y su constitución con posterioridad al inicio del mismo no comportará, en ningún caso, la ampliación de su duración
+
+La comunicación de la apertura del periodo de consultas se realizará mediante escrito dirigido por el empresario a los representantes legales de los trabajadores, una copia del cual se hará llegar a la autoridad laboral
+
+En dicho escrito se consignarán los siguientes extremos Número y clasificación profesional de los trabajadores empleados habitualmente en el último año
+
+El despido colectivo deberá ir precedido de un periodo de consultas con los representantes legales de los trabajadores de una duración no superior a treinta días naturales, o de quince en el caso de empresas de menos de cincuenta trabajadores
+
+La consulta con los representantes legales de los trabajadores deberá versar, como mínimo, sobre las posibilidades de evitar o reducir los despidos colectivos y de atenuar sus consecuencias mediante el recurso a medidas sociales de acompañamiento, tales como medidas de recolocación o acciones de formación o reciclaje profesional para la mejora de la empleabilidad
+
+La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
+
+La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
+
+La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a los sujetos indicados en el artículo 41.4, en el orden y condiciones señalados en el mismo
+
+La comisión representativa de los trabajadores deberá quedar constituida con carácter previo a la comunicación empresarial de apertura del periodo de consultas
+
+A estos efectos, la dirección de la empresa deberá comunicar de manera fehaciente a los trabajadores o a sus representantes su intención de iniciar el procedimiento de despido colectivo
+
+El plazo máximo para la constitución de la comisión representativa será de siete días desde la fecha de la referida comunicación, salvo que alguno de los centros de trabajo que vaya a estar afectado por el procedimiento no cuente con representantes legales de los trabajadores, en cuyo caso el plazo será de quince días
+
+Transcurrido el plazo máximo para la constitución de la comisión representativa, la dirección de la empresa podrá comunicar formalmente a los representantes de los trabajadores y a la autoridad laboral el inicio del periodo de consultas
+
+La falta de constitución de la comisión representativa no impedirá el inicio y transcurso del periodo de consultas, y su constitución con posterioridad al inicio del mismo no comportará, en ningún caso, la ampliación de su duración
+
+La comunicación de la apertura del periodo de consultas se realizará mediante escrito dirigido por el empresario a los representantes legales de los trabajadores, una copia del cual se hará llegar a la autoridad laboral
+
+En dicho escrito se consignarán los siguientes extremos Periodo previsto para la realización de los despidos
+
+El despido colectivo deberá ir precedido de un periodo de consultas con los representantes legales de los trabajadores de una duración no superior a treinta días naturales, o de quince en el caso de empresas de menos de cincuenta trabajadores
+
+La consulta con los representantes legales de los trabajadores deberá versar, como mínimo, sobre las posibilidades de evitar o reducir los despidos colectivos y de atenuar sus consecuencias mediante el recurso a medidas sociales de acompañamiento, tales como medidas de recolocación o acciones de formación o reciclaje profesional para la mejora de la empleabilidad
+
+La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
+
+La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
+
+La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a los sujetos indicados en el artículo 41.4, en el orden y condiciones señalados en el mismo
+
+La comisión representativa de los trabajadores deberá quedar constituida con carácter previo a la comunicación empresarial de apertura del periodo de consultas
+
+A estos efectos, la dirección de la empresa deberá comunicar de manera fehaciente a los trabajadores o a sus representantes su intención de iniciar el procedimiento de despido colectivo
+
+El plazo máximo para la constitución de la comisión representativa será de siete días desde la fecha de la referida comunicación, salvo que alguno de los centros de trabajo que vaya a estar afectado por el procedimiento no cuente con representantes legales de los trabajadores, en cuyo caso el plazo será de quince días
+
+Transcurrido el plazo máximo para la constitución de la comisión representativa, la dirección de la empresa podrá comunicar formalmente a los representantes de los trabajadores y a la autoridad laboral el inicio del periodo de consultas
+
+La falta de constitución de la comisión representativa no impedirá el inicio y transcurso del periodo de consultas, y su constitución con posterioridad al inicio del mismo no comportará, en ningún caso, la ampliación de su duración
+
+La comunicación de la apertura del periodo de consultas se realizará mediante escrito dirigido por el empresario a los representantes legales de los trabajadores, una copia del cual se hará llegar a la autoridad laboral
+
+En dicho escrito se consignarán los siguientes extremos Criterios tenidos en cuenta para la designación de los trabajadores afectados por los despidos
+
+El despido colectivo deberá ir precedido de un periodo de consultas con los representantes legales de los trabajadores de una duración no superior a treinta días naturales, o de quince en el caso de empresas de menos de cincuenta trabajadores
+
+La consulta con los representantes legales de los trabajadores deberá versar, como mínimo, sobre las posibilidades de evitar o reducir los despidos colectivos y de atenuar sus consecuencias mediante el recurso a medidas sociales de acompañamiento, tales como medidas de recolocación o acciones de formación o reciclaje profesional para la mejora de la empleabilidad
+
+La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
+
+La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
+
+La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a los sujetos indicados en el artículo 41.4, en el orden y condiciones señalados en el mismo
+
+La comisión representativa de los trabajadores deberá quedar constituida con carácter previo a la comunicación empresarial de apertura del periodo de consultas
+
+A estos efectos, la dirección de la empresa deberá comunicar de manera fehaciente a los trabajadores o a sus representantes su intención de iniciar el procedimiento de despido colectivo
+
+El plazo máximo para la constitución de la comisión representativa será de siete días desde la fecha de la referida comunicación, salvo que alguno de los centros de trabajo que vaya a estar afectado por el procedimiento no cuente con representantes legales de los trabajadores, en cuyo caso el plazo será de quince días
+
+Transcurrido el plazo máximo para la constitución de la comisión representativa, la dirección de la empresa podrá comunicar formalmente a los representantes de los trabajadores y a la autoridad laboral el inicio del periodo de consultas
+
+La falta de constitución de la comisión representativa no impedirá el inicio y transcurso del periodo de consultas, y su constitución con posterioridad al inicio del mismo no comportará, en ningún caso, la ampliación de su duración
+
+La comunicación de la apertura del periodo de consultas se realizará mediante escrito dirigido por el empresario a los representantes legales de los trabajadores, una copia del cual se hará llegar a la autoridad laboral
+
+En dicho escrito se consignarán los siguientes extremos Copia de la comunicación dirigida a los trabajadores o a sus representantes por la dirección de la empresa de su intención de iniciar el procedimiento de despido colectivo
+
+El despido colectivo deberá ir precedido de un periodo de consultas con los representantes legales de los trabajadores de una duración no superior a treinta días naturales, o de quince en el caso de empresas de menos de cincuenta trabajadores
+
+La consulta con los representantes legales de los trabajadores deberá versar, como mínimo, sobre las posibilidades de evitar o reducir los despidos colectivos y de atenuar sus consecuencias mediante el recurso a medidas sociales de acompañamiento, tales como medidas de recolocación o acciones de formación o reciclaje profesional para la mejora de la empleabilidad
+
+La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
+
+La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
+
+La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a los sujetos indicados en el artículo 41.4, en el orden y condiciones señalados en el mismo
+
+La comisión representativa de los trabajadores deberá quedar constituida con carácter previo a la comunicación empresarial de apertura del periodo de consultas
+
+A estos efectos, la dirección de la empresa deberá comunicar de manera fehaciente a los trabajadores o a sus representantes su intención de iniciar el procedimiento de despido colectivo
+
+El plazo máximo para la constitución de la comisión representativa será de siete días desde la fecha de la referida comunicación, salvo que alguno de los centros de trabajo que vaya a estar afectado por el procedimiento no cuente con representantes legales de los trabajadores, en cuyo caso el plazo será de quince días
+
+Transcurrido el plazo máximo para la constitución de la comisión representativa, la dirección de la empresa podrá comunicar formalmente a los representantes de los trabajadores y a la autoridad laboral el inicio del periodo de consultas
+
+La falta de constitución de la comisión representativa no impedirá el inicio y transcurso del periodo de consultas, y su constitución con posterioridad al inicio del mismo no comportará, en ningún caso, la ampliación de su duración
+
+La comunicación de la apertura del periodo de consultas se realizará mediante escrito dirigido por el empresario a los representantes legales de los trabajadores, una copia del cual se hará llegar a la autoridad laboral
+
+En dicho escrito se consignarán los siguientes extremos Representantes de los trabajadores que integrarán la comisión negociadora o, en su caso, indicación de la falta de constitución de esta en los plazos legales
 
 La comunicación a los representantes legales de los trabajadores y a la autoridad laboral deberá ir acompañada de una memoria explicativa de las causas del despido colectivo y de los restantes aspectos señalados en el párrafo anterior, así como de la documentación contable y fiscal y los informes técnicos, todo ello en los términos que reglamentariamente se establezcan
 
@@ -1906,21 +2050,15 @@ Los informes que deba emitir el comité de empresa tendrán que elaborarse en el
 
 El comité de empresa tendrá también las siguientes competencias Ejercer una labor:1.º De vigilancia en el cumplimiento de las normas vigentes en materia laboral, de seguridad social y de empleo, así como del resto de los pactos, condiciones y usos de empresa en vigor, formulando, en su caso, las acciones legales oportunas ante el empresario y los organismos o tribunales competentes
 
-3.º De vigilancia del respeto y aplicación del principio de igualdad de trato y de oportunidades entre mujeres y hombres, especialmente en materia salarial
+competencias 2.º De vigilancia y control de las condiciones de seguridad y salud en el desarrollo del trabajo en la empresa, con las particularidades previstas en este orden por el artículo 19.3.º De vigilancia del respeto y aplicación del principio de igualdad de trato y de oportunidades entre mujeres y hombres, especialmente en materia salarial
 
-Participar, como se determine por convenio colectivo, en la gestión de obras sociales establecidas en la empresa en beneficio de los trabajadores o de sus familiares
+El comité de empresa tendrá también las siguientes competencias Participar, como se determine por convenio colectivo, en la gestión de obras sociales establecidas en la empresa en beneficio de los trabajadores o de sus familiares
 
-3.º De vigilancia del respeto y aplicación del principio de igualdad de trato y de oportunidades entre mujeres y hombres, especialmente en materia salarial
+El comité de empresa tendrá también las siguientes competencias Colaborar con la dirección de la empresa para conseguir el establecimiento de cuantas medidas procuren el mantenimiento y el incremento de la productividad, así como la sostenibilidad ambiental de la empresa, si así está pactado en los convenios colectivos
 
-Colaborar con la dirección de la empresa para conseguir el establecimiento de cuantas medidas procuren el mantenimiento y el incremento de la productividad, así como la sostenibilidad ambiental de la empresa, si así está pactado en los convenios colectivos
+El comité de empresa tendrá también las siguientes competencias Colaborar con la dirección de la empresa en el establecimiento y puesta en marcha de medidas de conciliación
 
-3.º De vigilancia del respeto y aplicación del principio de igualdad de trato y de oportunidades entre mujeres y hombres, especialmente en materia salarial
-
-Colaborar con la dirección de la empresa en el establecimiento y puesta en marcha de medidas de conciliación
-
-3.º De vigilancia del respeto y aplicación del principio de igualdad de trato y de oportunidades entre mujeres y hombres, especialmente en materia salarial
-
-Informar a sus representados en todos los temas y cuestiones señalados en este artículo en cuanto directa o indirectamente tengan o puedan tener repercusión en las relaciones laborales
+El comité de empresa tendrá también las siguientes competencias Informar a sus representados en todos los temas y cuestiones señalados en este artículo en cuanto directa o indirectamente tengan o puedan tener repercusión en las relaciones laborales
 
 Lo dispuesto en el presente artículo se entenderá sin perjuicio de las disposiciones específicas previstas en otros artículos de esta ley o en otras normas legales o reglamentarias
 
@@ -2068,8 +2206,6 @@ En las elecciones a miembros del comité de empresa la elección se ajustará a 
 
 La inobservancia de cualquiera de las reglas anteriores determinará la anulabilidad de la elección del candidato o candidatos afectados
 
-Representantes de quienes presten servicios en trabajos fijos-discontinuos y de trabajadores no fijos
-
 Quienes presten servicios en trabajos fijos-discontinuos y los trabajadores vinculados por contrato de duración determinada estarán representados por los órganos que se establecen en este título conjuntamente con los trabajadores fijos de plantilla
 
 Por tanto, a efectos de determinar el número de representantes, se estará a lo siguiente Quienes presten servicios en trabajos fijos-discontinuos y los trabajadores vinculados por contrato de duración determinada superior a un año se computarán como trabajadores fijos de plantilla
@@ -2132,7 +2268,7 @@ La mesa resolverá cualquier incidencia o reclamación relativa a inclusiones, e
 
 La mesa Publicará la lista definitiva dentro de las veinticuatro horas siguientes
 
-Las candidaturas se presentarán durante los nueve días siguientes a la publicación de la lista definitiva de electores
+A continuación, la mesa, o el conjunto de ellas, determinará el número de miembros del comité que hayan de ser elegidos en aplicación de lo dispuesto en el artículo 66.Las candidaturas se presentarán durante los nueve días siguientes a la publicación de la lista definitiva de electores
 
 La proclamación se hará en los dos días laborables después de concluido dicho plazo, publicándose en los tablones referidos
 
@@ -2292,7 +2428,9 @@ Sin perjuicio de lo anterior, cuando concurran causas económicas, técnicas, or
 
 Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
 
-Mejoras voluntarias de la acción protectora de la Seguridad Social
+Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
+
+Sin perjuicio de lo anterior, cuando concurran causas económicas, técnicas, organizativas o de producción, por acuerdo entre la empresa y los representantes de los trabajadores legitimados para negociar un convenio colectivo conforme a lo previsto en el artículo 87.1, se podrá proceder, previo desarrollo de un periodo de consultas en los términos del artículo 41.4, a inaplicar en la empresa las condiciones de trabajo previstas en el convenio colectivo aplicable, sea este de sector o de empresa, que afecten a las siguientes materias Mejoras voluntarias de la acción protectora de la Seguridad Social
 
 Se entiende que concurren causas económicas cuando de los resultados de la empresa se desprenda una situación económica negativa, en casos tales como la existencia de pérdidas actuales o previstas, o la disminución persistente de su nivel de ingresos ordinarios o ventas
 
@@ -2312,11 +2450,11 @@ Asimismo, el acuerdo deberá ser notificado a la comisión paritaria del conveni
 
 En caso de desacuerdo durante el periodo de consultas cualquiera de las partes podrá someter la discrepancia a la comisión del convenio, que dispondrá de un plazo máximo de siete días para pronunciarse, a contar desde que la discrepancia le fuera planteada
 
-Cuando el periodo de consultas finalice sin acuerdo y no fueran aplicables los procedimientos a los que se refiere el párrafo anterior o estos no hubieran solucionado la discrepancia, cualquiera de las partes podrá someter la solución de la misma a la Comisión Consultiva Nacional de Convenios Colectivos cuando la inaplicación de las condiciones de trabajo afectase a centros de trabajo de la empresa situados en el territorio de más de una comunidad autónoma, o a los órganos correspondientes de las comunidades autónomas en los demás casos
+Cuando no se hubiera solicitado la intervención de la comisión o esta no hubiera alcanzado un acuerdo, las partes deberán recurrir a los procedimientos que se hayan establecido en los acuerdos interprofesionales de ámbito estatal o autonómico, previstos en el artículo 83, para solventar de manera efectiva las discrepancias surgidas en la negociación de los acuerdos a que se refiere este apartado, incluido el compromiso previo de someter las discrepancias a un arbitraje vinculante, en cuyo caso el laudo arbitral tendrá la misma eficacia que los acuerdos en periodo de consultas y solo será recurrible conforme al procedimiento y en base a los motivos establecidos en el artículo 91.Cuando el periodo de consultas finalice sin acuerdo y no fueran aplicables los procedimientos a los que se refiere el párrafo anterior o estos no hubieran solucionado la discrepancia, cualquiera de las partes podrá someter la solución de la misma a la Comisión Consultiva Nacional de Convenios Colectivos cuando la inaplicación de las condiciones de trabajo afectase a centros de trabajo de la empresa situados en el territorio de más de una comunidad autónoma, o a los órganos correspondientes de las comunidades autónomas en los demás casos
 
 La decisión de estos órganos, que podrá ser adoptada en su propio seno o por un árbitro designado al efecto por ellos mismos con las debidas garantías para asegurar su imparcialidad, habrá de dictarse en plazo no superior a veinticinco días a contar desde la fecha del sometimiento del conflicto ante dichos órganos
 
-El resultado de los procedimientos a que se refieren los párrafos anteriores que haya finalizado con la inaplicación de condiciones de trabajo deberá ser comunicado a la autoridad laboral a los solos efectos de depósito
+Tal decisión tendrá la eficacia de los acuerdos alcanzados en periodo de consultas y solo será recurrible conforme al procedimiento y en base a los motivos establecidos en el artículo 91.El resultado de los procedimientos a que se refieren los párrafos anteriores que haya finalizado con la inaplicación de condiciones de trabajo deberá ser comunicado a la autoridad laboral a los solos efectos de depósito
 
 El convenio colectivo que sucede a uno anterior puede disponer sobre los derechos reconocidos en aquel
 
@@ -2346,7 +2484,7 @@ La regulación de las condiciones establecidas en un convenio de empresa, que po
 
 La regulación de las condiciones establecidas en un convenio de empresa, que podrá negociarse en cualquier momento de la vigencia de convenios colectivos de ámbito superior, tendrá prioridad aplicativa respecto del convenio sectorial estatal, autonómico o de ámbito inferior en las siguientes materias Las medidas para favorecer la conciliación entre la vida laboral, familiar y personal
 
-Los acuerdos y convenios colectivos a que se refiere el artículo 83.2 no podrán disponer de la prioridad aplicativa prevista en este apartado
+La regulación de las condiciones establecidas en un convenio de empresa, que podrá negociarse en cualquier momento de la vigencia de convenios colectivos de ámbito superior, tendrá prioridad aplicativa respecto del convenio sectorial estatal, autonómico o de ámbito inferior en las siguientes materias Aquellas otras que dispongan los acuerdos y convenios colectivos a que se refiere el artículo 83.2.Igual prioridad aplicativa tendrán en estas materias los convenios colectivos para un grupo de empresas o una pluralidad de empresas vinculadas por razones organizativas o productivas y nominativamente identificadas a que se refiere el artículo 87.1.Los acuerdos y convenios colectivos a que se refiere el artículo 83.2 no podrán disponer de la prioridad aplicativa prevista en este apartado
 
 Salvo pacto en contrario negociado según el artículo 83.2, los sindicatos y las asociaciones empresariales que reúnan los requisitos de legitimación de los artículos 87 y 88 podrán, en el ámbito de una comunidad autónoma, negociar acuerdos o convenios que afecten a lo dispuesto en los de ámbito estatal siempre que dicha decisión obtenga el respaldo de las mayorías exigidas para constituir la comisión negociadora en la correspondiente unidad de negociación
 
@@ -2472,6 +2610,8 @@ Sin perjuicio de las competencias legalmente atribuidas a la jurisdicción socia
 
 No obstante lo establecido en el apartado anterior, en los convenios colectivos y en los acuerdos a que se refiere el artículo 83.2 y 3, se podrán establecer procedimientos, como la mediación y el arbitraje, para la solución de las controversias colectivas derivadas de la aplicación e interpretación de los convenios colectivos
 
+El acuerdo logrado a través de la mediación y el laudo arbitral tendrán la misma eficacia jurídica y tramitación que los convenios colectivos regulados en esta ley, siempre que quienes hubiesen adoptado el acuerdo o suscrito el compromiso arbitral tuviesen la legitimación que les permita acordar, en el ámbito del conflicto, un convenio colectivo conforme a lo previsto en los artículos 87, 88 y 89.
+
 Estos acuerdos y laudos serán susceptibles de impugnación por los motivos y conforme a los procedimientos previstos para los convenios colectivos
 
 Específicamente cabrá el recurso contra el laudo arbitral en el caso de que no se hubiesen observado en el desarrollo de la actuación arbitral los requisitos y formalidades establecidos al efecto, o cuando el laudo hubiese resuelto sobre puntos no sometidos a su decisión
@@ -2488,41 +2628,21 @@ El Ministerio de Empleo y Seguridad Social, o el órgano correspondiente de las 
 
 La decisión de extensión se adoptará siempre a instancia de parte y mediante la tramitación del procedimiento que reglamentariamente se determine, cuya duración no podrá exceder de tres meses, teniendo la ausencia de resolución expresa en el plazo establecido efectos desestimatorios de la solicitud
 
-Disposición adicional primera
-
-Trabajo por cuenta propia
+Tendrán capacidad para iniciar el procedimiento de extensión quienes se hallen legitimados para promover la negociación colectiva en el ámbito correspondiente conforme a lo dispuesto en el artículo 87.2 y 3.
 
 El trabajo realizado por cuenta propia no estará sometido a la legislación laboral, excepto en aquellos aspectos que por precepto legal se disponga expresamente
-
-El trabajo Disposición adicional segunda
-
-El trabajo Contratos para la formación y el aprendizaje
 
 El límite de edad y de duración para los contratos para la formación y el aprendizaje establecidos en las letras a) y b) del artículo 11.2 no será de aplicación cuando se suscriban en el marco de los programas públicos de empleo y formación contemplados en el texto refundido de la Ley de Empleo
 
 Asimismo, en estos contratos las situaciones de incapacidad temporal, riesgo durante el embarazo, maternidad, adopción, guarda con fines de adopción, acogimiento, riesgo durante la lactancia y paternidad no interrumpirán el cómputo de la duración del contrato
 
-(Derogado).Disposición adicional tercera
-
-Negociación colectiva y contrato fijo de obra
-
 Lo dispuesto en el artículo 15.1.a) y 5 y en el artículo 49.1.c) se entiende sin perjuicio de lo que se establece o pueda establecerse sobre la regulación del contrato fijo de obra, incluida su indemnización por cese, en la negociación colectiva de conformidad con la disposición adicional tercera de la Ley 32/2006, de 18 de octubre, reguladora de la subcontratación en el sector de la construcción
-
-Disposición adicional cuarta
-
-Conceptos retributivos
 
 Las modificaciones introducidas por la Ley 11/1994, de 19 de mayo, por la que se modifican determinados artículos del Estatuto de los Trabajadores, y del texto articulado de la Ley de Procedimiento Laboral y de la Ley sobre Infracciones y Sanciones en el Orden Social, en la regulación legal del salario no afectarán a los conceptos retributivos que tuvieran reconocidos los trabajadores hasta el 12 de junio de 1994, que se mantendrán en los mismos términos que rigieran en ese momento hasta que por convenio colectivo se establezca un régimen salarial que conlleve la desaparición o modificación de dichos conceptos
 
-un régimen Disposición adicional quinta
+Las retribuciones del personal de alta dirección gozarán de las garantías del salario establecidas en los artículos 27.2, 29, 32 y 33.
 
-un régimen Personal de alta dirección
-
-Disposición adicional sexta
-
-Representación institucional de los empresarios
-
-A efectos de ostentar representación institucional en defensa de intereses generales de los empresarios ante las Administraciones Públicas y otras entidades u organismos de carácter estatal o de comunidad autónoma que la tengan prevista, se entenderá que gozan de esta capacidad representativa las asociaciones empresariales que cuenten con el diez por ciento o más de las empresas y trabajadores en el ámbito estatal
+Las retribuciones A efectos de ostentar representación institucional en defensa de intereses generales de los empresarios ante las Administraciones Públicas y otras entidades u organismos de carácter estatal o de comunidad autónoma que la tengan prevista, se entenderá que gozan de esta capacidad representativa las asociaciones empresariales que cuenten con el diez por ciento o más de las empresas y trabajadores en el ámbito estatal
 
 Asimismo, podrán también estar representadas las asociaciones empresariales de comunidad autónoma que cuenten en esta con un mínimo del quince por ciento de los empresarios y trabajadores
 
@@ -2530,25 +2650,13 @@ No estarán comprendidas en este supuesto las asociaciones empresariales que est
 
 Las organizaciones empresariales que tengan la condición de más representativas con arreglo a esta disposición adicional gozarán de capacidad para obtener cesiones temporales del uso de inmuebles patrimoniales públicos en los términos que se establezcan legalmente
 
-Las organizaciones Disposición adicional séptima
-
-Las organizaciones Regulación de condiciones por rama de actividad
-
 La regulación de condiciones de trabajo por rama de actividad para los sectores económicos de la producción y demarcaciones territoriales en que no exista convenio colectivo podrá realizarse por el Gobierno, a propuesta del Ministerio de Empleo y Seguridad Social, previas las consultas que considere oportunas a las asociaciones empresariales y organizaciones sindicales, sin perjuicio de lo dispuesto en el artículo 92, que será siempre procedimiento prioritario
-
-las consultas Disposición adicional octava
-
-las consultas Código de Trabajo
 
 El Gobierno, a propuesta del Ministerio de Empleo y Seguridad Social, recogerá en un texto único denominado Código de Trabajo, las distintas leyes orgánicas y ordinarias que, junto con la presente, regulan las materias laborales, ordenándolas en títulos separados, uno por ley, con numeración correlativa, respetando íntegramente su texto literal
 
 Asimismo se incorporarán sucesiva y periódicamente a dicho Código de Trabajo todas las disposiciones generales laborales mediante el procedimiento que se fije por el Gobierno en cuanto a la técnica de incorporación, según el rango de las normas incorporadas
 
-las disposiciones Disposición adicional novena
-
-las disposiciones Comisión Consultiva Nacional de Convenios Colectivos
-
-El estudio, información y elaboración de documentación sobre la negociación colectiva, así como la difusión de la misma mediante el Observatorio de la Negociación Colectiva
+La Comisión Consultiva Nacional de Convenios Colectivos, como órgano colegiado, adscrito al Ministerio de Empleo y Seguridad Social a través de la Dirección General de Empleo, de carácter tripartito y paritario e integrado por representantes de la Administración General del Estado, así como de las organizaciones empresariales y sindicales más representativas, tendrá las siguientes funciones El estudio, información y elaboración de documentación sobre la negociación colectiva, así como la difusión de la misma mediante el Observatorio de la Negociación Colectiva
 
 Reglamentariamente se establecerá la composición y organización de la Comisión Consultiva Nacional de Convenios Colectivos, así como sus procedimientos de actuación
 
@@ -2558,47 +2666,19 @@ Para el desarrollo de las funciones establecidas en esta ley, la Comisión Consu
 
 Si alguna comunidad autónoma no tuviera constituido y en funcionamiento un órgano tripartito equivalente a la Comisión Consultiva Nacional de Convenios Colectivos ni mantuviera convenio de colaboración en vigor con el Ministerio de Empleo y Seguridad Social acordando la actuación de la Comisión en el ámbito territorial de esa comunidad, la Comisión Consultiva Nacional de Convenios Colectivos podrá, subsidiariamente y en tanto en cuanto no se constituyan y estén en funcionamiento dichos órganos tripartitos equivalentes, conocer de las solicitudes presentadas por las empresas y los representantes legales de los trabajadores para dar solución a las discrepancias surgidas por falta de acuerdo sobre la inaplicación de las condiciones de trabajo, presentes en el convenio colectivo de aplicación, cuando dicha inaplicación afecte a centros de trabajo de la empresa situados en el territorio de dicha comunidad autónoma
 
-inaplicación Disposición adicional décima
-
-inaplicación Cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación
-
 Los convenios colectivos podrán establecer cláusulas que posibiliten la extinción del contrato de trabajo por el cumplimiento por parte del trabajador de la edad legal de jubilación fijada en la normativa de Seguridad Social, siempre que se cumplan los siguientes requisitos El trabajador afectado por la extinción del contrato de trabajo deberá cumplir los requisitos exigidos por la normativa de Seguridad Social para tener derecho al cien por ciento de la pensión ordinaria de jubilación en su modalidad contributiva
 
 Si alguna comunidad autónoma no tuviera constituido y en funcionamiento un órgano tripartito equivalente a la Comisión Consultiva Nacional de Convenios Colectivos ni mantuviera convenio de colaboración en vigor con el Ministerio de Empleo y Seguridad Social acordando la actuación de la Comisión en el ámbito territorial de esa comunidad, la Comisión Consultiva Nacional de Convenios Colectivos podrá, subsidiariamente y en tanto en cuanto no se constituyan y estén en funcionamiento dichos órganos tripartitos equivalentes, conocer de las solicitudes presentadas por las empresas y los representantes legales de los trabajadores para dar solución a las discrepancias surgidas por falta de acuerdo sobre la inaplicación de las condiciones de trabajo, presentes en el convenio colectivo de aplicación, cuando dicha inaplicación afecte a centros de trabajo de la empresa situados en el territorio de dicha comunidad autónoma
 
-inaplicación Disposición adicional décima
-
-inaplicación Cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación
-
 Los convenios colectivos podrán establecer cláusulas que posibiliten la extinción del contrato de trabajo por el cumplimiento por parte del trabajador de la edad legal de jubilación fijada en la normativa de Seguridad Social, siempre que se cumplan los siguientes requisitos La medida deberá vincularse a objetivos coherentes de política de empleo expresados en el convenio colectivo, tales como la mejora de la estabilidad en el empleo por la transformación de contratos temporales en indefinidos, la contratación de nuevos trabajadores, el relevo generacional o cualesquiera otras dirigidas a favorecer la calidad del empleo
-
-la contratación Disposición adicional undécima
-
-la contratación Acreditación de la capacidad representativa de las organizaciones sindicales
 
 A los efectos de expedición de las certificaciones acreditativas de la capacidad representativa de las organizaciones sindicales en el ámbito estatal prevista en el artículo 75.7, las comunidades autónomas deberán remitir mensualmente copia de las actas electorales registradas a la oficina pública estatal
 
-las comunidades Disposición adicional duodécima
-
-las comunidades Preavisos
-
 El Gobierno podrá reducir el plazo mínimo de preaviso de un mes previsto en el párrafo segundo del artículo 67.1, en los sectores de actividad con alta movilidad del personal, previa consulta con las organizaciones sindicales que en ese ámbito funcional ostenten, al menos, el diez por ciento de los representantes de los trabajadores, y con las asociaciones empresariales que cuenten con el diez por ciento de los empresarios y de los trabajadores afectados por el mismo ámbito funcional
-
-El Gobierno Disposición adicional decimotercera
-
-El Gobierno Solución no judicial de conflictos
 
 El Gobierno En el supuesto de que, aun no habiéndose pactado en el convenio colectivo aplicable un procedimiento para resolver las discrepancias en los periodos de consultas, se hubieran establecido, conforme al artículo 83, órganos o procedimientos no judiciales de solución de conflictos en el ámbito territorial correspondiente, quienes sean parte en dichos periodos de consultas podrán someter de común acuerdo su controversia a dichos órganos
 
-El Gobierno Disposición adicional decimocuarta
-
-El Gobierno Consideración de víctimas del terrorismo a efectos laborales
-
 Se consideran incluidas a efectos de lo dispuesto en los artículos 37.8 y 40.4 las personas a las que se refieren los artículos 5 y 33 de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo
-
-los artículos Disposición adicional decimoquinta
-
-los artículos Aplicación de los límites de duración del contrato por obra o servicio determinados y al encadenamiento de contratos en las Administraciones Públicas
 
 Lo dispuesto en el artículo 15.1.a) en materia de duración máxima del contrato por obra o servicio determinados y en el artículo 15.5 sobre límites al encadenamiento de contratos surtirá efectos en el ámbito de las Administraciones Públicas y sus organismos públicos vinculados o dependientes, sin perjuicio de la aplicación de los principios constitucionales de igualdad, mérito y capacidad en el acceso al empleo público, por lo que no será obstáculo para la obligación de proceder a la cobertura de los puestos de trabajo de que se trate a través de los procedimientos ordinarios, de acuerdo con lo establecido en la normativa aplicable
 
@@ -2610,10 +2690,6 @@ Para la aplicación del límite al encadenamiento de contratos previsto en el ar
 
 los organismos En todo caso, lo dispuesto en dicho artículo 15.5 no será de aplicación respecto de las modalidades particulares de contrato de trabajo contempladas en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades o en cualesquiera otras normas con rango de ley
 
-los organismos Disposición adicional decimosexta
-
-los organismos Aplicación del despido por causas económicas, técnicas, organizativas o de producción en el sector público
-
 El despido por causas económicas, técnicas, organizativas o de producción del personal laboral al servicio de los entes, organismos y entidades que forman parte del sector público de acuerdo con el artículo 3.1 del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, se efectuará conforme a lo dispuesto en los artículos 51 y 52.c) de la presente ley y sus normas de desarrollo y en el marco de los mecanismos preventivos y correctivos regulados en la normativa de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas
 
 A efectos de las causas de estos despidos en las Administraciones Públicas, entendiendo como tales, a los entes, organismos y entidades a que se refiere el artículo 3.2 del texto refundido de la Ley de Contratos del Sector Público, se entenderá que concurren causas económicas cuando se produzca en las mismas una situación de insuficiencia presupuestaria sobrevenida y persistente para la financiación de los servicios públicos correspondientes
@@ -2624,27 +2700,13 @@ Se entenderá que concurren causas técnicas, cuando se produzcan cambios, entre
 
 Tendrá prioridad de permanencia el personal laboral fijo que hubiera adquirido esta condición, de acuerdo con los principios de igualdad, mérito y capacidad, a través de un procedimiento selectivo de ingreso convocado al efecto, cuando así lo establezcan los entes, organismos y entidades a que se refiere el párrafo anterior
 
-el párrafo Disposición adicional decimoséptima
-
-el párrafo Suspensión del contrato de trabajo y reducción de jornada en las Administraciones Públicas
-
 el párrafo Lo previsto en el artículo 47 no será de aplicación a las Administraciones Públicas y a las entidades de derecho público vinculadas o dependientes de una o varias de ellas y de otros organismos públicos, salvo a aquellas que se financien mayoritariamente con ingresos obtenidos como contrapartida de operaciones realizadas en el mercado
-
-el párrafo Disposición adicional decimoctava
-
-el párrafo Discrepancias en materia de conciliación
 
 Las discrepancias que surjan entre empresarios y trabajadores en relación con el ejercicio de los derechos de conciliación de la vida personal, familiar y laboral reconocidos legal o convencionalmente se resolverán por la jurisdicción social a través del procedimiento establecido en el artículo 139 de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social
 
-Las discrepancias Disposición adicional decimonovena
-
-Las discrepancias Cálculo de indemnizaciones en determinados supuestos de jornada reducida
-
 En los supuestos de reducción de jornada contemplados en el artículo 37.4 en su párrafo final, así como en sus apartados 5, 6 y 8, el salario a tener en cuenta a efectos del cálculo de las indemnizaciones previstas en esta ley será el que hubiera correspondido a la persona trabajadora sin considerar la reducción de jornada efectuada, siempre y cuando no hubiera transcurrido el plazo máximo legalmente establecido para dicha reducción
 
-Disposición adicional vigésima
-
-Contratos formativos celebrados con trabajadores con discapacidad
+Igualmente, será de aplicación lo dispuesto en el párrafo anterior en los supuestos de ejercicio a tiempo parcial de los derechos según lo establecido en el séptimo párrafo del artículo 48.4 y en el segundo párrafo del artículo 48.5.
 
 Las empresas que celebren contratos en prácticas con trabajadores con discapacidad tendrán derecho a una reducción, durante la vigencia del contrato, del cincuenta por ciento de la cuota empresarial de la Seguridad Social correspondiente a contingencias comunes
 
@@ -2652,25 +2714,13 @@ Las empresas que celebren contratos para la formación y el aprendizaje con trab
 
 Continuarán siendo de aplicación a los contratos para la formación y el aprendizaje que se celebren con trabajadores con discapacidad que trabajen en centros especiales de empleo las peculiaridades que para dichos contratos se prevén en el artículo 7 del Real Decreto 1368/1985, de 17 de julio, por el que se regula la relación laboral de carácter especial de los minusválidos que trabajen en los Centros Especiales de Empleo
 
-la relación Disposición adicional vigesimoprimera
-
-la relación Sustitución de trabajadores excedentes por cuidado de familiares
-
 Los contratos de interinidad que se celebren con beneficiarios de prestaciones por desempleo, de nivel contributivo o asistencial, que lleven más de un año como perceptores, para sustituir a trabajadores que estén en la situación de excedencia a que se refiere el artículo 46.3, darán derecho a una reducción en las cotizaciones empresariales a la Seguridad Social por contingencias comunes en las cuantías que se especifican a continuación Noventa y cinco por ciento durante el primer año de excedencia del trabajador que se sustituye
 
 Continuarán siendo de aplicación a los contratos para la formación y el aprendizaje que se celebren con trabajadores con discapacidad que trabajen en centros especiales de empleo las peculiaridades que para dichos contratos se prevén en el artículo 7 del Real Decreto 1368/1985, de 17 de julio, por el que se regula la relación laboral de carácter especial de los minusválidos que trabajen en los Centros Especiales de Empleo
 
-la relación Disposición adicional vigesimoprimera
-
-la relación Sustitución de trabajadores excedentes por cuidado de familiares
-
 Los contratos de interinidad que se celebren con beneficiarios de prestaciones por desempleo, de nivel contributivo o asistencial, que lleven más de un año como perceptores, para sustituir a trabajadores que estén en la situación de excedencia a que se refiere el artículo 46.3, darán derecho a una reducción en las cotizaciones empresariales a la Seguridad Social por contingencias comunes en las cuantías que se especifican a continuación Sesenta por ciento durante el segundo año de excedencia del trabajador que se sustituye
 
 Continuarán siendo de aplicación a los contratos para la formación y el aprendizaje que se celebren con trabajadores con discapacidad que trabajen en centros especiales de empleo las peculiaridades que para dichos contratos se prevén en el artículo 7 del Real Decreto 1368/1985, de 17 de julio, por el que se regula la relación laboral de carácter especial de los minusválidos que trabajen en los Centros Especiales de Empleo
-
-la relación Disposición adicional vigesimoprimera
-
-la relación Sustitución de trabajadores excedentes por cuidado de familiares
 
 Los contratos de interinidad que se celebren con beneficiarios de prestaciones por desempleo, de nivel contributivo o asistencial, que lleven más de un año como perceptores, para sustituir a trabajadores que estén en la situación de excedencia a que se refiere el artículo 46.3, darán derecho a una reducción en las cotizaciones empresariales a la Seguridad Social por contingencias comunes en las cuantías que se especifican a continuación Cincuenta por ciento durante el tercer año de excedencia del trabajador que se sustituye
 
@@ -2684,41 +2734,17 @@ Las contrataciones Permisos de nacimiento, adopción, del progenitor diferente d
 
 Las contrataciones Resultarán de aplicación al personal laboral de las Administraciones públicas los permisos de nacimiento, adopción, del progenitor diferente de la madre biológica y lactancia regulados en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, no siendo de aplicación a este personal, por tanto, las previsiones de la presente Ley sobre las suspensiones de los contratos de trabajo que, en su caso, corresponderían por los mismos supuestos de hecho
 
-Las contrataciones Disposición transitoria primera
-
-Las contrataciones Contratos celebrados antes de la entrada en vigor de esta ley
-
 Continuarán siendo de aplicación a los contratos celebrados antes de la entrada en vigor de esta ley las normas específicas aplicables a cada una de las modalidades contractuales que estuvieran vigentes en el momento en que dichos contratos se concertaron, salvo que otra cosa se hubiera establecido legalmente
-
-otra cosa Disposición transitoria segunda
-
-otra cosa Contratos para la formación y el aprendizaje
 
 Las referencias realizadas en las disposiciones legales, reglamentarias o en los convenios colectivos al contrato para la formación deberán entenderse realizadas, a partir del 31 de agosto de 2011, al contrato para la formación y el aprendizaje a que se refiere el artículo 11.2 en la medida en que no se opongan o contradigan lo establecido en el mismo
 
-el artículo Disposición transitoria tercera
-
-el artículo Contratos a tiempo parcial por jubilación parcial y de relevo y edad de jubilación
-
 A efectos de lo establecido los artículos 12.6 y 7, se tendrán en cuenta las edades previstas en el texto refundido de la Ley General de la Seguridad Social
-
-las edades Disposición transitoria cuarta
-
-las edades Negociación colectiva y modalidades contractuales
 
 las edades Lo dispuesto en el artículo 15.1.a) en materia de duración máxima del contrato se entiende sin perjuicio de lo que estuviera establecido en los convenios colectivos sectoriales vigentes a 19 de septiembre de 2010 sobre la duración máxima del contrato por obra o servicio determinados
 
-las edades Disposición transitoria quinta
-
-las edades Limitación del encadenamiento de modalidades contractuales
-
 A los efectos de lo establecido en el artículo 15.5, quedará excluido del cómputo del plazo de veinticuatro meses y del periodo de treinta meses a que se refiere el citado artículo el tiempo transcurrido entre el 31 de agosto de 2011 y el 31 de diciembre de 2012, haya existido o no prestación de servicios por el trabajador entre dichas fechas, computándose en todo caso a los efectos de lo indicado en dicho artículo los periodos de servicios transcurridos, respectivamente, con anterioridad o posterioridad a las mismas
 
-el tiempo Disposición transitoria sexta
-
-el tiempo Horas complementarias
-
-Disposición transitoria séptima
+El régimen de horas complementarias pactado con anterioridad al 22 de diciembre de 2013 continuará siendo de aplicación en los contratos vigentes a dicha fecha, salvo que las partes acuerden modificarlo en los términos establecidos en la actual redacción de los apartados 4 y 5 del artículo 12.Disposición transitoria séptima
 
 Duración del permiso de paternidad en los casos de nacimiento, adopción, guarda con fines de adopción o acogimiento hasta la entrada en vigor de la Ley 9/2009, de 6 de octubre
 
@@ -2728,29 +2754,11 @@ De conformidad con la disposición adicional sexta de la Ley 2/2008, de 23 de di
 
 La duración indicada se ampliará en los supuestos de parto, adopción, guarda con fines de adopción o acogimiento múltiples en dos días más por cada hijo o menor a partir del segundo, o si uno de ellos es una persona con discapacidad
 
-Ref
-
-BOE-A-2009-15958Disposición transitoria octava
-
-Indemnización por finalización de contrato temporal
-
 La indemnización por finalización del contrato a la que se refiere el citado artículo 49.1.c) no será de aplicación a las extinciones de contratos celebrados con anterioridad al 4 de marzo de 2001, cualquiera que sea la fecha de su extinción
-
-artículo Disposición transitoria novena
-
-artículo Normas transitorias en relación con las cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación
-
-artículo (Derogado).Disposición transitoria décima
-
-artículo Régimen aplicable a expedientes de regulación de empleo iniciados conforme a la normativa anterior
 
 Los expedientes de regulación de empleo para la extinción o suspensión de los contratos de trabajo o para la reducción de jornada que estuvieran en tramitación a 12 de febrero de 2012 se regirán por la normativa vigente en el momento de su inicio
 
 Los expedientes de regulación de empleo para la extinción o la suspensión de los contratos de trabajo o para la reducción de jornada resueltos por la autoridad laboral y con vigencia en su aplicación a 12 de febrero de 2012 se regirán por la normativa en vigor cuando se dictó la resolución del expediente
-
-la resolución Disposición transitoria undécima
-
-la resolución Indemnizaciones por despido improcedente
 
 La indemnización por despido improcedente de los contratos formalizados con anterioridad al 12 de febrero de 2012 se calculará a razón de cuarenta y cinco días de salario por año de servicio por el tiempo de prestación de servicios anterior a dicha fecha, prorrateándose por meses los periodos de tiempo inferiores a un año, y a razón de treinta y tres días de salario por año de servicio por el tiempo de prestación de servicios posterior, prorrateándose igualmente por meses los periodos de tiempo inferiores a un año
 
@@ -2758,11 +2766,9 @@ El importe indemnizatorio resultante no podrá ser superior a setecientos veinte
 
 A efectos de indemnización por extinción por causas objetivas, los contratos de fomento de la contratación indefinida celebrados con anterioridad al 12 de febrero de 2012 continuarán rigiéndose por la normativa a cuyo amparo se concertaron
 
-Disposición transitoria duodécima
+En caso de despido disciplinario, la indemnización por despido improcedente se calculará conforme a lo dispuesto en el apartado 2.
 
-Salarios de tramitación
-
-Disposición transitoria decimotercera
+Lo dispuesto en el artículo 56.5 será de aplicación a los expedientes de reclamación al Estado de salarios de tramitación en los que no hubiera recaído sentencia firme de despido el 15 de julio de 2012.Disposición transitoria decimotercera
 
 Aplicación paulatina del artículo 48 en la redacción por el Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación
 
@@ -2772,13 +2778,17 @@ Los apartados 4, 5, y 6 del artículo 48, en la redacción dada por el Real Decr
 
 La madre biológica podrá ceder al otro progenitor un periodo de hasta cuatro semanas de su periodo de suspensión de disfrute no obligatorio
 
-A partir de la entrada en vigor del Real Decreto-ley 6/2019, de 1 de marzo, en el caso de adopción, guarda con fines de adopción o acogimiento, cada progenitor dispondrá de un periodo de suspensión de seis semanas a disfrutar a tiempo completo de forma obligatoria e ininterrumpida inmediatamente después de la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento
+Los apartados 4, 5, y 6 del artículo 48, en la redacción dada por el Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, serán de aplicación gradual conforme a las siguientes reglas A partir de la entrada en vigor del Real Decreto-ley 6/2019, de 1 de marzo, en el caso de adopción, guarda con fines de adopción o acogimiento, cada progenitor dispondrá de un periodo de suspensión de seis semanas a disfrutar a tiempo completo de forma obligatoria e ininterrumpida inmediatamente después de la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento
 
 Cada progenitor podrá disfrutar individualmente de un máximo de diez semanas sobre las doce semanas totales de disfrute voluntario, quedando las restantes sobre el total de las doce semanas a disposición del otro progenitor
 
 Cuando los dos progenitores que ejerzan este derecho trabajen para la misma empresa, ésta podrá limitar el disfrute simultáneo de las doce semanas voluntarias por razones fundadas y objetivas, debidamente motivadas por escrito
 
 A partir de 1 de enero de 2020, en el caso de nacimiento, el otro progenitor contará con un periodo de suspensión total de doce semanas, de las cuales las cuatro primeras deberá disfrutarlas de forma ininterrumpida inmediatamente tras el parto
+
+Cada progenitor podrá disfrutar individualmente de un máximo de diez semanas sobre las doce semanas totales de disfrute voluntario, quedando las restantes sobre el total de las doce semanas a disposición del otro progenitor
+
+Cuando los dos progenitores que ejerzan este derecho trabajen para la misma empresa, ésta podrá limitar el disfrute simultáneo de las doce semanas voluntarias por razones fundadas y objetivas, debidamente motivadas por escrito
 
 A partir de 1 de enero de 2020, en el caso de adopción, guarda con fines de adopción o acogimiento, cada progenitor dispondrá de un periodo de suspensión de seis semanas a disfrutar a tiempo completo de forma obligatoria e ininterrumpida inmediatamente después de la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento
 
@@ -2788,25 +2798,15 @@ Cuando los dos progenitores que ejerzan este derecho trabajen para la misma empr
 
 A partir de 1 de enero de 2021, cada progenitor disfrutará de igual periodo de suspensión del contrato de trabajo, incluyendo seis semanas de permiso obligatorio para cada uno de ellos, siendo de aplicación íntegra la nueva regulación dispuesta en el Real Decreto-ley 6/2019, de 1 de marzo
 
-En el caso de nacimiento, el otro progenitor podrá seguir haciendo uso del periodo de suspensión inicialmente cedido por la madre biológica aunque, en el momento previsto para la reincorporación de la madre al trabajo, ésta se encuentre en situación de incapacidad temporal
+En tanto no se produzca la total equiparación en los periodos de suspensión de ambos progenitores, y en el periodo de aplicación paulatina, el nuevo sistema se aplicará con las siguientes particularidades En el caso de nacimiento, el otro progenitor podrá seguir haciendo uso del periodo de suspensión inicialmente cedido por la madre biológica aunque, en el momento previsto para la reincorporación de la madre al trabajo, ésta se encuentre en situación de incapacidad temporal
 
-En el caso de que un progenitor no tuviese derecho a suspender su actividad profesional con derecho a prestaciones de acuerdo con las normas que regulen dicha actividad, el otro progenitor tendrá derecho a suspender su contrato de trabajo por la totalidad de 16 semanas, sin que le sea aplicable ninguna limitación del régimen transitorio
+En tanto no se produzca la total equiparación en los periodos de suspensión de ambos progenitores, y en el periodo de aplicación paulatina, el nuevo sistema se aplicará con las siguientes particularidades En el caso de que un progenitor no tuviese derecho a suspender su actividad profesional con derecho a prestaciones de acuerdo con las normas que regulen dicha actividad, el otro progenitor tendrá derecho a suspender su contrato de trabajo por la totalidad de 16 semanas, sin que le sea aplicable ninguna limitación del régimen transitorio
 
-En el caso de nacimiento, el otro progenitor podrá seguir haciendo uso del periodo de suspensión inicialmente cedido por la madre biológica aunque, en el momento previsto para la reincorporación de la madre al trabajo, ésta se encuentre en situación de incapacidad temporal
-
-En los supuestos de adopción, de guarda con fines de adopción y de acogimiento, de acuerdo con el artículo 45.1.d), en caso de que ambos progenitores trabajen, el periodo de suspensión se distribuirá a opción de los interesados, que podrán disfrutarlo de forma simultánea o sucesiva, dentro de los límites de disfrute compartido establecidos para cada año del periodo transitorio
+En tanto no se produzca la total equiparación en los periodos de suspensión de ambos progenitores, y en el periodo de aplicación paulatina, el nuevo sistema se aplicará con las siguientes particularidades En los supuestos de adopción, de guarda con fines de adopción y de acogimiento, de acuerdo con el artículo 45.1.d), en caso de que ambos progenitores trabajen, el periodo de suspensión se distribuirá a opción de los interesados, que podrán disfrutarlo de forma simultánea o sucesiva, dentro de los límites de disfrute compartido establecidos para cada año del periodo transitorio
 
 Los periodos a los que se refieren dichos apartados podrán disfrutarse en régimen de jornada completa o a tiempo parcial, previo acuerdo entre los empresarios y los trabajadores afectados, en los términos que reglamentariamente se determinen
 
-apartados Disposición final primera
-
-apartados Título competencial
-
-Esta ley se dicta de acuerdo con lo establecido en el artículo 149.1.7.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de legislación laboral sin perjuicio de su ejecución por los órganos de las comunidades autónomas
-
-Esta ley Disposición final segunda
-
-Esta ley Desarrollo reglamentario
+Esta ley se dicta de acuerdo con lo establecido en el artículo 149.1.de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de legislación laboral sin perjuicio de su ejecución por los órganos de las comunidades autónomas
 
 El Gobierno dictará las disposiciones que sean precisas para el desarrollo de esta ley
 
