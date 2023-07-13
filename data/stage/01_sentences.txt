@@ -280,13 +280,9 @@ La retribución del trabajador contratado para la formación y el aprendizaje se
 
 En ningún caso, la retribución podrá ser inferior al salario mínimo interprofesional en proporción al tiempo de trabajo efectivo
 
-Tampoco podrán realizar trabajos nocturnos ni trabajo a turnos
-
 La acción protectora de la Seguridad Social del trabajador contratado para la formación y el aprendizaje comprenderá todas las contingencias protegibles y prestaciones, incluido el desempleo
 
-el desempleo Asimismo, se tendrá derecho a la cobertura del Fondo de Garantía Salarial
-
-Tampoco podrán realizar trabajos nocturnos ni trabajo a turnos
+Asimismo, se tendrá derecho a la cobertura del Fondo de Garantía Salarial
 
 En la negociación colectiva se fijarán criterios y procedimientos tendentes a conseguir una presencia equilibrada de hombres y mujeres vinculados a la empresa mediante contratos formativos
 
@@ -310,7 +306,15 @@ De no observarse estas exigencias, el contrato se presumirá celebrado a jornada
 
 El contrato a tiempo parcial se regirá por las siguientes reglas Cuando el contrato a tiempo parcial conlleve la ejecución de una jornada diaria inferior a la de los trabajadores a tiempo completo y esta se realice de forma partida, solo será posible efectuar una única interrupción en dicha jornada diaria, salvo que se disponga otra cosa mediante convenio colectivo
 
-El contrato a tiempo parcial se regirá por las siguientes reglas Los trabajadores a tiempo parcial no podrán realizar horas extraordinarias, salvo en los supuestos a los que se refiere el artículo 35.3.La realización de horas complementarias se regirá por lo dispuesto en el apartado 5.En todo caso, la suma de las horas ordinarias y complementarias, incluidas las previamente pactadas y las voluntarias, no podrá exceder del límite legal del trabajo a tiempo parcial definido en el apartado 1.A estos efectos, la jornada de los trabajadores a tiempo parcial se registrará día a día y se totalizará mensualmente, entregando copia al trabajador, junto con el recibo de salarios, del resumen de todas las horas realizadas en cada mes, tanto las ordinarias como las complementarias a que se refiere el apartado 5.El empresario deberá conservar los resúmenes mensuales de los registros de jornada durante un periodo mínimo de cuatro años
+El contrato a tiempo parcial se regirá por las siguientes reglas Los trabajadores a tiempo parcial no podrán realizar horas extraordinarias, salvo en los supuestos a los que se refiere el artículo 35.3.
+
+La realización de horas complementarias se regirá por lo dispuesto en el apartado 5.
+
+En todo caso, la suma de las horas ordinarias y complementarias, incluidas las previamente pactadas y las voluntarias, no podrá exceder del límite legal del trabajo a tiempo parcial definido en el apartado 1.
+
+A estos efectos, la jornada de los trabajadores a tiempo parcial se registrará día a día y se totalizará mensualmente, entregando copia al trabajador, junto con el recibo de salarios, del resumen de todas las horas realizadas en cada mes, tanto las ordinarias como las complementarias a que se refiere el apartado 5.
+
+El empresario deberá conservar los resúmenes mensuales de los registros de jornada durante un periodo mínimo de cuatro años
 
 En caso de incumplimiento de las referidas obligaciones de registro, el contrato se presumirá celebrado a jornada completa, salvo prueba en contrario que acredite el carácter parcial de los servicios
 
@@ -318,7 +322,9 @@ El contrato a tiempo parcial se regirá por las siguientes reglas Las personas t
 
 Cuando corresponda en atención a su naturaleza, tales derechos serán reconocidos en las disposiciones legales y reglamentarias y en los convenios colectivos de manera proporcional, en función del tiempo trabajado, debiendo garantizarse en todo caso la ausencia de discriminación, tanto directa como indirecta, entre mujeres y hombres
 
-El contrato a tiempo parcial se regirá por las siguientes reglas La conversión de un trabajo a tiempo completo en un trabajo parcial y viceversa tendrá siempre carácter voluntario para el trabajador y no se podrá imponer de forma unilateral o como consecuencia de una modificación sustancial de condiciones de trabajo al amparo de lo dispuesto en el artículo 41.1.a). El trabajador no podrá ser despedido ni sufrir ningún otro tipo de sanción o efecto perjudicial por el hecho de rechazar esta conversión, sin perjuicio de las medidas que, de conformidad con lo dispuesto en los artículos 51 y 52.c), puedan adoptarse por causas económicas, técnicas, organizativas o de producción
+El contrato a tiempo parcial se regirá por las siguientes reglas La conversión de un trabajo a tiempo completo en un trabajo parcial y viceversa tendrá siempre carácter voluntario para el trabajador y no se podrá imponer de forma unilateral o como consecuencia de una modificación sustancial de condiciones de trabajo al amparo de lo dispuesto en el artículo 41.1.a).
+
+El trabajador no podrá ser despedido ni sufrir ningún otro tipo de sanción o efecto perjudicial por el hecho de rechazar esta conversión, sin perjuicio de las medidas que, de conformidad con lo dispuesto en los artículos 51 y 52.c), puedan adoptarse por causas económicas, técnicas, organizativas o de producción
 
 A fin de posibilitar la movilidad voluntaria en el trabajo a tiempo parcial, el empresario deberá informar a los trabajadores de la empresa sobre la existencia de puestos de trabajo vacantes, de manera que aquellos puedan formular solicitudes de conversión voluntaria de un trabajo a tiempo completo en un trabajo a tiempo parcial y viceversa, o para el incremento del tiempo de trabajo de los trabajadores a tiempo parcial, todo ello de conformidad con los procedimientos que se establezcan en convenio colectivo
 
@@ -350,7 +356,7 @@ Se consideran horas complementarias las realizadas como adición a las horas ord
 
 Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas El pacto de horas complementarias y las condiciones de realización de las mismas estarán sujetos a las reglas previstas en las letras anteriores
 
-horas En caso de incumplimiento de tales reglas, la negativa del trabajador a la realización de las horas complementarias, pese a haber sido pactadas, no constituirá conducta laboral sancionable
+En caso de incumplimiento de tales reglas, la negativa del trabajador a la realización de las horas complementarias, pese a haber sido pactadas, no constituirá conducta laboral sancionable
 
 Se consideran horas complementarias las realizadas como adición a las horas ordinarias pactadas en el contrato a tiempo parcial, conforme a las siguientes reglas Sin perjuicio del pacto de horas complementarias, en los contratos a tiempo parcial de duración indefinida con una jornada de trabajo no inferior a diez horas semanales en cómputo anual, el empresario podrá, en cualquier momento, ofrecer al trabajador la realización de horas complementarias de aceptación voluntaria, cuyo número no podrá superar el quince por ciento, ampliables al treinta por ciento por convenio colectivo, de las horas ordinarias objeto del contrato
 
@@ -568,10 +574,6 @@ El empresario podrá verificar el estado de salud del trabajador que sea alegado
 
 La negativa del trabajador a dichos reconocimientos podrá determinar la suspensión de los derechos económicos que pudieran existir a cargo del empresario por dichas situaciones
 
-La negativa Artículo 20 bis
-
-La negativa Derechos de los trabajadores a la intimidad en relación con el entorno digital y a la desconexión
-
 Los trabajadores tienen derecho a la intimidad en el uso de los dispositivos digitales puestos a su disposición por el empleador, a la desconexión digital y a la intimidad frente al uso de dispositivos de videovigilancia y geolocalización en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales
 
 No podrá efectuarse la prestación laboral de un trabajador para diversos empresarios cuando se estime concurrencia desleal o cuando se pacte la plena dedicación mediante compensación económica expresa, en los términos que al efecto se convengan
@@ -706,7 +708,7 @@ El plazo para ejercitar los derechos de preferencia del crédito salarial es de 
 
 Las preferencias reconocidas en los apartados precedentes serán de aplicación en todos los supuestos en los que, no hallándose el empresario declarado en concurso, los correspondientes créditos concurran con otro u otros sobre bienes de aquel
 
-créditos En caso de concurso, serán de aplicación las disposiciones de la Ley 22/2003, de 9 de julio, Concursal, relativas a la clasificación de los créditos y a las ejecuciones y apremios
+En caso de concurso, serán de aplicación las disposiciones de la Ley 22/2003, de 9 de julio, Concursal, relativas a la clasificación de los créditos y a las ejecuciones y apremios
 
 El Fondo de Garantía Salarial, organismo autónomo adscrito al Ministerio de Empleo y Seguridad Social, con personalidad jurídica y capacidad de obrar para el cumplimiento de sus fines, abonará a los trabajadores el importe de los salarios pendientes de pago a causa de insolvencia o concurso del empresario
 
@@ -726,11 +728,7 @@ El Fondo A los efectos del abono por el Fondo de las cantidades que resulten rec
 
 Sin perjuicio de los supuestos de responsabilidad directa del organismo en los casos legalmente establecidos, el reconocimiento del derecho a la prestación exigirá que los créditos de los trabajadores aparezcan incluidos en la lista de acreedores o, en su caso, reconocidos como deudas de la masa por el órgano del concurso competente para ello en cuantía igual o superior a la que se solicita del Fondo, sin perjuicio de la obligación de aquellos de reducir su solicitud o de reembolsar al Fondo la cantidad que corresponda cuando la cuantía reconocida en la lista definitiva fuese inferior a la solicitada o a la ya percibida
 
-la cuantía Segunda
-
 Las indemnizaciones a abonar a cargo del Fondo, con independencia de lo que se pueda pactar en el proceso concursal, se calcularán sobre la base de veinte días por año de servicio, con el límite máximo de una anualidad, sin que el salario diario, base del cálculo, pueda exceder del doble del salario mínimo interprofesional, incluyendo la parte proporcional de las pagas extraordinarias
-
-el salario Tercera
 
 En el supuesto de que los trabajadores perceptores de estas indemnizaciones solicitaran del Fondo el abono de la parte de indemnización no satisfecha por el empresario, el límite de la prestación indemnizatoria a cargo del Fondo se reducirá en la cantidad ya percibida por aquellos
 
@@ -1066,43 +1064,19 @@ razones Se considerarán tales las que estén relacionadas con la competitividad
 
 razones Tendrán la consideración de modificaciones sustanciales de las condiciones de trabajo, entre otras, las que afecten a las siguientes materias Jornada de trabajo
 
-La dirección de la empresa podrá acordar modificaciones sustanciales de las condiciones de trabajo cuando existan probadas razones económicas, técnicas, organizativas o de producción
-
-razones Se considerarán tales las que estén relacionadas con la competitividad, productividad u organización técnica o del trabajo en la empresa
-
 razones Tendrán la consideración de modificaciones sustanciales de las condiciones de trabajo, entre otras, las que afecten a las siguientes materias Horario y distribución del tiempo de trabajo
-
-La dirección de la empresa podrá acordar modificaciones sustanciales de las condiciones de trabajo cuando existan probadas razones económicas, técnicas, organizativas o de producción
-
-razones Se considerarán tales las que estén relacionadas con la competitividad, productividad u organización técnica o del trabajo en la empresa
 
 razones Tendrán la consideración de modificaciones sustanciales de las condiciones de trabajo, entre otras, las que afecten a las siguientes materias Régimen de trabajo a turnos
 
-La dirección de la empresa podrá acordar modificaciones sustanciales de las condiciones de trabajo cuando existan probadas razones económicas, técnicas, organizativas o de producción
-
-razones Se considerarán tales las que estén relacionadas con la competitividad, productividad u organización técnica o del trabajo en la empresa
-
 razones Tendrán la consideración de modificaciones sustanciales de las condiciones de trabajo, entre otras, las que afecten a las siguientes materias Sistema de remuneración y cuantía salarial
 
-La dirección de la empresa podrá acordar modificaciones sustanciales de las condiciones de trabajo cuando existan probadas razones económicas, técnicas, organizativas o de producción
-
-razones Se considerarán tales las que estén relacionadas con la competitividad, productividad u organización técnica o del trabajo en la empresa
-
 razones Tendrán la consideración de modificaciones sustanciales de las condiciones de trabajo, entre otras, las que afecten a las siguientes materias Sistema de trabajo y rendimiento
-
-La dirección de la empresa podrá acordar modificaciones sustanciales de las condiciones de trabajo cuando existan probadas razones económicas, técnicas, organizativas o de producción
-
-razones Se considerarán tales las que estén relacionadas con la competitividad, productividad u organización técnica o del trabajo en la empresa
 
 Las modificaciones sustanciales de las condiciones de trabajo podrán afectar a las condiciones reconocidas a los trabajadores en el contrato de trabajo, en acuerdos o pactos colectivos o disfrutadas por estos en virtud de una decisión unilateral del empresario de efectos colectivos
 
 Se considera de carácter colectivo la modificación que, en un periodo de noventa días, afecte al menos a Diez trabajadores, en las empresas que ocupen menos de cien trabajadores
 
-Las modificaciones sustanciales de las condiciones de trabajo podrán afectar a las condiciones reconocidas a los trabajadores en el contrato de trabajo, en acuerdos o pactos colectivos o disfrutadas por estos en virtud de una decisión unilateral del empresario de efectos colectivos
-
 Se considera de carácter colectivo la modificación que, en un periodo de noventa días, afecte al menos a El diez por ciento del número de trabajadores de la empresa en aquellas que ocupen entre cien y trescientos trabajadores
-
-Las modificaciones sustanciales de las condiciones de trabajo podrán afectar a las condiciones reconocidas a los trabajadores en el contrato de trabajo, en acuerdos o pactos colectivos o disfrutadas por estos en virtud de una decisión unilateral del empresario de efectos colectivos
 
 Se considera de carácter colectivo la modificación que, en un periodo de noventa días, afecte al menos a Treinta trabajadores, en las empresas que ocupen más de trescientos trabajadores
 
@@ -1163,12 +1137,6 @@ la comisión En el supuesto de que uno o varios centros de trabajo afectados por
 Sin perjuicio de los procedimientos específicos que puedan establecerse en la negociación colectiva, la decisión de modificación sustancial de condiciones de trabajo de carácter colectivo deberá ir precedida de un periodo de consultas con los representantes legales de los trabajadores, de duración no superior a quince días, que versará sobre las causas motivadoras de la decisión empresarial y la posibilidad de evitar o reducir sus efectos, así como sobre las medidas necesarias para atenuar sus consecuencias para los trabajadores afectados
 
 La consulta se llevará a cabo en una única comisión negociadora, si bien, de existir varios centros de trabajo, quedará circunscrita a los centros afectados por el procedimiento
-
-La comisión negociadora estará integrada por un máximo de trece miembros en representación de cada una de las partes
-
-La intervención como interlocutores ante la dirección de la empresa en el procedimiento de consultas corresponderá a las secciones sindicales cuando estas así lo acuerden, siempre que tengan la representación mayoritaria en los comités de empresa o entre los delegados de personal de los centros de trabajo afectados, en cuyo caso representarán a todos los trabajadores de los centros afectados
-
-En defecto de lo previsto en el párrafo anterior, la intervención como interlocutores se regirá por las siguientes reglas Si el procedimiento afecta a más de un centro de trabajo, la intervención como interlocutores corresponderá En primer lugar, al comité intercentros, siempre que tenga atribuida esa función en el convenio colectivo en que se hubiera acordado su creación
 
 En otro caso, a una comisión representativa que se constituirá de acuerdo con las siguientes reglas Si ninguno de los centros de trabajo afectados por el procedimiento cuenta con representantes legales de los trabajadores, la comisión representativa estará integrada por quienes sean elegidos por y entre los miembros de las comisiones designadas en los centros de trabajo afectados conforme a lo dispuesto en la letra a), en proporción al número de trabajadores que representen
 
@@ -1272,7 +1240,7 @@ El cedente vendrá obligado a facilitar la información mencionada en los aparta
 
 El cesionario estará obligado a comunicar estas informaciones con la suficiente antelación y, en todo caso, antes de que sus trabajadores se vean afectados en sus condiciones de empleo y de trabajo por la transmisión
 
-sus trabajadores En los supuestos de fusión y escisión de sociedades, el cedente y el cesionario habrán de proporcionar la indicada información, en todo caso, al tiempo de publicarse la convocatoria de las juntas generales que han de adoptar los respectivos acuerdos
+En los supuestos de fusión y escisión de sociedades, el cedente y el cesionario habrán de proporcionar la indicada información, en todo caso, al tiempo de publicarse la convocatoria de las juntas generales que han de adoptar los respectivos acuerdos
 
 El cedente o el cesionario que previere adoptar, con motivo de la transmisión, medidas laborales en relación con sus trabajadores vendrá obligado a iniciar un periodo de consultas con los representantes legales de los trabajadores sobre las medidas previstas y sus consecuencias para los trabajadores
 
@@ -1316,7 +1284,7 @@ La suspensión exonera de las obligaciones recíprocas de trabajar y remunerar e
 
 La excedencia podrá ser voluntaria o forzosa
 
-La excedencia La forzosa, que dará derecho a la conservación del puesto y al cómputo de la antigüedad de su vigencia, se concederá por la designación o elección para un cargo público que imposibilite la asistencia al trabajo
+La excedencia forzosa, que dará derecho a la conservación del puesto y al cómputo de la antigüedad de su vigencia, se concederá por la designación o elección para un cargo público que imposibilite la asistencia al trabajo
 
 El reingreso deberá ser solicitado dentro del mes siguiente al cese en el cargo público
 
@@ -1766,7 +1734,7 @@ La empresa que lleve a cabo un despido colectivo que afecte a más de cincuenta 
 
 Dicho plan, diseñado para un periodo mínimo de seis meses, deberá incluir medidas de formación y orientación profesional, atención personalizada al trabajador afectado y búsqueda activa de empleo
 
-plan En todo caso, lo anterior no será de aplicación en las empresas que se hubieran sometido a un procedimiento concursal
+En todo caso, el plan no será de aplicación en las empresas que se hubieran sometido a un procedimiento concursal
 
 El coste de la elaboración e implantación de dicho plan no recaerá en ningún caso sobre los trabajadores
 
@@ -1876,11 +1844,7 @@ Será nulo el despido que tenga por móvil alguna de las causas de discriminaci�
 
 Será también nulo el despido en los siguientes supuestos El de las personas trabajadoras durante los periodos de suspensión del contrato de trabajo por nacimiento, adopción, guarda con fines de adopción, acogimiento, riesgo durante el embarazo o riesgo durante la lactancia natural a que se refiere el artículo 45.1.d) y e), o por enfermedades causadas por embarazo, parto o lactancia natural, o la notificada en una fecha tal que el plazo de preaviso concedido finalice dentro de dichos periodos
 
-Será nulo el despido que tenga por móvil alguna de las causas de discriminación prohibidas en la Constitución o en la ley, o bien se produzca con violación de derechos fundamentales y libertades públicas del trabajador
-
 Será también nulo el despido en los siguientes supuestos El de las trabajadoras embarazadas, desde la fecha de inicio del embarazo hasta el comienzo del periodo de suspensión a que se refiere la letra a); el de las personas trabajadoras que hayan solicitado uno de los permisos a los que se refieren los artículos 37.4, 5 y 6, o estén disfrutando de ellos, o hayan solicitado o estén disfrutando la excedencia prevista en el artículo 46.3; y el de las trabajadoras víctimas de violencia de género por el ejercicio de su derecho a la tutela judicial efectiva o de los derechos reconocidos en esta ley para hacer efectiva su protección o su derecho a la asistencia social integral
-
-Será nulo el despido que tenga por móvil alguna de las causas de discriminación prohibidas en la Constitución o en la ley, o bien se produzca con violación de derechos fundamentales y libertades públicas del trabajador
 
 Será también nulo el despido en los siguientes supuestos El de las personas trabajadoras después de haberse reintegrado al trabajo al finalizar los periodos de suspensión del contrato por nacimiento, adopción, guarda con fines de adopción o acogimiento, a que se refiere el artículo 45.1.d), siempre que no hubieran transcurrido más de doce meses desde la fecha del nacimiento, la adopción, la guarda con fines de adopción o el acogimiento
 
@@ -1994,49 +1958,29 @@ Asimismo, el comité de empresa tendrá derecho a recibir la copia básica de lo
 
 El comité de empresa tendrá derecho a ser informado y consultado sobre la situación y estructura del empleo en la empresa o en el centro de trabajo, así como a ser informado trimestralmente sobre la evolución probable del mismo, incluyendo la consulta cuando se prevean cambios al respecto
 
-cambios Asimismo, tendrá derecho a ser informado y consultado sobre todas las decisiones de la empresa que pudieran provocar cambios relevantes en cuanto a la organización del trabajo y a los contratos de trabajo en la empresa
+El comité de empresa Asimismo, tendrá derecho a ser informado y consultado sobre todas las decisiones de la empresa que pudieran provocar cambios relevantes en cuanto a la organización del trabajo y a los contratos de trabajo en la empresa
 
-cambios Igualmente tendrá derecho a ser informado y consultado sobre la adopción de eventuales medidas preventivas, especialmente en caso de riesgo para el empleo
+El comité de empresa Igualmente tendrá derecho a ser informado y consultado sobre la adopción de eventuales medidas preventivas, especialmente en caso de riesgo para el empleo
 
 El comité de empresa tendrá derecho a emitir informe, con carácter previo a la ejecución por parte del empresario de las decisiones adoptadas por este, sobre las siguientes cuestiones Las reestructuraciones de plantilla y ceses totales o parciales, definitivos o temporales, de aquella
 
 El comité de empresa tendrá derecho a ser informado y consultado sobre la situación y estructura del empleo en la empresa o en el centro de trabajo, así como a ser informado trimestralmente sobre la evolución probable del mismo, incluyendo la consulta cuando se prevean cambios al respecto
 
-cambios Asimismo, tendrá derecho a ser informado y consultado sobre todas las decisiones de la empresa que pudieran provocar cambios relevantes en cuanto a la organización del trabajo y a los contratos de trabajo en la empresa
-
-cambios Igualmente tendrá derecho a ser informado y consultado sobre la adopción de eventuales medidas preventivas, especialmente en caso de riesgo para el empleo
-
 El comité de empresa tendrá derecho a emitir informe, con carácter previo a la ejecución por parte del empresario de las decisiones adoptadas por este, sobre las siguientes cuestiones Las reducciones de jornada
 
 El comité de empresa tendrá derecho a ser informado y consultado sobre la situación y estructura del empleo en la empresa o en el centro de trabajo, así como a ser informado trimestralmente sobre la evolución probable del mismo, incluyendo la consulta cuando se prevean cambios al respecto
-
-cambios Asimismo, tendrá derecho a ser informado y consultado sobre todas las decisiones de la empresa que pudieran provocar cambios relevantes en cuanto a la organización del trabajo y a los contratos de trabajo en la empresa
-
-cambios Igualmente tendrá derecho a ser informado y consultado sobre la adopción de eventuales medidas preventivas, especialmente en caso de riesgo para el empleo
 
 El comité de empresa tendrá derecho a emitir informe, con carácter previo a la ejecución por parte del empresario de las decisiones adoptadas por este, sobre las siguientes cuestiones El traslado total o parcial de las instalaciones
 
 El comité de empresa tendrá derecho a ser informado y consultado sobre la situación y estructura del empleo en la empresa o en el centro de trabajo, así como a ser informado trimestralmente sobre la evolución probable del mismo, incluyendo la consulta cuando se prevean cambios al respecto
 
-cambios Asimismo, tendrá derecho a ser informado y consultado sobre todas las decisiones de la empresa que pudieran provocar cambios relevantes en cuanto a la organización del trabajo y a los contratos de trabajo en la empresa
-
-cambios Igualmente tendrá derecho a ser informado y consultado sobre la adopción de eventuales medidas preventivas, especialmente en caso de riesgo para el empleo
-
 El comité de empresa tendrá derecho a emitir informe, con carácter previo a la ejecución por parte del empresario de las decisiones adoptadas por este, sobre las siguientes cuestiones Los procesos de fusión, absorción o modificación del estatus jurídico de la empresa que impliquen cualquier incidencia que pueda afectar al volumen de empleo
 
 El comité de empresa tendrá derecho a ser informado y consultado sobre la situación y estructura del empleo en la empresa o en el centro de trabajo, así como a ser informado trimestralmente sobre la evolución probable del mismo, incluyendo la consulta cuando se prevean cambios al respecto
 
-cambios Asimismo, tendrá derecho a ser informado y consultado sobre todas las decisiones de la empresa que pudieran provocar cambios relevantes en cuanto a la organización del trabajo y a los contratos de trabajo en la empresa
-
-cambios Igualmente tendrá derecho a ser informado y consultado sobre la adopción de eventuales medidas preventivas, especialmente en caso de riesgo para el empleo
-
 El comité de empresa tendrá derecho a emitir informe, con carácter previo a la ejecución por parte del empresario de las decisiones adoptadas por este, sobre las siguientes cuestiones Los planes de formación profesional en la empresa
 
 El comité de empresa tendrá derecho a ser informado y consultado sobre la situación y estructura del empleo en la empresa o en el centro de trabajo, así como a ser informado trimestralmente sobre la evolución probable del mismo, incluyendo la consulta cuando se prevean cambios al respecto
-
-cambios Asimismo, tendrá derecho a ser informado y consultado sobre todas las decisiones de la empresa que pudieran provocar cambios relevantes en cuanto a la organización del trabajo y a los contratos de trabajo en la empresa
-
-cambios Igualmente tendrá derecho a ser informado y consultado sobre la adopción de eventuales medidas preventivas, especialmente en caso de riesgo para el empleo
 
 El comité de empresa tendrá derecho a emitir informe, con carácter previo a la ejecución por parte del empresario de las decisiones adoptadas por este, sobre las siguientes cuestiones La implantación y revisión de sistemas de organización y control del trabajo, estudios de tiempos, establecimiento de sistemas de primas e incentivos y valoración de puestos de trabajo
 
@@ -2152,15 +2096,15 @@ Expresar, colegiadamente si se trata del comité, con libertad sus opiniones en 
 
 Asimismo no podrá ser discriminado en su promoción económica o profesional en razón, precisamente, del desempeño de su representación
 
-Disponer de un crédito de horas mensuales retribuidas cada uno de los miembros del comité o delegado de personal en cada centro de trabajo, para el ejercicio de sus funciones de representación, de acuerdo con la siguiente escala:1.º Hasta cien trabajadores, quince horas
+Disponer de un crédito de horas mensuales retribuidas cada uno de los miembros del comité o delegado de personal en cada centro de trabajo, para el ejercicio de sus funciones de representación, de acuerdo con la siguiente escala Hasta cien trabajadores, quince horas
 
-2.º De ciento uno a doscientos cincuenta trabajadores, veinte horas
+Disponer de un crédito de horas mensuales retribuidas cada uno de los miembros del comité o delegado de personal en cada centro de trabajo, para el ejercicio de sus funciones de representación, de acuerdo con la siguiente escala De ciento uno a doscientos cincuenta trabajadores, veinte horas
 
-3.º De doscientos cincuenta y uno a quinientos trabajadores, treinta horas
+Disponer de un crédito de horas mensuales retribuidas cada uno de los miembros del comité o delegado de personal en cada centro de trabajo, para el ejercicio de sus funciones de representación, de acuerdo con la siguiente escala De doscientos cincuenta y uno a quinientos trabajadores, treinta horas
 
-4.º De quinientos uno a setecientos cincuenta trabajadores, treinta y cinco horas
+Disponer de un crédito de horas mensuales retribuidas cada uno de los miembros del comité o delegado de personal en cada centro de trabajo, para el ejercicio de sus funciones de representación, de acuerdo con la siguiente escala De quinientos uno a setecientos cincuenta trabajadores, treinta y cinco horas
 
-5.º De setecientos cincuenta y uno en adelante, cuarenta horas
+Disponer de un crédito de horas mensuales retribuidas cada uno de los miembros del comité o delegado de personal en cada centro de trabajo, para el ejercicio de sus funciones de representación, de acuerdo con la siguiente escala De setecientos cincuenta y uno en adelante, cuarenta horas
 
 Podrá pactarse en convenio colectivo la acumulación de horas de los distintos miembros del comité de empresa y, en su caso, de los delegados de personal, en uno o varios de sus componentes, sin rebasar el máximo total, pudiendo quedar relevado o relevados del trabajo, sin perjuicio de su remuneración
 
@@ -2174,7 +2118,7 @@ Igualmente podrán presentarse los trabajadores que avalen su candidatura con un
 
 En la elección para delegados de personal, cada elector podrá dar su voto a un número máximo de aspirantes equivalente al de puestos a cubrir entre los candidatos proclamados
 
-cada elector Resultarán elegidos los que obtengan el mayor número de votos
+los candidatos Resultarán elegidos los que obtengan el mayor número de votos
 
 En caso de empate, resultará elegido el trabajador de mayor antigüedad en la empresa
 
@@ -2200,7 +2144,7 @@ En las elecciones a miembros del comité de empresa la elección se ajustará a 
 
 Mediante el sistema de representación proporcional se atribuirá a cada lista el número de puestos que le corresponda, de conformidad con el cociente que resulte de dividir el número de votos válidos por el de puestos a cubrir
 
-el número Si hubiese puesto o puestos sobrantes se atribuirán a la lista o listas que tengan un mayor resto de votos
+Si hubiese puesto o puestos sobrantes se atribuirán a la lista o listas que tengan un mayor resto de votos
 
 En las elecciones a miembros del comité de empresa la elección se ajustará a las siguientes reglas Dentro de cada lista resultarán elegidos los candidatos por el orden en que figuren en la candidatura
 
@@ -2220,7 +2164,7 @@ La mesa será la encargada de vigilar todo el proceso electoral, presidir la vot
 
 La mesa estará formada por el presidente, que será el trabajador de más antigüedad en la empresa, y dos vocales, que serán los electores de mayor y menor edad
 
-La mesa Este último actuará de secretario
+electores de menor edad actuará de secretario
 
 Se designarán suplentes a aquellos trabajadores que sigan a los titulares de la mesa en el orden indicado de antigüedad o edad
 
@@ -2238,19 +2182,11 @@ Cuando se trate de elecciones a delegados de personal, el empresario, en el mism
 
 La mesa electoral cumplirá las siguientes funciones Hará público entre los trabajadores el censo laboral con indicación de quiénes son electores
 
-Cuando se trate de elecciones a delegados de personal, el empresario, en el mismo término, remitirá a los componentes de la mesa electoral el censo laboral, que se ajustará, a estos efectos, a modelo normalizado
-
 La mesa electoral cumplirá las siguientes funciones Fijará el número de representantes y la fecha tope para la presentación de candidaturas
-
-Cuando se trate de elecciones a delegados de personal, el empresario, en el mismo término, remitirá a los componentes de la mesa electoral el censo laboral, que se ajustará, a estos efectos, a modelo normalizado
 
 La mesa electoral cumplirá las siguientes funciones Recibirá y proclamará las candidaturas que se presenten
 
-Cuando se trate de elecciones a delegados de personal, el empresario, en el mismo término, remitirá a los componentes de la mesa electoral el censo laboral, que se ajustará, a estos efectos, a modelo normalizado
-
 La mesa electoral cumplirá las siguientes funciones Señalará la fecha de votación
-
-Cuando se trate de elecciones a delegados de personal, el empresario, en el mismo término, remitirá a los componentes de la mesa electoral el censo laboral, que se ajustará, a estos efectos, a modelo normalizado
 
 La mesa electoral cumplirá las siguientes funciones Redactará el acta de escrutinio en un plazo no superior a tres días naturales
 
@@ -2262,7 +2198,7 @@ Si se hubiera presentado alguna reclamación se hará constar en el acta, así c
 
 Cuando se trate de elecciones a miembros del comité de empresa, constituida la mesa electoral solicitará al empresario el censo laboral y confeccionará, con los medios que le habrá de facilitar este, la lista de electores
 
-la mesa Esta se hará pública en los tablones de anuncios mediante su exposición durante un tiempo no inferior a setenta y dos horas
+la lista de electores se hará pública en los tablones de anuncios mediante su exposición durante un tiempo no inferior a setenta y dos horas
 
 La mesa resolverá cualquier incidencia o reclamación relativa a inclusiones, exclusiones o correcciones que se presenten hasta veinticuatro horas después de haber finalizado el plazo de exposición de la lista
 
@@ -2404,31 +2340,19 @@ Los convenios colectivos, como resultado de la negociación desarrollada por los
 
 Mediante los convenios colectivos, y en su ámbito correspondiente, los trabajadores y empresarios regulan las condiciones de trabajo y de productividad
 
-los trabajadores Igualmente podrán regular la paz laboral a través de las obligaciones que se pacten
+los trabajadores y empresarios Igualmente podrán regular la paz laboral a través de las obligaciones que se pacten
 
 Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
 
 Sin perjuicio de lo anterior, cuando concurran causas económicas, técnicas, organizativas o de producción, por acuerdo entre la empresa y los representantes de los trabajadores legitimados para negociar un convenio colectivo conforme a lo previsto en el artículo 87.1, se podrá proceder, previo desarrollo de un periodo de consultas en los términos del artículo 41.4, a inaplicar en la empresa las condiciones de trabajo previstas en el convenio colectivo aplicable, sea este de sector o de empresa, que afecten a las siguientes materias Jornada de trabajo
 
-Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
-
 Sin perjuicio de lo anterior, cuando concurran causas económicas, técnicas, organizativas o de producción, por acuerdo entre la empresa y los representantes de los trabajadores legitimados para negociar un convenio colectivo conforme a lo previsto en el artículo 87.1, se podrá proceder, previo desarrollo de un periodo de consultas en los términos del artículo 41.4, a inaplicar en la empresa las condiciones de trabajo previstas en el convenio colectivo aplicable, sea este de sector o de empresa, que afecten a las siguientes materias Horario y distribución del tiempo de trabajo
-
-Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
 
 Sin perjuicio de lo anterior, cuando concurran causas económicas, técnicas, organizativas o de producción, por acuerdo entre la empresa y los representantes de los trabajadores legitimados para negociar un convenio colectivo conforme a lo previsto en el artículo 87.1, se podrá proceder, previo desarrollo de un periodo de consultas en los términos del artículo 41.4, a inaplicar en la empresa las condiciones de trabajo previstas en el convenio colectivo aplicable, sea este de sector o de empresa, que afecten a las siguientes materias Régimen de trabajo a turnos
 
-Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
-
 Sin perjuicio de lo anterior, cuando concurran causas económicas, técnicas, organizativas o de producción, por acuerdo entre la empresa y los representantes de los trabajadores legitimados para negociar un convenio colectivo conforme a lo previsto en el artículo 87.1, se podrá proceder, previo desarrollo de un periodo de consultas en los términos del artículo 41.4, a inaplicar en la empresa las condiciones de trabajo previstas en el convenio colectivo aplicable, sea este de sector o de empresa, que afecten a las siguientes materias Sistema de remuneración y cuantía salarial
 
-Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
-
 Sin perjuicio de lo anterior, cuando concurran causas económicas, técnicas, organizativas o de producción, por acuerdo entre la empresa y los representantes de los trabajadores legitimados para negociar un convenio colectivo conforme a lo previsto en el artículo 87.1, se podrá proceder, previo desarrollo de un periodo de consultas en los términos del artículo 41.4, a inaplicar en la empresa las condiciones de trabajo previstas en el convenio colectivo aplicable, sea este de sector o de empresa, que afecten a las siguientes materias Sistema de trabajo y rendimiento
-
-Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
-
-Los convenios colectivos regulados por esta ley obligan a todos los empresarios y trabajadores incluidos dentro de su ámbito de aplicación y durante todo el tiempo de su vigencia
 
 Sin perjuicio de lo anterior, cuando concurran causas económicas, técnicas, organizativas o de producción, por acuerdo entre la empresa y los representantes de los trabajadores legitimados para negociar un convenio colectivo conforme a lo previsto en el artículo 87.1, se podrá proceder, previo desarrollo de un periodo de consultas en los términos del artículo 41.4, a inaplicar en la empresa las condiciones de trabajo previstas en el convenio colectivo aplicable, sea este de sector o de empresa, que afecten a las siguientes materias Mejoras voluntarias de la acción protectora de la Seguridad Social
 
@@ -2450,7 +2374,9 @@ Asimismo, el acuerdo deberá ser notificado a la comisión paritaria del conveni
 
 En caso de desacuerdo durante el periodo de consultas cualquiera de las partes podrá someter la discrepancia a la comisión del convenio, que dispondrá de un plazo máximo de siete días para pronunciarse, a contar desde que la discrepancia le fuera planteada
 
-Cuando no se hubiera solicitado la intervención de la comisión o esta no hubiera alcanzado un acuerdo, las partes deberán recurrir a los procedimientos que se hayan establecido en los acuerdos interprofesionales de ámbito estatal o autonómico, previstos en el artículo 83, para solventar de manera efectiva las discrepancias surgidas en la negociación de los acuerdos a que se refiere este apartado, incluido el compromiso previo de someter las discrepancias a un arbitraje vinculante, en cuyo caso el laudo arbitral tendrá la misma eficacia que los acuerdos en periodo de consultas y solo será recurrible conforme al procedimiento y en base a los motivos establecidos en el artículo 91.Cuando el periodo de consultas finalice sin acuerdo y no fueran aplicables los procedimientos a los que se refiere el párrafo anterior o estos no hubieran solucionado la discrepancia, cualquiera de las partes podrá someter la solución de la misma a la Comisión Consultiva Nacional de Convenios Colectivos cuando la inaplicación de las condiciones de trabajo afectase a centros de trabajo de la empresa situados en el territorio de más de una comunidad autónoma, o a los órganos correspondientes de las comunidades autónomas en los demás casos
+Cuando no se hubiera solicitado la intervención de la comisión o esta no hubiera alcanzado un acuerdo, las partes deberán recurrir a los procedimientos que se hayan establecido en los acuerdos interprofesionales de ámbito estatal o autonómico, previstos en el artículo 83, para solventar de manera efectiva las discrepancias surgidas en la negociación de los acuerdos a que se refiere este apartado, incluido el compromiso previo de someter las discrepancias a un arbitraje vinculante, en cuyo caso el laudo arbitral tendrá la misma eficacia que los acuerdos en periodo de consultas y solo será recurrible conforme al procedimiento y en base a los motivos establecidos en el artículo 91.
+
+Cuando el periodo de consultas finalice sin acuerdo y no fueran aplicables los procedimientos a los que se refiere el párrafo anterior o estos no hubieran solucionado la discrepancia, cualquiera de las partes podrá someter la solución de la misma a la Comisión Consultiva Nacional de Convenios Colectivos cuando la inaplicación de las condiciones de trabajo afectase a centros de trabajo de la empresa situados en el territorio de más de una comunidad autónoma, o a los órganos correspondientes de las comunidades autónomas en los demás casos
 
 La decisión de estos órganos, que podrá ser adoptada en su propio seno o por un árbitro designado al efecto por ellos mismos con las debidas garantías para asegurar su imparcialidad, habrá de dictarse en plazo no superior a veinticinco días a contar desde la fecha del sometimiento del conflicto ante dichos órganos
 
@@ -2484,7 +2410,11 @@ La regulación de las condiciones establecidas en un convenio de empresa, que po
 
 La regulación de las condiciones establecidas en un convenio de empresa, que podrá negociarse en cualquier momento de la vigencia de convenios colectivos de ámbito superior, tendrá prioridad aplicativa respecto del convenio sectorial estatal, autonómico o de ámbito inferior en las siguientes materias Las medidas para favorecer la conciliación entre la vida laboral, familiar y personal
 
-La regulación de las condiciones establecidas en un convenio de empresa, que podrá negociarse en cualquier momento de la vigencia de convenios colectivos de ámbito superior, tendrá prioridad aplicativa respecto del convenio sectorial estatal, autonómico o de ámbito inferior en las siguientes materias Aquellas otras que dispongan los acuerdos y convenios colectivos a que se refiere el artículo 83.2.Igual prioridad aplicativa tendrán en estas materias los convenios colectivos para un grupo de empresas o una pluralidad de empresas vinculadas por razones organizativas o productivas y nominativamente identificadas a que se refiere el artículo 87.1.Los acuerdos y convenios colectivos a que se refiere el artículo 83.2 no podrán disponer de la prioridad aplicativa prevista en este apartado
+La regulación de las condiciones establecidas en un convenio de empresa, que podrá negociarse en cualquier momento de la vigencia de convenios colectivos de ámbito superior, tendrá prioridad aplicativa respecto del convenio sectorial estatal, autonómico o de ámbito inferior en las siguientes materias Aquellas otras que dispongan los acuerdos y convenios colectivos a que se refiere el artículo 83.2.
+
+Igual prioridad aplicativa tendrán en estas materias los convenios colectivos para un grupo de empresas o una pluralidad de empresas vinculadas por razones organizativas o productivas y nominativamente identificadas a que se refiere el artículo 87.1.
+
+Los acuerdos y convenios colectivos a que se refiere el artículo 83.2 no podrán disponer de la prioridad aplicativa prevista en este apartado
 
 Salvo pacto en contrario negociado según el artículo 83.2, los sindicatos y las asociaciones empresariales que reúnan los requisitos de legitimación de los artículos 87 y 88 podrán, en el ámbito de una comunidad autónoma, negociar acuerdos o convenios que afecten a lo dispuesto en los de ámbito estatal siempre que dicha decisión obtenga el respaldo de las mayorías exigidas para constituir la comisión negociadora en la correspondiente unidad de negociación
 
@@ -2532,9 +2462,9 @@ El convenio que sucede a uno anterior deroga en su integridad a este último, sa
 
 En representación de los trabajadores estarán legitimados para negociar en los convenios de empresa y de ámbito inferior, el comité de empresa, los delegados de personal, en su caso, o las secciones sindicales si las hubiere que, en su conjunto, sumen la mayoría de los miembros del comité.La intervención en la negociación corresponderá a las secciones sindicales cuando estas así lo acuerden, siempre que sumen la mayoría de los miembros del comité de empresa o entre los delegados de personal
 
-la mayoría Cuando se trate de convenios para un grupo de empresas, así como en los convenios que afecten a una pluralidad de empresas vinculadas por razones organizativas o productivas y nominativamente identificadas en su ámbito de aplicación, la legitimación para negociar en representación de los trabajadores será la que se establece en el apartado 2 para la negociación de los convenios sectoriales
+Cuando se trate de convenios para un grupo de empresas, así como en los convenios que afecten a una pluralidad de empresas vinculadas por razones organizativas o productivas y nominativamente identificadas en su ámbito de aplicación, la legitimación para negociar en representación de los trabajadores será la que se establece en el apartado 2 para la negociación de los convenios sectoriales
 
-la mayoría En los convenios dirigidos a un grupo de trabajadores con perfil profesional específico, estarán legitimadas para negociar las secciones sindicales que hayan sido designadas mayoritariamente por sus representados a través de votación personal, libre, directa y secreta
+En los convenios dirigidos a un grupo de trabajadores con perfil profesional específico, estarán legitimadas para negociar las secciones sindicales que hayan sido designadas mayoritariamente por sus representados a través de votación personal, libre, directa y secreta
 
 En los convenios sectoriales estarán legitimados para negociar en representación de los trabajadores Los sindicatos que tengan la consideración de más representativos a nivel estatal, así como, en sus respectivos ámbitos, las organizaciones sindicales afiliadas, federadas o confederadas a los mismos
 
@@ -2560,7 +2490,9 @@ La comisión negociadora quedará válidamente constituida cuando los sindicatos
 
 En aquellos sectores en los que no existan órganos de representación de los trabajadores, se entenderá válidamente constituida la comisión negociadora cuando la misma esté integrada por las organizaciones sindicales que ostenten la condición de más representativas en el ámbito estatal o de comunidad autónoma
 
-En aquellos sectores en los que no existan asociaciones empresariales que cuenten con la suficiente representatividad, se entenderá válidamente constituida la comisión negociadora cuando la misma esté integrada por las organizaciones empresariales estatales o autonómicas referidas en el párrafo segundo del artículo 87.3.c).En los supuestos a que se refieren los dos párrafos anteriores, el reparto de los miembros de la comisión negociadora se efectuará en proporción a la representatividad que ostenten las organizaciones sindicales o empresariales en el ámbito territorial de la negociación
+En aquellos sectores en los que no existan asociaciones empresariales que cuenten con la suficiente representatividad, se entenderá válidamente constituida la comisión negociadora cuando la misma esté integrada por las organizaciones empresariales estatales o autonómicas referidas en el párrafo segundo del artículo 87.3.c).
+
+En los supuestos a que se refieren los dos párrafos anteriores, el reparto de los miembros de la comisión negociadora se efectuará en proporción a la representatividad que ostenten las organizaciones sindicales o empresariales en el ámbito territorial de la negociación
 
 La designación de los componentes de la comisión corresponderá a las partes negociadoras, quienes de mutuo acuerdo podrán designar un presidente y contar con la asistencia en las deliberaciones de asesores, que intervendrán, igual que el presidente, con voz pero sin voto
 
@@ -2668,15 +2600,13 @@ Si alguna comunidad autónoma no tuviera constituido y en funcionamiento un órg
 
 Los convenios colectivos podrán establecer cláusulas que posibiliten la extinción del contrato de trabajo por el cumplimiento por parte del trabajador de la edad legal de jubilación fijada en la normativa de Seguridad Social, siempre que se cumplan los siguientes requisitos El trabajador afectado por la extinción del contrato de trabajo deberá cumplir los requisitos exigidos por la normativa de Seguridad Social para tener derecho al cien por ciento de la pensión ordinaria de jubilación en su modalidad contributiva
 
-Si alguna comunidad autónoma no tuviera constituido y en funcionamiento un órgano tripartito equivalente a la Comisión Consultiva Nacional de Convenios Colectivos ni mantuviera convenio de colaboración en vigor con el Ministerio de Empleo y Seguridad Social acordando la actuación de la Comisión en el ámbito territorial de esa comunidad, la Comisión Consultiva Nacional de Convenios Colectivos podrá, subsidiariamente y en tanto en cuanto no se constituyan y estén en funcionamiento dichos órganos tripartitos equivalentes, conocer de las solicitudes presentadas por las empresas y los representantes legales de los trabajadores para dar solución a las discrepancias surgidas por falta de acuerdo sobre la inaplicación de las condiciones de trabajo, presentes en el convenio colectivo de aplicación, cuando dicha inaplicación afecte a centros de trabajo de la empresa situados en el territorio de dicha comunidad autónoma
-
 Los convenios colectivos podrán establecer cláusulas que posibiliten la extinción del contrato de trabajo por el cumplimiento por parte del trabajador de la edad legal de jubilación fijada en la normativa de Seguridad Social, siempre que se cumplan los siguientes requisitos La medida deberá vincularse a objetivos coherentes de política de empleo expresados en el convenio colectivo, tales como la mejora de la estabilidad en el empleo por la transformación de contratos temporales en indefinidos, la contratación de nuevos trabajadores, el relevo generacional o cualesquiera otras dirigidas a favorecer la calidad del empleo
 
 A los efectos de expedición de las certificaciones acreditativas de la capacidad representativa de las organizaciones sindicales en el ámbito estatal prevista en el artículo 75.7, las comunidades autónomas deberán remitir mensualmente copia de las actas electorales registradas a la oficina pública estatal
 
 El Gobierno podrá reducir el plazo mínimo de preaviso de un mes previsto en el párrafo segundo del artículo 67.1, en los sectores de actividad con alta movilidad del personal, previa consulta con las organizaciones sindicales que en ese ámbito funcional ostenten, al menos, el diez por ciento de los representantes de los trabajadores, y con las asociaciones empresariales que cuenten con el diez por ciento de los empresarios y de los trabajadores afectados por el mismo ámbito funcional
 
-El Gobierno En el supuesto de que, aun no habiéndose pactado en el convenio colectivo aplicable un procedimiento para resolver las discrepancias en los periodos de consultas, se hubieran establecido, conforme al artículo 83, órganos o procedimientos no judiciales de solución de conflictos en el ámbito territorial correspondiente, quienes sean parte en dichos periodos de consultas podrán someter de común acuerdo su controversia a dichos órganos
+En el supuesto de que, aun no habiéndose pactado en el convenio colectivo aplicable un procedimiento para resolver las discrepancias en los periodos de consultas, se hubieran establecido, conforme al artículo 83, órganos o procedimientos no judiciales de solución de conflictos en el ámbito territorial correspondiente, quienes sean parte en dichos periodos de consultas podrán someter de común acuerdo su controversia a dichos órganos
 
 Se consideran incluidas a efectos de lo dispuesto en los artículos 37.8 y 40.4 las personas a las que se refieren los artículos 5 y 33 de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo
 
@@ -2688,7 +2618,7 @@ No obstante lo previsto en el apartado anterior, lo dispuesto en el artículo 15
 
 Para la aplicación del límite al encadenamiento de contratos previsto en el artículo 15.5, solo se tendrán en cuenta los contratos celebrados en el ámbito de cada una de las Administraciones Públicas sin que formen parte de ellas, a estos efectos, los organismos públicos, agencias y demás entidades de derecho público con personalidad jurídica propia vinculadas o dependientes de las mismas
 
-los organismos En todo caso, lo dispuesto en dicho artículo 15.5 no será de aplicación respecto de las modalidades particulares de contrato de trabajo contempladas en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades o en cualesquiera otras normas con rango de ley
+En todo caso, lo dispuesto en dicho artículo 15.5 no será de aplicación respecto de las modalidades particulares de contrato de trabajo contempladas en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades o en cualesquiera otras normas con rango de ley
 
 El despido por causas económicas, técnicas, organizativas o de producción del personal laboral al servicio de los entes, organismos y entidades que forman parte del sector público de acuerdo con el artículo 3.1 del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, se efectuará conforme a lo dispuesto en los artículos 51 y 52.c) de la presente ley y sus normas de desarrollo y en el marco de los mecanismos preventivos y correctivos regulados en la normativa de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas
 
@@ -2700,7 +2630,7 @@ Se entenderá que concurren causas técnicas, cuando se produzcan cambios, entre
 
 Tendrá prioridad de permanencia el personal laboral fijo que hubiera adquirido esta condición, de acuerdo con los principios de igualdad, mérito y capacidad, a través de un procedimiento selectivo de ingreso convocado al efecto, cuando así lo establezcan los entes, organismos y entidades a que se refiere el párrafo anterior
 
-el párrafo Lo previsto en el artículo 47 no será de aplicación a las Administraciones Públicas y a las entidades de derecho público vinculadas o dependientes de una o varias de ellas y de otros organismos públicos, salvo a aquellas que se financien mayoritariamente con ingresos obtenidos como contrapartida de operaciones realizadas en el mercado
+Lo previsto en el artículo 47 no será de aplicación a las Administraciones Públicas y a las entidades de derecho público vinculadas o dependientes de una o varias de ellas y de otros organismos públicos, salvo a aquellas que se financien mayoritariamente con ingresos obtenidos como contrapartida de operaciones realizadas en el mercado
 
 Las discrepancias que surjan entre empresarios y trabajadores en relación con el ejercicio de los derechos de conciliación de la vida personal, familiar y laboral reconocidos legal o convencionalmente se resolverán por la jurisdicción social a través del procedimiento establecido en el artículo 139 de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social
 
@@ -2728,10 +2658,6 @@ Los citados beneficios no serán de aplicación a las contrataciones que afecten
 
 Las contrataciones realizadas al amparo de lo establecido en esta disposición se regirán por lo dispuesto en el artículo 15.1.c) de esta ley y sus normas de desarrollo
 
-Las contrataciones Disposición adicional vigesimosegunda
-
-Las contrataciones Permisos de nacimiento, adopción, del progenitor diferente de la madre biológica y lactancia del personal laboral al servicio de las Administraciones públicas
-
 Las contrataciones Resultarán de aplicación al personal laboral de las Administraciones públicas los permisos de nacimiento, adopción, del progenitor diferente de la madre biológica y lactancia regulados en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, no siendo de aplicación a este personal, por tanto, las previsiones de la presente Ley sobre las suspensiones de los contratos de trabajo que, en su caso, corresponderían por los mismos supuestos de hecho
 
 Continuarán siendo de aplicación a los contratos celebrados antes de la entrada en vigor de esta ley las normas específicas aplicables a cada una de las modalidades contractuales que estuvieran vigentes en el momento en que dichos contratos se concertaron, salvo que otra cosa se hubiera establecido legalmente
@@ -2740,7 +2666,7 @@ Las referencias realizadas en las disposiciones legales, reglamentarias o en los
 
 A efectos de lo establecido los artículos 12.6 y 7, se tendrán en cuenta las edades previstas en el texto refundido de la Ley General de la Seguridad Social
 
-las edades Lo dispuesto en el artículo 15.1.a) en materia de duración máxima del contrato se entiende sin perjuicio de lo que estuviera establecido en los convenios colectivos sectoriales vigentes a 19 de septiembre de 2010 sobre la duración máxima del contrato por obra o servicio determinados
+Lo dispuesto en el artículo 15.1.a) en materia de duración máxima del contrato se entiende sin perjuicio de lo que estuviera establecido en los convenios colectivos sectoriales vigentes a 19 de septiembre de 2010 sobre la duración máxima del contrato por obra o servicio determinados
 
 A los efectos de lo establecido en el artículo 15.5, quedará excluido del cómputo del plazo de veinticuatro meses y del periodo de treinta meses a que se refiere el citado artículo el tiempo transcurrido entre el 31 de agosto de 2011 y el 31 de diciembre de 2012, haya existido o no prestación de servicios por el trabajador entre dichas fechas, computándose en todo caso a los efectos de lo indicado en dicho artículo los periodos de servicios transcurridos, respectivamente, con anterioridad o posterioridad a las mismas
 
@@ -2785,10 +2711,6 @@ Cada progenitor podrá disfrutar individualmente de un máximo de diez semanas s
 Cuando los dos progenitores que ejerzan este derecho trabajen para la misma empresa, ésta podrá limitar el disfrute simultáneo de las doce semanas voluntarias por razones fundadas y objetivas, debidamente motivadas por escrito
 
 A partir de 1 de enero de 2020, en el caso de nacimiento, el otro progenitor contará con un periodo de suspensión total de doce semanas, de las cuales las cuatro primeras deberá disfrutarlas de forma ininterrumpida inmediatamente tras el parto
-
-Cada progenitor podrá disfrutar individualmente de un máximo de diez semanas sobre las doce semanas totales de disfrute voluntario, quedando las restantes sobre el total de las doce semanas a disposición del otro progenitor
-
-Cuando los dos progenitores que ejerzan este derecho trabajen para la misma empresa, ésta podrá limitar el disfrute simultáneo de las doce semanas voluntarias por razones fundadas y objetivas, debidamente motivadas por escrito
 
 A partir de 1 de enero de 2020, en el caso de adopción, guarda con fines de adopción o acogimiento, cada progenitor dispondrá de un periodo de suspensión de seis semanas a disfrutar a tiempo completo de forma obligatoria e ininterrumpida inmediatamente después de la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento
 
