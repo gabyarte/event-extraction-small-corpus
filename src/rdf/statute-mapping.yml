@@ -1,0 +1,137 @@
+prefixes:
+  xsd: http://www.w3.org/2001/XMLSchema#
+  rdfs: http://www.w3.org/2000/01/rdf-schema#
+  schema: http://schema.org/
+  sem: http://semanticweb.cs.vu.nl/2009/11/sem/
+  skos: http://www.w3.org/2004/02/skos/core#
+  prv: http://www.ittig.cnr.it/ontologies/def/ProvisionModel#
+  ns: http://spanish-laws.es/sws/resource/
+
+mappings:
+  argumentTypeSubject:
+      sources:
+        - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
+      s: ns:ArgumentType/$(event_subject_type)
+      po:
+        - [a, sem:ActorType]
+
+  argumentTypeObject:
+    sources:
+      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_object_type)
+    po:
+      - [a, sem:ActorType]
+
+  subject:
+    sources:
+      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
+    s: ns:EventArgument/$(event_subject_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_subject), xsd:string]
+      - p: sem:actorType
+        o:
+          mapping: argumentTypeSubject
+
+  object:
+    sources:
+      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
+    s: ns:EventArgument/$(event_object_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_object), xsd:string]
+      - p: sem:actorType
+        o:
+          mapping: argumentTypeObject
+
+  complement:
+    sources:
+      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
+    s: ns:EventArgument/$(event_complement_id)
+    po:
+      - [a, skos:Concept]
+      - [rdfs:label, $(event_complement), xsd:string]
+
+  trigger:
+    sources:
+      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
+    s: ns:EventTrigger/$(event_trigger_id)
+    po:
+      - [a, schema:Action]
+      - [rdfs:label, $(event_trigger), xsd:string]
+
+  dutyRelation:
+    sources:
+      - [data/analysis/statutes-events/statute-duty-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Duty]
+      - p: prv:hasDutyBearer
+        o:
+          mapping: subject
+      - p: prv:hasDutyCounterpart
+        o:
+          mapping: object
+      - p: prv:hasDutyObject
+        o:
+          mapping: complement
+      - p: prv:hasDutyAction
+        o:
+          mapping: trigger
+
+  rightRelation:
+    sources:
+      - [data/analysis/statutes-events/statute-right-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Right]
+      - p: prv:hasRightBearer
+        o:
+          mapping: subject
+      - p: prv:hasRightCounterpart
+        o:
+          mapping: object
+      - p: prv:hasRightObject
+        o:
+          mapping: complement
+      - p: prv:hasRightAction
+        o:
+          mapping: trigger
+
+  noRightRelation:
+    sources:
+      - [data/analysis/statutes-events/statute-no-right-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Prohibition]
+      - p: prv:hasProhibitionBearer
+        o:
+          mapping: subject
+      - p: prv:hasProhibitionCounterpart
+        o:
+          mapping: object
+      - p: prv:hasProhibitionObject
+        o:
+          mapping: complement
+      - p: prv:hasProhibitionAction
+        o:
+          mapping: trigger
+
+  privilegeRelation:
+    sources:
+      - [data/analysis/statutes-events/statute-privilege-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Permission]
+      - p: prv:hasPermissionBearer
+        o:
+          mapping: subject
+      - p: prv:hasPermissionCounterpart
+        o:
+          mapping: object
+      - p: prv:hasPermissionObject
+        o:
+          mapping: complement
+      - p: prv:hasPermissionAction
+        o:
+          mapping: trigger
