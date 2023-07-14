@@ -1,0 +1,251 @@
+event_subject,event_object,event_complement,event_trigger,event_subject_type,event_object_type,event_subject_id,event_object_id,event_complement_id,event_trigger_id,relation_id
+trabajador,,,podrá ausentarse,LegalAgent,,argument0925,,,trigger0362,right0001
+personas,empresas usuarias,,serán,LegalAgent,LegalEntity,argument0755,argument0461,,trigger0624,right0002
+trabajador,,,podrá reclamar,LegalAgent,,argument0925,,,trigger0401,right0003
+También,,,tendrá derecho a recibir,LegalConcept,,argument0111,,,trigger0661,right0004
+trabajadores a distancia,,,podrán ejercer,LegalAgent,,argument0934,,,trigger0430,right0005
+empresario,,,podrá designar,LegalAgent,,argument0449,,,trigger0370,right0006
+El Fondo de Garantía Salarial,,,tendrá la consideración de parte,LegalEntity,,argument0015,,,trigger0669,right0007
+comité de empresa,,,tendrá derecho a ser informado,LegalEntity,,argument0231,,,trigger0662,right0008
+Quien ejerza este derecho,,,podrá sustituirlo,LegalAgent,,argument0100,,,trigger0419,right0009
+trabajadores con contratos temporales y de duración determinada,trabajadores con contratos de duración indefinida,particularidades específicas de cada una de las modalidades contractuales en materia de extinción del contrato y de aquellas expresamente previstas en la ley en relación con los contratos formativos,tendrán,LegalAgent,LegalAgent,argument0939,argument0938,argument0731,trigger0676,right0010
+trabajadores,,,tendrán derecho,LegalAgent,,argument0933,,,trigger0677,right0011
+acción protectora de la Seguridad Social,,,comprenderá,LegalConcept,,argument0121,,,trigger0063,right0012
+trabajadores,derechos básicos,medidas de conflicto colectivo,tienen,LegalAgent,LegalConcept,argument0933,argument0366,argument0635,trigger0695,right0013
+empresario,trabajador,,podrá optar,LegalAgent,LegalAgent,argument0449,argument0925,,trigger0392,right0014
+Lo establecido en el párrafo anterior,,,será de aplicación,LegalConcept,,argument0079,,,trigger0614,right0015
+la reserva de su puesto de trabajo,,,se extenderá,LegalConcept,,argument0575,,,trigger0560,right0016
+"Todo sindicato, federación o confederación sindical, y toda asociación empresarial que reúna el requisito de legitimación",,,tendrá derecho a formar parte,LegalConcept,,argument0112,,,trigger0658,right0017
+el otro,,,tendrá derecho al traslado,LegalAgent,,argument0430,,,trigger0666,right0018
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0019
+comité de empresa,,,tendrá derecho,LegalEntity,,argument0231,,,trigger0652,right0020
+contrato,,plenos efectos,producirá,LegalConcept,,argument0283,,argument0766,trigger0465,right0021
+contrato,,tiempo de los servicios prestados,producirá,LegalConcept,,argument0283,,argument0921,trigger0465,right0022
+personas trabajadoras,,registro salarial,tienen derecho a acceder,LegalAgent,,argument0758,,argument0826,trigger0699,right0023
+sentencia,trabajador,traslado justificado o injustificado,declarará,LegalConcept,LegalAgent,argument0888,argument0925,argument0961,trigger0178,right0024
+sentencia,trabajador,derecho del trabajador,declarará,LegalConcept,LegalAgent,argument0888,argument0925,argument0362,trigger0178,right0025
+trabajadores,,,Se considerará,LegalAgent,,argument0933,,,trigger0017,right0026
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0027
+empresario,trabajador,,tendrá derecho a,LegalAgent,LegalAgent,argument0449,argument0925,,trigger0653,right0028
+falta de pago o retrasos continuados,,,pueda solicitar,LegalConcept,,argument0495,,,trigger0474,right0029
+derechos,,disposiciones legales,serán reconocidos,LegalConcept,,argument0365,,argument0401,trigger0633,right0030
+derechos,,reglamentarias,serán reconocidos,LegalConcept,,argument0365,,argument0829,trigger0633,right0031
+derechos,,convenios colectivos,serán reconocidos,LegalConcept,,argument0365,,argument0306,trigger0633,right0032
+registros,persona del trabajador,sus taquillas,realizarse,LegalConcept,LegalAgent,argument0827,argument0749,argument0909,trigger0489,right0033
+registros,persona del trabajador,efectos particulares,realizarse,LegalConcept,LegalAgent,argument0827,argument0749,argument0418,trigger0489,right0034
+comité de empresa,,,estarán legitimados para negociar,LegalEntity,,argument0231,,,trigger0232,right0035
+comité de empresa,,,tendrá derecho,LegalEntity,,argument0231,,,trigger0652,right0036
+comité de empresa,,informe,tendrá derecho a emitir,LegalEntity,,argument0231,,argument0534,trigger0656,right0037
+Los trabajadores a distancia,,"una adecuada protección en materia de seguridad y salud resultando de aplicación, en todo caso, lo establecido en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y su normativa de desarrollo",tienen derecho a,LegalAgent,,argument0092,,argument0975,trigger0698,right0038
+trabajador,,,tiene derecho a participar,LegalAgent,,argument0925,,,trigger0693,right0039
+derecho al salario a comisión,,,nacerá,LegalConcept,,argument0360,,,trigger0294,right0040
+representante legal,persona de capacidad limitada,trabajo,autoriza,LegalAgent,LegalAgent,argument0847,argument0748,argument0949,trigger0053,right0041
+representante legal,persona de capacidad limitada,derechos,autoriza,LegalAgent,LegalAgent,argument0847,argument0748,argument0365,trigger0053,right0042
+representante legal,persona de capacidad limitada,deberes,autoriza,LegalAgent,LegalAgent,argument0847,argument0748,argument0335,trigger0053,right0043
+representante legal,persona de capacidad limitada,contrato,autoriza,LegalAgent,LegalAgent,argument0847,argument0748,argument0283,trigger0053,right0044
+representante legal,persona de capacidad limitada,cesación,autoriza,LegalAgent,LegalAgent,argument0847,argument0748,argument0215,trigger0053,right0045
+contrato de relevo,puesto de trabajo,,se ajustará,LegalConcept,LegalConcept,argument0285,argument0800,,trigger0516,right0046
+contrato de relevo,trabajador relevista,,se ajustará,LegalConcept,LegalConcept,argument0285,argument0929,,trigger0516,right0047
+contrato de relevo,trabajador sustituido,,se ajustará,LegalConcept,LegalConcept,argument0285,argument0930,,trigger0516,right0048
+empresas,contratos en prácticas,,tendrán derecho,LegalEntity,LegalConcept,argument0456,argument0294,,trigger0677,right0049
+empresas,trabajadores con discapacidad,,tendrán derecho,LegalEntity,LegalConcept,argument0456,argument0940,,trigger0677,right0050
+empresario,salario,moneda de curso legal,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0878,argument0659,trigger0375,right0051
+empresario,salario,cheque,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0878,argument0218,trigger0375,right0052
+empresario,salario,modalidad de pago similar,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0878,argument0652,trigger0375,right0053
+empresario,salario,entidades de crédito,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0878,argument0469,trigger0375,right0054
+empresario,salario,informe al comité de empresa,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0878,argument0535,trigger0375,right0055
+empresario,salario,delegados de personal,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0878,argument0348,trigger0375,right0056
+empresario,pago delegado de las prestaciones de la Seguridad Social,moneda de curso legal,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0722,argument0659,trigger0375,right0057
+empresario,pago delegado de las prestaciones de la Seguridad Social,cheque,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0722,argument0218,trigger0375,right0058
+empresario,pago delegado de las prestaciones de la Seguridad Social,modalidad de pago similar,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0722,argument0652,trigger0375,right0059
+empresario,pago delegado de las prestaciones de la Seguridad Social,entidades de crédito,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0722,argument0469,trigger0375,right0060
+empresario,pago delegado de las prestaciones de la Seguridad Social,informe al comité de empresa,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0722,argument0535,trigger0375,right0061
+empresario,pago delegado de las prestaciones de la Seguridad Social,delegados de personal,podrá efectuarlo,LegalAgent,LegalConcept,argument0449,argument0722,argument0348,trigger0375,right0062
+comité de empresa,,,tendrá derecho a ser informado y consultado,LegalEntity,,argument0231,,,trigger0663,right0063
+personal laboral fijo,,,Tendrá prioridad de permanencia,LegalAgent,,argument0754,,,trigger0027,right0064
+Los extranjeros,,,Podrán contratar,LegalAgent,,argument0088,,,trigger0009,right0065
+comité de empresa,,,tendrá derecho a emitir informe,LegalEntity,,argument0231,,,trigger0657,right0066
+las personas trabajadoras,,una hora de ausencia del trabajo,tendrán derecho,LegalAgent,,argument0585,,argument0978,trigger0677,right0067
+las personas trabajadoras,,dos fracciones,tendrán derecho,LegalAgent,,argument0585,,argument0409,trigger0677,right0068
+las personas trabajadoras,,cuidado del lactante,tendrán derecho,LegalAgent,,argument0585,,argument0330,trigger0677,right0069
+las personas trabajadoras,,nueve meses,tendrán derecho,LegalAgent,,argument0585,,argument0676,trigger0677,right0070
+representantes legales,trabajadores,centro de trabajo,reunirse,LegalAgent,LegalAgent,argument0852,argument0933,argument0211,trigger0513,right0071
+representantes legales,trabajadores,condiciones de ejecución de la actividad laboral,reunirse,LegalAgent,LegalAgent,argument0852,argument0933,argument0260,trigger0513,right0072
+representantes legales,empresa principal,centro de trabajo,reunirse,LegalAgent,LegalAgent,argument0852,argument0447,argument0211,trigger0513,right0073
+representantes legales,empresa principal,condiciones de ejecución de la actividad laboral,reunirse,LegalAgent,LegalAgent,argument0852,argument0447,argument0260,trigger0513,right0074
+representantes legales,empresas contratistas,centro de trabajo,reunirse,LegalAgent,LegalAgent,argument0852,argument0457,argument0211,trigger0513,right0075
+representantes legales,empresas contratistas,condiciones de ejecución de la actividad laboral,reunirse,LegalAgent,LegalAgent,argument0852,argument0457,argument0260,trigger0513,right0076
+representantes legales,subcontratistas,centro de trabajo,reunirse,LegalAgent,LegalAgent,argument0852,argument0904,argument0211,trigger0513,right0077
+representantes legales,subcontratistas,condiciones de ejecución de la actividad laboral,reunirse,LegalAgent,LegalAgent,argument0852,argument0904,argument0260,trigger0513,right0078
+contrato de relevo,,,podrá prorrogarse,LegalConcept,,argument0285,,,trigger0396,right0079
+concurrencia de promotores,,,se considerará válida,LegalConcept,,argument0258,,,trigger0532,right0080
+despido,,inobservando,podrá realizar,LegalConcept,,argument0374,,argument0540,trigger0397,right0081
+despido,,establecido,podrá realizar,LegalConcept,,argument0374,,argument0476,trigger0397,right0082
+despido,,apartado anterior,podrá realizar,LegalConcept,,argument0374,,argument0153,trigger0397,right0083
+despido,,empresario,podrá realizar,LegalConcept,,argument0374,,argument0449,trigger0397,right0084
+despido,,nuevo despido,podrá realizar,LegalConcept,,argument0374,,argument0678,trigger0397,right0085
+despido,,requisitos,podrá realizar,LegalConcept,,argument0374,,argument0855,trigger0397,right0086
+despido,,omitidos,podrá realizar,LegalConcept,,argument0374,,argument0701,trigger0397,right0087
+despido,,precedente,podrá realizar,LegalConcept,,argument0374,,argument0768,trigger0397,right0088
+personas trabajadoras,,,tendrán derecho a ausentarse,LegalAgent,,argument0758,,,trigger0681,right0089
+convenio colectivo,trabajadores eventuales,,podrán determinar,LegalConcept,LegalAgent,argument0302,argument0943,,trigger0426,right0090
+trabajadores con discapacidad,,,tendrán derecho preferente a ocupar,LegalAgent,,argument0940,,,trigger0686,right0091
+despido,,,considerará,LegalConcept,,argument0374,,,trigger0075,right0092
+conflictos,,,resolverán,LegalConcept,,argument0265,,,trigger0505,right0093
+trabajador,,,podrá tener,LegalAgent,,argument0925,,,trigger0420,right0094
+valoración de las faltas y las correspondientes sanciones,,dirección de la empresa,serán siempre revisables,LegalConcept,,argument0986,,argument0388,trigger0638,right0095
+trabajadores,,relación de trabajo,tienen derecho,LegalAgent,,argument0933,,argument0838,trigger0697,right0096
+trabajadores,,percepción puntual de la remuneración pactada o legalmente establecida,tienen derecho,LegalAgent,,argument0933,,argument0735,trigger0697,right0097
+representación legal,trabajadores,locales,hacer uso,LegalEntity,LegalAgent,argument0846,argument0933,argument0606,trigger0275,right0098
+oficina pública,organizaciones sindicales,certificaciones de los resultados electorales,podrá extender,LegalEntity,LegalEntity,argument0700,argument0706,argument0213,trigger0380,right0099
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0100
+calificación,trabajador,efectos,producirá,LegalConcept,LegalAgent,argument0186,argument0925,argument0417,trigger0465,right0101
+comité de empresa,,,tendrá derecho a emitir,LegalEntity,,argument0231,,,trigger0656,right0102
+empresario,trabajador,,podrá verificar,LegalAgent,LegalAgent,argument0449,argument0925,,trigger0423,right0103
+Gobierno,,,podrá suprimir o reducir,LegalEntity,,argument0042,,,trigger0416,right0104
+sindicatos de comunidad autónoma,asociaciones empresariales de la comunidad autónoma,,estarán legitimados,LegalEntity,LegalEntity,argument0892,argument0172,,trigger0231,right0105
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0106
+organismo,créditos de los trabajadores,lista de acreedores,reconocimiento del derecho a la prestación exigirá,LegalEntity,LegalAgent,argument0703,argument0320,argument0601,trigger0497,right0107
+organismo,créditos de los trabajadores,deudas de la masa,reconocimiento del derecho a la prestación exigirá,LegalEntity,LegalAgent,argument0703,argument0320,argument0379,trigger0497,right0108
+compromisos,contratos formativos,conversión,establecerse,LegalConcept,LegalConcept,argument0243,argument0295,argument0310,trigger0215,right0109
+Operará la compensación y absorción,los salarios,,cuando sean más favorables,LegalConcept,LegalAgent,argument0097,argument0616,,trigger0099,right0110
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0111
+comité de empresa,,,tendrá derecho a Ser informado,LegalEntity,,argument0231,,,trigger0655,right0112
+trabajador a distancia,,derecho a percibir,tendrá,LegalAgent,,argument0926,,argument0359,trigger0651,right0113
+Las medidas,el empleo estable de los trabajadores desempleados,a las que se refieren los párrafos anteriores,se orientarán prioritariamente a fomentar,LegalConcept,LegalConcept,argument0070,argument0427,argument0115,trigger0575,right0114
+Las medidas,la conversión de contratos temporales en contratos por tiempo indefinido,a las que se refieren los párrafos anteriores,se orientarán prioritariamente a fomentar,LegalConcept,LegalConcept,argument0070,argument0563,argument0115,trigger0575,right0115
+El derecho,,,se entenderá cumplido,LegalConcept,,argument0025,,,trigger0551,right0116
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0117
+trabajador,,,podrá ausentarse,LegalAgent,,argument0925,,,trigger0362,right0118
+comité de empresa,,,tendrá derecho a ser informado,LegalEntity,,argument0231,,,trigger0662,right0119
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0120
+representantes legales,,,tendrán,LegalAgent,,argument0852,,,trigger0676,right0121
+vacante,delegados de personal,,se cubrirá automáticamente,LegalConcept,LegalAgent,argument0985,argument0348,,trigger0538,right0122
+empresario,organizaciones empresariales,comisión,podrá atribuir,LegalAgent,LegalEntity,argument0449,argument0705,argument0224,trigger0361,right0123
+empresario,organizaciones empresariales,miembros,podrá atribuir,LegalAgent,LegalEntity,argument0449,argument0705,argument0646,trigger0361,right0124
+empresario,organizaciones empresariales,sindicatos,podrá atribuir,LegalAgent,LegalEntity,argument0449,argument0705,argument0891,trigger0361,right0125
+convenio colectivo,constitución y funcionamiento,,podrá pactarse,LegalConcept,LegalConcept,argument0302,argument0270,,trigger0394,right0126
+trabajador,,,resultase perjudicado,LegalAgent,,argument0925,,,trigger0512,right0127
+contratos de interinidad,beneficiarios de prestaciones por desempleo,trabajadores,darán derecho a,LegalConcept,LegalAgent,argument0292,argument0180,argument0933,trigger0107,right0128
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0129
+asociaciones empresariales,,convenios colectivos de sector,estarán legitimadas para negociar,LegalEntity,,argument0170,,argument0307,trigger0230,right0130
+trabajadores,,,tienen,LegalAgent,,argument0933,,,trigger0695,right0131
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0132
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0133
+miembros del comité o delegado de personal,,,Disponer,LegalConcept,,argument0650,,,trigger0005,right0134
+trabajador,,,podrá exigir,LegalAgent,,argument0925,,,trigger0379,right0135
+el trabajador,,,tendrá derecho a la reincorporación,LegalAgent,,argument0436,,,trigger0659,right0136
+trabajadores,representantes de los trabajadores,condiciones de ejecución de la actividad laboral,tendrán derecho a formular,LegalAgent,LegalAgent,argument0933,argument0850,argument0260,trigger0682,right0137
+créditos salariales,objetos elaborados,,gozarán de preferencia,LegalConcept,LegalConcept,argument0324,argument0689,,trigger0265,right0138
+causa objetiva,contrato,despido,requiere concretamente la extinción,LegalConcept,LegalConcept,argument0200,argument0283,argument0374,trigger0503,right0139
+sindicatos,registros,,tendrán derecho a acceder,LegalEntity,LegalConcept,argument0891,argument0827,,trigger0679,right0140
+despido nulo,trabajador,,tendrá el efecto de,LegalConcept,LegalAgent,argument0376,argument0925,,trigger0667,right0141
+trabajadores,,,tienen,LegalAgent,,argument0933,,,trigger0695,right0142
+resolución denegatoria,,registro,podrá ser impugnada,LegalConcept,,argument0862,,argument0822,trigger0410,right0143
+Gobierno,,ampliaciones,podrá establecer,LegalEntity,,argument0042,,argument0150,trigger0377,right0144
+Gobierno,,limitaciones,podrá establecer,LegalEntity,,argument0042,,argument0599,trigger0377,right0145
+Gobierno,,especialidades,podrá establecer,LegalEntity,,argument0042,,argument0473,trigger0377,right0146
+trabajador,,,tiene derecho,LegalAgent,,argument0925,,,trigger0692,right0147
+trabajador,,,pueda solicitar,LegalAgent,,argument0925,,,trigger0474,right0148
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0149
+miembros del comité o delegado de personal,,,Disponer de,LegalAgent,,argument0650,,,trigger0006,right0150
+comité de empresa,,,tendrá derecho a emitir,LegalEntity,,argument0231,,,trigger0656,right0151
+La regulación de las condiciones establecidas en un convenio de empresa,,,tendrá prioridad aplicativa respecto del,LegalConcept,,argument0065,,,trigger0673,right0152
+El contrato a tiempo parcial,,,se regirá por,LegalConcept,,argument0023,,,trigger0594,right0153
+el Gobierno,,,podrá trasladar a,LegalEntity,,argument0425,,,trigger0421,right0154
+trabajador,,,podrá ausentarse,LegalAgent,,argument0925,,,trigger0362,right0155
+comité de empresa,,,tendrá derecho a ser informado y consultado,LegalEntity,,argument0231,,,trigger0663,right0156
+delegados de personal y miembros del comité,,,podrán ser revocados,LegalAgent,,argument0350,,,trigger0442,right0157
+persona trabajadora,,,tendrá derecho a solicitar,LegalAgent,,argument0751,,,trigger0664,right0158
+Las preferencias,,,serán de aplicación,LegalConcept,,argument0072,,,trigger0627,right0159
+los candidatos,,,Resultarán elegidos,LegalAgent,,argument0608,,,trigger0014,right0160
+comité de empresa,,,tendrá derecho a ser informado,LegalEntity,,argument0231,,,trigger0662,right0161
+autoridad laboral,entidad gestora,,podrá ser impugnada,LegalEntity,LegalEntity,argument0177,argument0468,,trigger0410,right0162
+trabajador relevista,trabajador sustituido,,podrá completar,LegalAgent,LegalAgent,argument0929,argument0930,,trigger0364,right0163
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0164
+contrato,,,podrá prorrogarse,LegalConcept,,argument0283,,,trigger0396,right0165
+"progenitores, adoptantes, guardadores o acogedores",derecho,,ejerzan,LegalConcept,LegalConcept,argument0787,argument0358,,trigger0199,right0166
+trabajador,,,ejercitado,LegalAgent,,argument0925,,,trigger0197,right0167
+comité de empresa,,,tendrá derecho a Conocer,LegalEntity,,argument0231,,,trigger0654,right0168
+miembros del comité o delegado de personal,,,Disponer,LegalAgent,,argument0650,,,trigger0005,right0169
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0170
+contratos de interinidad,beneficiarios de prestaciones por desempleo,trabajadores,darán derecho a,LegalConcept,LegalAgent,argument0292,argument0180,argument0933,trigger0107,right0171
+trabajador,,,podrá ausentarse,LegalAgent,,argument0925,,,trigger0362,right0172
+trabajador,,,tendrá derecho a optar,LegalAgent,,argument0925,,,trigger0660,right0173
+Los sindicatos,,,estarán legitimados para negociar,LegalEntity,,argument0090,,,trigger0232,right0174
+Las reducciones de jornada,,,constituyen un derecho individual,LegalConcept,,argument0073,,,trigger0085,right0175
+despido colectivo,,,se entenderá por,LegalConcept,,argument0375,,,trigger0553,right0176
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0177
+La ejecución de este contrato de trabajo a tiempo parcial y su retribución,,,serán compatibles,LegalConcept,,argument0056,,,trigger0625,right0178
+El periodo en que el trabajador permanezca en situación de excedencia conforme a lo establecido en este artículo,,,será computable,LegalConcept,,argument0028,,,trigger0612,right0179
+comité de empresa,,,tendrá derecho a,LegalEntity,,argument0231,,,trigger0653,right0180
+trabajador,,,resultará elegido,LegalAgent,,argument0925,,,trigger0511,right0181
+sindicatos,,,estarán legitimados,LegalEntity,,argument0891,,,trigger0231,right0182
+La regulación de las condiciones establecidas en un convenio de empresa,,,tendrá prioridad aplicativa,LegalConcept,,argument0065,,,trigger0671,right0183
+Las personas trabajadoras,,,tienen derecho a solicitar,LegalAgent,,argument0071,,,trigger0702,right0184
+"Expresar, colegiadamente si se trata del comité",,,pudiendo publicar y distribuir,LegalConcept,,argument0039,,,trigger0472,right0185
+En aquellos sectores en los que no existan asociaciones empresariales que cuenten con la suficiente representatividad,,,se entenderá válidamente constituida,LegalConcept,,argument0033,,,trigger0555,right0186
+otro progenitor,,,contará con,LegalAgent,,argument0713,,,trigger0086,right0187
+contrato,,,Se presumirá existente,LegalConcept,,argument0283,,,trigger0021,right0188
+trabajador,,,podrá impugnarla,LegalAgent,,argument0925,,,trigger0387,right0189
+empresario,,horas complementarias,podrá exigir,LegalAgent,,argument0449,,argument0512,trigger0379,right0190
+empresas,,,tendrán derecho a,LegalEntity,,argument0456,,,trigger0678,right0191
+personas trabajadoras,,,tienen derecho a efectuar,LegalAgent,,argument0758,,,trigger0700,right0192
+trabajadores,,,tienen,LegalAgent,,argument0933,,,trigger0695,right0193
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0194
+empresa,trabajadores,,podrá efectuar,LegalAgent,LegalAgent,argument0445,argument0933,,trigger0374,right0195
+Contra el acuerdo de proclamación,,,se podrá reclamar,LegalConcept,,argument0006,,,trigger0581,right0196
+comité de empresa,,,tendrá derecho a recibir,LegalEntity,,argument0231,,,trigger0661,right0197
+trabajadores,,,tendrán derecho a,LegalAgent,,argument0933,,,trigger0678,right0198
+empresarios,,,estarán legitimados para negociar,LegalAgent,,argument0455,,,trigger0232,right0199
+trabajadores,,,tendrán derecho,LegalAgent,,argument0933,,,trigger0677,right0200
+trabajadores,,empresa,tienen derecho a participar,LegalAgent,,argument0933,,argument0445,trigger0701,right0201
+comité de empresa,,,tendrá derecho a ser informado y consultado,LegalEntity,,argument0231,,,trigger0663,right0202
+derecho,persona trabajadora,,es,LegalConcept,LegalAgent,argument0358,argument0751,,trigger0213,right0203
+derechos,,,serán reconocidos,LegalConcept,,argument0365,,,trigger0633,right0204
+derecho,,,es,LegalConcept,,argument0358,,,trigger0213,right0205
+usos y costumbres,,,se aplicarán,LegalConcept,,argument0984,,,trigger0519,right0206
+convenio colectivo o acuerdo,,,se podrán establecer,LegalConcept,,argument0303,,,trigger0585,right0207
+plazos,,,serán señalados,LegalConcept,,argument0764,,,trigger0637,right0208
+acuerdo,,,serán de aplicación,LegalConcept,,argument0135,,,trigger0627,right0209
+convenio colectivo,,,establecerse,LegalConcept,,argument0302,,,trigger0215,right0210
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0211
+progenitor,,,tendrá derecho,LegalAgent,,argument0786,,,trigger0652,right0212
+Los sindicatos,,un mínimo del diez por ciento de los miembros de los comités de empresa o delegados de personal en el ámbito geográfico y funcional al que se refiera el convenio,estarán legitimados para negociar,LegalEntity,,argument0090,,argument0973,trigger0232,right0213
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0214
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0215
+créditos salariales,,,gozarán de preferencia,LegalConcept,,argument0324,,,trigger0265,right0216
+legislación laboral española,,,será de aplicación,LegalConcept,,argument0591,,,trigger0614,right0217
+contrato de trabajo,,,se extinguirá,LegalConcept,,argument0286,,,trigger0561,right0218
+disposiciones generales laborales,,Código de Trabajo,se incorporarán,LegalConcept,,argument0400,,argument0010,trigger0568,right0219
+recurso,,,cabrá,LegalConcept,,argument0817,,,trigger0056,right0220
+regulación,,,tendrá,LegalConcept,,argument0831,,,trigger0651,right0221
+trabajador,,,podrá recurrir,LegalAgent,,argument0925,,,trigger0402,right0222
+Quien,,,tendrá derecho a,LegalAgent,,argument0099,,,trigger0653,right0223
+trabajador,,,podrá ausentarse,LegalAgent,,argument0925,,,trigger0362,right0224
+trabajadores,,,opten por designar,LegalAgent,,argument0933,,,trigger0342,right0225
+partes legitimadas,,,adherirse,LegalAgent,,argument0729,,,trigger0039,right0226
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0227
+trabajador,,,podrá solicitar,LegalAgent,,argument0925,,,trigger0413,right0228
+comité de empresa,,,tendrá derecho,LegalEntity,,argument0231,,,trigger0652,right0229
+trabajadores nocturnos,,,tendrán derecho a ser destinados,LegalAgent,,argument0946,,,trigger0685,right0230
+trabajadores,,,tienen,LegalAgent,,argument0933,,,trigger0695,right0231
+En representación de los empresarios,,las asociaciones empresariales,estarán legitimados para negociar,LegalAgent,,argument0035,,argument0577,trigger0232,right0232
+Tal acuerdo,delegados de prevención,,podrá ser adoptado,LegalConcept,LegalAgent,argument0110,argument0351,,trigger0409,right0233
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0234
+empresario,comité de empresa,,transmisión,LegalAgent,LegalEntity,argument0449,argument0231,,trigger0705,right0235
+La madre biológica,al otro progenitor,un periodo de hasta cuatro semanas de su periodo de suspensión de disfrute no obligatorio,ceder,LegalAgent,LegalAgent,argument0060,argument0147,argument0974,trigger0059,right0236
+modificación,Diez trabajadores,empresas que ocupen menos de cien trabajadores,se considera,LegalConcept,LegalAgent,argument0657,argument0012,argument0460,trigger0528,right0237
+trabajadores,,,tienen,LegalAgent,,argument0933,,,trigger0695,right0238
+comité de empresa,,,tendrá derecho a ser informado,LegalEntity,,argument0231,,,trigger0662,right0239
+contrato de trabajo,,,podrá suspenderse,LegalConcept,,argument0286,,,trigger0418,right0240
+sentencia,modificación,derecho del trabajador,declarará,LegalConcept,LegalConcept,argument0888,argument0657,argument0362,trigger0178,right0241
+trabajadores,,,tienen derecho,LegalAgent,,argument0933,,,trigger0697,right0242
+trabajadores,,,tienen,LegalAgent,,argument0933,,,trigger0695,right0243
+trabajador,,,tiene derecho a que se le reconozca,LegalAgent,,argument0925,,,trigger0694,right0244
+personas,,,tendrán derecho a reducir,LegalAgent,,argument0755,,,trigger0684,right0245
+convenio,,,entrará en vigor,LegalConcept,,argument0301,,,trigger0209,right0246
+trabajador,,,tendrá derecho,LegalAgent,,argument0925,,,trigger0652,right0247
+trabajador,,,tendrá derecho a recibir,LegalAgent,,argument0925,,,trigger0661,right0248
+trabajadores,,,tendrán derecho a adquirir,LegalAgent,,argument0933,,,trigger0680,right0249
+progenitor,,,tendrá derecho a suspender,LegalAgent,,argument0786,,,trigger0665,right0250

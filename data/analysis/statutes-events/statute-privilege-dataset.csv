@@ -1,0 +1,126 @@
+event_subject,event_object,event_complement,event_trigger,event_subject_type,event_object_type,event_subject_id,event_object_id,event_complement_id,event_trigger_id,relation_id
+Ministerio de Empleo y Seguridad Social,,,podrán extender,LegalEntity,,argument0094,,,trigger0432,privilege0001
+empresario,,,podrá adoptar,LegalAgent,,argument0449,,,trigger0358,privilege0002
+partes,,,someter,LegalEntity,,argument0728,,,trigger0644,privilege0003
+convenios colectivos,,,podrán regular,LegalConcept,,argument0306,,,trigger0440,privilege0004
+contrato de relevo,trabajadores,,podrá concertar,LegalConcept,LegalAgent,argument0285,argument0933,,trigger0366,privilege0005
+empresa,,,se podrá proceder,LegalAgent,,argument0445,,,trigger0580,privilege0006
+Quienes,,,contratar,LegalConcept,,argument0101,,,trigger0091,privilege0007
+Cada progenitor,,,disfrutar,LegalAgent,,argument0003,,,trigger0190,privilege0008
+trabajadores,,,acogerán,LegalAgent,,argument0933,,,trigger0035,privilege0009
+Gobierno,,,podrá reducir,LegalEntity,,argument0042,,,trigger0403,privilege0010
+actividades formativas,,formación complementaria,podrán incluir,LegalConcept,,argument0134,,argument0504,trigger0435,privilege0011
+jornada de trabajo,,,podrá reducirse,LegalConcept,,argument0555,,,trigger0404,privilege0012
+trabajador,,,podrá hacerlo,LegalAgent,,argument0925,,,trigger0385,privilege0013
+menores de dieciocho y mayores de dieciséis años,,,Podrán contratar,LegalConcept,,argument0641,,,trigger0009,privilege0014
+autoridad laboral,,indemnización,podrá acordar,LegalEntity,,argument0177,,argument0529,trigger0356,privilege0015
+autoridad laboral,,trabajadores,podrá acordar,LegalEntity,,argument0177,,argument0933,trigger0356,privilege0016
+autoridad laboral,,contratos,podrá acordar,LegalEntity,,argument0177,,argument0290,trigger0356,privilege0017
+negociación colectiva,,medidas,podrá establecer,LegalEntity,,argument0668,,argument0634,trigger0377,privilege0018
+negociación colectiva,,"condiciones de clasificación profesional, promoción y formación",podrá establecer,LegalEntity,,argument0668,,argument0259,trigger0377,privilege0019
+despedido,,,corresponderá,LegalAgent,,argument0373,,,trigger0097,privilege0020
+pacto,,horas complementarias,podrá acordarse,LegalConcept,,argument0718,,argument0512,trigger0357,privilege0021
+trabajadores,,situación de excedencia,podrán solicitar,LegalAgent,,argument0933,,argument0898,trigger0445,privilege0022
+contrato de trabajo,,causas,podrá suspenderse,LegalConcept,,argument0286,,argument0201,trigger0418,privilege0023
+comunidades autónomas,,,podrán señalar,LegalEntity,,argument0252,,,trigger0444,privilege0024
+asociaciones empresariales,,,gozan de,LegalEntity,,argument0170,,,trigger0262,privilege0025
+asamblea,,,convocada,LegalConcept,,argument0167,,,trigger0093,privilege0026
+contrato de trabajo en prácticas,,,podrá concertarse,LegalConcept,,argument0287,,,trigger0367,privilege0027
+convenios colectivos,,,podrán establecer,LegalEntity,,argument0306,,,trigger0431,privilege0028
+El trabajador y sus representantes legales,,comunicaciones,pueden pedir,LegalAgent,,argument0031,,argument0244,trigger0476,privilege0029
+El trabajador y sus representantes legales,,parte,pueden pedir,LegalAgent,,argument0031,,argument0724,trigger0476,privilege0030
+El trabajador y sus representantes legales,,libros,pueden pedir,LegalAgent,,argument0031,,argument0598,trigger0476,privilege0031
+El trabajador y sus representantes legales,,tales devengos,pueden pedir,LegalAgent,,argument0031,,argument0918,trigger0476,privilege0032
+Gobierno,subvenciones,empleo de grupos específicos de trabajadores que encuentren dificultades especiales para acceder al empleo,otorgar,LegalEntity,LegalConcept,argument0042,argument0905,argument0444,trigger0346,privilege0033
+Gobierno,desgravaciones,empleo de grupos específicos de trabajadores que encuentren dificultades especiales para acceder al empleo,otorgar,LegalEntity,LegalConcept,argument0042,argument0372,argument0444,trigger0346,privilege0034
+Gobierno,otras medidas,empleo de grupos específicos de trabajadores que encuentren dificultades especiales para acceder al empleo,otorgar,LegalEntity,LegalConcept,argument0042,argument0711,argument0444,trigger0346,privilege0035
+contrato de trabajo en prácticas,,,podrá concertarse,LegalConcept,,argument0287,,,trigger0367,privilege0036
+contrato,,duración,podrá prorrogarse,LegalConcept,,argument0283,,argument0410,trigger0396,privilege0037
+contrato,,máxima legal,podrá prorrogarse,LegalConcept,,argument0283,,argument0662,trigger0396,privilege0038
+contrato,,convencionalmente establecida,podrá prorrogarse,LegalConcept,,argument0283,,argument0300,trigger0396,privilege0039
+contrato,,acuerdo,podrá prorrogarse,LegalConcept,,argument0283,,argument0135,trigger0396,privilege0040
+contrato,,partes,podrá prorrogarse,LegalConcept,,argument0283,,argument0728,trigger0396,privilege0041
+contrato,,prórroga,podrá prorrogarse,LegalConcept,,argument0283,,argument0798,trigger0396,privilege0042
+contrato,,meses,podrá prorrogarse,LegalConcept,,argument0283,,argument0645,trigger0396,privilege0043
+contrato,,duración total,podrá prorrogarse,LegalConcept,,argument0283,,argument0416,trigger0396,privilege0044
+organizaciones empresariales,,cesiones temporales del uso de inmuebles patrimoniales públicos,gozarán de capacidad para obtener,LegalEntity,,argument0705,,argument0217,trigger0264,privilege0045
+periodo de suspensión,,,podrá iniciarse,LegalConcept,,argument0741,,,trigger0389,privilege0046
+empresa,,,distribuir,LegalAgent,,argument0445,,,trigger0194,privilege0047
+periodo de suspensión,,,podrá computarse,LegalConcept,,argument0741,,,trigger0365,privilege0048
+cláusulas,,,pactarse,LegalConcept,,argument0221,,,trigger0347,privilege0049
+periodo de prueba,,,concertarse,LegalConcept,,argument0739,,,trigger0068,privilege0050
+situación de excedencia,,otros supuestos colectivamente acordados,podrá extenderse,LegalConcept,,argument0898,,argument0717,trigger0381,privilege0051
+situación de excedencia,,régimen y los efectos que allí se prevean,podrá extenderse,LegalConcept,,argument0898,,argument0877,trigger0381,privilege0052
+empresario y la representación de los trabajadores,,,podrán acordar,LegalEntity,,argument0454,,,trigger0424,privilege0053
+contrato de trabajo en prácticas,,,podrá concertarse,LegalConcept,,argument0287,,,trigger0367,privilege0054
+sujetos,,convenio colectivo,podrán negociar,LegalAgent,,argument0906,,argument0302,trigger0436,privilege0055
+quienes sean parte en dichos periodos de consultas,,,podrán someter,LegalAgent,,argument0806,,,trigger0446,privilege0056
+autoridad laboral,,,realizar durante el periodo de consultas,LegalEntity,,argument0177,,,trigger0488,privilege0057
+convenio colectivo,,,se podrán establecer,LegalConcept,,argument0302,,,trigger0585,privilege0058
+partes,,,podrán adoptar,LegalAgent,,argument0728,,,trigger0425,privilege0059
+los trabajadores y empresarios,,,podrán regular,LegalEntity,,argument0620,,,trigger0440,privilege0060
+Los convenios colectivos,,,podrán establecer,LegalConcept,,argument0085,,,trigger0431,privilege0061
+organizaciones de trabajadores y empresarios,,,elaborar,LegalEntity,,argument0704,,,trigger0200,privilege0062
+créditos por salarios no protegidos en los apartados anteriores,,,tendrán la condición de singularmente privilegiados,LegalConcept,,argument0323,,,trigger0687,privilege0063
+empresa,,,se podrá proceder,LegalAgent,,argument0445,,,trigger0580,privilege0064
+dirección de la empresa,,,podrá acordar,LegalEntity,,argument0388,,,trigger0356,privilege0065
+,puestos de trabajo,contrato,se podrán determinar,,LegalConcept,,argument0802,argument0283,trigger0583,privilege0066
+,grupos profesionales,contrato,se podrán determinar,,LegalConcept,,argument0508,argument0283,trigger0583,privilege0067
+representación,,,podrá haber,LegalConcept,,argument0843,,,trigger0384,privilege0068
+comunidades,,,podrán hacer uso,LegalEntity,,argument0251,,,trigger0433,privilege0069
+empresa,,,se podrá proceder,LegalAgent,,argument0445,,,trigger0580,privilege0070
+sindicatos y las asociaciones empresariales,,,podrán negociar,LegalEntity,,argument0894,,,trigger0436,privilege0071
+representantes legales de los trabajadores,,,tendrán,LegalAgent,,argument0853,,,trigger0676,privilege0072
+La suspensión del contrato de trabajo,,,podrá disfrutarse,LegalConcept,,argument0067,,,trigger0372,privilege0073
+convenio colectivo,,,se podrá establecer,LegalConcept,,argument0302,,,trigger0578,privilege0074
+Gobierno,,"medidas de reserva, duración o preferencia en el empleo",podrá regular,LegalEntity,,argument0042,,argument0636,trigger0405,privilege0075
+El trabajador,,,podrá ausentarse,LegalAgent,,argument0030,,,trigger0362,privilege0076
+Cualquiera de las partes,,,podrá exigir,LegalAgent,,argument0009,,,trigger0379,privilege0077
+Real Decreto Legislativo 1/1995,,,se aprueba,LegalConcept,,argument0103,,,trigger0520,privilege0078
+,,,podrá establecer,,,,,,trigger0377,privilege0079
+acuerdo mayoritario,,,podrá promoverse,LegalConcept,,argument0138,,,trigger0395,privilege0080
+empresario,,,podrá suspender,LegalAgent,,argument0449,,,trigger0417,privilege0081
+empresario,,,podrá reclamar,LegalAgent,,argument0449,,,trigger0401,privilege0082
+convenio colectivo,,,puede disponer,LegalConcept,,argument0302,,,trigger0475,privilege0083
+contrato de trabajo,,,se podrá celebrar,LegalConcept,,argument0286,,,trigger0576,privilege0084
+,,,Podrán promoverse,,,,,,trigger0010,privilege0085
+información,,,podrá facilitarse,LegalConcept,,argument0531,,,trigger0383,privilege0086
+retribuciones,,,gozarán,LegalConcept,,argument0868,,,trigger0263,privilege0087
+representantes de los trabajadores,,,podrá ser acordada,LegalEntity,,argument0850,,,trigger0408,privilege0088
+trabajador,representante legal de los trabajadores,,podrá solicitar,LegalAgent,LegalEntity,argument0925,argument0848,,trigger0413,privilege0089
+madre biológica,,,disfrutará,LegalAgent,,argument0626,,,trigger0191,privilege0090
+contrato de trabajo en prácticas,,,podrá concertarse,LegalConcept,,argument0287,,,trigger0367,privilege0091
+la autoridad,asesoramiento del Instituto de la Mujer y para la Igualdad de Oportunidades o de los organismos de igualdad de las comunidades autónomas,,podrá recabar,LegalAgent,LegalAgent,argument0562,argument0169,,trigger0399,privilege0092
+La asamblea,asuntos que figuren previamente incluidos en el orden del día,,podrá tratarse,LegalEntity,LegalConcept,argument0048,argument0173,,trigger0422,privilege0093
+trabajadores,,,podrán optar,LegalAgent,,argument0933,,,trigger0437,privilege0094
+autoridad,,,podrá realizar,LegalAgent,,argument0176,,,trigger0397,privilege0095
+Comisión Consultiva Nacional de Convenios Colectivos,empresas,órgano tripartito equivalente,podrá,LegalEntity,LegalAgent,argument0005,argument0456,argument1001,trigger0355,privilege0096
+Comisión Consultiva Nacional de Convenios Colectivos,empresas,Ministerio de Empleo y Seguridad Social,podrá,LegalEntity,LegalAgent,argument0005,argument0456,argument0094,trigger0355,privilege0097
+Comisión Consultiva Nacional de Convenios Colectivos,empresas,Comisión,podrá,LegalEntity,LegalAgent,argument0005,argument0456,argument0004,trigger0355,privilege0098
+Comisión Consultiva Nacional de Convenios Colectivos,representantes legales de los trabajadores,órgano tripartito equivalente,podrá,LegalEntity,LegalAgent,argument0005,argument0853,argument1001,trigger0355,privilege0099
+Comisión Consultiva Nacional de Convenios Colectivos,representantes legales de los trabajadores,Ministerio de Empleo y Seguridad Social,podrá,LegalEntity,LegalAgent,argument0005,argument0853,argument0094,trigger0355,privilege0100
+Comisión Consultiva Nacional de Convenios Colectivos,representantes legales de los trabajadores,Comisión,podrá,LegalEntity,LegalAgent,argument0005,argument0853,argument0004,trigger0355,privilege0101
+partes,mediador,,podrán acordar,LegalAgent,LegalAgent,argument0728,argument0632,,trigger0424,privilege0102
+convenio colectivo,nuevo colegio,composición profesional del sector de actividad productiva o de la empresa,podrá establecerse,LegalConcept,LegalConcept,argument0302,argument0677,argument0242,trigger0378,privilege0103
+madre biológica,,,podrá anticipar,LegalAgent,,argument0626,,,trigger0360,privilege0104
+periodos,,,podrán disfrutarse,LegalConcept,,argument0743,,,trigger0428,privilege0105
+contrato de relevo,,,podrá celebrarse,LegalConcept,,argument0285,,,trigger0363,privilege0106
+contrato de trabajo,,,podrá concertarse,LegalConcept,,argument0286,,,trigger0367,privilege0107
+pacto de no competencia,,,solo será válido,LegalConcept,,argument0719,,,trigger0643,privilege0108
+contrato,,,podrá extinguirse,LegalConcept,,argument0283,,,trigger0382,privilege0109
+decisión extintiva,,,podrá recurrir,LegalConcept,,argument0340,,,trigger0402,privilege0110
+,,,tendrá,,,,,,trigger0651,privilege0111
+convenios colectivos,,,podrán prever,LegalConcept,,argument0306,,,trigger0438,privilege0112
+excedencia,,,podrá ser,LegalConcept,,argument0483,,,trigger0407,privilege0113
+negociación colectiva,,,podrá establecer,LegalEntity,,argument0668,,,trigger0377,privilege0114
+empresa,,,se podrá proceder,LegalAgent,,argument0445,,,trigger0580,privilege0115
+se,,,podrán disfrutar,LegalConcept,,argument0885,,,trigger0427,privilege0116
+convenios colectivos de ámbito sectorial,,,podrán acordar,LegalEntity,,argument0308,,,trigger0424,privilege0117
+trabajadores,,representación,podrán optar,LegalAgent,,argument0933,,argument0843,trigger0437,privilege0118
+convenios colectivos,,,se podrán establecer,LegalEntity,,argument0306,,,trigger0585,privilege0119
+Gobierno,,regulación de condiciones de trabajo por rama de actividad para los sectores económicos de la producción y demarcaciones territoriales,podrá realizarse,LegalEntity,,argument0042,,argument0832,trigger0398,privilege0120
+progenitor,,,podrá disfrutar,LegalAgent,,argument0786,,,trigger0371,privilege0121
+negociación colectiva,,,se podrán articular,LegalConcept,,argument0668,,,trigger0582,privilege0122
+ley,,,establecerse,LegalConcept,,argument0593,,,trigger0215,privilege0123
+Gobierno,,,podrá establecer,LegalEntity,,argument0042,,,trigger0377,privilege0124
+"convenios colectivos sectoriales estatales y de ámbito inferior, incluidos los convenios de empresa",,,podrán identificar,LegalConcept,,argument0309,,,trigger0434,privilege0125
