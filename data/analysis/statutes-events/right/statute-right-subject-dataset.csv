@@ -1,0 +1,251 @@
+event_subject,event_subject_type,event_subject_id,relation_id
+trabajador,LegalAgent,argument0925,right0001
+personas,LegalAgent,argument0755,right0002
+trabajador,LegalAgent,argument0925,right0003
+También,LegalConcept,argument0111,right0004
+trabajadores a distancia,LegalAgent,argument0934,right0005
+empresario,LegalAgent,argument0449,right0006
+El Fondo de Garantía Salarial,LegalEntity,argument0015,right0007
+comité de empresa,LegalEntity,argument0231,right0008
+Quien ejerza este derecho,LegalAgent,argument0100,right0009
+trabajadores con contratos temporales y de duración determinada,LegalAgent,argument0939,right0010
+trabajadores,LegalAgent,argument0933,right0011
+acción protectora de la Seguridad Social,LegalConcept,argument0121,right0012
+trabajadores,LegalAgent,argument0933,right0013
+empresario,LegalAgent,argument0449,right0014
+Lo establecido en el párrafo anterior,LegalConcept,argument0079,right0015
+la reserva de su puesto de trabajo,LegalConcept,argument0575,right0016
+"Todo sindicato, federación o confederación sindical, y toda asociación empresarial que reúna el requisito de legitimación",LegalConcept,argument0112,right0017
+el otro,LegalAgent,argument0430,right0018
+trabajador,LegalAgent,argument0925,right0019
+comité de empresa,LegalEntity,argument0231,right0020
+contrato,LegalConcept,argument0283,right0021
+contrato,LegalConcept,argument0283,right0022
+personas trabajadoras,LegalAgent,argument0758,right0023
+sentencia,LegalConcept,argument0888,right0024
+sentencia,LegalConcept,argument0888,right0025
+trabajadores,LegalAgent,argument0933,right0026
+trabajador,LegalAgent,argument0925,right0027
+empresario,LegalAgent,argument0449,right0028
+falta de pago o retrasos continuados,LegalConcept,argument0495,right0029
+derechos,LegalConcept,argument0365,right0030
+derechos,LegalConcept,argument0365,right0031
+derechos,LegalConcept,argument0365,right0032
+registros,LegalConcept,argument0827,right0033
+registros,LegalConcept,argument0827,right0034
+comité de empresa,LegalEntity,argument0231,right0035
+comité de empresa,LegalEntity,argument0231,right0036
+comité de empresa,LegalEntity,argument0231,right0037
+Los trabajadores a distancia,LegalAgent,argument0092,right0038
+trabajador,LegalAgent,argument0925,right0039
+derecho al salario a comisión,LegalConcept,argument0360,right0040
+representante legal,LegalAgent,argument0847,right0041
+representante legal,LegalAgent,argument0847,right0042
+representante legal,LegalAgent,argument0847,right0043
+representante legal,LegalAgent,argument0847,right0044
+representante legal,LegalAgent,argument0847,right0045
+contrato de relevo,LegalConcept,argument0285,right0046
+contrato de relevo,LegalConcept,argument0285,right0047
+contrato de relevo,LegalConcept,argument0285,right0048
+empresas,LegalEntity,argument0456,right0049
+empresas,LegalEntity,argument0456,right0050
+empresario,LegalAgent,argument0449,right0051
+empresario,LegalAgent,argument0449,right0052
+empresario,LegalAgent,argument0449,right0053
+empresario,LegalAgent,argument0449,right0054
+empresario,LegalAgent,argument0449,right0055
+empresario,LegalAgent,argument0449,right0056
+empresario,LegalAgent,argument0449,right0057
+empresario,LegalAgent,argument0449,right0058
+empresario,LegalAgent,argument0449,right0059
+empresario,LegalAgent,argument0449,right0060
+empresario,LegalAgent,argument0449,right0061
+empresario,LegalAgent,argument0449,right0062
+comité de empresa,LegalEntity,argument0231,right0063
+personal laboral fijo,LegalAgent,argument0754,right0064
+Los extranjeros,LegalAgent,argument0088,right0065
+comité de empresa,LegalEntity,argument0231,right0066
+las personas trabajadoras,LegalAgent,argument0585,right0067
+las personas trabajadoras,LegalAgent,argument0585,right0068
+las personas trabajadoras,LegalAgent,argument0585,right0069
+las personas trabajadoras,LegalAgent,argument0585,right0070
+representantes legales,LegalAgent,argument0852,right0071
+representantes legales,LegalAgent,argument0852,right0072
+representantes legales,LegalAgent,argument0852,right0073
+representantes legales,LegalAgent,argument0852,right0074
+representantes legales,LegalAgent,argument0852,right0075
+representantes legales,LegalAgent,argument0852,right0076
+representantes legales,LegalAgent,argument0852,right0077
+representantes legales,LegalAgent,argument0852,right0078
+contrato de relevo,LegalConcept,argument0285,right0079
+concurrencia de promotores,LegalConcept,argument0258,right0080
+despido,LegalConcept,argument0374,right0081
+despido,LegalConcept,argument0374,right0082
+despido,LegalConcept,argument0374,right0083
+despido,LegalConcept,argument0374,right0084
+despido,LegalConcept,argument0374,right0085
+despido,LegalConcept,argument0374,right0086
+despido,LegalConcept,argument0374,right0087
+despido,LegalConcept,argument0374,right0088
+personas trabajadoras,LegalAgent,argument0758,right0089
+convenio colectivo,LegalConcept,argument0302,right0090
+trabajadores con discapacidad,LegalAgent,argument0940,right0091
+despido,LegalConcept,argument0374,right0092
+conflictos,LegalConcept,argument0265,right0093
+trabajador,LegalAgent,argument0925,right0094
+valoración de las faltas y las correspondientes sanciones,LegalConcept,argument0986,right0095
+trabajadores,LegalAgent,argument0933,right0096
+trabajadores,LegalAgent,argument0933,right0097
+representación legal,LegalEntity,argument0846,right0098
+oficina pública,LegalEntity,argument0700,right0099
+trabajadores,LegalAgent,argument0933,right0100
+calificación,LegalConcept,argument0186,right0101
+comité de empresa,LegalEntity,argument0231,right0102
+empresario,LegalAgent,argument0449,right0103
+Gobierno,LegalEntity,argument0042,right0104
+sindicatos de comunidad autónoma,LegalEntity,argument0892,right0105
+trabajadores,LegalAgent,argument0933,right0106
+organismo,LegalEntity,argument0703,right0107
+organismo,LegalEntity,argument0703,right0108
+compromisos,LegalConcept,argument0243,right0109
+Operará la compensación y absorción,LegalConcept,argument0097,right0110
+trabajador,LegalAgent,argument0925,right0111
+comité de empresa,LegalEntity,argument0231,right0112
+trabajador a distancia,LegalAgent,argument0926,right0113
+Las medidas,LegalConcept,argument0070,right0114
+Las medidas,LegalConcept,argument0070,right0115
+El derecho,LegalConcept,argument0025,right0116
+trabajador,LegalAgent,argument0925,right0117
+trabajador,LegalAgent,argument0925,right0118
+comité de empresa,LegalEntity,argument0231,right0119
+trabajadores,LegalAgent,argument0933,right0120
+representantes legales,LegalAgent,argument0852,right0121
+vacante,LegalConcept,argument0985,right0122
+empresario,LegalAgent,argument0449,right0123
+empresario,LegalAgent,argument0449,right0124
+empresario,LegalAgent,argument0449,right0125
+convenio colectivo,LegalConcept,argument0302,right0126
+trabajador,LegalAgent,argument0925,right0127
+contratos de interinidad,LegalConcept,argument0292,right0128
+trabajadores,LegalAgent,argument0933,right0129
+asociaciones empresariales,LegalEntity,argument0170,right0130
+trabajadores,LegalAgent,argument0933,right0131
+trabajador,LegalAgent,argument0925,right0132
+trabajadores,LegalAgent,argument0933,right0133
+miembros del comité o delegado de personal,LegalConcept,argument0650,right0134
+trabajador,LegalAgent,argument0925,right0135
+el trabajador,LegalAgent,argument0436,right0136
+trabajadores,LegalAgent,argument0933,right0137
+créditos salariales,LegalConcept,argument0324,right0138
+causa objetiva,LegalConcept,argument0200,right0139
+sindicatos,LegalEntity,argument0891,right0140
+despido nulo,LegalConcept,argument0376,right0141
+trabajadores,LegalAgent,argument0933,right0142
+resolución denegatoria,LegalConcept,argument0862,right0143
+Gobierno,LegalEntity,argument0042,right0144
+Gobierno,LegalEntity,argument0042,right0145
+Gobierno,LegalEntity,argument0042,right0146
+trabajador,LegalAgent,argument0925,right0147
+trabajador,LegalAgent,argument0925,right0148
+trabajador,LegalAgent,argument0925,right0149
+miembros del comité o delegado de personal,LegalAgent,argument0650,right0150
+comité de empresa,LegalEntity,argument0231,right0151
+La regulación de las condiciones establecidas en un convenio de empresa,LegalConcept,argument0065,right0152
+El contrato a tiempo parcial,LegalConcept,argument0023,right0153
+el Gobierno,LegalEntity,argument0425,right0154
+trabajador,LegalAgent,argument0925,right0155
+comité de empresa,LegalEntity,argument0231,right0156
+delegados de personal y miembros del comité,LegalAgent,argument0350,right0157
+persona trabajadora,LegalAgent,argument0751,right0158
+Las preferencias,LegalConcept,argument0072,right0159
+los candidatos,LegalAgent,argument0608,right0160
+comité de empresa,LegalEntity,argument0231,right0161
+autoridad laboral,LegalEntity,argument0177,right0162
+trabajador relevista,LegalAgent,argument0929,right0163
+trabajador,LegalAgent,argument0925,right0164
+contrato,LegalConcept,argument0283,right0165
+"progenitores, adoptantes, guardadores o acogedores",LegalConcept,argument0787,right0166
+trabajador,LegalAgent,argument0925,right0167
+comité de empresa,LegalEntity,argument0231,right0168
+miembros del comité o delegado de personal,LegalAgent,argument0650,right0169
+trabajadores,LegalAgent,argument0933,right0170
+contratos de interinidad,LegalConcept,argument0292,right0171
+trabajador,LegalAgent,argument0925,right0172
+trabajador,LegalAgent,argument0925,right0173
+Los sindicatos,LegalEntity,argument0090,right0174
+Las reducciones de jornada,LegalConcept,argument0073,right0175
+despido colectivo,LegalConcept,argument0375,right0176
+trabajador,LegalAgent,argument0925,right0177
+La ejecución de este contrato de trabajo a tiempo parcial y su retribución,LegalConcept,argument0056,right0178
+El periodo en que el trabajador permanezca en situación de excedencia conforme a lo establecido en este artículo,LegalConcept,argument0028,right0179
+comité de empresa,LegalEntity,argument0231,right0180
+trabajador,LegalAgent,argument0925,right0181
+sindicatos,LegalEntity,argument0891,right0182
+La regulación de las condiciones establecidas en un convenio de empresa,LegalConcept,argument0065,right0183
+Las personas trabajadoras,LegalAgent,argument0071,right0184
+"Expresar, colegiadamente si se trata del comité",LegalConcept,argument0039,right0185
+En aquellos sectores en los que no existan asociaciones empresariales que cuenten con la suficiente representatividad,LegalConcept,argument0033,right0186
+otro progenitor,LegalAgent,argument0713,right0187
+contrato,LegalConcept,argument0283,right0188
+trabajador,LegalAgent,argument0925,right0189
+empresario,LegalAgent,argument0449,right0190
+empresas,LegalEntity,argument0456,right0191
+personas trabajadoras,LegalAgent,argument0758,right0192
+trabajadores,LegalAgent,argument0933,right0193
+trabajadores,LegalAgent,argument0933,right0194
+empresa,LegalAgent,argument0445,right0195
+Contra el acuerdo de proclamación,LegalConcept,argument0006,right0196
+comité de empresa,LegalEntity,argument0231,right0197
+trabajadores,LegalAgent,argument0933,right0198
+empresarios,LegalAgent,argument0455,right0199
+trabajadores,LegalAgent,argument0933,right0200
+trabajadores,LegalAgent,argument0933,right0201
+comité de empresa,LegalEntity,argument0231,right0202
+derecho,LegalConcept,argument0358,right0203
+derechos,LegalConcept,argument0365,right0204
+derecho,LegalConcept,argument0358,right0205
+usos y costumbres,LegalConcept,argument0984,right0206
+convenio colectivo o acuerdo,LegalConcept,argument0303,right0207
+plazos,LegalConcept,argument0764,right0208
+acuerdo,LegalConcept,argument0135,right0209
+convenio colectivo,LegalConcept,argument0302,right0210
+trabajador,LegalAgent,argument0925,right0211
+progenitor,LegalAgent,argument0786,right0212
+Los sindicatos,LegalEntity,argument0090,right0213
+trabajadores,LegalAgent,argument0933,right0214
+trabajador,LegalAgent,argument0925,right0215
+créditos salariales,LegalConcept,argument0324,right0216
+legislación laboral española,LegalConcept,argument0591,right0217
+contrato de trabajo,LegalConcept,argument0286,right0218
+disposiciones generales laborales,LegalConcept,argument0400,right0219
+recurso,LegalConcept,argument0817,right0220
+regulación,LegalConcept,argument0831,right0221
+trabajador,LegalAgent,argument0925,right0222
+Quien,LegalAgent,argument0099,right0223
+trabajador,LegalAgent,argument0925,right0224
+trabajadores,LegalAgent,argument0933,right0225
+partes legitimadas,LegalAgent,argument0729,right0226
+trabajadores,LegalAgent,argument0933,right0227
+trabajador,LegalAgent,argument0925,right0228
+comité de empresa,LegalEntity,argument0231,right0229
+trabajadores nocturnos,LegalAgent,argument0946,right0230
+trabajadores,LegalAgent,argument0933,right0231
+En representación de los empresarios,LegalAgent,argument0035,right0232
+Tal acuerdo,LegalConcept,argument0110,right0233
+trabajador,LegalAgent,argument0925,right0234
+empresario,LegalAgent,argument0449,right0235
+La madre biológica,LegalAgent,argument0060,right0236
+modificación,LegalConcept,argument0657,right0237
+trabajadores,LegalAgent,argument0933,right0238
+comité de empresa,LegalEntity,argument0231,right0239
+contrato de trabajo,LegalConcept,argument0286,right0240
+sentencia,LegalConcept,argument0888,right0241
+trabajadores,LegalAgent,argument0933,right0242
+trabajadores,LegalAgent,argument0933,right0243
+trabajador,LegalAgent,argument0925,right0244
+personas,LegalAgent,argument0755,right0245
+convenio,LegalConcept,argument0301,right0246
+trabajador,LegalAgent,argument0925,right0247
+trabajador,LegalAgent,argument0925,right0248
+trabajadores,LegalAgent,argument0933,right0249
+progenitor,LegalAgent,argument0786,right0250

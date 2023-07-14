@@ -1,0 +1,251 @@
+event_object,event_object_type,event_object_id,relation_id
+,LegalConcept,,right0001
+empresas usuarias,LegalEntity,argument0461,right0002
+,LegalConcept,,right0003
+,LegalConcept,,right0004
+,LegalConcept,,right0005
+,LegalConcept,,right0006
+,LegalConcept,,right0007
+,LegalConcept,,right0008
+,LegalConcept,,right0009
+trabajadores con contratos de duración indefinida,LegalAgent,argument0938,right0010
+,LegalConcept,,right0011
+,LegalConcept,,right0012
+derechos básicos,LegalConcept,argument0366,right0013
+trabajador,LegalAgent,argument0925,right0014
+,LegalConcept,,right0015
+,LegalConcept,,right0016
+,LegalConcept,,right0017
+,LegalConcept,,right0018
+,LegalConcept,,right0019
+,LegalConcept,,right0020
+,LegalConcept,,right0021
+,LegalConcept,,right0022
+,LegalConcept,,right0023
+trabajador,LegalAgent,argument0925,right0024
+trabajador,LegalAgent,argument0925,right0025
+,LegalConcept,,right0026
+,LegalConcept,,right0027
+trabajador,LegalAgent,argument0925,right0028
+,LegalConcept,,right0029
+,LegalConcept,,right0030
+,LegalConcept,,right0031
+,LegalConcept,,right0032
+persona del trabajador,LegalAgent,argument0749,right0033
+persona del trabajador,LegalAgent,argument0749,right0034
+,LegalConcept,,right0035
+,LegalConcept,,right0036
+,LegalConcept,,right0037
+,LegalConcept,,right0038
+,LegalConcept,,right0039
+,LegalConcept,,right0040
+persona de capacidad limitada,LegalAgent,argument0748,right0041
+persona de capacidad limitada,LegalAgent,argument0748,right0042
+persona de capacidad limitada,LegalAgent,argument0748,right0043
+persona de capacidad limitada,LegalAgent,argument0748,right0044
+persona de capacidad limitada,LegalAgent,argument0748,right0045
+puesto de trabajo,LegalConcept,argument0800,right0046
+trabajador relevista,LegalConcept,argument0929,right0047
+trabajador sustituido,LegalConcept,argument0930,right0048
+contratos en prácticas,LegalConcept,argument0294,right0049
+trabajadores con discapacidad,LegalConcept,argument0940,right0050
+salario,LegalConcept,argument0878,right0051
+salario,LegalConcept,argument0878,right0052
+salario,LegalConcept,argument0878,right0053
+salario,LegalConcept,argument0878,right0054
+salario,LegalConcept,argument0878,right0055
+salario,LegalConcept,argument0878,right0056
+pago delegado de las prestaciones de la Seguridad Social,LegalConcept,argument0722,right0057
+pago delegado de las prestaciones de la Seguridad Social,LegalConcept,argument0722,right0058
+pago delegado de las prestaciones de la Seguridad Social,LegalConcept,argument0722,right0059
+pago delegado de las prestaciones de la Seguridad Social,LegalConcept,argument0722,right0060
+pago delegado de las prestaciones de la Seguridad Social,LegalConcept,argument0722,right0061
+pago delegado de las prestaciones de la Seguridad Social,LegalConcept,argument0722,right0062
+,LegalConcept,,right0063
+,LegalConcept,,right0064
+,LegalConcept,,right0065
+,LegalConcept,,right0066
+,LegalConcept,,right0067
+,LegalConcept,,right0068
+,LegalConcept,,right0069
+,LegalConcept,,right0070
+trabajadores,LegalAgent,argument0933,right0071
+trabajadores,LegalAgent,argument0933,right0072
+empresa principal,LegalAgent,argument0447,right0073
+empresa principal,LegalAgent,argument0447,right0074
+empresas contratistas,LegalAgent,argument0457,right0075
+empresas contratistas,LegalAgent,argument0457,right0076
+subcontratistas,LegalAgent,argument0904,right0077
+subcontratistas,LegalAgent,argument0904,right0078
+,LegalConcept,,right0079
+,LegalConcept,,right0080
+,LegalConcept,,right0081
+,LegalConcept,,right0082
+,LegalConcept,,right0083
+,LegalConcept,,right0084
+,LegalConcept,,right0085
+,LegalConcept,,right0086
+,LegalConcept,,right0087
+,LegalConcept,,right0088
+,LegalConcept,,right0089
+trabajadores eventuales,LegalAgent,argument0943,right0090
+,LegalConcept,,right0091
+,LegalConcept,,right0092
+,LegalConcept,,right0093
+,LegalConcept,,right0094
+,LegalConcept,,right0095
+,LegalConcept,,right0096
+,LegalConcept,,right0097
+trabajadores,LegalAgent,argument0933,right0098
+organizaciones sindicales,LegalEntity,argument0706,right0099
+,LegalConcept,,right0100
+trabajador,LegalAgent,argument0925,right0101
+,LegalConcept,,right0102
+trabajador,LegalAgent,argument0925,right0103
+,LegalConcept,,right0104
+asociaciones empresariales de la comunidad autónoma,LegalEntity,argument0172,right0105
+,LegalConcept,,right0106
+créditos de los trabajadores,LegalAgent,argument0320,right0107
+créditos de los trabajadores,LegalAgent,argument0320,right0108
+contratos formativos,LegalConcept,argument0295,right0109
+los salarios,LegalAgent,argument0616,right0110
+,LegalConcept,,right0111
+,LegalConcept,,right0112
+,LegalConcept,,right0113
+el empleo estable de los trabajadores desempleados,LegalConcept,argument0427,right0114
+la conversión de contratos temporales en contratos por tiempo indefinido,LegalConcept,argument0563,right0115
+,LegalConcept,,right0116
+,LegalConcept,,right0117
+,LegalConcept,,right0118
+,LegalConcept,,right0119
+,LegalConcept,,right0120
+,LegalConcept,,right0121
+delegados de personal,LegalAgent,argument0348,right0122
+organizaciones empresariales,LegalEntity,argument0705,right0123
+organizaciones empresariales,LegalEntity,argument0705,right0124
+organizaciones empresariales,LegalEntity,argument0705,right0125
+constitución y funcionamiento,LegalConcept,argument0270,right0126
+,LegalConcept,,right0127
+beneficiarios de prestaciones por desempleo,LegalAgent,argument0180,right0128
+,LegalConcept,,right0129
+,LegalConcept,,right0130
+,LegalConcept,,right0131
+,LegalConcept,,right0132
+,LegalConcept,,right0133
+,LegalConcept,,right0134
+,LegalConcept,,right0135
+,LegalConcept,,right0136
+representantes de los trabajadores,LegalAgent,argument0850,right0137
+objetos elaborados,LegalConcept,argument0689,right0138
+contrato,LegalConcept,argument0283,right0139
+registros,LegalConcept,argument0827,right0140
+trabajador,LegalAgent,argument0925,right0141
+,LegalConcept,,right0142
+,LegalConcept,,right0143
+,LegalConcept,,right0144
+,LegalConcept,,right0145
+,LegalConcept,,right0146
+,LegalConcept,,right0147
+,LegalConcept,,right0148
+,LegalConcept,,right0149
+,LegalConcept,,right0150
+,LegalConcept,,right0151
+,LegalConcept,,right0152
+,LegalConcept,,right0153
+,LegalConcept,,right0154
+,LegalConcept,,right0155
+,LegalConcept,,right0156
+,LegalConcept,,right0157
+,LegalConcept,,right0158
+,LegalConcept,,right0159
+,LegalConcept,,right0160
+,LegalConcept,,right0161
+entidad gestora,LegalEntity,argument0468,right0162
+trabajador sustituido,LegalAgent,argument0930,right0163
+,LegalConcept,,right0164
+,LegalConcept,,right0165
+derecho,LegalConcept,argument0358,right0166
+,LegalConcept,,right0167
+,LegalConcept,,right0168
+,LegalConcept,,right0169
+,LegalConcept,,right0170
+beneficiarios de prestaciones por desempleo,LegalAgent,argument0180,right0171
+,LegalConcept,,right0172
+,LegalConcept,,right0173
+,LegalConcept,,right0174
+,LegalConcept,,right0175
+,LegalConcept,,right0176
+,LegalConcept,,right0177
+,LegalConcept,,right0178
+,LegalConcept,,right0179
+,LegalConcept,,right0180
+,LegalConcept,,right0181
+,LegalConcept,,right0182
+,LegalConcept,,right0183
+,LegalConcept,,right0184
+,LegalConcept,,right0185
+,LegalConcept,,right0186
+,LegalConcept,,right0187
+,LegalConcept,,right0188
+,LegalConcept,,right0189
+,LegalConcept,,right0190
+,LegalConcept,,right0191
+,LegalConcept,,right0192
+,LegalConcept,,right0193
+,LegalConcept,,right0194
+trabajadores,LegalAgent,argument0933,right0195
+,LegalConcept,,right0196
+,LegalConcept,,right0197
+,LegalConcept,,right0198
+,LegalConcept,,right0199
+,LegalConcept,,right0200
+,LegalConcept,,right0201
+,LegalConcept,,right0202
+persona trabajadora,LegalAgent,argument0751,right0203
+,LegalConcept,,right0204
+,LegalConcept,,right0205
+,LegalConcept,,right0206
+,LegalConcept,,right0207
+,LegalConcept,,right0208
+,LegalConcept,,right0209
+,LegalConcept,,right0210
+,LegalConcept,,right0211
+,LegalConcept,,right0212
+,LegalConcept,,right0213
+,LegalConcept,,right0214
+,LegalConcept,,right0215
+,LegalConcept,,right0216
+,LegalConcept,,right0217
+,LegalConcept,,right0218
+,LegalConcept,,right0219
+,LegalConcept,,right0220
+,LegalConcept,,right0221
+,LegalConcept,,right0222
+,LegalConcept,,right0223
+,LegalConcept,,right0224
+,LegalConcept,,right0225
+,LegalConcept,,right0226
+,LegalConcept,,right0227
+,LegalConcept,,right0228
+,LegalConcept,,right0229
+,LegalConcept,,right0230
+,LegalConcept,,right0231
+,LegalConcept,,right0232
+delegados de prevención,LegalAgent,argument0351,right0233
+,LegalConcept,,right0234
+comité de empresa,LegalEntity,argument0231,right0235
+al otro progenitor,LegalAgent,argument0147,right0236
+Diez trabajadores,LegalAgent,argument0012,right0237
+,LegalConcept,,right0238
+,LegalConcept,,right0239
+,LegalConcept,,right0240
+modificación,LegalConcept,argument0657,right0241
+,LegalConcept,,right0242
+,LegalConcept,,right0243
+,LegalConcept,,right0244
+,LegalConcept,,right0245
+,LegalConcept,,right0246
+,LegalConcept,,right0247
+,LegalConcept,,right0248
+,LegalConcept,,right0249
+,LegalConcept,,right0250

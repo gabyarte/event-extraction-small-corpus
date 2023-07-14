@@ -1,0 +1,168 @@
+event_object,event_object_type,event_object_id,relation_id
+,LegalConcept,,noright0003
+,LegalConcept,,noright0004
+,LegalConcept,,noright0005
+,LegalConcept,,noright0006
+,LegalConcept,,noright0007
+,LegalConcept,,noright0008
+,LegalConcept,,noright0009
+ejecución,LegalConcept,argument0420,noright0010
+plan,LegalConcept,argument0759,noright0011
+,LegalConcept,,noright0012
+representantes de los trabajadores,LegalAgent,argument0850,noright0013
+representantes de los trabajadores,LegalAgent,argument0850,noright0014
+autoridad laboral,LegalAgent,argument0177,noright0015
+autoridad laboral,LegalAgent,argument0177,noright0016
+,LegalConcept,,noright0017
+denuncia,LegalConcept,argument0357,noright0018
+,LegalConcept,,noright0019
+,LegalConcept,,noright0021
+,LegalConcept,,noright0022
+,LegalConcept,,noright0023
+,LegalConcept,,noright0024
+,LegalConcept,,noright0025
+,LegalConcept,,noright0026
+,LegalConcept,,noright0027
+,LegalConcept,,noright0028
+,LegalConcept,,noright0029
+,LegalConcept,,noright0030
+,LegalConcept,,noright0031
+,LegalConcept,,noright0032
+,LegalConcept,,noright0033
+,LegalConcept,,noright0034
+,LegalConcept,,noright0035
+,LegalConcept,,noright0036
+,LegalConcept,,noright0037
+,LegalConcept,,noright0038
+,LegalConcept,,noright0039
+,LegalConcept,,noright0040
+,LegalConcept,,noright0041
+,LegalConcept,,noright0042
+representantes de los trabajadores,LegalAgent,argument0850,noright0043
+autoridad laboral,LegalAgent,argument0177,noright0044
+,LegalConcept,,noright0045
+elección del candidato o candidatos afectados,LegalConcept,argument0442,noright0046
+,LegalConcept,,noright0047
+,LegalConcept,,noright0048
+,LegalConcept,,noright0049
+,LegalConcept,,noright0050
+,LegalConcept,,noright0051
+,LegalConcept,,noright0052
+,LegalConcept,,noright0053
+,LegalConcept,,noright0054
+,LegalConcept,,noright0055
+,LegalConcept,,noright0056
+,LegalConcept,,noright0057
+,LegalConcept,,noright0058
+trabajadores,LegalAgent,argument0933,noright0059
+,LegalConcept,,noright0060
+otro,LegalConcept,argument0712,noright0061
+,LegalConcept,,noright0062
+,LegalConcept,,noright0063
+,LegalConcept,,noright0064
+,LegalConcept,,noright0065
+,LegalConcept,,noright0066
+,LegalConcept,,noright0067
+,LegalConcept,,noright0069
+,LegalConcept,,noright0070
+,LegalConcept,,noright0071
+,LegalConcept,,noright0073
+,LegalConcept,,noright0074
+,LegalConcept,,noright0075
+,LegalConcept,,noright0076
+,LegalConcept,,noright0077
+,LegalConcept,,noright0078
+,LegalConcept,,noright0079
+,LegalConcept,,noright0081
+,LegalConcept,,noright0082
+,LegalConcept,,noright0083
+percepciones salariales del trabajador,LegalConcept,argument0734,noright0084
+personas trabajadoras,LegalAgent,argument0758,noright0085
+,LegalConcept,,noright0086
+,LegalConcept,,noright0087
+,LegalConcept,,noright0088
+,LegalConcept,,noright0089
+,LegalConcept,,noright0090
+,LegalConcept,,noright0091
+,LegalConcept,,noright0092
+,LegalConcept,,noright0093
+,LegalConcept,,noright0094
+,LegalConcept,,noright0095
+trabajador,LegalAgent,argument0925,noright0097
+,LegalConcept,,noright0099
+,LegalConcept,,noright0100
+,LegalConcept,,noright0101
+requisitos,LegalConcept,argument0855,noright0102
+representantes de los trabajadores,LegalAgent,argument0850,noright0103
+,LegalConcept,,noright0104
+,LegalConcept,,noright0105
+,LegalConcept,,noright0106
+,LegalConcept,,noright0107
+,LegalConcept,,noright0108
+,LegalConcept,,noright0109
+,LegalConcept,,noright0110
+,LegalConcept,,noright0111
+,LegalConcept,,noright0112
+,LegalConcept,,noright0113
+,LegalConcept,,noright0114
+,LegalConcept,,noright0115
+,LegalConcept,,noright0116
+,LegalConcept,,noright0117
+,LegalConcept,,noright0118
+,LegalConcept,,noright0119
+,LegalConcept,,noright0120
+,LegalConcept,,noright0121
+,LegalConcept,,noright0122
+,LegalConcept,,noright0123
+,LegalConcept,,noright0124
+,LegalConcept,,noright0125
+,LegalConcept,,noright0126
+,LegalConcept,,noright0127
+,LegalConcept,,noright0128
+,LegalConcept,,noright0129
+,LegalConcept,,noright0130
+extinción del contrato de trabajo,LegalConcept,argument0492,noright0131
+,LegalConcept,,noright0132
+trabajador,LegalAgent,argument0925,noright0133
+,LegalConcept,,noright0134
+grupo de trabajadores,LegalConcept,argument0506,noright0135
+conceptos retributivos,LegalConcept,argument0254,noright0136
+conceptos retributivos,LegalConcept,argument0254,noright0137
+conceptos retributivos,LegalConcept,argument0254,noright0138
+conceptos retributivos,LegalConcept,argument0254,noright0139
+trabajadores,LegalConcept,argument0933,noright0140
+trabajadores,LegalConcept,argument0933,noright0141
+trabajadores,LegalConcept,argument0933,noright0142
+trabajadores,LegalConcept,argument0933,noright0143
+,LegalConcept,,noright0144
+,LegalConcept,,noright0145
+,LegalConcept,,noright0146
+,LegalConcept,,noright0148
+,LegalConcept,,noright0149
+,LegalConcept,,noright0150
+Administraciones Públicas,LegalEntity,argument0000,noright0151
+entidades de derecho público,LegalEntity,argument0470,noright0152
+personas trabajadoras,LegalAgent,argument0758,noright0153
+,LegalConcept,,noright0154
+,LegalConcept,,noright0155
+,LegalConcept,,noright0156
+,LegalConcept,,noright0157
+,LegalConcept,,noright0158
+,LegalConcept,,noright0159
+,LegalConcept,,noright0160
+empresas,LegalEntity,argument0456,noright0161
+,LegalConcept,,noright0162
+,LegalConcept,,noright0163
+,LegalConcept,,noright0164
+,LegalConcept,,noright0165
+,LegalConcept,,noright0166
+,LegalConcept,,noright0167
+,LegalConcept,,noright0168
+,LegalConcept,,noright0170
+,LegalConcept,,noright0171
+,LegalConcept,,noright0172
+,LegalConcept,,noright0173
+,LegalConcept,,noright0174
+,LegalConcept,,noright0175
+,LegalConcept,,noright0176
+,LegalConcept,,noright0177

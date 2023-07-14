@@ -8,130 +8,370 @@ prefixes:
   ns: http://spanish-laws.es/sws/resource/
 
 mappings:
-  argumentTypeSubject:
-      sources:
-        - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
-      s: ns:ArgumentType/$(event_subject_type)
-      po:
-        - [a, sem:ActorType]
-
-  argumentTypeObject:
+  dutyTypeSubject:
     sources:
-      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
-    s: ns:ArgumentType/$(event_object_type)
+      - [../data/analysis/statutes-events/duty/statute-duty-subject-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_subject_type)
     po:
       - [a, sem:ActorType]
 
-  subject:
+  dutySubject:
     sources:
-      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
+      - [../data/analysis/statutes-events/duty/statute-duty-subject-dataset.csv~csv]
     s: ns:EventArgument/$(event_subject_id)
     po:
       - [a, sem:Actor]
-      - [rdfs:label, $(event_subject), xsd:string]
+      - [rdfs:label, $(event_subject), es~lang]
       - p: sem:actorType
         o:
-          mapping: argumentTypeSubject
+          mapping: dutyTypeSubject
 
-  object:
+  dutySubjectRelation:
     sources:
-      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
-    s: ns:EventArgument/$(event_object_id)
-    po:
-      - [a, sem:Actor]
-      - [rdfs:label, $(event_object), xsd:string]
-      - p: sem:actorType
-        o:
-          mapping: argumentTypeObject
-
-  complement:
-    sources:
-      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
-    s: ns:EventArgument/$(event_complement_id)
-    po:
-      - [a, skos:Concept]
-      - [rdfs:label, $(event_complement), xsd:string]
-
-  trigger:
-    sources:
-      - [data/analysis/statutes-events/statute-entities-dataset.csv~csv]
-    s: ns:EventTrigger/$(event_trigger_id)
-    po:
-      - [a, schema:Action]
-      - [rdfs:label, $(event_trigger), xsd:string]
-
-  dutyRelation:
-    sources:
-      - [data/analysis/statutes-events/statute-duty-dataset.csv~csv]
+      - [../data/analysis/statutes-events/duty/statute-duty-subject-dataset.csv~csv]
     s: ns:Relation/$(relation_id)
     po:
       - [a, prv:Duty]
       - p: prv:hasDutyBearer
         o:
-          mapping: subject
+          mapping: dutySubject
+
+  dutyTypeObject:
+    sources:
+      - [../data/analysis/statutes-events/duty/statute-duty-object-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_object_type)
+    po:
+      - [a, sem:ActorType]
+
+  dutyObject:
+    sources:
+      - [../data/analysis/statutes-events/duty/statute-duty-object-dataset.csv~csv]
+    s: ns:EventArgument/$(event_object_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_object), es~lang]
+      - p: sem:actorType
+        o:
+          mapping: dutyTypeObject
+
+  dutyObjectRelation:
+    sources:
+      - [../data/analysis/statutes-events/duty/statute-duty-object-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Duty]
       - p: prv:hasDutyCounterpart
         o:
-          mapping: object
+          mapping: dutyObject
+
+  dutyComplement:
+    sources:
+      - [../data/analysis/statutes-events/duty/statute-duty-complement-dataset.csv~csv]
+    s: ns:EventArgument/$(event_complement_id)
+    po:
+      - [a, skos:Concept]
+      - [rdfs:label, $(event_complement), es~lang]
+
+  dutyComplementRelation:
+    sources:
+      - [../data/analysis/statutes-events/duty/statute-duty-complement-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Duty]
       - p: prv:hasDutyObject
         o:
-          mapping: complement
+          mapping: dutyComplement
+
+  dutyTrigger:
+    sources:
+      - [../data/analysis/statutes-events/duty/statute-duty-trigger-dataset.csv~csv]
+    s: ns:EventTrigger/$(event_trigger_id)
+    po:
+      - [a, schema:Action]
+      - [rdfs:label, $(event_trigger), es~lang]
+
+  dutyTriggerRelation:
+    sources:
+      - [../data/analysis/statutes-events/duty/statute-duty-trigger-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Duty]
       - p: prv:hasDutyAction
         o:
-          mapping: trigger
+          mapping: dutyTrigger
 
-  rightRelation:
+  rightTypeSubject:
     sources:
-      - [data/analysis/statutes-events/statute-right-dataset.csv~csv]
+      - [../data/analysis/statutes-events/right/statute-right-subject-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_subject_type)
+    po:
+      - [a, sem:ActorType]
+
+  rightSubject:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-subject-dataset.csv~csv]
+    s: ns:EventArgument/$(event_subject_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_subject), es~lang]
+      - p: sem:actorType
+        o:
+          mapping: rightTypeSubject
+
+  rightSubjectRelation:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-subject-dataset.csv~csv]
     s: ns:Relation/$(relation_id)
     po:
       - [a, prv:Right]
       - p: prv:hasRightBearer
         o:
-          mapping: subject
+          mapping: rightSubject
+
+  rightTypeObject:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-object-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_object_type)
+    po:
+      - [a, sem:ActorType]
+
+  rightObject:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-object-dataset.csv~csv]
+    s: ns:EventArgument/$(event_object_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_object), es~lang]
+      - p: sem:actorType
+        o:
+          mapping: rightTypeObject
+
+  rightObjectRelation:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-object-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Right]
       - p: prv:hasRightCounterpart
         o:
-          mapping: object
+          mapping: rightObject
+
+  rightComplement:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-complement-dataset.csv~csv]
+    s: ns:EventArgument/$(event_complement_id)
+    po:
+      - [a, skos:Concept]
+      - [rdfs:label, $(event_complement), es~lang]
+
+  rightComplementRelation:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-complement-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Right]
       - p: prv:hasRightObject
         o:
-          mapping: complement
+          mapping: rightComplement
+
+  rightTrigger:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-trigger-dataset.csv~csv]
+    s: ns:EventTrigger/$(event_trigger_id)
+    po:
+      - [a, schema:Action]
+      - [rdfs:label, $(event_trigger), es~lang]
+
+  rightTriggerRelation:
+    sources:
+      - [../data/analysis/statutes-events/right/statute-right-trigger-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Right]
       - p: prv:hasRightAction
         o:
-          mapping: trigger
+          mapping: rightTrigger
 
-  noRightRelation:
+  norightTypeSubject:
     sources:
-      - [data/analysis/statutes-events/statute-no-right-dataset.csv~csv]
+      - [../data/analysis/statutes-events/noright/statute-noright-subject-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_subject_type)
+    po:
+      - [a, sem:ActorType]
+
+  norightSubject:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-subject-dataset.csv~csv]
+    s: ns:EventArgument/$(event_subject_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_subject), es~lang]
+      - p: sem:actorType
+        o:
+          mapping: norightTypeSubject
+
+  norightSubjectRelation:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-subject-dataset.csv~csv]
     s: ns:Relation/$(relation_id)
     po:
       - [a, prv:Prohibition]
       - p: prv:hasProhibitionBearer
         o:
-          mapping: subject
+          mapping: norightSubject
+
+  norightTypeObject:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-object-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_object_type)
+    po:
+      - [a, sem:ActorType]
+
+  norightObject:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-object-dataset.csv~csv]
+    s: ns:EventArgument/$(event_object_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_object), es~lang]
+      - p: sem:actorType
+        o:
+          mapping: norightTypeObject
+
+  norightObjectRelation:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-object-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Prohibition]
       - p: prv:hasProhibitionCounterpart
         o:
-          mapping: object
+          mapping: norightObject
+
+  norightComplement:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-complement-dataset.csv~csv]
+    s: ns:EventArgument/$(event_complement_id)
+    po:
+      - [a, skos:Concept]
+      - [rdfs:label, $(event_complement), es~lang]
+
+  norightComplementRelation:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-complement-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Prohibition]
       - p: prv:hasProhibitionObject
         o:
-          mapping: complement
+          mapping: norightComplement
+
+  norightTrigger:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-trigger-dataset.csv~csv]
+    s: ns:EventTrigger/$(event_trigger_id)
+    po:
+      - [a, schema:Action]
+      - [rdfs:label, $(event_trigger), es~lang]
+
+  norightTriggerRelation:
+    sources:
+      - [../data/analysis/statutes-events/noright/statute-noright-trigger-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Prohibition]
       - p: prv:hasProhibitionAction
         o:
-          mapping: trigger
+          mapping: norightTrigger
 
-  privilegeRelation:
+  privilegeTypeSubject:
     sources:
-      - [data/analysis/statutes-events/statute-privilege-dataset.csv~csv]
+      - [../data/analysis/statutes-events/privilege/statute-privilege-subject-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_subject_type)
+    po:
+      - [a, sem:ActorType]
+
+  privilegeSubject:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-subject-dataset.csv~csv]
+    s: ns:EventArgument/$(event_subject_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_subject), es~lang]
+      - p: sem:actorType
+        o:
+          mapping: privilegeTypeSubject
+
+  privilegeSubjectRelation:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-subject-dataset.csv~csv]
     s: ns:Relation/$(relation_id)
     po:
       - [a, prv:Permission]
       - p: prv:hasPermissionBearer
         o:
-          mapping: subject
+          mapping: privilegeSubject
+
+  privilegeTypeObject:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-object-dataset.csv~csv]
+    s: ns:ArgumentType/$(event_object_type)
+    po:
+      - [a, sem:ActorType]
+
+  privilegeObject:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-object-dataset.csv~csv]
+    s: ns:EventArgument/$(event_object_id)
+    po:
+      - [a, sem:Actor]
+      - [rdfs:label, $(event_object), es~lang]
+      - p: sem:actorType
+        o:
+          mapping: privilegeTypeObject
+
+  privilegeObjectRelation:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-object-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Permission]
       - p: prv:hasPermissionCounterpart
         o:
-          mapping: object
+          mapping: privilegeObject
+
+  privilegeComplement:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-complement-dataset.csv~csv]
+    s: ns:EventArgument/$(event_complement_id)
+    po:
+      - [a, skos:Concept]
+      - [rdfs:label, $(event_complement), es~lang]
+
+  privilegeComplementRelation:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-complement-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Permission]
       - p: prv:hasPermissionObject
         o:
-          mapping: complement
+          mapping: privilegeComplement
+
+  privilegeTrigger:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-trigger-dataset.csv~csv]
+    s: ns:EventTrigger/$(event_trigger_id)
+    po:
+      - [a, schema:Action]
+      - [rdfs:label, $(event_trigger), es~lang]
+
+  privilegeTriggerRelation:
+    sources:
+      - [../data/analysis/statutes-events/privilege/statute-privilege-trigger-dataset.csv~csv]
+    s: ns:Relation/$(relation_id)
+    po:
+      - [a, prv:Permission]
       - p: prv:hasPermissionAction
         o:
-          mapping: trigger
+          mapping: privilegeTrigger

@@ -1,0 +1,724 @@
+event_subject,event_subject_type,event_subject_id,relation_id
+comisión representativa,LegalConcept,argument0228,duty0001
+derechos y obligaciones,LegalConcept,argument0368,duty0002
+nuevo sistema,LegalConcept,argument0680,duty0003
+contrato a tiempo parcial,LegalConcept,argument0284,duty0004
+copia básica,LegalConcept,argument0313,duty0005
+presidente de la mesa,LegalAgent,argument0771,duty0006
+presidente de la mesa,LegalAgent,argument0771,duty0007
+presidente de la mesa,LegalAgent,argument0771,duty0008
+empresa,LegalAgent,argument0445,duty0009
+trabajador,LegalAgent,argument0925,duty0010
+árbitros,LegalAgent,argument0999,duty0011
+partes,LegalAgent,argument0728,duty0012
+trabajadores,LegalAgent,argument0933,duty0013
+empresario,LegalAgent,argument0449,duty0014
+empresario,LegalAgent,argument0449,duty0015
+plazo de caducidad,LegalConcept,argument0762,duty0016
+jurisdicción social,LegalEntity,argument0560,duty0017
+"sustituciones, revocaciones, dimisiones y extinciones de mandato",LegalConcept,argument0915,duty0018
+"sustituciones, revocaciones, dimisiones y extinciones de mandato",LegalConcept,argument0915,duty0019
+acuerdos,LegalConcept,argument0139,duty0020
+empresa,LegalAgent,argument0445,duty0021
+no exista representación legal de los trabajadores,LegalConcept,argument0670,duty0022
+"empresa, centro de trabajo, unidad productiva",LegalEntity,argument0448,duty0023
+trabajadores con discapacidad,LegalAgent,argument0940,duty0024
+convenios colectivos,LegalConcept,argument0306,duty0025
+La negativa del trabajador,LegalAgent,argument0061,duty0026
+El contrato de trabajo,LegalConcept,argument0024,duty0027
+mesa electoral,LegalEntity,argument0643,duty0028
+empresa,LegalAgent,argument0445,duty0029
+Gobierno,LegalEntity,argument0042,duty0030
+comité de empresa,LegalEntity,argument0231,duty0031
+empresario,LegalAgent,argument0449,duty0032
+empresa,LegalAgent,argument0445,duty0033
+empresa,LegalAgent,argument0445,duty0034
+razones,LegalConcept,argument0808,duty0035
+razones,LegalConcept,argument0808,duty0036
+este,LegalConcept,argument0479,duty0037
+se,LegalConcept,argument0885,duty0038
+interposición del conflicto colectivo,LegalConcept,argument0546,duty0039
+convenio colectivo,LegalConcept,argument0302,duty0040
+contrato de trabajo,LegalConcept,argument0286,duty0041
+empresario,LegalAgent,argument0449,duty0042
+comisión paritaria,LegalEntity,argument0227,duty0043
+el número y retribución de las horas complementarias realizadas,LegalConcept,argument0429,duty0044
+el número y retribución de las horas complementarias realizadas,LegalConcept,argument0429,duty0045
+El acuerdo por el que se establezca el trabajo a distancia,LegalConcept,argument0020,duty0046
+mesa electoral,LegalEntity,argument0643,duty0047
+Fondo de Garantía Salarial,LegalConcept,argument0041,duty0048
+actividad de trabajo en el mar,LegalConcept,argument0132,duty0049
+relaciones laborales de carácter especial,LegalConcept,argument0836,duty0050
+cedente y el cesionario,LegalEntity,argument0208,duty0051
+duración del descanso semanal de los menores de dieciocho años,LegalConcept,argument0412,duty0052
+trabajadores fijos-discontinuos,LegalAgent,argument0944,duty0053
+régimen de horas complementarias,LegalConcept,argument0875,duty0054
+Ambas partes,LegalEntity,argument0002,duty0055
+trabajador,LegalAgent,argument0925,duty0056
+certificaciones,LegalConcept,argument0212,duty0057
+negociación colectiva,LegalConcept,argument0668,duty0058
+los convocantes,LegalEntity,argument0610,duty0059
+Los derechos y obligaciones concernientes a la relación laboral,LegalConcept,argument0086,duty0060
+El trabajador,LegalAgent,argument0030,duty0061
+Las discrepancias que surjan entre empresarios y trabajadores,LegalConcept,argument0068,duty0062
+comités de empresa o centro de trabajo,LegalEntity,argument0234,duty0063
+partes negociadoras,LegalEntity,argument0730,duty0064
+duración de la jornada,LegalConcept,argument0411,duty0065
+adopción del acuerdo de extinción,LegalConcept,argument0145,duty0066
+empresario,LegalAgent,argument0449,duty0067
+Fondo,LegalEntity,argument0040,duty0068
+oficina pública,LegalEntity,argument0700,duty0069
+nacimiento,LegalConcept,argument0664,duty0070
+derechos y obligaciones,LegalConcept,argument0368,duty0071
+reparto de miembros,LegalConcept,argument0842,duty0072
+reparto de miembros,LegalConcept,argument0842,duty0073
+comité de empresa,LegalEntity,argument0231,duty0074
+comité de empresa,LegalEntity,argument0231,duty0075
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0076
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0077
+empresario,LegalAgent,argument0449,duty0078
+empresario,LegalAgent,argument0449,duty0079
+dirección de la empresa,LegalEntity,argument0388,duty0080
+desplazamientos,LegalConcept,argument0377,duty0081
+decisión de extensión,LegalConcept,argument0338,duty0082
+permiso,LegalConcept,argument0746,duty0083
+organizaciones sindicales y asociaciones empresariales,LegalEntity,argument0707,duty0084
+obligaciones de información y documentación,LegalConcept,argument0691,duty0085
+partes,LegalConcept,argument0728,duty0086
+La impartición de esta formación,LegalConcept,argument0057,duty0087
+"El disfrute de cada período semanal o, en su caso, de la acumulación de dichos períodos",LegalConcept,argument0026,duty0088
+los acuerdos,LegalConcept,argument0607,duty0089
+resolución,LegalConcept,argument0860,duty0090
+empresa o centro de trabajo,LegalEntity,argument0446,duty0091
+intervención como interlocutores,LegalConcept,argument0548,duty0092
+retribución,LegalConcept,argument0869,duty0093
+contrato,LegalConcept,argument0283,duty0094
+contrato,LegalConcept,argument0283,duty0095
+contrato,LegalConcept,argument0283,duty0096
+cedente y el cesionario,LegalEntity,argument0208,duty0097
+empresario,LegalAgent,argument0449,duty0098
+empresario,LegalAgent,argument0449,duty0099
+La suspensión,LegalConcept,argument0066,duty0100
+unos centros,LegalConcept,argument0982,duty0101
+autoridad laboral,LegalEntity,argument0177,duty0102
+empresario,LegalAgent,argument0449,duty0103
+autoridad laboral,LegalEntity,argument0177,duty0104
+sentencia,LegalConcept,argument0888,duty0105
+sentencia,LegalConcept,argument0888,duty0106
+sentencia,LegalConcept,argument0888,duty0107
+sentencia,LegalConcept,argument0888,duty0108
+sentencia,LegalConcept,argument0888,duty0109
+sentencia,LegalConcept,argument0888,duty0110
+sentencia,LegalConcept,argument0888,duty0111
+sentencia,LegalConcept,argument0888,duty0112
+sentencia,LegalConcept,argument0888,duty0113
+sentencia,LegalConcept,argument0888,duty0114
+sentencia,LegalConcept,argument0888,duty0115
+sentencia,LegalConcept,argument0888,duty0116
+sentencia,LegalConcept,argument0888,duty0117
+sentencia,LegalConcept,argument0888,duty0118
+interposición del conflicto,LegalConcept,argument0545,duty0119
+árbitro,LegalAgent,argument0997,duty0120
+árbitro,LegalAgent,argument0997,duty0121
+árbitro,LegalAgent,argument0997,duty0122
+árbitro,LegalAgent,argument0997,duty0123
+árbitro,LegalAgent,argument0997,duty0124
+sanción de las faltas graves y muy graves,LegalConcept,argument0884,duty0125
+sanción de las faltas graves y muy graves,LegalConcept,argument0884,duty0126
+sanción de las faltas graves y muy graves,LegalConcept,argument0884,duty0127
+autoridad laboral,LegalEntity,argument0177,duty0128
+empresario,LegalAgent,argument0449,duty0129
+secciones sindicales,LegalEntity,argument0886,duty0130
+escrito,LegalConcept,argument0472,duty0131
+derecho,LegalConcept,argument0358,duty0132
+los que no hubieran sido dados de alta en la Seguridad Social,LegalAgent,argument0614,duty0133
+trabajadores,LegalAgent,argument0933,duty0134
+contrato,LegalConcept,argument0283,duty0135
+empresario,LegalAgent,argument0449,duty0136
+escrito,LegalConcept,argument0472,duty0137
+establecimiento de planes de igualdad,LegalConcept,argument0477,duty0138
+miembros del comité o delegado de personal,LegalAgent,argument0650,duty0139
+persona trabajadora,LegalAgent,argument0751,duty0140
+convenio colectivo o acuerdo,LegalConcept,argument0303,duty0141
+convenio colectivo o acuerdo,LegalConcept,argument0303,duty0142
+convenio colectivo o acuerdo,LegalConcept,argument0303,duty0143
+convenio colectivo o acuerdo,LegalConcept,argument0303,duty0144
+convenio colectivo o acuerdo,LegalConcept,argument0303,duty0145
+cada elector,LegalAgent,argument0183,duty0146
+persona,LegalAgent,argument0747,duty0147
+persona,LegalAgent,argument0747,duty0148
+persona,LegalAgent,argument0747,duty0149
+persona,LegalAgent,argument0747,duty0150
+persona,LegalAgent,argument0747,duty0151
+persona,LegalAgent,argument0747,duty0152
+se,LegalAgent,argument0885,duty0153
+La liquidación y el pago del salario,LegalConcept,argument0059,duty0154
+se,LegalAgent,argument0885,duty0155
+diferencias,LegalConcept,argument0387,duty0156
+convenios,LegalConcept,argument0305,duty0157
+consulta,LegalConcept,argument0271,duty0158
+mesa,LegalEntity,argument0642,duty0159
+ley,LegalConcept,argument0593,duty0160
+La documentación del salario,LegalConcept,argument0054,duty0161
+el trabajador,LegalAgent,argument0436,duty0162
+ley,LegalConcept,argument0593,duty0163
+convenios colectivos,LegalConcept,argument0306,duty0164
+"empresas principal, contratista o subcontratista",LegalEntity,argument0459,duty0165
+el Fondo de Garantía Salarial,LegalEntity,argument0424,duty0166
+se,LegalConcept,argument0885,duty0167
+Dicha información,LegalConcept,argument0011,duty0168
+empresa,LegalAgent,argument0445,duty0169
+empresa,LegalAgent,argument0445,duty0170
+árbitro,LegalAgent,argument0997,duty0171
+cedente y el cesionario,LegalEntity,argument0208,duty0172
+traslado,LegalConcept,argument0959,duty0173
+trabajador,LegalAgent,argument0925,duty0174
+empresario,LegalAgent,argument0449,duty0175
+representantes,LegalAgent,argument0849,duty0176
+empresa,LegalAgent,argument0445,duty0177
+El trabajador,LegalAgent,argument0030,duty0178
+El trabajador,LegalAgent,argument0030,duty0179
+El trabajador,LegalAgent,argument0030,duty0180
+empresa,LegalAgent,argument0445,duty0181
+empresa,LegalAgent,argument0445,duty0182
+comisión negociadora,LegalEntity,argument0226,duty0183
+empresario,LegalAgent,argument0449,duty0184
+empresario,LegalAgent,argument0449,duty0185
+trabajador,LegalAgent,argument0925,duty0186
+trabajadores,LegalAgent,argument0933,duty0187
+convenios colectivos,LegalEntity,argument0306,duty0188
+negociación colectiva,LegalEntity,argument0668,duty0189
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0190
+legitimación,LegalConcept,argument0592,duty0191
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0192
+expedientes de regulación de empleo,LegalConcept,argument0489,duty0193
+La indisciplina o desobediencia en el trabajo,LegalConcept,argument0058,duty0194
+La presidencia,LegalAgent,argument0063,duty0195
+Los trabajadores,LegalAgent,argument0091,duty0196
+trabajadores,LegalAgent,argument0933,duty0197
+trabajadores,LegalAgent,argument0933,duty0198
+trabajadores,LegalAgent,argument0933,duty0199
+trabajadores,LegalAgent,argument0933,duty0200
+trabajadores,LegalAgent,argument0933,duty0201
+trabajadores,LegalAgent,argument0933,duty0202
+trabajadores,LegalAgent,argument0933,duty0203
+trabajadores,LegalAgent,argument0933,duty0204
+compensación,LegalConcept,argument0238,duty0205
+contrato para la formación y el aprendizaje,LegalConcept,argument0289,duty0206
+descanso semanal,LegalConcept,argument0371,duty0207
+convenio,LegalConcept,argument0301,duty0208
+mesa electoral,LegalEntity,argument0643,duty0209
+negociación colectiva,LegalEntity,argument0668,duty0210
+negociación colectiva,LegalEntity,argument0668,duty0211
+negociación colectiva,LegalEntity,argument0668,duty0212
+cedente,LegalAgent,argument0207,duty0213
+cedente,LegalAgent,argument0207,duty0214
+contratistas y subcontratistas,LegalEntity,argument0282,duty0215
+trabajador,LegalAgent,argument0925,duty0216
+promoción,LegalConcept,argument0788,duty0217
+contrato para la formación y el aprendizaje,LegalConcept,argument0289,duty0218
+comisión negociadora,LegalConcept,argument0226,duty0219
+empresario,LegalAgent,argument0449,duty0220
+empresa,LegalAgent,argument0445,duty0221
+normas electorales,LegalConcept,argument0673,duty0222
+modificación,LegalConcept,argument0657,duty0223
+trabajador,LegalAgent,argument0925,duty0224
+trabajador,LegalAgent,argument0925,duty0225
+trabajador,LegalAgent,argument0925,duty0226
+comisión representativa,LegalEntity,argument0228,duty0227
+empresario y el trabajador,LegalEntity,argument0453,duty0228
+autoridad laboral,LegalEntity,argument0177,duty0229
+conocimiento y resolución de las cuestiones derivadas de la aplicación e interpretación de los convenios colectivos,LegalConcept,argument0267,duty0230
+horas extraordinarias,LegalConcept,argument0514,duty0231
+convenios colectivos,LegalConcept,argument0306,duty0232
+derechos y obligaciones,LegalConcept,argument0368,duty0233
+trabajador,LegalAgent,argument0925,duty0234
+definición de los grupos profesionales,LegalConcept,argument0346,duty0235
+comité de empresa,LegalEntity,argument0231,duty0236
+contrato de trabajo,LegalConcept,argument0286,duty0237
+escrito,LegalConcept,argument0472,duty0238
+resoluciones de la comisión paritaria,LegalConcept,argument0859,duty0239
+cedente y el cesionario,LegalEntity,argument0208,duty0240
+opción,LegalConcept,argument0702,duty0241
+comisión,LegalConcept,argument0224,duty0242
+Administración laboral,LegalEntity,argument0001,duty0243
+empresas,LegalEntity,argument0456,duty0244
+empresas,LegalEntity,argument0456,duty0245
+empresas,LegalEntity,argument0456,duty0246
+empresas,LegalEntity,argument0456,duty0247
+empresas,LegalEntity,argument0456,duty0248
+empresas,LegalEntity,argument0456,duty0249
+empresas,LegalEntity,argument0456,duty0250
+empresario,LegalAgent,argument0449,duty0251
+comité de empresa,LegalEntity,argument0231,duty0252
+empresario,LegalAgent,argument0449,duty0253
+normas específicas,LegalConcept,argument0674,duty0254
+representantes de los trabajadores,LegalAgent,argument0850,duty0255
+plazo,LegalConcept,argument0761,duty0256
+El Gobierno,LegalEntity,argument0016,duty0257
+del escrito de preaviso,LegalConcept,argument0347,duty0258
+Los convenios,LegalEntity,argument0084,duty0259
+cesionario,LegalAgent,argument0216,duty0260
+comunicación,LegalConcept,argument0245,duty0261
+comunicación,LegalConcept,argument0245,duty0262
+comunicación,LegalConcept,argument0245,duty0263
+comunicación,LegalConcept,argument0245,duty0264
+acuerdo,LegalConcept,argument0135,duty0265
+acuerdo,LegalConcept,argument0135,duty0266
+contrato de relevo,LegalConcept,argument0285,duty0267
+normas,LegalConcept,argument0672,duty0268
+denegación de la solicitud,LegalConcept,argument0355,duty0269
+peculiaridades,LegalConcept,argument0733,duty0270
+la suspensión,LegalConcept,argument0576,duty0271
+la suspensión,LegalConcept,argument0576,duty0272
+la suspensión,LegalConcept,argument0576,duty0273
+la equiparación,LegalConcept,argument0568,duty0274
+comité de empresa,LegalEntity,argument0231,duty0275
+delegados de personal y los miembros del comité de empresa,LegalEntity,argument0349,duty0276
+derechos,LegalConcept,argument0365,duty0277
+árbitros,LegalAgent,argument0999,duty0278
+trabajadores a distancia,LegalAgent,argument0934,duty0279
+trabajadores,LegalAgent,argument0933,duty0280
+trabajador,LegalAgent,argument0925,duty0281
+oficina pública,LegalEntity,argument0700,duty0282
+El periodo de vacaciones anuales retribuidas,LegalConcept,argument0027,duty0283
+intervención,LegalConcept,argument0547,duty0284
+intervención,LegalConcept,argument0547,duty0285
+excedencia,LegalConcept,argument0483,duty0286
+Gobierno,LegalEntity,argument0042,duty0287
+trabajadores,LegalAgent,argument0933,duty0288
+impugnación,LegalConcept,argument0519,duty0289
+secciones sindicales,LegalConcept,argument0886,duty0290
+Gobierno,LegalEntity,argument0042,duty0291
+trabajador,LegalAgent,argument0925,duty0292
+trabajador,LegalAgent,argument0925,duty0293
+trabajador,LegalAgent,argument0925,duty0294
+trabajador,LegalAgent,argument0925,duty0295
+existencia de fuerza mayor,LegalConcept,argument0487,duty0298
+El Fondo,LegalEntity,argument0014,duty0299
+dichos trabajadores,LegalAgent,argument0386,duty0300
+deberá,LegalConcept,argument0336,duty0301
+El plazo,LegalConcept,argument0029,duty0302
+plan,LegalConcept,argument0759,duty0303
+pacto,LegalConcept,argument0718,duty0304
+empresario,LegalAgent,argument0449,duty0305
+empresario,LegalAgent,argument0449,duty0306
+dirección de la empresa,LegalEntity,argument0388,duty0307
+dirección de la empresa,LegalEntity,argument0388,duty0308
+La adopción del acuerdo de extinción al amparo de lo prevenido en el artículo anterior,LegalConcept,argument0046,duty0309
+empresario,LegalAgent,argument0449,duty0310
+contrato,LegalConcept,argument0283,duty0311
+consulta,LegalConcept,argument0271,duty0312
+cargas fiscales y de Seguridad Social,LegalConcept,argument0196,duty0313
+materias,LegalConcept,argument0627,duty0314
+dirección empresarial,LegalEntity,argument0390,duty0315
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0316
+miembros del comité de empresa y los delegados de personal,LegalEntity,argument0649,duty0317
+se,LegalConcept,argument0885,duty0318
+los contratos,LegalEntity,argument0609,duty0319
+el empresario,LegalAgent,argument0428,duty0320
+el empresario,LegalAgent,argument0428,duty0321
+tiempo de trabajo,LegalConcept,argument0922,duty0322
+traslado,LegalConcept,argument0959,duty0323
+traslado,LegalConcept,argument0959,duty0324
+traslado,LegalConcept,argument0959,duty0325
+quienes,LegalAgent,argument0805,duty0326
+quienes,LegalAgent,argument0805,duty0327
+empresario,LegalAgent,argument0449,duty0328
+empresario,LegalAgent,argument0449,duty0329
+jefe del grupo,LegalAgent,argument0551,duty0330
+cualquiera de las partes,LegalAgent,argument0327,duty0331
+empresa,LegalAgent,argument0445,duty0332
+empresa,LegalAgent,argument0445,duty0333
+Comisión Consultiva Nacional de Convenios Colectivos,LegalEntity,argument0005,duty0334
+plazo,LegalConcept,argument0761,duty0335
+discrepancias,LegalConcept,argument0392,duty0336
+discrepancias,LegalConcept,argument0392,duty0337
+autoridad laboral,LegalEntity,argument0177,duty0338
+"miembros del comité de empresa y este en su conjunto, así como, en su caso, los expertos que les asistan",LegalEntity,argument0648,duty0339
+traslado,LegalConcept,argument0959,duty0340
+número de miembros,LegalConcept,argument0685,duty0341
+derecho o condición de trabajo,LegalConcept,argument0363,duty0342
+litigios,LegalConcept,argument0604,duty0343
+litigios,LegalConcept,argument0604,duty0344
+litigios,LegalConcept,argument0604,duty0345
+litigios,LegalConcept,argument0604,duty0346
+contrato de trabajo,LegalConcept,argument0286,duty0347
+suspensión de estas diez semanas,LegalConcept,argument0911,duty0351
+suspensión de estas diez semanas,LegalConcept,argument0911,duty0352
+suspensión de estas diez semanas,LegalConcept,argument0911,duty0353
+suspensión de estas diez semanas,LegalConcept,argument0911,duty0354
+suspensión del contrato,LegalConcept,argument0913,duty0355
+empresarios,LegalAgent,argument0455,duty0356
+negociación colectiva,LegalConcept,argument0668,duty0357
+partes,LegalAgent,argument0728,duty0358
+oficina pública,LegalEntity,argument0700,duty0359
+oficina pública,LegalEntity,argument0700,duty0360
+adaptaciones,LegalConcept,argument0143,duty0361
+recibo de salarios,LegalConcept,argument0814,duty0362
+escrito,LegalConcept,argument0472,duty0363
+impugnaciones en materia electoral,LegalConcept,argument0518,duty0364
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0365
+El contrato a tiempo parcial,LegalConcept,argument0023,duty0366
+el periodo de consultas,LegalConcept,argument0432,duty0367
+despido,LegalConcept,argument0374,duty0368
+empresario y el comité de empresa,LegalEntity,argument0452,duty0369
+La comisión negociadora,LegalEntity,argument0049,duty0370
+las comunidades autónomas,LegalEntity,argument0578,duty0371
+delegados de prevención,LegalAgent,argument0351,duty0372
+exigencias,LegalConcept,argument0486,duty0373
+escrito,LegalConcept,argument0472,duty0374
+escrito,LegalConcept,argument0472,duty0375
+libro,LegalConcept,argument0596,duty0376
+empresario,LegalAgent,argument0449,duty0377
+modificaciones sustanciales,LegalConcept,argument0655,duty0378
+modificaciones sustanciales,LegalConcept,argument0655,duty0379
+modificaciones sustanciales,LegalConcept,argument0655,duty0380
+comunicación de la apertura del periodo de consultas,LegalConcept,argument0246,duty0381
+comunicación de la apertura del periodo de consultas,LegalConcept,argument0246,duty0382
+despido colectivo,LegalConcept,argument0375,duty0383
+despido colectivo,LegalConcept,argument0375,duty0384
+empresario,LegalAgent,argument0449,duty0385
+opción,LegalConcept,argument0702,duty0386
+planteamiento,LegalConcept,argument0760,duty0387
+reserva,LegalConcept,argument0856,duty0388
+número de miembros,LegalConcept,argument0685,duty0389
+decisión,LegalConcept,argument0337,duty0390
+acuerdos interprofesionales,LegalConcept,argument0141,duty0391
+suspensión del contrato,LegalConcept,argument0913,duty0392
+trabajador,LegalAgent,argument0925,duty0393
+nacimiento,LegalConcept,argument0664,duty0394
+empresario,LegalAgent,argument0449,duty0395
+Gobierno,LegalEntity,argument0042,duty0396
+comité de empresa,LegalEntity,argument0231,duty0397
+mesa,LegalEntity,argument0642,duty0398
+derechos y obligaciones del trabajador,LegalConcept,argument0370,duty0399
+comité de empresa,LegalEntity,argument0231,duty0400
+aplicación,LegalConcept,argument0156,duty0401
+aplicación,LegalConcept,argument0156,duty0402
+empresario,LegalAgent,argument0449,duty0403
+comités,LegalConcept,argument0233,duty0404
+convenio,LegalConcept,argument0301,duty0405
+mesa electoral,LegalEntity,argument0643,duty0406
+empresa,LegalAgent,argument0445,duty0407
+empresa,LegalAgent,argument0445,duty0408
+empresa,LegalAgent,argument0445,duty0409
+empresa,LegalAgent,argument0445,duty0410
+árbitros,LegalAgent,argument0999,duty0411
+proclamación,LegalConcept,argument0784,duty0412
+delegados de personal,LegalAgent,argument0348,duty0413
+empresa,LegalAgent,argument0445,duty0414
+empresa,LegalEntity,argument0445,duty0415
+permiso,LegalConcept,argument0746,duty0416
+promotores,LegalAgent,argument0789,duty0417
+promotores,LegalAgent,argument0789,duty0418
+promotores,LegalAgent,argument0789,duty0419
+promotores,LegalAgent,argument0789,duty0420
+promotores,LegalAgent,argument0789,duty0421
+promotores,LegalAgent,argument0789,duty0422
+promotores,LegalAgent,argument0789,duty0423
+promotores,LegalAgent,argument0789,duty0424
+"representación de los trabajadores, o de los empresarios",LegalEntity,argument0845,duty0425
+"representación de los trabajadores, o de los empresarios",LegalEntity,argument0845,duty0426
+"representación de los trabajadores, o de los empresarios",LegalEntity,argument0845,duty0427
+"representación de los trabajadores, o de los empresarios",LegalEntity,argument0845,duty0428
+"representación de los trabajadores, o de los empresarios",LegalEntity,argument0845,duty0429
+"representación de los trabajadores, o de los empresarios",LegalEntity,argument0845,duty0430
+El cedente o el cesionario,LegalAgent,argument0021,duty0431
+esta oficina pública,LegalEntity,argument0475,duty0432
+El comité de empresa,LegalEntity,argument0022,duty0433
+dicha acomodación,LegalConcept,argument0380,duty0434
+contratados,LegalAgent,argument0278,duty0435
+horas complementarias,LegalConcept,argument0512,duty0436
+el salario,LegalConcept,argument0435,duty0437
+unos y otros,LegalConcept,argument0983,duty0438
+empresario,LegalAgent,argument0449,duty0439
+periodo de suspensión,LegalConcept,argument0741,duty0440
+autoridad laboral,LegalEntity,argument0177,duty0441
+situaciones,LegalConcept,argument0897,duty0442
+empresario,LegalAgent,argument0449,duty0443
+autoridad laboral,LegalEntity,argument0177,duty0444
+juez,LegalAgent,argument0558,duty0445
+contrato a tiempo parcial,LegalConcept,argument0284,duty0446
+empresa,LegalAgent,argument0445,duty0447
+trabajadores y empresarios,LegalEntity,argument0948,duty0448
+mesas electorales,LegalEntity,argument0644,duty0449
+progenitor,LegalAgent,argument0786,duty0450
+mesa,LegalEntity,argument0642,duty0451
+relación laboral,LegalConcept,argument0839,duty0452
+El Servicio Público de Empleo,LegalEntity,argument0017,duty0453
+contrato,LegalConcept,argument0283,duty0454
+requerimiento,LegalConcept,argument0854,duty0455
+requerimiento,LegalConcept,argument0854,duty0456
+contrato de relevo,LegalConcept,argument0285,duty0457
+contrato de relevo,LegalConcept,argument0285,duty0458
+consulta,LegalConcept,argument0271,duty0459
+miembros del comité o delegado de personal,LegalAgent,argument0650,duty0460
+despido,LegalConcept,argument0374,duty0461
+partes negociadoras,LegalEntity,argument0730,duty0462
+reparto de los miembros de la comisión negociadora,LegalConcept,argument0841,duty0463
+lista,LegalConcept,argument0600,duty0466
+negociación colectiva,LegalConcept,argument0668,duty0467
+contrato,LegalConcept,argument0283,duty0468
+aquella,LegalAgent,argument0159,duty0469
+compensación,LegalConcept,argument0238,duty0470
+mesa electoral,LegalEntity,argument0643,duty0471
+quien,LegalAgent,argument0804,duty0472
+trabajador y el empresario,LegalAgent,argument0931,duty0473
+empresario,LegalAgent,argument0449,duty0474
+trabajadores,LegalAgent,argument0933,duty0475
+cedente y el cesionario,LegalEntity,argument0208,duty0476
+trabajadores,LegalAgent,argument0933,duty0477
+trabajador,LegalAgent,argument0925,duty0478
+empresa,LegalAgent,argument0445,duty0479
+representación de los trabajadores,LegalConcept,argument0844,duty0480
+convenios colectivos,LegalConcept,argument0306,duty0481
+resultado del escrutinio,LegalConcept,argument0865,duty0482
+resultado del escrutinio,LegalConcept,argument0865,duty0483
+resultado del escrutinio,LegalConcept,argument0865,duty0484
+resultado del escrutinio,LegalConcept,argument0865,duty0485
+candidatos,LegalAgent,argument0192,duty0486
+candidatos,LegalAgent,argument0192,duty0487
+candidatos,LegalAgent,argument0192,duty0488
+candidatos,LegalAgent,argument0192,duty0489
+contrato de trabajo,LegalConcept,argument0286,duty0490
+contrato de trabajo,LegalConcept,argument0286,duty0491
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,LegalConcept,argument0505,duty0492
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,LegalConcept,argument0505,duty0493
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,LegalConcept,argument0505,duty0494
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,LegalConcept,argument0505,duty0495
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,LegalConcept,argument0505,duty0496
+cedente y el cesionario,LegalAgent,argument0208,duty0497
+informe,LegalConcept,argument0534,duty0498
+trabajadores,LegalAgent,argument0933,duty0499
+parte del contrato,LegalConcept,argument0726,duty0500
+empresario,LegalAgent,argument0449,duty0501
+distribución,LegalConcept,argument0406,duty0502
+dirección de la empresa,LegalEntity,argument0388,duty0503
+acuerdos de la comisión,LegalConcept,argument0140,duty0504
+contrataciones,LegalConcept,argument0276,duty0505
+empresario,LegalAgent,argument0449,duty0506
+empresario,LegalAgent,argument0449,duty0507
+contrato,LegalConcept,argument0283,duty0508
+contrato,LegalConcept,argument0283,duty0509
+contrato,LegalConcept,argument0283,duty0510
+duración,LegalConcept,argument0410,duty0511
+duración,LegalConcept,argument0410,duty0512
+decisión,LegalConcept,argument0337,duty0513
+decisión,LegalConcept,argument0337,duty0514
+procedimiento,LegalConcept,argument0776,duty0515
+trabajador,LegalAgent,argument0925,duty0516
+órganos,LegalEntity,argument1002,duty0517
+empresa,LegalAgent,argument0445,duty0518
+comisión representativa,LegalConcept,argument0228,duty0519
+empresario,LegalAgent,argument0449,duty0520
+convenios colectivos,LegalConcept,argument0306,duty0521
+dirección empresarial,LegalEntity,argument0390,duty0522
+trabajadores,LegalAgent,argument0933,duty0523
+comunicación,LegalConcept,argument0245,duty0524
+regulación,LegalConcept,argument0831,duty0525
+regulación,LegalConcept,argument0831,duty0526
+contratos,LegalConcept,argument0290,duty0527
+empresario,LegalAgent,argument0449,duty0528
+empresario,LegalAgent,argument0449,duty0529
+plazo,LegalConcept,argument0761,duty0530
+trabajador,LegalAgent,argument0925,duty0531
+empresario,LegalAgent,argument0449,duty0532
+empresario,LegalAgent,argument0449,duty0533
+empresario,LegalAgent,argument0449,duty0534
+número de miembros del comité de empresa,LegalConcept,argument0686,duty0535
+relaciones laborales de los trabajadores afectados por la sucesión,LegalConcept,argument0837,duty0536
+promoción,LegalConcept,argument0788,duty0537
+El Fondo,LegalEntity,argument0014,duty0538
+El acto de la votación,LegalConcept,argument0018,duty0539
+La Comisión Consultiva Nacional de Convenios Colectivos,LegalEntity,argument0045,duty0540
+el empresario,LegalAgent,argument0428,duty0541
+acuerdo,LegalConcept,argument0135,duty0542
+acuerdo,LegalConcept,argument0135,duty0543
+convenio,LegalConcept,argument0301,duty0544
+mesa electoral,LegalEntity,argument0643,duty0545
+indemnización,LegalConcept,argument0529,duty0546
+cambio de funciones,LegalConcept,argument0188,duty0547
+progenitor,LegalAgent,argument0786,duty0548
+trabajo nocturno,LegalConcept,argument0954,duty0549
+trabajadores nocturnos y quienes trabajen a turnos,LegalAgent,argument0947,duty0550
+contrato de trabajo,LegalConcept,argument0286,duty0551
+empresario,LegalAgent,argument0449,duty0552
+cambio de puesto de trabajo,LegalConcept,argument0189,duty0553
+comité de empresa,LegalEntity,argument0231,duty0554
+artículo 56.5,LegalConcept,argument0163,duty0556
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0557
+Gobierno,LegalEntity,argument0042,duty0558
+periodo de descanso,LegalConcept,argument0738,duty0559
+jornada de los trabajadores a tiempo parcial,LegalConcept,argument0554,duty0560
+comisión representativa de los trabajadores,LegalEntity,argument0229,duty0561
+concreción del modo de disfrute del permiso,LegalConcept,argument0255,duty0562
+consulta,LegalConcept,argument0271,duty0563
+copia básica,LegalConcept,argument0313,duty0564
+censo de electores y elegibles,LegalConcept,argument0209,duty0565
+trabajadores,LegalAgent,argument0933,duty0566
+empresario,LegalAgent,argument0449,duty0567
+empresario,LegalAgent,argument0449,duty0568
+autoridad laboral,LegalEntity,argument0177,duty0569
+Gobierno,LegalEntity,argument0042,duty0570
+acuerdo,LegalConcept,argument0135,duty0571
+acuerdo,LegalConcept,argument0135,duty0572
+los salarios de tramitación,LegalConcept,argument0617,duty0573
+despido colectivo,LegalConcept,argument0375,duty0574
+La apertura del periodo de consultas y las posiciones de las partes,LegalConcept,argument0047,duty0575
+La oficina pública dependiente de la autoridad laboral,LegalEntity,argument0062,duty0576
+La oficina pública dependiente de la autoridad laboral,LegalEntity,argument0062,duty0577
+La oficina pública dependiente de la autoridad laboral,LegalEntity,argument0062,duty0578
+Fondo,LegalEntity,argument0040,duty0579
+acuerdos,LegalConcept,argument0139,duty0580
+acuerdos,LegalConcept,argument0139,duty0581
+resultado de la votación,LegalConcept,argument0864,duty0582
+trabajadores,LegalAgent,argument0933,duty0583
+autoridad laboral,LegalEntity,argument0177,duty0584
+decisión empresarial,LegalEntity,argument0339,duty0585
+juez,LegalAgent,argument0558,duty0586
+empresario,LegalAgent,argument0449,duty0587
+comisión negociadora,LegalConcept,argument0226,duty0588
+constitución del comité intercentros,LegalConcept,argument0269,duty0589
+convenios colectivos,LegalConcept,argument0306,duty0590
+se,LegalConcept,argument0885,duty0591
+empresa,LegalAgent,argument0445,duty0592
+empresario,LegalAgent,argument0449,duty0593
+Quienes presten servicios en trabajos fijos-discontinuos y los trabajadores vinculados por contrato de duración determinada,LegalAgent,argument0102,duty0594
+fiestas,LegalConcept,argument0501,duty0595
+decisión extintiva,LegalConcept,argument0340,duty0596
+concreción horaria y la determinación de los permisos y reducciones de jornada,LegalConcept,argument0257,duty0597
+relaciones laborales de carácter especial,LegalConcept,argument0836,duty0598
+autoridad laboral,LegalEntity,argument0177,duty0599
+mesa electoral,LegalEntity,argument0643,duty0600
+árbitros,LegalAgent,argument0999,duty0601
+cedente y el cesionario,LegalEntity,argument0208,duty0602
+contratación de trabajadores,LegalConcept,argument0277,duty0603
+contrato de trabajo,LegalConcept,argument0286,duty0604
+periodo,LegalConcept,argument0736,duty0605
+periodo,LegalConcept,argument0736,duty0606
+periodo,LegalConcept,argument0736,duty0607
+contrato de trabajo,LegalConcept,argument0286,duty0608
+contrato para la formación y el aprendizaje,LegalConcept,argument0289,duty0609
+contrato para la formación y el aprendizaje,LegalConcept,argument0289,duty0610
+contrato para la formación y el aprendizaje,LegalConcept,argument0289,duty0611
+mesa electoral,LegalEntity,argument0643,duty0612
+empresarios,LegalAgent,argument0455,duty0613
+importe,LegalConcept,argument0516,duty0614
+periodo o periodos,LegalConcept,argument0742,duty0615
+sistema de representación proporcional,LegalConcept,argument0896,duty0616
+acuerdo,LegalConcept,argument0135,duty0617
+contratista o subcontratista,LegalAgent,argument0280,duty0618
+representantes de los trabajadores,LegalAgent,argument0850,duty0619
+intervención como interlocutores,LegalConcept,argument0548,duty0620
+candidato o candidatura,LegalAgent,argument0191,duty0621
+derechos,LegalConcept,argument0365,duty0622
+razones,LegalConcept,argument0808,duty0623
+informes,LegalConcept,argument0536,duty0624
+Fondo,LegalEntity,argument0040,duty0625
+autoridad laboral,LegalEntity,argument0177,duty0626
+contrato para la formación y el aprendizaje,LegalConcept,argument0289,duty0627
+oficina pública,LegalEntity,argument0700,duty0628
+duración,LegalConcept,argument0410,duty0629
+duración,LegalConcept,argument0410,duty0630
+empresa,LegalAgent,argument0445,duty0631
+empresa,LegalAgent,argument0445,duty0632
+mesa,LegalEntity,argument0642,duty0633
+empresario principal,LegalAgent,argument0450,duty0634
+empresario principal,LegalAgent,argument0450,duty0635
+trabajador,LegalAgent,argument0925,duty0636
+empresa,LegalAgent,argument0445,duty0637
+laudo arbitral,LegalConcept,argument0590,duty0638
+contrato de trabajo,LegalConcept,argument0286,duty0639
+reingreso,LegalConcept,argument0833,duty0640
+contrato de trabajo,LegalConcept,argument0286,duty0641
+trabajadores,LegalAgent,argument0933,duty0642
+la duración del periodo de prueba,LegalConcept,argument0567,duty0643
+Igual ampliación,LegalConcept,argument0044,duty0644
+trabajador,LegalAgent,argument0925,duty0645
+contrato de trabajo,LegalConcept,argument0286,duty0646
+contratos de duración determinada,LegalConcept,argument0291,duty0647
+infracciones,LegalConcept,argument0537,duty0648
+dirección de la empresa,LegalEntity,argument0388,duty0649
+dirección de la empresa,LegalEntity,argument0388,duty0650
+tratamiento de la información facilitada,LegalConcept,argument0962,duty0651
+empresa,LegalAgent,argument0445,duty0652
+disposiciones reglamentarias,LegalEntity,argument0403,duty0653
+empresa,LegalAgent,argument0445,duty0654
+convenios colectivos,LegalConcept,argument0306,duty0655
+En las empresas o centros de trabajo,LegalConcept,argument0034,duty0656
+se,LegalConcept,argument0885,duty0657
+se,LegalConcept,argument0885,duty0658
+empresario,LegalAgent,argument0449,duty0659
+regulación,LegalConcept,argument0831,duty0660
+intervención,LegalConcept,argument0547,duty0661
+elección,LegalConcept,argument0441,duty0662
+miembros del comité de empresa y los delegados de personal,LegalEntity,argument0649,duty0663
+incumplimiento de la obligación,LegalConcept,argument0525,duty0664
+acuerdo,LegalConcept,argument0135,duty0665
+contrato de relevo,LegalConcept,argument0285,duty0666
+empresarios,LegalAgent,argument0455,duty0667
+"apartados 4, 5, y 6 del artículo 48",LegalConcept,argument0154,duty0668
+disposiciones legales y reglamentarias,LegalConcept,argument0402,duty0669
+empresa,LegalAgent,argument0445,duty0670
+Los expedientes de regulación de empleo,LegalConcept,argument0087,duty0671
+La decisión sobre la modificación colectiva de las condiciones de trabajo,LegalConcept,argument0051,duty0672
+trabajadores,LegalAgent,argument0933,duty0673
+dicho escrito,LegalConcept,argument0384,duty0674
+dicho escrito,LegalConcept,argument0384,duty0675
+lista de electores,LegalConcept,argument0602,duty0676
+Lo establecido en las letras anteriores,LegalConcept,argument0080,duty0677
+mesa,LegalEntity,argument0642,duty0678
+regulación,LegalConcept,argument0831,duty0679
+persona trabajadora,LegalAgent,argument0751,duty0680
+trabajador,LegalAgent,argument0925,duty0681
+comité,LegalConcept,argument0230,duty0682
+excedencia forzosa,LegalConcept,argument0484,duty0683
+excedencia forzosa,LegalConcept,argument0484,duty0684
+excedencia forzosa,LegalConcept,argument0484,duty0685
+empresario,LegalAgent,argument0449,duty0686
+empresario,LegalAgent,argument0449,duty0687
+trabajadores,LegalAgent,argument0933,duty0688
+empresario,LegalAgent,argument0449,duty0689
+periodo de consultas,LegalConcept,argument0737,duty0690
+laudo,LegalConcept,argument0589,duty0691
+laudo,LegalConcept,argument0589,duty0692
+"Los representantes de la Administración, así como los de las organizaciones sindicales y de las asociaciones empresariales",LegalEntity,argument0089,duty0693
+La reducción de jornada contemplada en este apartado,LegalConcept,argument0064,duty0694
+contrato de trabajo,LegalConcept,argument0286,duty0695
+oficina,LegalEntity,argument0698,duty0696
+oficina,LegalEntity,argument0698,duty0697
+empresa,LegalAgent,argument0445,duty0698
+empresa,LegalAgent,argument0445,duty0699
+duración del permiso,LegalConcept,argument0414,duty0700
+listas,LegalConcept,argument0603,duty0701
+comisión representativa,LegalEntity,argument0228,duty0702
+convocatoria,LegalConcept,argument0311,duty0703
+original del acta,LegalConcept,argument0708,duty0704
+original del acta,LegalConcept,argument0708,duty0705
+convenios colectivos,LegalConcept,argument0306,duty0706
+negociación colectiva,LegalConcept,argument0668,duty0707
+electores de menor edad,LegalConcept,argument0443,duty0708
+oficina pública,LegalEntity,argument0700,duty0709
+comité de empresa,LegalEntity,argument0231,duty0710
+Reglamentariamente,LegalConcept,argument0106,duty0711
+traslado de trabajadores,LegalConcept,argument0960,duty0712
+oficina pública,LegalEntity,argument0700,duty0713
+suspensión del contrato,LegalConcept,argument0913,duty0714
+persona trabajadora,LegalAgent,argument0751,duty0715
+empresario,LegalAgent,argument0449,duty0716
+contrato para la formación y el aprendizaje,LegalConcept,argument0289,duty0717
+Lo previsto en el apartado anterior,LegalConcept,argument0081,duty0718
+jornada de cada trabajador,LegalConcept,argument0553,duty0719
+cedente y el cesionario,LegalEntity,argument0208,duty0720
+negociación colectiva,LegalEntity,argument0668,duty0721
+contratistas,LegalAgent,argument0281,duty0722
+trabajadores,LegalAgent,argument0933,duty0723
+promotores,LegalAgent,argument0789,duty0724
+promotores,LegalAgent,argument0789,duty0725
+Gobierno,LegalEntity,argument0042,duty0726
+dirección de la empresa,LegalEntity,argument0388,duty0727
+La regulación de las condiciones establecidas en un convenio de empresa,LegalConcept,argument0065,duty0728
+Las empresas,LegalEntity,argument0069,duty0729
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0730
+dicho escrito,LegalConcept,argument0384,duty0731

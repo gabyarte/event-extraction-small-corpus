@@ -1,0 +1,121 @@
+event_subject,event_subject_type,event_subject_id,relation_id
+Ministerio de Empleo y Seguridad Social,LegalEntity,argument0094,privilege0001
+empresario,LegalAgent,argument0449,privilege0002
+partes,LegalEntity,argument0728,privilege0003
+convenios colectivos,LegalConcept,argument0306,privilege0004
+contrato de relevo,LegalConcept,argument0285,privilege0005
+empresa,LegalAgent,argument0445,privilege0006
+Quienes,LegalConcept,argument0101,privilege0007
+Cada progenitor,LegalAgent,argument0003,privilege0008
+trabajadores,LegalAgent,argument0933,privilege0009
+Gobierno,LegalEntity,argument0042,privilege0010
+actividades formativas,LegalConcept,argument0134,privilege0011
+jornada de trabajo,LegalConcept,argument0555,privilege0012
+trabajador,LegalAgent,argument0925,privilege0013
+menores de dieciocho y mayores de dieciséis años,LegalConcept,argument0641,privilege0014
+autoridad laboral,LegalEntity,argument0177,privilege0015
+autoridad laboral,LegalEntity,argument0177,privilege0016
+autoridad laboral,LegalEntity,argument0177,privilege0017
+negociación colectiva,LegalEntity,argument0668,privilege0018
+negociación colectiva,LegalEntity,argument0668,privilege0019
+despedido,LegalAgent,argument0373,privilege0020
+pacto,LegalConcept,argument0718,privilege0021
+trabajadores,LegalAgent,argument0933,privilege0022
+contrato de trabajo,LegalConcept,argument0286,privilege0023
+comunidades autónomas,LegalEntity,argument0252,privilege0024
+asociaciones empresariales,LegalEntity,argument0170,privilege0025
+asamblea,LegalConcept,argument0167,privilege0026
+contrato de trabajo en prácticas,LegalConcept,argument0287,privilege0027
+convenios colectivos,LegalEntity,argument0306,privilege0028
+El trabajador y sus representantes legales,LegalAgent,argument0031,privilege0029
+El trabajador y sus representantes legales,LegalAgent,argument0031,privilege0030
+El trabajador y sus representantes legales,LegalAgent,argument0031,privilege0031
+El trabajador y sus representantes legales,LegalAgent,argument0031,privilege0032
+Gobierno,LegalEntity,argument0042,privilege0033
+Gobierno,LegalEntity,argument0042,privilege0034
+Gobierno,LegalEntity,argument0042,privilege0035
+contrato de trabajo en prácticas,LegalConcept,argument0287,privilege0036
+contrato,LegalConcept,argument0283,privilege0037
+contrato,LegalConcept,argument0283,privilege0038
+contrato,LegalConcept,argument0283,privilege0039
+contrato,LegalConcept,argument0283,privilege0040
+contrato,LegalConcept,argument0283,privilege0041
+contrato,LegalConcept,argument0283,privilege0042
+contrato,LegalConcept,argument0283,privilege0043
+contrato,LegalConcept,argument0283,privilege0044
+organizaciones empresariales,LegalEntity,argument0705,privilege0045
+periodo de suspensión,LegalConcept,argument0741,privilege0046
+empresa,LegalAgent,argument0445,privilege0047
+periodo de suspensión,LegalConcept,argument0741,privilege0048
+cláusulas,LegalConcept,argument0221,privilege0049
+periodo de prueba,LegalConcept,argument0739,privilege0050
+situación de excedencia,LegalConcept,argument0898,privilege0051
+situación de excedencia,LegalConcept,argument0898,privilege0052
+empresario y la representación de los trabajadores,LegalEntity,argument0454,privilege0053
+contrato de trabajo en prácticas,LegalConcept,argument0287,privilege0054
+sujetos,LegalAgent,argument0906,privilege0055
+quienes sean parte en dichos periodos de consultas,LegalAgent,argument0806,privilege0056
+autoridad laboral,LegalEntity,argument0177,privilege0057
+convenio colectivo,LegalConcept,argument0302,privilege0058
+partes,LegalAgent,argument0728,privilege0059
+los trabajadores y empresarios,LegalEntity,argument0620,privilege0060
+Los convenios colectivos,LegalConcept,argument0085,privilege0061
+organizaciones de trabajadores y empresarios,LegalEntity,argument0704,privilege0062
+créditos por salarios no protegidos en los apartados anteriores,LegalConcept,argument0323,privilege0063
+empresa,LegalAgent,argument0445,privilege0064
+dirección de la empresa,LegalEntity,argument0388,privilege0065
+representación,LegalConcept,argument0843,privilege0068
+comunidades,LegalEntity,argument0251,privilege0069
+empresa,LegalAgent,argument0445,privilege0070
+sindicatos y las asociaciones empresariales,LegalEntity,argument0894,privilege0071
+representantes legales de los trabajadores,LegalAgent,argument0853,privilege0072
+La suspensión del contrato de trabajo,LegalConcept,argument0067,privilege0073
+convenio colectivo,LegalConcept,argument0302,privilege0074
+Gobierno,LegalEntity,argument0042,privilege0075
+El trabajador,LegalAgent,argument0030,privilege0076
+Cualquiera de las partes,LegalAgent,argument0009,privilege0077
+Real Decreto Legislativo 1/1995,LegalConcept,argument0103,privilege0078
+acuerdo mayoritario,LegalConcept,argument0138,privilege0080
+empresario,LegalAgent,argument0449,privilege0081
+empresario,LegalAgent,argument0449,privilege0082
+convenio colectivo,LegalConcept,argument0302,privilege0083
+contrato de trabajo,LegalConcept,argument0286,privilege0084
+información,LegalConcept,argument0531,privilege0086
+retribuciones,LegalConcept,argument0868,privilege0087
+representantes de los trabajadores,LegalEntity,argument0850,privilege0088
+trabajador,LegalAgent,argument0925,privilege0089
+madre biológica,LegalAgent,argument0626,privilege0090
+contrato de trabajo en prácticas,LegalConcept,argument0287,privilege0091
+la autoridad,LegalAgent,argument0562,privilege0092
+La asamblea,LegalEntity,argument0048,privilege0093
+trabajadores,LegalAgent,argument0933,privilege0094
+autoridad,LegalAgent,argument0176,privilege0095
+Comisión Consultiva Nacional de Convenios Colectivos,LegalEntity,argument0005,privilege0096
+Comisión Consultiva Nacional de Convenios Colectivos,LegalEntity,argument0005,privilege0097
+Comisión Consultiva Nacional de Convenios Colectivos,LegalEntity,argument0005,privilege0098
+Comisión Consultiva Nacional de Convenios Colectivos,LegalEntity,argument0005,privilege0099
+Comisión Consultiva Nacional de Convenios Colectivos,LegalEntity,argument0005,privilege0100
+Comisión Consultiva Nacional de Convenios Colectivos,LegalEntity,argument0005,privilege0101
+partes,LegalAgent,argument0728,privilege0102
+convenio colectivo,LegalConcept,argument0302,privilege0103
+madre biológica,LegalAgent,argument0626,privilege0104
+periodos,LegalConcept,argument0743,privilege0105
+contrato de relevo,LegalConcept,argument0285,privilege0106
+contrato de trabajo,LegalConcept,argument0286,privilege0107
+pacto de no competencia,LegalConcept,argument0719,privilege0108
+contrato,LegalConcept,argument0283,privilege0109
+decisión extintiva,LegalConcept,argument0340,privilege0110
+convenios colectivos,LegalConcept,argument0306,privilege0112
+excedencia,LegalConcept,argument0483,privilege0113
+negociación colectiva,LegalEntity,argument0668,privilege0114
+empresa,LegalAgent,argument0445,privilege0115
+se,LegalConcept,argument0885,privilege0116
+convenios colectivos de ámbito sectorial,LegalEntity,argument0308,privilege0117
+trabajadores,LegalAgent,argument0933,privilege0118
+convenios colectivos,LegalEntity,argument0306,privilege0119
+Gobierno,LegalEntity,argument0042,privilege0120
+progenitor,LegalAgent,argument0786,privilege0121
+negociación colectiva,LegalConcept,argument0668,privilege0122
+ley,LegalConcept,argument0593,privilege0123
+Gobierno,LegalEntity,argument0042,privilege0124
+"convenios colectivos sectoriales estatales y de ámbito inferior, incluidos los convenios de empresa",LegalConcept,argument0309,privilege0125

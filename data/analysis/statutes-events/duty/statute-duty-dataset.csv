@@ -1,107 +1,107 @@
 event_subject,event_object,event_complement,event_trigger,event_subject_type,event_object_type,event_subject_id,event_object_id,event_complement_id,event_trigger_id,relation_id
-comisión representativa,,,constituirá,LegalConcept,,argument0228,,,trigger0082,duty0001
-derechos y obligaciones,,,se regulan,LegalConcept,,argument0368,,,trigger0598,duty0002
-nuevo sistema,,,se aplicará,LegalConcept,,argument0680,,,trigger0518,duty0003
-contrato a tiempo parcial,,,se regirá,LegalConcept,,argument0284,,,trigger0593,duty0004
-copia básica,,oficina de empleo,se enviará,LegalConcept,,argument0313,,argument0699,trigger0558,duty0005
+comisión representativa,,,constituirá,LegalConcept,LegalConcept,argument0228,,,trigger0082,duty0001
+derechos y obligaciones,,,se regulan,LegalConcept,LegalConcept,argument0368,,,trigger0598,duty0002
+nuevo sistema,,,se aplicará,LegalConcept,LegalConcept,argument0680,,,trigger0518,duty0003
+contrato a tiempo parcial,,,se regirá,LegalConcept,LegalConcept,argument0284,,,trigger0593,duty0004
+copia básica,,oficina de empleo,se enviará,LegalConcept,LegalConcept,argument0313,,argument0699,trigger0558,duty0005
 presidente de la mesa,empresario,acta de escrutinio,remitirá,LegalAgent,LegalAgent,argument0771,argument0449,argument0129,trigger0500,duty0006
 presidente de la mesa,interventores de las candidaturas,acta de escrutinio,remitirá,LegalAgent,LegalAgent,argument0771,argument0549,argument0129,trigger0500,duty0007
 presidente de la mesa,representantes electos,acta de escrutinio,remitirá,LegalAgent,LegalAgent,argument0771,argument0851,argument0129,trigger0500,duty0008
 empresa,trabajadores afectados,,deberá ofrecer,LegalAgent,LegalAgent,argument0445,argument0935,,trigger0134,duty0009
-trabajador,,medidas legales y reglamentarias de seguridad y salud en el trabajo,está obligado a observar,LegalAgent,,argument0925,,argument0637,trigger0240,duty0010
-árbitros,,,deberán abstenerse,LegalAgent,,argument0999,,,trigger0151,duty0011
-partes,,,deberán recurrir,LegalAgent,,argument0728,,,trigger0167,duty0012
-trabajadores,,,tienen,LegalAgent,,argument0933,,,trigger0695,duty0013
+trabajador,,medidas legales y reglamentarias de seguridad y salud en el trabajo,está obligado a observar,LegalAgent,LegalConcept,argument0925,,argument0637,trigger0240,duty0010
+árbitros,,,deberán abstenerse,LegalAgent,LegalConcept,argument0999,,,trigger0151,duty0011
+partes,,,deberán recurrir,LegalAgent,LegalConcept,argument0728,,,trigger0167,duty0012
+trabajadores,,,tienen,LegalAgent,LegalConcept,argument0933,,,trigger0695,duty0013
 empresario,trabajador afectado,,deberá ser notificada,LegalAgent,LegalAgent,argument0449,argument0927,,trigger0147,duty0014
 empresario,representantes legales,,deberá ser notificada,LegalAgent,LegalAgent,argument0449,argument0852,,trigger0147,duty0015
 plazo de caducidad,solicitud de conciliación,"ante el órgano público de mediación, arbitraje y conciliación competente",quedará interrumpido,LegalConcept,LegalConcept,argument0762,argument0899,argument0151,trigger0478,duty0016
-jurisdicción social,,,fijará,LegalEntity,,argument0560,,,trigger0257,duty0017
+jurisdicción social,,,fijará,LegalEntity,LegalConcept,argument0560,,,trigger0257,duty0017
 "sustituciones, revocaciones, dimisiones y extinciones de mandato",oficina pública,,comunicarán,LegalConcept,LegalEntity,argument0915,argument0700,,trigger0067,duty0018
 "sustituciones, revocaciones, dimisiones y extinciones de mandato",empresario,,comunicarán,LegalConcept,LegalEntity,argument0915,argument0449,,trigger0067,duty0019
-acuerdos,,,tendrán,LegalConcept,,argument0139,,,trigger0676,duty0020
-empresa,,,garantizará,LegalAgent,,argument0445,,,trigger0261,duty0021
-no exista representación legal de los trabajadores,,,deberá formalizarse,LegalConcept,,argument0670,,,trigger0125,duty0022
-"empresa, centro de trabajo, unidad productiva",,,conservar,LegalEntity,,argument0448,,,trigger0071,duty0023
-trabajadores con discapacidad,,,prestar,LegalAgent,,argument0940,,,trigger0454,duty0024
-convenios colectivos,,,expresar,LegalConcept,,argument0306,,,trigger0251,duty0025
-La negativa del trabajador,,,determinar,LegalAgent,,argument0061,,,trigger0186,duty0026
-El contrato de trabajo,,,suspenderse,LegalConcept,,argument0024,,,trigger0649,duty0027
-mesa electoral,,,cumplirá,LegalEntity,,argument0643,,,trigger0100,duty0028
-empresa,,,efectuará,LegalAgent,,argument0445,,,trigger0195,duty0029
-Gobierno,,,dictará,LegalEntity,,argument0042,,,trigger0189,duty0030
-comité de empresa,,,reconoce,LegalEntity,,argument0231,,,trigger0496,duty0031
+acuerdos,,,tendrán,LegalConcept,LegalConcept,argument0139,,,trigger0676,duty0020
+empresa,,,garantizará,LegalAgent,LegalConcept,argument0445,,,trigger0261,duty0021
+no exista representación legal de los trabajadores,,,deberá formalizarse,LegalConcept,LegalConcept,argument0670,,,trigger0125,duty0022
+"empresa, centro de trabajo, unidad productiva",,,conservar,LegalEntity,LegalConcept,argument0448,,,trigger0071,duty0023
+trabajadores con discapacidad,,,prestar,LegalAgent,LegalConcept,argument0940,,,trigger0454,duty0024
+convenios colectivos,,,expresar,LegalConcept,LegalConcept,argument0306,,,trigger0251,duty0025
+La negativa del trabajador,,,determinar,LegalAgent,LegalConcept,argument0061,,,trigger0186,duty0026
+El contrato de trabajo,,,suspenderse,LegalConcept,LegalConcept,argument0024,,,trigger0649,duty0027
+mesa electoral,,,cumplirá,LegalEntity,LegalConcept,argument0643,,,trigger0100,duty0028
+empresa,,,efectuará,LegalAgent,LegalConcept,argument0445,,,trigger0195,duty0029
+Gobierno,,,dictará,LegalEntity,LegalConcept,argument0042,,,trigger0189,duty0030
+comité de empresa,,,reconoce,LegalEntity,LegalConcept,argument0231,,,trigger0496,duty0031
 empresario,representantes de los trabajadores,,deberá comunicar,LegalAgent,LegalAgent,argument0449,argument0850,,trigger0113,duty0032
-empresa,,,se podrá proceder,LegalAgent,,argument0445,,,trigger0580,duty0033
-empresa,,registro de jornada,organizará y documentará,LegalAgent,,argument0445,,argument0823,trigger0344,duty0034
-razones,,modificaciones sustanciales de las condiciones de trabajo,Tendrán la consideración de,LegalConcept,,argument0808,,argument0656,trigger0029,duty0035
-razones,,Horario y distribución del tiempo de trabajo,Tendrán la consideración de,LegalConcept,,argument0808,,argument0043,trigger0029,duty0036
-este,,,permanecerá válido,LegalConcept,,argument0479,,,trigger0353,duty0037
-se,,,considerará terminado,LegalConcept,,argument0885,,,trigger0077,duty0038
-interposición del conflicto colectivo,,,paralizará,LegalConcept,,argument0546,,,trigger0349,duty0039
-convenio colectivo,,cuantía de tales gratificaciones,fijará,LegalConcept,,argument0302,,argument0328,trigger0257,duty0040
-contrato de trabajo,,causa derivada de fuerza mayor,podrá ser suspendido,LegalConcept,,argument0286,,argument0199,trigger0411,duty0041
+empresa,,,se podrá proceder,LegalAgent,LegalConcept,argument0445,,,trigger0580,duty0033
+empresa,,registro de jornada,organizará y documentará,LegalAgent,LegalConcept,argument0445,,argument0823,trigger0344,duty0034
+razones,,modificaciones sustanciales de las condiciones de trabajo,Tendrán la consideración de,LegalConcept,LegalConcept,argument0808,,argument0656,trigger0029,duty0035
+razones,,Horario y distribución del tiempo de trabajo,Tendrán la consideración de,LegalConcept,LegalConcept,argument0808,,argument0043,trigger0029,duty0036
+este,,,permanecerá válido,LegalConcept,LegalConcept,argument0479,,,trigger0353,duty0037
+se,,,considerará terminado,LegalConcept,LegalConcept,argument0885,,,trigger0077,duty0038
+interposición del conflicto colectivo,,,paralizará,LegalConcept,LegalConcept,argument0546,,,trigger0349,duty0039
+convenio colectivo,,cuantía de tales gratificaciones,fijará,LegalConcept,LegalConcept,argument0302,,argument0328,trigger0257,duty0040
+contrato de trabajo,,causa derivada de fuerza mayor,podrá ser suspendido,LegalConcept,LegalConcept,argument0286,,argument0199,trigger0411,duty0041
 empresario,trabajador,horas complementarias,ofrecer,LegalAgent,LegalAgent,argument0449,argument0925,argument0512,trigger0340,duty0042
-comisión paritaria,,conflicto colectivo relativo a la interpretación o aplicación del convenio,deberá intervenir,LegalEntity,,argument0227,,argument0264,trigger0129,duty0043
-el número y retribución de las horas complementarias realizadas,,el recibo individual de salarios,se deberá recoger,LegalConcept,,argument0429,,argument0434,trigger0541,duty0044
-el número y retribución de las horas complementarias realizadas,,los documentos de cotización a la Seguridad Social,se deberá recoger,LegalConcept,,argument0429,,argument0611,trigger0541,duty0045
-El acuerdo por el que se establezca el trabajo a distancia,,,se formalizará,LegalConcept,,argument0020,,,trigger0564,duty0046
+comisión paritaria,,conflicto colectivo relativo a la interpretación o aplicación del convenio,deberá intervenir,LegalEntity,LegalConcept,argument0227,,argument0264,trigger0129,duty0043
+el número y retribución de las horas complementarias realizadas,,el recibo individual de salarios,se deberá recoger,LegalConcept,LegalConcept,argument0429,,argument0434,trigger0541,duty0044
+el número y retribución de las horas complementarias realizadas,,los documentos de cotización a la Seguridad Social,se deberá recoger,LegalConcept,LegalConcept,argument0429,,argument0611,trigger0541,duty0045
+El acuerdo por el que se establezca el trabajo a distancia,,,se formalizará,LegalConcept,LegalConcept,argument0020,,,trigger0564,duty0046
 mesa electoral,empresario,censo laboral,solicitará,LegalEntity,LegalAgent,argument0643,argument0449,argument0210,trigger0642,duty0047
 Fondo de Garantía Salarial,empresarios,aportaciones,se financiará,LegalConcept,LegalAgent,argument0041,argument0455,argument0157,trigger0563,duty0048
-actividad de trabajo en el mar,,buque,se considerará,LegalConcept,,argument0132,,argument0182,trigger0530,duty0049
-relaciones laborales de carácter especial,,residencia,se considerarán,LegalConcept,,argument0836,,argument0858,trigger0533,duty0050
-cedente y el cesionario,,obligaciones laborales,responderán solidariamente,LegalEntity,,argument0208,,argument0694,trigger0510,duty0051
-duración del descanso semanal de los menores de dieciocho años,,,será,LegalConcept,,argument0412,,,trigger0610,duty0052
-trabajadores fijos-discontinuos,,,serán llamados,LegalAgent,,argument0944,,,trigger0630,duty0053
-régimen de horas complementarias,,,continuará siendo de aplicación,LegalConcept,,argument0875,,,trigger0089,duty0054
-Ambas partes,,,estarán obligadas a negociar,LegalEntity,,argument0002,,,trigger0233,duty0055
-trabajador,,,procederá la apertura de expediente contradictorio,LegalAgent,,argument0925,,,trigger0462,duty0056
-certificaciones,,,consignarán,LegalConcept,,argument0212,,,trigger0079,duty0057
+actividad de trabajo en el mar,,buque,se considerará,LegalConcept,LegalConcept,argument0132,,argument0182,trigger0530,duty0049
+relaciones laborales de carácter especial,,residencia,se considerarán,LegalConcept,LegalConcept,argument0836,,argument0858,trigger0533,duty0050
+cedente y el cesionario,,obligaciones laborales,responderán solidariamente,LegalEntity,LegalConcept,argument0208,,argument0694,trigger0510,duty0051
+duración del descanso semanal de los menores de dieciocho años,,,será,LegalConcept,LegalConcept,argument0412,,,trigger0610,duty0052
+trabajadores fijos-discontinuos,,,serán llamados,LegalAgent,LegalConcept,argument0944,,,trigger0630,duty0053
+régimen de horas complementarias,,,continuará siendo de aplicación,LegalConcept,LegalConcept,argument0875,,,trigger0089,duty0054
+Ambas partes,,,estarán obligadas a negociar,LegalEntity,LegalConcept,argument0002,,,trigger0233,duty0055
+trabajador,,,procederá la apertura de expediente contradictorio,LegalAgent,LegalConcept,argument0925,,,trigger0462,duty0056
+certificaciones,,,consignarán,LegalConcept,LegalConcept,argument0212,,,trigger0079,duty0057
 negociación colectiva,términos de su ejercicio,criterios y sistemas,pactarán,LegalConcept,LegalConcept,argument0668,argument0966,argument0319,trigger0348,duty0058
-los convocantes,,,se requerirá,LegalEntity,,argument0610,,,trigger0599,duty0059
-Los derechos y obligaciones concernientes a la relación laboral,,,se regulan,LegalConcept,,argument0086,,,trigger0598,duty0060
-El trabajador,,,correrá a cargo,LegalAgent,,argument0030,,,trigger0095,duty0061
-Las discrepancias que surjan entre empresarios y trabajadores,,,se resolverán,LegalConcept,,argument0068,,,trigger0600,duty0062
-comités de empresa o centro de trabajo,,,elegirán,LegalEntity,,argument0234,,,trigger0202,duty0063
-partes negociadoras,,,corresponderá,LegalEntity,,argument0730,,,trigger0097,duty0064
-duración de la jornada,,,deberá ser,LegalConcept,,argument0411,,,trigger0143,duty0065
-adopción del acuerdo de extinción,,,exige,LegalConcept,,argument0145,,,trigger0245,duty0066
-empresario,,centro de trabajo,deberá facilitar,LegalAgent,,argument0449,,argument0211,trigger0122,duty0067
-Fondo,,,se calcularán,LegalEntity,,argument0040,,,trigger0522,duty0068
-oficina pública,,preavisos,expondrá,LegalEntity,,argument0700,,argument0767,trigger0250,duty0069
+los convocantes,,,se requerirá,LegalEntity,LegalConcept,argument0610,,,trigger0599,duty0059
+Los derechos y obligaciones concernientes a la relación laboral,,,se regulan,LegalConcept,LegalConcept,argument0086,,,trigger0598,duty0060
+El trabajador,,,correrá a cargo,LegalAgent,LegalConcept,argument0030,,,trigger0095,duty0061
+Las discrepancias que surjan entre empresarios y trabajadores,,,se resolverán,LegalConcept,LegalConcept,argument0068,,,trigger0600,duty0062
+comités de empresa o centro de trabajo,,,elegirán,LegalEntity,LegalConcept,argument0234,,,trigger0202,duty0063
+partes negociadoras,,,corresponderá,LegalEntity,LegalConcept,argument0730,,,trigger0097,duty0064
+duración de la jornada,,,deberá ser,LegalConcept,LegalConcept,argument0411,,,trigger0143,duty0065
+adopción del acuerdo de extinción,,,exige,LegalConcept,LegalConcept,argument0145,,,trigger0245,duty0066
+empresario,,centro de trabajo,deberá facilitar,LegalAgent,LegalConcept,argument0449,,argument0211,trigger0122,duty0067
+Fondo,,,se calcularán,LegalEntity,LegalConcept,argument0040,,,trigger0522,duty0068
+oficina pública,,preavisos,expondrá,LegalEntity,LegalConcept,argument0700,,argument0767,trigger0250,duty0069
 nacimiento,contrato de trabajo,,suspenderá,LegalConcept,LegalConcept,argument0664,argument0286,,trigger0650,duty0070
-derechos y obligaciones,,,se regulan,LegalConcept,,argument0368,,,trigger0598,duty0071
-reparto de miembros,,derecho de todos los legitimados,se efectuará,LegalConcept,,argument0842,,argument0361,trigger0547,duty0072
-reparto de miembros,,proporción a su representatividad,se efectuará,LegalConcept,,argument0842,,argument0790,trigger0547,duty0073
-comité de empresa,,conjunto de los trabajadores,es,LegalEntity,,argument0231,,argument0266,trigger0213,duty0074
-comité de empresa,,defensa de sus intereses,es,LegalEntity,,argument0231,,argument0345,trigger0213,duty0075
-Fondo de Garantía Salarial,,protección regulada en este artículo,dispensará,LegalEntity,,argument0041,,argument0793,trigger0192,duty0076
-Fondo de Garantía Salarial,,créditos impagados de los trabajadores,dispensará,LegalEntity,,argument0041,,argument0321,trigger0192,duty0077
+derechos y obligaciones,,,se regulan,LegalConcept,LegalConcept,argument0368,,,trigger0598,duty0071
+reparto de miembros,,derecho de todos los legitimados,se efectuará,LegalConcept,LegalConcept,argument0842,,argument0361,trigger0547,duty0072
+reparto de miembros,,proporción a su representatividad,se efectuará,LegalConcept,LegalConcept,argument0842,,argument0790,trigger0547,duty0073
+comité de empresa,,conjunto de los trabajadores,es,LegalEntity,LegalConcept,argument0231,,argument0266,trigger0213,duty0074
+comité de empresa,,defensa de sus intereses,es,LegalEntity,LegalConcept,argument0231,,argument0345,trigger0213,duty0075
+Fondo de Garantía Salarial,,protección regulada en este artículo,dispensará,LegalEntity,LegalConcept,argument0041,,argument0793,trigger0192,duty0076
+Fondo de Garantía Salarial,,créditos impagados de los trabajadores,dispensará,LegalEntity,LegalConcept,argument0041,,argument0321,trigger0192,duty0077
 empresario,representantes de los trabajadores,,remitirá,LegalAgent,LegalAgent,argument0449,argument0850,,trigger0500,duty0078
 empresario,autoridad laboral,,remitirá,LegalAgent,LegalAgent,argument0449,argument0177,,trigger0500,duty0079
-dirección de la empresa,,,deberá comunicar,LegalEntity,,argument0388,,,trigger0113,duty0080
-desplazamientos,,,tendrán,LegalConcept,,argument0377,,,trigger0676,duty0081
-decisión de extensión,,,se adoptará,LegalConcept,,argument0338,,,trigger0515,duty0082
-permiso,,,tendrá,LegalConcept,,argument0746,,,trigger0651,duty0083
-organizaciones sindicales y asociaciones empresariales,,,establecer,LegalEntity,,argument0707,,,trigger0214,duty0084
-obligaciones de información y documentación,,,aplicarán,LegalConcept,,argument0691,,,trigger0046,duty0085
-partes,,,deberán negociar,LegalConcept,,argument0728,,,trigger0164,duty0086
-La impartición de esta formación,,,deberá justificarse,LegalConcept,,argument0057,,,trigger0133,duty0087
-"El disfrute de cada período semanal o, en su caso, de la acumulación de dichos períodos",,,deberá comunicarse,LegalConcept,,argument0026,,,trigger0114,duty0088
-los acuerdos,,,existirá,LegalConcept,,argument0607,,,trigger0247,duty0089
-resolución,,declaración de insolvencia,será dictada,LegalConcept,,argument0860,,argument0344,trigger0615,duty0090
-empresa o centro de trabajo,,mesa,constituirá,LegalEntity,,argument0446,,argument0642,trigger0082,duty0091
-intervención como interlocutores,,,regirá,LegalConcept,,argument0548,,,trigger0498,duty0092
+dirección de la empresa,,,deberá comunicar,LegalEntity,LegalConcept,argument0388,,,trigger0113,duty0080
+desplazamientos,,,tendrán,LegalConcept,LegalConcept,argument0377,,,trigger0676,duty0081
+decisión de extensión,,,se adoptará,LegalConcept,LegalConcept,argument0338,,,trigger0515,duty0082
+permiso,,,tendrá,LegalConcept,LegalConcept,argument0746,,,trigger0651,duty0083
+organizaciones sindicales y asociaciones empresariales,,,establecer,LegalEntity,LegalConcept,argument0707,,,trigger0214,duty0084
+obligaciones de información y documentación,,,aplicarán,LegalConcept,LegalConcept,argument0691,,,trigger0046,duty0085
+partes,,,deberán negociar,LegalConcept,LegalConcept,argument0728,,,trigger0164,duty0086
+La impartición de esta formación,,,deberá justificarse,LegalConcept,LegalConcept,argument0057,,,trigger0133,duty0087
+"El disfrute de cada período semanal o, en su caso, de la acumulación de dichos períodos",,,deberá comunicarse,LegalConcept,LegalConcept,argument0026,,,trigger0114,duty0088
+los acuerdos,,,existirá,LegalConcept,LegalConcept,argument0607,,,trigger0247,duty0089
+resolución,,declaración de insolvencia,será dictada,LegalConcept,LegalConcept,argument0860,,argument0344,trigger0615,duty0090
+empresa o centro de trabajo,,mesa,constituirá,LegalEntity,LegalConcept,argument0446,,argument0642,trigger0082,duty0091
+intervención como interlocutores,,,regirá,LegalConcept,LegalConcept,argument0548,,,trigger0498,duty0092
 retribución,trabajador contratado,,se fijará,LegalConcept,LegalAgent,argument0869,argument0928,,trigger0562,duty0093
-contrato,,reglas,se regirá,LegalConcept,,argument0283,,argument0830,trigger0593,duty0094
-contrato,,,se entiende,LegalConcept,,argument0283,,,trigger0557,duty0095
-contrato,,trabajo en prácticas,podrá concertarse,LegalConcept,,argument0283,,argument0952,trigger0367,duty0096
-cedente y el cesionario,,,deberán informar,LegalEntity,,argument0208,,,trigger0163,duty0097
-empresario,,resúmenes mensuales,deberá conservar,LegalAgent,,argument0449,,argument0867,trigger0116,duty0098
-empresario,,registros de jornada,deberá conservar,LegalAgent,,argument0449,,argument0828,trigger0116,duty0099
-La suspensión,,las obligaciones recíprocas de trabajar y remunerar el trabajo,exonera de,LegalConcept,,argument0066,,argument0584,trigger0249,duty0100
+contrato,,reglas,se regirá,LegalConcept,LegalConcept,argument0283,,argument0830,trigger0593,duty0094
+contrato,,,se entiende,LegalConcept,LegalConcept,argument0283,,,trigger0557,duty0095
+contrato,,trabajo en prácticas,podrá concertarse,LegalConcept,LegalConcept,argument0283,,argument0952,trigger0367,duty0096
+cedente y el cesionario,,,deberán informar,LegalEntity,LegalConcept,argument0208,,,trigger0163,duty0097
+empresario,,resúmenes mensuales,deberá conservar,LegalAgent,LegalConcept,argument0449,,argument0867,trigger0116,duty0098
+empresario,,registros de jornada,deberá conservar,LegalAgent,LegalConcept,argument0449,,argument0828,trigger0116,duty0099
+La suspensión,,las obligaciones recíprocas de trabajar y remunerar el trabajo,exonera de,LegalConcept,LegalConcept,argument0066,,argument0584,trigger0249,duty0100
 unos centros,comités de empresa propios,otros de la misma provincia,se constituirán,LegalConcept,LegalEntity,argument0982,argument0235,argument0716,trigger0536,duty0101
 autoridad laboral,entidad gestora,,dará traslado,LegalEntity,LegalEntity,argument0177,argument0468,,trigger0106,duty0102
-empresario,,,tenga,LegalAgent,,argument0449,,,trigger0691,duty0103
+empresario,,,tenga,LegalAgent,LegalConcept,argument0449,,,trigger0691,duty0103
 autoridad laboral,entidad gestora,,podrá impugnar,LegalEntity,LegalEntity,argument0177,argument0468,,trigger0386,duty0104
 sentencia,trabajador,contrato de trabajo,declarará,LegalConcept,LegalAgent,argument0888,argument0925,argument0286,trigger0178,duty0105
 sentencia,trabajador,salarios,declarará,LegalConcept,LegalAgent,argument0888,argument0925,argument0881,trigger0178,duty0106
@@ -117,84 +117,84 @@ sentencia,empresario,prestaciones por desempleo,declarará,LegalConcept,LegalAge
 sentencia,empresario,periodo de suspensión,declarará,LegalConcept,LegalAgent,argument0888,argument0449,argument0741,trigger0178,duty0116
 sentencia,empresario,reintegro,declarará,LegalConcept,LegalAgent,argument0888,argument0449,argument0834,trigger0178,duty0117
 sentencia,empresario,importe de dichas prestaciones,declarará,LegalConcept,LegalAgent,argument0888,argument0449,argument0517,trigger0178,duty0118
-interposición del conflicto,,tramitación de las acciones individuales,paralizará,LegalConcept,,argument0545,,argument0957,trigger0349,duty0119
-árbitro,,tres días hábiles,dictará,LegalAgent,,argument0997,,argument0963,trigger0189,duty0120
-árbitro,,comparecencia,dictará,LegalAgent,,argument0997,,argument0237,trigger0189,duty0121
-árbitro,,pruebas,dictará,LegalAgent,,argument0997,,argument0796,trigger0189,duty0122
-árbitro,,personación en el centro de trabajo,dictará,LegalAgent,,argument0997,,argument0752,trigger0189,duty0123
-árbitro,,solicitud de la colaboración necesaria del empresario y las Administraciones Públicas,dictará,LegalAgent,,argument0997,,argument0900,trigger0189,duty0124
+interposición del conflicto,,tramitación de las acciones individuales,paralizará,LegalConcept,LegalConcept,argument0545,,argument0957,trigger0349,duty0119
+árbitro,,tres días hábiles,dictará,LegalAgent,LegalConcept,argument0997,,argument0963,trigger0189,duty0120
+árbitro,,comparecencia,dictará,LegalAgent,LegalConcept,argument0997,,argument0237,trigger0189,duty0121
+árbitro,,pruebas,dictará,LegalAgent,LegalConcept,argument0997,,argument0796,trigger0189,duty0122
+árbitro,,personación en el centro de trabajo,dictará,LegalAgent,LegalConcept,argument0997,,argument0752,trigger0189,duty0123
+árbitro,,solicitud de la colaboración necesaria del empresario y las Administraciones Públicas,dictará,LegalAgent,LegalConcept,argument0997,,argument0900,trigger0189,duty0124
 sanción de las faltas graves y muy graves,trabajador,comunicación escrita,requerirá,LegalConcept,LegalAgent,argument0884,argument0925,argument0248,trigger0501,duty0125
 sanción de las faltas graves y muy graves,trabajador,fecha,requerirá,LegalConcept,LegalAgent,argument0884,argument0925,argument0497,trigger0501,duty0126
 sanción de las faltas graves y muy graves,trabajador,hechos,requerirá,LegalConcept,LegalAgent,argument0884,argument0925,argument0511,trigger0501,duty0127
-autoridad laboral,,,pondrá,LegalEntity,,argument0177,,,trigger0448,duty0128
+autoridad laboral,,,pondrá,LegalEntity,LegalConcept,argument0177,,,trigger0448,duty0128
 empresario,trabajador,,abonará,LegalAgent,LegalAgent,argument0449,argument0925,,trigger0033,duty0129
-secciones sindicales,,,corresponderá,LegalEntity,,argument0886,,,trigger0097,duty0130
-escrito,,Copia de la comunicación dirigida a los trabajadores o a sus representantes por la dirección de la empresa de su intención de iniciar el procedimiento de despido colectivo,se consignarán,LegalConcept,,argument0472,,argument0007,trigger0534,duty0131
+secciones sindicales,,,corresponderá,LegalEntity,LegalConcept,argument0886,,,trigger0097,duty0130
+escrito,,Copia de la comunicación dirigida a los trabajadores o a sus representantes por la dirección de la empresa de su intención de iniciar el procedimiento de despido colectivo,se consignarán,LegalConcept,LegalConcept,argument0472,,argument0007,trigger0534,duty0131
 derecho,Fondo de Garantía Salarial,pago de las prestaciones,prescribirá,LegalConcept,LegalEntity,argument0358,argument0041,argument0720,trigger0450,duty0132
-los que no hubieran sido dados de alta en la Seguridad Social,,,Adquirirán,LegalAgent,,argument0614,,,trigger0000,duty0133
-trabajadores,,,tienen,LegalAgent,,argument0933,,,trigger0695,duty0134
-contrato,,número de horas ordinarias de trabajo,deberá figurar,LegalConcept,,argument0283,,argument0683,trigger0124,duty0135
-empresario,,centro de trabajo,deberá facilitar,LegalAgent,,argument0449,,argument0211,trigger0122,duty0136
-escrito,,,deberá presentarse,LegalConcept,,argument0472,,,trigger0137,duty0137
+los que no hubieran sido dados de alta en la Seguridad Social,,,Adquirirán,LegalAgent,LegalConcept,argument0614,,,trigger0000,duty0133
+trabajadores,,,tienen,LegalAgent,LegalConcept,argument0933,,,trigger0695,duty0134
+contrato,,número de horas ordinarias de trabajo,deberá figurar,LegalConcept,LegalConcept,argument0283,,argument0683,trigger0124,duty0135
+empresario,,centro de trabajo,deberá facilitar,LegalAgent,LegalConcept,argument0449,,argument0211,trigger0122,duty0136
+escrito,,,deberá presentarse,LegalConcept,LegalConcept,argument0472,,,trigger0137,duty0137
 establecimiento de planes de igualdad,empresas,,se ajustará,LegalConcept,LegalEntity,argument0477,argument0456,,trigger0516,duty0138
-miembros del comité o delegado de personal,,,Disponer,LegalAgent,,argument0650,,,trigger0005,duty0139
-persona trabajadora,,,deberá comunicar,LegalAgent,,argument0751,,,trigger0113,duty0140
-convenio colectivo o acuerdo,,prioridades de permanencia,establecer,LegalConcept,,argument0303,,argument0775,trigger0214,duty0141
-convenio colectivo o acuerdo,,otros colectivos,establecer,LegalConcept,,argument0303,,argument0715,trigger0214,duty0142
-convenio colectivo o acuerdo,,trabajadores con cargas familiares,establecer,LegalConcept,,argument0303,,argument0937,trigger0214,duty0143
-convenio colectivo o acuerdo,,mayores de determinada edad,establecer,LegalConcept,,argument0303,,argument0630,trigger0214,duty0144
-convenio colectivo o acuerdo,,personas con discapacidad,establecer,LegalConcept,,argument0303,,argument0756,trigger0214,duty0145
-cada elector,,,dar,LegalAgent,,argument0183,,,trigger0101,duty0146
-persona,,derecho,ejerza,LegalAgent,,argument0747,,argument0358,trigger0198,duty0147
-persona,,duración,ejerza,LegalAgent,,argument0747,,argument0410,trigger0198,duty0148
-persona,,régimen,ejerza,LegalAgent,,argument0747,,argument0874,trigger0198,duty0149
-persona,,otro progenitor,ejerza,LegalAgent,,argument0747,,argument0713,trigger0198,duty0150
-persona,,reserva de puesto de trabajo,ejerza,LegalAgent,,argument0747,,argument0857,trigger0198,duty0151
-persona,,máximo de dieciocho meses,ejerza,LegalAgent,,argument0747,,argument0663,trigger0198,duty0152
+miembros del comité o delegado de personal,,,Disponer,LegalAgent,LegalConcept,argument0650,,,trigger0005,duty0139
+persona trabajadora,,,deberá comunicar,LegalAgent,LegalConcept,argument0751,,,trigger0113,duty0140
+convenio colectivo o acuerdo,,prioridades de permanencia,establecer,LegalConcept,LegalConcept,argument0303,,argument0775,trigger0214,duty0141
+convenio colectivo o acuerdo,,otros colectivos,establecer,LegalConcept,LegalConcept,argument0303,,argument0715,trigger0214,duty0142
+convenio colectivo o acuerdo,,trabajadores con cargas familiares,establecer,LegalConcept,LegalConcept,argument0303,,argument0937,trigger0214,duty0143
+convenio colectivo o acuerdo,,mayores de determinada edad,establecer,LegalConcept,LegalConcept,argument0303,,argument0630,trigger0214,duty0144
+convenio colectivo o acuerdo,,personas con discapacidad,establecer,LegalConcept,LegalConcept,argument0303,,argument0756,trigger0214,duty0145
+cada elector,,,dar,LegalAgent,LegalConcept,argument0183,,,trigger0101,duty0146
+persona,,derecho,ejerza,LegalAgent,LegalConcept,argument0747,,argument0358,trigger0198,duty0147
+persona,,duración,ejerza,LegalAgent,LegalConcept,argument0747,,argument0410,trigger0198,duty0148
+persona,,régimen,ejerza,LegalAgent,LegalConcept,argument0747,,argument0874,trigger0198,duty0149
+persona,,otro progenitor,ejerza,LegalAgent,LegalConcept,argument0747,,argument0713,trigger0198,duty0150
+persona,,reserva de puesto de trabajo,ejerza,LegalAgent,LegalConcept,argument0747,,argument0857,trigger0198,duty0151
+persona,,máximo de dieciocho meses,ejerza,LegalAgent,LegalConcept,argument0747,,argument0663,trigger0198,duty0152
 se,alguna reclamación,en el acta,hará constar,LegalAgent,LegalAgent,argument0885,argument0149,argument0463,trigger0278,duty0153
-La liquidación y el pago del salario,,,se harán,LegalConcept,,argument0059,,,trigger0567,duty0154
+La liquidación y el pago del salario,,,se harán,LegalConcept,LegalConcept,argument0059,,,trigger0567,duty0154
 se,aquel,,se considerará,LegalAgent,LegalAgent,argument0885,argument0158,,trigger0530,duty0155
 diferencias,distribución irregular de la jornada,,deberán quedar compensadas,LegalConcept,LegalConcept,argument0387,argument0407,,trigger0166,duty0156
-convenios,,,deberán ser presentados,LegalConcept,,argument0305,,,trigger0174,duty0157
-consulta,,,deberá permitir,LegalConcept,,argument0271,,,trigger0135,duty0158
-mesa,,,resolverá,LegalEntity,,argument0642,,,trigger0504,duty0159
+convenios,,,deberán ser presentados,LegalConcept,LegalConcept,argument0305,,,trigger0174,duty0157
+consulta,,,deberá permitir,LegalConcept,LegalConcept,argument0271,,,trigger0135,duty0158
+mesa,,,resolverá,LegalEntity,LegalConcept,argument0642,,,trigger0504,duty0159
 ley,trabajadores,,será de aplicación,LegalConcept,LegalAgent,argument0593,argument0933,,trigger0614,duty0160
-La documentación del salario,,,realizará,LegalConcept,,argument0054,,,trigger0490,duty0161
-el trabajador,,,conservará,LegalAgent,,argument0436,,,trigger0072,duty0162
-ley,,,dicta,LegalConcept,,argument0593,,,trigger0188,duty0163
-convenios colectivos,,,obligan a,LegalConcept,,argument0306,,,trigger0337,duty0164
-"empresas principal, contratista o subcontratista",,libro registro,deberá disponer,LegalEntity,,argument0459,,argument0597,trigger0119,duty0165
+La documentación del salario,,,realizará,LegalConcept,LegalConcept,argument0054,,,trigger0490,duty0161
+el trabajador,,,conservará,LegalAgent,LegalConcept,argument0436,,,trigger0072,duty0162
+ley,,,dicta,LegalConcept,LegalConcept,argument0593,,,trigger0188,duty0163
+convenios colectivos,,,obligan a,LegalConcept,LegalConcept,argument0306,,,trigger0337,duty0164
+"empresas principal, contratista o subcontratista",,libro registro,deberá disponer,LegalEntity,LegalConcept,argument0459,,argument0597,trigger0119,duty0165
 el Fondo de Garantía Salarial,la institución de garantía del Estado,,estará obligado a proporcionar,LegalEntity,LegalEntity,argument0424,argument0569,,trigger0225,duty0166
-se,,,aplicarán,LegalConcept,,argument0885,,,trigger0046,duty0167
-Dicha información,,,deberá facilitarse,LegalConcept,,argument0011,,,trigger0123,duty0168
-empresa,,,prescribirán,LegalAgent,,argument0445,,,trigger0451,duty0169
-empresa,,,deberá informar,LegalAgent,,argument0445,,,trigger0128,duty0170
-árbitro,,,convocará,LegalAgent,,argument0997,,,trigger0094,duty0171
-cedente y el cesionario,,,deberán informar,LegalEntity,,argument0208,,,trigger0163,duty0172
-traslado,,,deberá ir precedido,LegalConcept,,argument0959,,,trigger0132,duty0173
-trabajador,,,desempeñada,LegalAgent,,argument0925,,,trigger0183,duty0174
+se,,,aplicarán,LegalConcept,LegalConcept,argument0885,,,trigger0046,duty0167
+Dicha información,,,deberá facilitarse,LegalConcept,LegalConcept,argument0011,,,trigger0123,duty0168
+empresa,,,prescribirán,LegalAgent,LegalConcept,argument0445,,,trigger0451,duty0169
+empresa,,,deberá informar,LegalAgent,LegalConcept,argument0445,,,trigger0128,duty0170
+árbitro,,,convocará,LegalAgent,LegalConcept,argument0997,,,trigger0094,duty0171
+cedente y el cesionario,,,deberán informar,LegalEntity,LegalConcept,argument0208,,,trigger0163,duty0172
+traslado,,,deberá ir precedido,LegalConcept,LegalConcept,argument0959,,,trigger0132,duty0173
+trabajador,,,desempeñada,LegalAgent,LegalConcept,argument0925,,,trigger0183,duty0174
 empresario,trabajadores,,deberá establecer,LegalAgent,LegalAgent,argument0449,argument0933,,trigger0120,duty0175
-representantes,,,elegirán,LegalAgent,,argument0849,,,trigger0202,duty0176
-empresa,,,ajustarán,LegalAgent,,argument0445,,,trigger0045,duty0177
-El trabajador,,trabajo convenido,estará obligado a realizar,LegalAgent,,argument0030,,argument0951,trigger0226,duty0178
-El trabajador,,dirección del empresario,estará obligado a realizar,LegalAgent,,argument0030,,argument0389,trigger0226,duty0179
-El trabajador,,persona en quien este delegue,estará obligado a realizar,LegalAgent,,argument0030,,argument0750,trigger0226,duty0180
+representantes,,,elegirán,LegalAgent,LegalConcept,argument0849,,,trigger0202,duty0176
+empresa,,,ajustarán,LegalAgent,LegalConcept,argument0445,,,trigger0045,duty0177
+El trabajador,,trabajo convenido,estará obligado a realizar,LegalAgent,LegalConcept,argument0030,,argument0951,trigger0226,duty0178
+El trabajador,,dirección del empresario,estará obligado a realizar,LegalAgent,LegalConcept,argument0030,,argument0389,trigger0226,duty0179
+El trabajador,,persona en quien este delegue,estará obligado a realizar,LegalAgent,LegalConcept,argument0030,,argument0750,trigger0226,duty0180
 empresa,trabajadores,elecciones,dará traslado,LegalAgent,LegalAgent,argument0445,argument0933,argument0437,trigger0106,duty0181
 empresa,representantes de los trabajadores,elecciones,dará traslado,LegalAgent,LegalAgent,argument0445,argument0850,argument0437,trigger0106,duty0182
 comisión negociadora,partes,acta de la sesión constitutiva de la comisión,deberán consignar,LegalEntity,LegalAgent,argument0226,argument0728,argument0130,trigger0154,duty0183
 empresario,"trabajadores de la empresa con contratos de duración determinada o temporales, incluidos los contratos formativos",existencia de puestos de trabajo vacantes,deberá informar,LegalAgent,LegalAgent,argument0449,argument0942,argument0488,trigger0128,duty0184
 empresario,trabajador,salarios devengados en los días intermedios,pondrá a disposición,LegalAgent,LegalAgent,argument0449,argument0925,argument0882,trigger0449,duty0185
-trabajador,,certificado de los contratos de duración determinada o temporales celebrados,solicitar,LegalAgent,,argument0925,,argument0214,trigger0640,duty0186
-trabajadores,,número de firmas de electores de su mismo centro y colegio,presentarse,LegalAgent,,argument0933,,argument0681,trigger0453,duty0187
+trabajador,,certificado de los contratos de duración determinada o temporales celebrados,solicitar,LegalAgent,LegalConcept,argument0925,,argument0214,trigger0640,duty0186
+trabajadores,,número de firmas de electores de su mismo centro y colegio,presentarse,LegalAgent,LegalConcept,argument0933,,argument0681,trigger0453,duty0187
 convenios colectivos,trabajadores,,establecerán medidas,LegalEntity,LegalAgent,argument0306,argument0933,,trigger0217,duty0188
-negociación colectiva,,estructura del salario,se determinará,LegalEntity,,argument0668,,argument0482,trigger0543,duty0189
+negociación colectiva,,estructura del salario,se determinará,LegalEntity,LegalConcept,argument0668,,argument0482,trigger0543,duty0189
 Fondo de Garantía Salarial,derechos y acciones de los trabajadores,,se subrogará,LegalEntity,LegalAgent,argument0041,argument0367,,trigger0603,duty0190
-legitimación,,,será,LegalConcept,,argument0592,,,trigger0610,duty0191
+legitimación,,,será,LegalConcept,LegalConcept,argument0592,,,trigger0610,duty0191
 Fondo de Garantía Salarial,institución de garantía competente,,prestará,LegalEntity,LegalEntity,argument0041,argument0543,,trigger0455,duty0192
-expedientes de regulación de empleo,,,se regirán,LegalConcept,,argument0489,,,trigger0595,duty0193
-La indisciplina o desobediencia en el trabajo,,,Se considerarán incumplimientos contractuales,LegalConcept,,argument0058,,,trigger0019,duty0194
-La presidencia,,,comunicará,LegalAgent,,argument0063,,,trigger0066,duty0195
-Los trabajadores,,,podrán ser sancionados,LegalAgent,,argument0091,,,trigger0443,duty0196
+expedientes de regulación de empleo,,,se regirán,LegalConcept,LegalConcept,argument0489,,,trigger0595,duty0193
+La indisciplina o desobediencia en el trabajo,,,Se considerarán incumplimientos contractuales,LegalConcept,LegalConcept,argument0058,,,trigger0019,duty0194
+La presidencia,,,comunicará,LegalAgent,LegalConcept,argument0063,,,trigger0066,duty0195
+Los trabajadores,,,podrán ser sancionados,LegalAgent,LegalConcept,argument0091,,,trigger0443,duty0196
 trabajadores,contratista,escrito,deberán ser informados,LegalAgent,LegalEntity,argument0933,argument0279,argument0472,trigger0172,duty0197
 trabajadores,contratista,empresario,deberán ser informados,LegalAgent,LegalEntity,argument0933,argument0279,argument0449,trigger0172,duty0198
 trabajadores,contratista,identidad,deberán ser informados,LegalAgent,LegalEntity,argument0933,argument0279,argument0515,trigger0172,duty0199
@@ -203,44 +203,44 @@ trabajadores,subcontratista,escrito,deberán ser informados,LegalAgent,LegalEnti
 trabajadores,subcontratista,empresario,deberán ser informados,LegalAgent,LegalEntity,argument0933,argument0903,argument0449,trigger0172,duty0202
 trabajadores,subcontratista,identidad,deberán ser informados,LegalAgent,LegalEntity,argument0933,argument0903,argument0515,trigger0172,duty0203
 trabajadores,subcontratista,empresa principal,deberán ser informados,LegalAgent,LegalEntity,argument0933,argument0903,argument0447,trigger0172,duty0204
-compensación,,,será exigible,LegalConcept,,argument0238,,,trigger0617,duty0205
-contrato para la formación y el aprendizaje,,,se regirá,LegalConcept,,argument0289,,,trigger0593,duty0206
-descanso semanal,,,Resultará de aplicación,LegalConcept,,argument0371,,,trigger0013,duty0207
-convenio,,,se aplicará,LegalConcept,,argument0301,,,trigger0518,duty0208
-mesa electoral,,,cumplirá,LegalEntity,,argument0643,,,trigger0100,duty0209
+compensación,,,será exigible,LegalConcept,LegalConcept,argument0238,,,trigger0617,duty0205
+contrato para la formación y el aprendizaje,,,se regirá,LegalConcept,LegalConcept,argument0289,,,trigger0593,duty0206
+descanso semanal,,,Resultará de aplicación,LegalConcept,LegalConcept,argument0371,,,trigger0013,duty0207
+convenio,,,se aplicará,LegalConcept,LegalConcept,argument0301,,,trigger0518,duty0208
+mesa electoral,,,cumplirá,LegalEntity,LegalConcept,argument0643,,,trigger0100,duty0209
 negociación colectiva,requisitos,contratos de duración determinada,establecerá,LegalEntity,LegalConcept,argument0668,argument0855,argument0291,trigger0216,duty0210
 negociación colectiva,requisitos,trabajadores,establecerá,LegalEntity,LegalConcept,argument0668,argument0855,argument0933,trigger0216,duty0211
 negociación colectiva,requisitos,puesto de trabajo,establecerá,LegalEntity,LegalConcept,argument0668,argument0855,argument0800,trigger0216,duty0212
-cedente,,información mencionada,vendrá obligado,LegalAgent,,argument0207,,argument0532,trigger0709,duty0213
-cedente,,apartados anteriores,vendrá obligado,LegalAgent,,argument0207,,argument0155,trigger0709,duty0214
+cedente,,información mencionada,vendrá obligado,LegalAgent,LegalConcept,argument0207,,argument0532,trigger0709,duty0213
+cedente,,apartados anteriores,vendrá obligado,LegalAgent,LegalConcept,argument0207,,argument0155,trigger0709,duty0214
 contratistas y subcontratistas,trabajadores,obligaciones de naturaleza salarial,responderá solidariamente,LegalEntity,LegalAgent,argument0282,argument0933,argument0692,trigger0508,duty0215
-trabajador,,,deberá reincorporarse,LegalAgent,,argument0925,,,trigger0141,duty0216
-promoción,,comunicación fehaciente,deberá acompañarse,LegalConcept,,argument0788,,argument0249,trigger0111,duty0217
+trabajador,,,deberá reincorporarse,LegalAgent,LegalConcept,argument0925,,,trigger0141,duty0216
+promoción,,comunicación fehaciente,deberá acompañarse,LegalConcept,LegalConcept,argument0788,,argument0249,trigger0111,duty0217
 contrato para la formación y el aprendizaje,cualificación profesional,,tendrá por objeto,LegalConcept,LegalConcept,argument0289,argument0326,,trigger0670,duty0218
-comisión negociadora,,un máximo de trece miembros,estará integrada,LegalConcept,,argument0226,,argument0972,trigger0221,duty0219
-empresario,,,organice,LegalAgent,,argument0449,,,trigger0343,duty0220
-empresa,,,abrirá,LegalAgent,,argument0445,,,trigger0034,duty0221
-normas electorales,,,adaptarán,LegalConcept,,argument0673,,,trigger0038,duty0222
-modificación,,,afecte,LegalConcept,,argument0657,,,trigger0042,duty0223
+comisión negociadora,,un máximo de trece miembros,estará integrada,LegalConcept,LegalConcept,argument0226,,argument0972,trigger0221,duty0219
+empresario,,,organice,LegalAgent,LegalConcept,argument0449,,,trigger0343,duty0220
+empresa,,,abrirá,LegalAgent,LegalConcept,argument0445,,,trigger0034,duty0221
+normas electorales,,,adaptarán,LegalConcept,LegalConcept,argument0673,,,trigger0038,duty0222
+modificación,,,afecte,LegalConcept,LegalConcept,argument0657,,,trigger0042,duty0223
 trabajador,empresario,,debe,LegalAgent,LegalEntity,argument0925,argument0449,,trigger0109,duty0224
-trabajador,,formación,está obligado a seguir,LegalAgent,,argument0925,,argument0503,trigger0242,duty0225
-trabajador,,prácticas,está obligado a seguir,LegalAgent,,argument0925,,argument0797,trigger0242,duty0226
-comisión representativa,,,constituirá,LegalEntity,,argument0228,,,trigger0082,duty0227
-empresario y el trabajador,,,obligados a realizar,LegalEntity,,argument0453,,,trigger0336,duty0228
+trabajador,,formación,está obligado a seguir,LegalAgent,LegalConcept,argument0925,,argument0503,trigger0242,duty0225
+trabajador,,prácticas,está obligado a seguir,LegalAgent,LegalConcept,argument0925,,argument0797,trigger0242,duty0226
+comisión representativa,,,constituirá,LegalEntity,LegalConcept,argument0228,,,trigger0082,duty0227
+empresario y el trabajador,,,obligados a realizar,LegalEntity,LegalConcept,argument0453,,,trigger0336,duty0228
 autoridad laboral,entidad gestora,,comunicar,LegalEntity,LegalEntity,argument0177,argument0468,,trigger0064,duty0229
-conocimiento y resolución de las cuestiones derivadas de la aplicación e interpretación de los convenios colectivos,,,corresponderá,LegalConcept,,argument0267,,,trigger0097,duty0230
-horas extraordinarias,,,deberán ser compensadas,LegalConcept,,argument0514,,,trigger0171,duty0231
-convenios colectivos,,,se prorrogarán,LegalConcept,,argument0306,,,trigger0590,duty0232
-derechos y obligaciones,,,se regulan,LegalConcept,,argument0368,,,trigger0598,duty0233
-trabajador,,,podrá impugnarla,LegalAgent,,argument0925,,,trigger0387,duty0234
-definición de los grupos profesionales,,,ajustará a criterios y sistemas,LegalConcept,,argument0346,,,trigger0044,duty0235
-comité de empresa,,,Colaborar,LegalEntity,,argument0231,,,trigger0001,duty0236
-contrato de trabajo,,,suspenderse,LegalConcept,,argument0286,,,trigger0649,duty0237
-escrito,,,consignarán,LegalConcept,,argument0472,,,trigger0079,duty0238
-resoluciones de la comisión paritaria,,,tendrán,LegalConcept,,argument0859,,,trigger0676,duty0239
+conocimiento y resolución de las cuestiones derivadas de la aplicación e interpretación de los convenios colectivos,,,corresponderá,LegalConcept,LegalConcept,argument0267,,,trigger0097,duty0230
+horas extraordinarias,,,deberán ser compensadas,LegalConcept,LegalConcept,argument0514,,,trigger0171,duty0231
+convenios colectivos,,,se prorrogarán,LegalConcept,LegalConcept,argument0306,,,trigger0590,duty0232
+derechos y obligaciones,,,se regulan,LegalConcept,LegalConcept,argument0368,,,trigger0598,duty0233
+trabajador,,,podrá impugnarla,LegalAgent,LegalConcept,argument0925,,,trigger0387,duty0234
+definición de los grupos profesionales,,,ajustará a criterios y sistemas,LegalConcept,LegalConcept,argument0346,,,trigger0044,duty0235
+comité de empresa,,,Colaborar,LegalEntity,LegalConcept,argument0231,,,trigger0001,duty0236
+contrato de trabajo,,,suspenderse,LegalConcept,LegalConcept,argument0286,,,trigger0649,duty0237
+escrito,,,consignarán,LegalConcept,LegalConcept,argument0472,,,trigger0079,duty0238
+resoluciones de la comisión paritaria,,,tendrán,LegalConcept,LegalConcept,argument0859,,,trigger0676,duty0239
 cedente y el cesionario,trabajadores,información mencionada en el apartado anterior,deberán facilitar,LegalEntity,LegalAgent,argument0208,argument0933,argument0533,trigger0160,duty0240
-opción,,,será,LegalConcept,,argument0702,,,trigger0610,duty0241
-comisión,,,asignará,LegalConcept,,argument0224,,,trigger0049,duty0242
+opción,,,será,LegalConcept,LegalConcept,argument0702,,,trigger0610,duty0241
+comisión,,,asignará,LegalConcept,LegalConcept,argument0224,,,trigger0049,duty0242
 Administración laboral,árbitros,,facilitará,LegalEntity,LegalAgent,argument0001,argument0999,,trigger0255,duty0243
 empresas,trabajadores,procedimientos de despidos colectivos,existirá la obligación de abonar,LegalEntity,LegalAgent,argument0456,argument0933,argument0781,trigger0248,duty0244
 empresas,trabajadores,procedimiento concursal,existirá la obligación de abonar,LegalEntity,LegalAgent,argument0456,argument0933,argument0778,trigger0248,duty0245
@@ -249,129 +249,129 @@ empresas,trabajadores,condición de mutualistas el 1 de enero de 1967,existirá 
 empresas,trabajadores,cuotas destinadas a la financiación de un convenio especial,existirá la obligación de abonar,LegalEntity,LegalAgent,argument0456,argument0933,argument0332,trigger0248,duty0248
 empresas,trabajadores,trabajadores anteriormente señalados,existirá la obligación de abonar,LegalEntity,LegalAgent,argument0456,argument0933,argument0936,trigger0248,duty0249
 empresas,trabajadores,términos previstos en el texto refundido de la Ley General de la Seguridad Social,existirá la obligación de abonar,LegalEntity,LegalAgent,argument0456,argument0933,argument0967,trigger0248,duty0250
-empresario,,,deberán ser tomadas en consideración,LegalAgent,,argument0449,,,trigger0176,duty0251
-comité de empresa,,,se determinará,LegalEntity,,argument0231,,,trigger0543,duty0252
-empresario,,,deberá garantizar,LegalAgent,,argument0449,,,trigger0126,duty0253
-normas específicas,,contratos,Continuarán siendo de aplicación,LegalConcept,,argument0674,,argument0290,trigger0003,duty0254
-representantes de los trabajadores,,,tendrán prioridad de permanencia,LegalAgent,,argument0850,,,trigger0688,duty0255
-plazo,,,ha sido informado,LegalConcept,,argument0761,,,trigger0267,duty0256
-El Gobierno,,las disposiciones que sean precisas para el desarrollo de esta ley,dictará,LegalEntity,,argument0016,,argument0580,trigger0189,duty0257
+empresario,,,deberán ser tomadas en consideración,LegalAgent,LegalConcept,argument0449,,,trigger0176,duty0251
+comité de empresa,,,se determinará,LegalEntity,LegalConcept,argument0231,,,trigger0543,duty0252
+empresario,,,deberá garantizar,LegalAgent,LegalConcept,argument0449,,,trigger0126,duty0253
+normas específicas,,contratos,Continuarán siendo de aplicación,LegalConcept,LegalConcept,argument0674,,argument0290,trigger0003,duty0254
+representantes de los trabajadores,,,tendrán prioridad de permanencia,LegalAgent,LegalConcept,argument0850,,,trigger0688,duty0255
+plazo,,,ha sido informado,LegalConcept,LegalConcept,argument0761,,,trigger0267,duty0256
+El Gobierno,,las disposiciones que sean precisas para el desarrollo de esta ley,dictará,LegalEntity,LegalConcept,argument0016,,argument0580,trigger0189,duty0257
 del escrito de preaviso,la representación legal de los trabajadores,,se dará copia a,LegalConcept,LegalAgent,argument0347,argument0574,,trigger0539,duty0258
-Los convenios,,criterios objetivos y compromisos de conversión de los contratos de duración determinada o temporales en indefinidos,podrán establecer,LegalEntity,,argument0084,,argument0318,trigger0431,duty0259
-cesionario,,estas informaciones,estará obligado a comunicar,LegalAgent,,argument0216,,argument0478,trigger0224,duty0260
+Los convenios,,criterios objetivos y compromisos de conversión de los contratos de duración determinada o temporales en indefinidos,podrán establecer,LegalEntity,LegalConcept,argument0084,,argument0318,trigger0431,duty0259
+cesionario,,estas informaciones,estará obligado a comunicar,LegalAgent,LegalConcept,argument0216,,argument0478,trigger0224,duty0260
 comunicación,representantes legales de los trabajadores,una memoria explicativa de las causas del despido colectivo y de los restantes aspectos señalados en el párrafo anterior,deberá ir acompañada,LegalConcept,LegalAgent,argument0245,argument0853,argument0979,trigger0130,duty0261
 comunicación,representantes legales de los trabajadores,la documentación contable y fiscal y los informes técnicos,deberá ir acompañada,LegalConcept,LegalAgent,argument0245,argument0853,argument0565,trigger0130,duty0262
 comunicación,autoridad laboral,una memoria explicativa de las causas del despido colectivo y de los restantes aspectos señalados en el párrafo anterior,deberá ir acompañada,LegalConcept,LegalAgent,argument0245,argument0177,argument0979,trigger0130,duty0263
 comunicación,autoridad laboral,la documentación contable y fiscal y los informes técnicos,deberá ir acompañada,LegalConcept,LegalAgent,argument0245,argument0177,argument0565,trigger0130,duty0264
-acuerdo,,mediación,tendrán,LegalConcept,,argument0135,,argument0631,trigger0676,duty0265
-acuerdo,,laudo arbitral,tendrán,LegalConcept,,argument0135,,argument0590,trigger0676,duty0266
+acuerdo,,mediación,tendrán,LegalConcept,LegalConcept,argument0135,,argument0631,trigger0676,duty0265
+acuerdo,,laudo arbitral,tendrán,LegalConcept,LegalConcept,argument0135,,argument0590,trigger0676,duty0266
 contrato de relevo,trabajador sustituido,,deberá alcanzar,LegalConcept,LegalAgent,argument0285,argument0930,,trigger0112,duty0267
-normas,,contenido básico de esos procedimientos de representación,respetarán,LegalConcept,,argument0672,,argument0274,trigger0507,duty0268
+normas,,contenido básico de esos procedimientos de representación,respetarán,LegalConcept,LegalConcept,argument0672,,argument0274,trigger0507,duty0268
 denegación de la solicitud,trabajador,,deberá ser notificada,LegalConcept,LegalAgent,argument0355,argument0925,,trigger0147,duty0269
 peculiaridades,contratos para la formación y el aprendizaje,aplicación,Continuarán siendo,LegalConcept,LegalConcept,argument0733,argument0296,argument0156,trigger0002,duty0270
 la suspensión,adoptante,,tendrá una duración,LegalConcept,LegalAgent,argument0576,argument0146,,trigger0674,duty0271
 la suspensión,guardador,,tendrá una duración,LegalConcept,LegalAgent,argument0576,argument0510,,trigger0674,duty0272
 la suspensión,acogedor,,tendrá una duración,LegalConcept,LegalAgent,argument0576,argument0123,,trigger0674,duty0273
-la equiparación,,,se realizará,LegalConcept,,argument0568,,,trigger0592,duty0274
-comité de empresa,,,tendrá,LegalEntity,,argument0231,,,trigger0651,duty0275
-delegados de personal y los miembros del comité de empresa,,,elegirán,LegalEntity,,argument0349,,,trigger0202,duty0276
-derechos,,,se podrán ejercitar,LegalConcept,,argument0365,,,trigger0584,duty0277
-árbitros,,,deberán abstenerse,LegalAgent,,argument0999,,,trigger0151,duty0278
-trabajadores a distancia,,,tendrán,LegalAgent,,argument0934,,,trigger0676,duty0279
-trabajadores,,,tendrán,LegalAgent,,argument0933,,,trigger0676,duty0280
-trabajador,,,tendrán derecho a percibir,LegalAgent,,argument0925,,,trigger0683,duty0281
-oficina pública,,registro,procederá,LegalEntity,,argument0700,,argument0822,trigger0459,duty0282
-El periodo de vacaciones anuales retribuidas,,,será,LegalConcept,,argument0027,,,trigger0610,duty0283
+la equiparación,,,se realizará,LegalConcept,LegalConcept,argument0568,,,trigger0592,duty0274
+comité de empresa,,,tendrá,LegalEntity,LegalConcept,argument0231,,,trigger0651,duty0275
+delegados de personal y los miembros del comité de empresa,,,elegirán,LegalEntity,LegalConcept,argument0349,,,trigger0202,duty0276
+derechos,,,se podrán ejercitar,LegalConcept,LegalConcept,argument0365,,,trigger0584,duty0277
+árbitros,,,deberán abstenerse,LegalAgent,LegalConcept,argument0999,,,trigger0151,duty0278
+trabajadores a distancia,,,tendrán,LegalAgent,LegalConcept,argument0934,,,trigger0676,duty0279
+trabajadores,,,tendrán,LegalAgent,LegalConcept,argument0933,,,trigger0676,duty0280
+trabajador,,,tendrán derecho a percibir,LegalAgent,LegalConcept,argument0925,,,trigger0683,duty0281
+oficina pública,,registro,procederá,LegalEntity,LegalConcept,argument0700,,argument0822,trigger0459,duty0282
+El periodo de vacaciones anuales retribuidas,,,será,LegalConcept,LegalConcept,argument0027,,,trigger0610,duty0283
 intervención,comité de empresa,,se regirá,LegalConcept,LegalEntity,argument0547,argument0231,,trigger0593,duty0284
 intervención,delegados de personal,,se regirá,LegalConcept,LegalEntity,argument0547,argument0348,,trigger0593,duty0285
-excedencia,,,constituye,LegalConcept,,argument0483,,,trigger0083,duty0286
-Gobierno,,,fijará,LegalEntity,,argument0042,,,trigger0257,duty0287
-trabajadores,,,tendrán derecho,LegalAgent,,argument0933,,,trigger0677,duty0288
-impugnación,,,tramitará,LegalConcept,,argument0519,,,trigger0703,duty0289
-secciones sindicales,,,estarán legitimadas,LegalConcept,,argument0886,,,trigger0229,duty0290
-Gobierno,,,fijará,LegalEntity,,argument0042,,,trigger0257,duty0291
-trabajador,,jubilación parcial,pueda acceder,LegalAgent,,argument0925,,argument0557,trigger0473,duty0292
-trabajador,,reducción de jornada,pueda acceder,LegalAgent,,argument0925,,argument0818,trigger0473,duty0293
-trabajador,,reducción de salario,pueda acceder,LegalAgent,,argument0925,,argument0820,trigger0473,duty0294
-trabajador,,contrato de relevo,pueda acceder,LegalAgent,,argument0925,,argument0285,trigger0473,duty0295
-,,acuerdo de extinción,exige,,,,,argument0136,trigger0245,duty0296
-,,indemnización,exige,,,,,argument0529,trigger0245,duty0297
-existencia de fuerza mayor,,extinción de los contratos de trabajo,deberá ser constatada,LegalConcept,,argument0487,,argument0491,trigger0144,duty0298
-El Fondo,,las obligaciones especificadas en los apartados anteriores,asumirá,LegalEntity,,argument0014,,argument0582,trigger0050,duty0299
-dichos trabajadores,,a un centro de trabajo concreto de la empresa,deberán estar adscritos,LegalAgent,,argument0386,,argument0116,trigger0159,duty0300
-deberá,,,establecerse,LegalConcept,,argument0336,,,trigger0215,duty0301
-El plazo,,,es,LegalConcept,,argument0029,,,trigger0213,duty0302
-plan,,,deberá incluir,LegalConcept,,argument0759,,,trigger0127,duty0303
-pacto,,,se formalizará,LegalConcept,,argument0718,,,trigger0564,duty0304
+excedencia,,,constituye,LegalConcept,LegalConcept,argument0483,,,trigger0083,duty0286
+Gobierno,,,fijará,LegalEntity,LegalConcept,argument0042,,,trigger0257,duty0287
+trabajadores,,,tendrán derecho,LegalAgent,LegalConcept,argument0933,,,trigger0677,duty0288
+impugnación,,,tramitará,LegalConcept,LegalConcept,argument0519,,,trigger0703,duty0289
+secciones sindicales,,,estarán legitimadas,LegalConcept,LegalConcept,argument0886,,,trigger0229,duty0290
+Gobierno,,,fijará,LegalEntity,LegalConcept,argument0042,,,trigger0257,duty0291
+trabajador,,jubilación parcial,pueda acceder,LegalAgent,LegalConcept,argument0925,,argument0557,trigger0473,duty0292
+trabajador,,reducción de jornada,pueda acceder,LegalAgent,LegalConcept,argument0925,,argument0818,trigger0473,duty0293
+trabajador,,reducción de salario,pueda acceder,LegalAgent,LegalConcept,argument0925,,argument0820,trigger0473,duty0294
+trabajador,,contrato de relevo,pueda acceder,LegalAgent,LegalConcept,argument0925,,argument0285,trigger0473,duty0295
+,,acuerdo de extinción,exige,LegalConcept,LegalConcept,,,argument0136,trigger0245,duty0296
+,,indemnización,exige,LegalConcept,LegalConcept,,,argument0529,trigger0245,duty0297
+existencia de fuerza mayor,,extinción de los contratos de trabajo,deberá ser constatada,LegalConcept,LegalConcept,argument0487,,argument0491,trigger0144,duty0298
+El Fondo,,las obligaciones especificadas en los apartados anteriores,asumirá,LegalEntity,LegalConcept,argument0014,,argument0582,trigger0050,duty0299
+dichos trabajadores,,a un centro de trabajo concreto de la empresa,deberán estar adscritos,LegalAgent,LegalConcept,argument0386,,argument0116,trigger0159,duty0300
+deberá,,,establecerse,LegalConcept,LegalConcept,argument0336,,,trigger0215,duty0301
+El plazo,,,es,LegalConcept,LegalConcept,argument0029,,,trigger0213,duty0302
+plan,,,deberá incluir,LegalConcept,LegalConcept,argument0759,,,trigger0127,duty0303
+pacto,,,se formalizará,LegalConcept,LegalConcept,argument0718,,,trigger0564,duty0304
 empresario,trabajadores,,notificará,LegalAgent,LegalAgent,argument0449,argument0933,,trigger0332,duty0305
 empresario,autoridad laboral,,notificará,LegalAgent,LegalAgent,argument0449,argument0177,,trigger0332,duty0306
 dirección de la empresa,representantes de los trabajadores,,comunicar,LegalEntity,LegalAgent,argument0388,argument0850,,trigger0064,duty0307
 dirección de la empresa,autoridad laboral,,comunicar,LegalEntity,LegalAgent,argument0388,argument0177,,trigger0064,duty0308
 La adopción del acuerdo de extinción al amparo de lo prevenido en el artículo anterior,trabajador,observancia de los requisitos siguientes,exige,LegalConcept,LegalAgent,argument0046,argument0925,argument0697,trigger0245,duty0309
-empresario,,venta de los bienes de la empresa,dará cuenta,LegalAgent,,argument0449,,argument0987,trigger0103,duty0310
-contrato,,trabajos que tengan el carácter de fijos-discontinuos,se concertará,LegalConcept,,argument0283,,argument0955,trigger0527,duty0311
-consulta,,,deberá versar,LegalConcept,,argument0271,,,trigger0150,duty0312
-cargas fiscales y de Seguridad Social,,,serán satisfechas,LegalConcept,,argument0196,,,trigger0636,duty0313
-materias,,,se considerarán,LegalConcept,,argument0627,,,trigger0533,duty0314
-dirección empresarial,,,podrá limitar,LegalEntity,,argument0390,,,trigger0390,duty0315
-Fondo de Garantía Salarial,,,dispensará,LegalEntity,,argument0041,,,trigger0192,duty0316
-miembros del comité de empresa y los delegados de personal,,,tendrán,LegalEntity,,argument0649,,,trigger0676,duty0317
-se,,,establecerá,,,argument0885,,,trigger0216,duty0318
-los contratos,,,podrán tener,LegalEntity,,argument0609,,,trigger0447,duty0319
+empresario,,venta de los bienes de la empresa,dará cuenta,LegalAgent,LegalConcept,argument0449,,argument0987,trigger0103,duty0310
+contrato,,trabajos que tengan el carácter de fijos-discontinuos,se concertará,LegalConcept,LegalConcept,argument0283,,argument0955,trigger0527,duty0311
+consulta,,,deberá versar,LegalConcept,LegalConcept,argument0271,,,trigger0150,duty0312
+cargas fiscales y de Seguridad Social,,,serán satisfechas,LegalConcept,LegalConcept,argument0196,,,trigger0636,duty0313
+materias,,,se considerarán,LegalConcept,LegalConcept,argument0627,,,trigger0533,duty0314
+dirección empresarial,,,podrá limitar,LegalEntity,LegalConcept,argument0390,,,trigger0390,duty0315
+Fondo de Garantía Salarial,,,dispensará,LegalEntity,LegalConcept,argument0041,,,trigger0192,duty0316
+miembros del comité de empresa y los delegados de personal,,,tendrán,LegalEntity,LegalConcept,argument0649,,,trigger0676,duty0317
+se,,,establecerá,LegalConcept,LegalConcept,argument0885,,,trigger0216,duty0318
+los contratos,,,podrán tener,LegalEntity,LegalConcept,argument0609,,,trigger0447,duty0319
 el empresario,auxiliar,,será,LegalAgent,LegalAgent,argument0428,argument0178,,trigger0610,duty0320
 el empresario,ayudante,,será,LegalAgent,LegalAgent,argument0428,argument0179,,trigger0610,duty0321
-tiempo de trabajo,,,se computará,LegalConcept,,argument0922,,,trigger0523,duty0322
-traslado,,periodo de consultas,deberá ir precedido,LegalConcept,,argument0959,,argument0737,trigger0132,duty0323
-traslado,,representantes legales,deberá ir precedido,LegalConcept,,argument0959,,argument0852,trigger0132,duty0324
-traslado,,trabajadores,deberá ir precedido,LegalConcept,,argument0959,,argument0933,trigger0132,duty0325
+tiempo de trabajo,,,se computará,LegalConcept,LegalConcept,argument0922,,,trigger0523,duty0322
+traslado,,periodo de consultas,deberá ir precedido,LegalConcept,LegalConcept,argument0959,,argument0737,trigger0132,duty0323
+traslado,,representantes legales,deberá ir precedido,LegalConcept,LegalConcept,argument0959,,argument0852,trigger0132,duty0324
+traslado,,trabajadores,deberá ir precedido,LegalConcept,LegalConcept,argument0959,,argument0933,trigger0132,duty0325
 quienes,procedimiento de extensión,negociación colectiva,Tendrán capacidad para iniciar,LegalAgent,LegalConcept,argument0805,argument0780,argument0668,trigger0028,duty0326
 quienes,procedimiento de extensión,ámbito correspondiente,Tendrán capacidad para iniciar,LegalAgent,LegalConcept,argument0805,argument0780,argument0990,trigger0028,duty0327
 empresario,comité de empresa,,deberá facilitar,LegalAgent,LegalEntity,argument0449,argument0231,,trigger0122,duty0328
 empresario,centro de trabajo,,deberá facilitar,LegalAgent,LegalEntity,argument0449,argument0211,,trigger0122,duty0329
 jefe del grupo,los que lo integren,la representación,ostentará,LegalAgent,LegalAgent,argument0551,argument0613,argument0573,trigger0345,duty0330
 cualquiera de las partes,discrepancia,comisión del convenio,podrá someter,LegalAgent,LegalConcept,argument0327,argument0391,argument0225,trigger0414,duty0331
-empresa,,,deberá dar traslado,LegalAgent,,argument0445,,,trigger0117,duty0332
-empresa,,,estará obligada a comunicar,LegalAgent,,argument0445,,,trigger0222,duty0333
-Comisión Consultiva Nacional de Convenios Colectivos,,,será reforzada,LegalEntity,,argument0005,,,trigger0622,duty0334
-plazo,,,será,LegalConcept,,argument0761,,,trigger0610,duty0335
-discrepancias,,concreción horaria,serán resueltas,LegalConcept,,argument0392,,argument0256,trigger0635,duty0336
-discrepancias,,determinación de los periodos de disfrute,serán resueltas,LegalConcept,,argument0392,,argument0378,trigger0635,duty0337
-autoridad laboral,,,velará por,LegalEntity,,argument0177,,,trigger0708,duty0338
-"miembros del comité de empresa y este en su conjunto, así como, en su caso, los expertos que les asistan",,,deberán observar,LegalEntity,,argument0648,,,trigger0165,duty0339
-traslado,,,deberá ir precedido,LegalConcept,,argument0959,,,trigger0132,duty0340
-número de miembros,,,se determinará,LegalConcept,,argument0685,,,trigger0543,duty0341
-derecho o condición de trabajo,,previa antigüedad del trabajador,esté atribuido,LegalConcept,,argument0363,,argument0774,trigger0243,duty0342
+empresa,,,deberá dar traslado,LegalAgent,LegalConcept,argument0445,,,trigger0117,duty0332
+empresa,,,estará obligada a comunicar,LegalAgent,LegalConcept,argument0445,,,trigger0222,duty0333
+Comisión Consultiva Nacional de Convenios Colectivos,,,será reforzada,LegalEntity,LegalConcept,argument0005,,,trigger0622,duty0334
+plazo,,,será,LegalConcept,LegalConcept,argument0761,,,trigger0610,duty0335
+discrepancias,,concreción horaria,serán resueltas,LegalConcept,LegalConcept,argument0392,,argument0256,trigger0635,duty0336
+discrepancias,,determinación de los periodos de disfrute,serán resueltas,LegalConcept,LegalConcept,argument0392,,argument0378,trigger0635,duty0337
+autoridad laboral,,,velará por,LegalEntity,LegalConcept,argument0177,,,trigger0708,duty0338
+"miembros del comité de empresa y este en su conjunto, así como, en su caso, los expertos que les asistan",,,deberán observar,LegalEntity,LegalConcept,argument0648,,,trigger0165,duty0339
+traslado,,,deberá ir precedido,LegalConcept,LegalConcept,argument0959,,,trigger0132,duty0340
+número de miembros,,,se determinará,LegalConcept,LegalConcept,argument0685,,,trigger0543,duty0341
+derecho o condición de trabajo,,previa antigüedad del trabajador,esté atribuido,LegalConcept,LegalConcept,argument0363,,argument0774,trigger0243,duty0342
 litigios,representantes de los trabajadores,cumplimiento,tramitarán,LegalConcept,LegalAgent,argument0604,argument0850,argument0331,trigger0704,duty0343
 litigios,representantes de los trabajadores,obligación de sigilo,tramitarán,LegalConcept,LegalAgent,argument0604,argument0850,argument0695,trigger0704,duty0344
 litigios,expertos,cumplimiento,tramitarán,LegalConcept,LegalAgent,argument0604,argument0490,argument0331,trigger0704,duty0345
 litigios,expertos,obligación de sigilo,tramitarán,LegalConcept,LegalAgent,argument0604,argument0490,argument0695,trigger0704,duty0346
-contrato de trabajo,,suspenderse,podrá suspenderse,LegalConcept,,argument0286,,argument0910,trigger0418,duty0347
-,,incumplimientos contractuales,considerarán,,,,,argument0527,trigger0078,duty0348
-,,"acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual",considerarán,,,,,argument0125,trigger0078,duty0349
-,,acoso sexual o por razón de sexo,considerarán,,,,,argument0126,trigger0078,duty0350
-suspensión de estas diez semanas,,ejercitar,se podrá ejercitar,LegalConcept,,argument0911,,argument0423,trigger0577,duty0351
-suspensión de estas diez semanas,,régimen de jornada completa o a tiempo parcial,se podrá ejercitar,LegalConcept,,argument0911,,argument0876,trigger0577,duty0352
-suspensión de estas diez semanas,,acuerdo entre la empresa y la persona trabajadora afectada,se podrá ejercitar,LegalConcept,,argument0911,,argument0137,trigger0577,duty0353
-suspensión de estas diez semanas,,términos que reglamentariamente se determinen,se podrá ejercitar,LegalConcept,,argument0911,,argument0969,trigger0577,duty0354
-suspensión del contrato,,,tendrá,LegalConcept,,argument0913,,,trigger0651,duty0355
+contrato de trabajo,,suspenderse,podrá suspenderse,LegalConcept,LegalConcept,argument0286,,argument0910,trigger0418,duty0347
+,,incumplimientos contractuales,considerarán,LegalConcept,LegalConcept,,,argument0527,trigger0078,duty0348
+,,"acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual",considerarán,LegalConcept,LegalConcept,,,argument0125,trigger0078,duty0349
+,,acoso sexual o por razón de sexo,considerarán,LegalConcept,LegalConcept,,,argument0126,trigger0078,duty0350
+suspensión de estas diez semanas,,ejercitar,se podrá ejercitar,LegalConcept,LegalConcept,argument0911,,argument0423,trigger0577,duty0351
+suspensión de estas diez semanas,,régimen de jornada completa o a tiempo parcial,se podrá ejercitar,LegalConcept,LegalConcept,argument0911,,argument0876,trigger0577,duty0352
+suspensión de estas diez semanas,,acuerdo entre la empresa y la persona trabajadora afectada,se podrá ejercitar,LegalConcept,LegalConcept,argument0911,,argument0137,trigger0577,duty0353
+suspensión de estas diez semanas,,términos que reglamentariamente se determinen,se podrá ejercitar,LegalConcept,LegalConcept,argument0911,,argument0969,trigger0577,duty0354
+suspensión del contrato,,,tendrá,LegalConcept,LegalConcept,argument0913,,,trigger0651,duty0355
 empresarios,dichos contratistas,,deberán comprobar,LegalAgent,LegalEntity,argument0455,argument0385,,trigger0153,duty0356
-negociación colectiva,,,articulará,LegalConcept,,argument0668,,,trigger0048,duty0357
-partes,,,notificarán,LegalAgent,,argument0728,,,trigger0333,duty0358
+negociación colectiva,,,articulará,LegalConcept,LegalConcept,argument0668,,,trigger0048,duty0357
+partes,,,notificarán,LegalAgent,LegalConcept,argument0728,,,trigger0333,duty0358
 oficina pública,empresa,copia del acta,dará traslado,LegalEntity,LegalEntity,argument0700,argument0445,argument0314,trigger0106,duty0359
 oficina pública,empresa,presentación en dicha oficina pública del acta correspondiente al proceso electoral,dará traslado,LegalEntity,LegalEntity,argument0700,argument0445,argument0770,trigger0106,duty0360
-adaptaciones,,razonables y proporcionadas en relación con las necesidades de la persona trabajadora y con las necesidades organizativas o productivas de la empresa,deberán ser,LegalConcept,,argument0143,,argument0807,trigger0170,duty0361
-recibo de salarios,,,ajustará,LegalConcept,,argument0814,,,trigger0043,duty0362
-escrito,,,consignarán,LegalConcept,,argument0472,,,trigger0079,duty0363
-impugnaciones en materia electoral,,,tramitarán,LegalConcept,,argument0518,,,trigger0704,duty0364
-Fondo de Garantía Salarial,,,abonará,LegalEntity,,argument0041,,,trigger0033,duty0365
-El contrato a tiempo parcial,,,regirá,LegalConcept,,argument0023,,,trigger0498,duty0366
-el periodo de consultas,,,finalice,LegalConcept,,argument0432,,,trigger0259,duty0367
-despido,,,se efectuará,LegalConcept,,argument0374,,,trigger0547,duty0368
-empresario y el comité de empresa,,,actuarán,LegalEntity,,argument0452,,,trigger0037,duty0369
-La comisión negociadora,,,quedará válidamente constituida,LegalEntity,,argument0049,,,trigger0482,duty0370
-las comunidades autónomas,,,deberán remitir,LegalEntity,,argument0578,,,trigger0168,duty0371
+adaptaciones,,razonables y proporcionadas en relación con las necesidades de la persona trabajadora y con las necesidades organizativas o productivas de la empresa,deberán ser,LegalConcept,LegalConcept,argument0143,,argument0807,trigger0170,duty0361
+recibo de salarios,,,ajustará,LegalConcept,LegalConcept,argument0814,,,trigger0043,duty0362
+escrito,,,consignarán,LegalConcept,LegalConcept,argument0472,,,trigger0079,duty0363
+impugnaciones en materia electoral,,,tramitarán,LegalConcept,LegalConcept,argument0518,,,trigger0704,duty0364
+Fondo de Garantía Salarial,,,abonará,LegalEntity,LegalConcept,argument0041,,,trigger0033,duty0365
+El contrato a tiempo parcial,,,regirá,LegalConcept,LegalConcept,argument0023,,,trigger0498,duty0366
+el periodo de consultas,,,finalice,LegalConcept,LegalConcept,argument0432,,,trigger0259,duty0367
+despido,,,se efectuará,LegalConcept,LegalConcept,argument0374,,,trigger0547,duty0368
+empresario y el comité de empresa,,,actuarán,LegalEntity,LegalConcept,argument0452,,,trigger0037,duty0369
+La comisión negociadora,,,quedará válidamente constituida,LegalEntity,LegalConcept,argument0049,,,trigger0482,duty0370
+las comunidades autónomas,,,deberán remitir,LegalEntity,LegalConcept,argument0578,,,trigger0168,duty0371
 delegados de prevención,empresario,medidas oportunas,requerirán,LegalAgent,LegalAgent,argument0351,argument0449,argument0638,trigger0502,duty0372
-exigencias,,periodos de descanso,deberán ser tenidas,LegalConcept,,argument0486,,argument0744,trigger0175,duty0373
+exigencias,,periodos de descanso,deberán ser tenidas,LegalConcept,LegalConcept,argument0486,,argument0744,trigger0175,duty0373
 escrito,extremos,,se consignarán,LegalConcept,LegalConcept,argument0472,argument0493,,trigger0534,duty0374
 escrito,Criterios,,se consignarán,LegalConcept,LegalConcept,argument0472,argument0008,,trigger0534,duty0375
 libro,representantes legales,,estará a disposición,LegalConcept,LegalAgent,argument0596,argument0852,,trigger0219,duty0376
@@ -379,354 +379,354 @@ empresario,copia íntegra,,trasladará,LegalAgent,LegalConcept,argument0449,argu
 modificaciones sustanciales,condiciones reconocidas a los trabajadores,en el contrato de trabajo,afectar,LegalConcept,LegalConcept,argument0655,argument0262,argument0464,trigger0041,duty0378
 modificaciones sustanciales,condiciones reconocidas a los trabajadores,en acuerdos o pactos colectivos,afectar,LegalConcept,LegalConcept,argument0655,argument0262,argument0462,trigger0041,duty0379
 modificaciones sustanciales,condiciones reconocidas a los trabajadores,disfrutadas por estos en virtud de una decisión unilateral del empresario de efectos colectivos,afectar,LegalConcept,LegalConcept,argument0655,argument0262,argument0393,trigger0041,duty0380
-comunicación de la apertura del periodo de consultas,,mediante escrito dirigido por el empresario a los representantes legales de los trabajadores,realizará,LegalConcept,,argument0246,,argument0633,trigger0490,duty0381
-comunicación de la apertura del periodo de consultas,,una copia del cual se hará llegar a la autoridad laboral,realizará,LegalConcept,,argument0246,,argument0976,trigger0490,duty0382
+comunicación de la apertura del periodo de consultas,,mediante escrito dirigido por el empresario a los representantes legales de los trabajadores,realizará,LegalConcept,LegalConcept,argument0246,,argument0633,trigger0490,duty0381
+comunicación de la apertura del periodo de consultas,,una copia del cual se hará llegar a la autoridad laboral,realizará,LegalConcept,LegalConcept,argument0246,,argument0976,trigger0490,duty0382
 despido colectivo,periodo de consultas,con los representantes legales de los trabajadores de una duración no superior a treinta días naturales,deberá ir precedido,LegalConcept,LegalConcept,argument0375,argument0737,argument0253,trigger0132,duty0383
 despido colectivo,periodo de consultas,o de quince en el caso de empresas de menos de cincuenta trabajadores,deberá ir precedido,LegalConcept,LegalConcept,argument0375,argument0737,argument0688,trigger0132,duty0384
-empresario,,,estará obligado a celebrar,LegalAgent,,argument0449,,,trigger0223,duty0385
-opción,,,determinará,LegalConcept,,argument0702,,,trigger0187,duty0386
+empresario,,,estará obligado a celebrar,LegalAgent,LegalConcept,argument0449,,,trigger0223,duty0385
+opción,,,determinará,LegalConcept,LegalConcept,argument0702,,,trigger0187,duty0386
 planteamiento,arbitraje,plazos de prescripción,interrumpirá,LegalConcept,LegalConcept,argument0760,argument0161,argument0765,trigger0286,duty0387
-reserva,,puesto de trabajo,quedará referida,LegalConcept,,argument0856,,argument0800,trigger0480,duty0388
-número de miembros,,comité de empresa,se determinará,LegalConcept,,argument0685,,argument0231,trigger0543,duty0389
+reserva,,puesto de trabajo,quedará referida,LegalConcept,LegalConcept,argument0856,,argument0800,trigger0480,duty0388
+número de miembros,,comité de empresa,se determinará,LegalConcept,LegalConcept,argument0685,,argument0231,trigger0543,duty0389
 decisión,periodo de consultas,condiciones de trabajo,deberá ir precedida,LegalConcept,LegalConcept,argument0337,argument0737,argument0261,trigger0131,duty0390
-acuerdos interprofesionales,,,deberán especificar,LegalConcept,,argument0141,,,trigger0158,duty0391
-suspensión del contrato,,,finalizará,LegalConcept,,argument0913,,,trigger0260,duty0392
-trabajador,,,continuará desempeñando,LegalAgent,,argument0925,,,trigger0088,duty0393
+acuerdos interprofesionales,,,deberán especificar,LegalConcept,LegalConcept,argument0141,,,trigger0158,duty0391
+suspensión del contrato,,,finalizará,LegalConcept,LegalConcept,argument0913,,,trigger0260,duty0392
+trabajador,,,continuará desempeñando,LegalAgent,LegalConcept,argument0925,,,trigger0088,duty0393
 nacimiento,contrato de trabajo,,suspenderá,LegalConcept,LegalConcept,argument0664,argument0286,,trigger0650,duty0394
 empresario,trabajador,,deberá facilitar,LegalAgent,LegalAgent,argument0449,argument0925,,trigger0122,duty0395
-Gobierno,,,recogerá,LegalEntity,,argument0042,,,trigger0495,duty0396
-comité de empresa,,competencias,Colaborar,LegalEntity,,argument0231,,argument0239,trigger0001,duty0397
+Gobierno,,,recogerá,LegalEntity,LegalConcept,argument0042,,,trigger0495,duty0396
+comité de empresa,,competencias,Colaborar,LegalEntity,LegalConcept,argument0231,,argument0239,trigger0001,duty0397
 mesa,candidaturas,,determinará,LegalEntity,LegalAgent,argument0642,argument0193,,trigger0187,duty0398
-derechos y obligaciones del trabajador,,,serán,LegalConcept,,argument0370,,,trigger0624,duty0399
-comité de empresa,,,se determinará,LegalEntity,,argument0231,,,trigger0543,duty0400
+derechos y obligaciones del trabajador,,,serán,LegalConcept,LegalConcept,argument0370,,,trigger0624,duty0399
+comité de empresa,,,se determinará,LegalEntity,LegalConcept,argument0231,,,trigger0543,duty0400
 aplicación,convenio colectivo,fecha de expiración,se mantendrá,LegalConcept,LegalConcept,argument0156,argument0302,argument0498,trigger0574,duty0401
 aplicación,convenio colectivo,entrada en vigor,se mantendrá,LegalConcept,LegalConcept,argument0156,argument0302,argument0471,trigger0574,duty0402
-empresario,,registro,está obligado a llevar,LegalAgent,,argument0449,,argument0822,trigger0239,duty0403
-comités,,,deberán reunirse,LegalConcept,,argument0233,,,trigger0169,duty0404
-convenio,,,será remitido,LegalConcept,,argument0301,,,trigger0623,duty0405
-mesa electoral,,recuento de votos,procederá,LegalEntity,,argument0643,,argument0816,trigger0459,duty0406
-empresa,,aceptación de la petición,comunicará,LegalAgent,,argument0445,,argument0122,trigger0066,duty0407
-empresa,,propuesta alternativa,comunicará,LegalAgent,,argument0445,,argument0791,trigger0066,duty0408
-empresa,,necesidades de conciliación,comunicará,LegalAgent,,argument0445,,argument0665,trigger0066,duty0409
-empresa,,registros,conservará,LegalAgent,,argument0445,,argument0827,trigger0072,duty0410
-árbitros,,,"deberán abstenerse y, en su defecto, ser recusados",LegalAgent,,argument0999,,,trigger0152,duty0411
-proclamación,,,se hará,LegalConcept,,argument0784,,,trigger0565,duty0412
-delegados de personal,,,ejercerán,LegalAgent,,argument0348,,,trigger0196,duty0413
+empresario,,registro,está obligado a llevar,LegalAgent,LegalConcept,argument0449,,argument0822,trigger0239,duty0403
+comités,,,deberán reunirse,LegalConcept,LegalConcept,argument0233,,,trigger0169,duty0404
+convenio,,,será remitido,LegalConcept,LegalConcept,argument0301,,,trigger0623,duty0405
+mesa electoral,,recuento de votos,procederá,LegalEntity,LegalConcept,argument0643,,argument0816,trigger0459,duty0406
+empresa,,aceptación de la petición,comunicará,LegalAgent,LegalConcept,argument0445,,argument0122,trigger0066,duty0407
+empresa,,propuesta alternativa,comunicará,LegalAgent,LegalConcept,argument0445,,argument0791,trigger0066,duty0408
+empresa,,necesidades de conciliación,comunicará,LegalAgent,LegalConcept,argument0445,,argument0665,trigger0066,duty0409
+empresa,,registros,conservará,LegalAgent,LegalConcept,argument0445,,argument0827,trigger0072,duty0410
+árbitros,,,"deberán abstenerse y, en su defecto, ser recusados",LegalAgent,LegalConcept,argument0999,,,trigger0152,duty0411
+proclamación,,,se hará,LegalConcept,LegalConcept,argument0784,,,trigger0565,duty0412
+delegados de personal,,,ejercerán,LegalAgent,LegalConcept,argument0348,,,trigger0196,duty0413
 empresa,representantes legales de los trabajadores,medios de prueba,iniciará,LegalAgent,LegalAgent,argument0445,argument0853,argument0640,trigger0284,duty0414
 empresa,"los dos adoptantes, guardadores o acogedores",disfrute simultáneo de las diez semanas voluntarias,podrá limitar,LegalEntity,LegalAgent,argument0445,argument0612,argument0395,trigger0390,duty0415
-permiso,,,constar,LegalConcept,,argument0746,,,trigger0080,duty0416
-promotores,,empresa,deberán identificar,LegalAgent,,argument0789,,argument0445,trigger0162,duty0417
-promotores,,centro de trabajo,deberán identificar,LegalAgent,,argument0789,,argument0211,trigger0162,duty0418
-promotores,,proceso electoral,deberán identificar,LegalAgent,,argument0789,,argument0783,trigger0162,duty0419
-promotores,,fecha de inicio,deberán identificar,LegalAgent,,argument0789,,argument0499,trigger0162,duty0420
-promotores,,mesa electoral,deberán identificar,LegalAgent,,argument0789,,argument0643,trigger0162,duty0421
-promotores,,registro de la comunicación,deberán identificar,LegalAgent,,argument0789,,argument0824,trigger0162,duty0422
-promotores,,oficina pública,deberán identificar,LegalAgent,,argument0789,,argument0700,trigger0162,duty0423
-promotores,,autoridad laboral,deberán identificar,LegalAgent,,argument0789,,argument0177,trigger0162,duty0424
-"representación de los trabajadores, o de los empresarios",,otra parte,comunicará,LegalEntity,,argument0845,,argument0710,trigger0066,duty0425
-"representación de los trabajadores, o de los empresarios",,comunicación,comunicará,LegalEntity,,argument0845,,argument0245,trigger0066,duty0426
-"representación de los trabajadores, o de los empresarios",,legitimación,comunicará,LegalEntity,,argument0845,,argument0592,trigger0066,duty0427
-"representación de los trabajadores, o de los empresarios",,artículos anteriores,comunicará,LegalEntity,,argument0845,,argument0166,trigger0066,duty0428
-"representación de los trabajadores, o de los empresarios",,ámbitos del convenio,comunicará,LegalEntity,,argument0845,,argument0996,trigger0066,duty0429
-"representación de los trabajadores, o de los empresarios",,materias objeto de negociación,comunicará,LegalEntity,,argument0845,,argument0628,trigger0066,duty0430
-El cedente o el cesionario,,,vendrá obligado a iniciar,LegalAgent,,argument0021,,,trigger0710,duty0431
-esta oficina pública,,,procederá al registro,LegalEntity,,argument0475,,,trigger0461,duty0432
-El comité de empresa,,,tendrá,LegalEntity,,argument0022,,,trigger0651,duty0433
-dicha acomodación,,,deberá realizarse,LegalConcept,,argument0380,,,trigger0139,duty0434
-contratados,,,se computarán,LegalAgent,,argument0278,,,trigger0524,duty0435
-horas complementarias,,,se consideran,LegalConcept,,argument0512,,,trigger0529,duty0436
-el salario,,,será,LegalConcept,,argument0435,,,trigger0610,duty0437
-unos y otros,,,se abonarán,LegalConcept,,argument0983,,,trigger0514,duty0438
-empresario,,centro de trabajo,deberá facilitar,LegalAgent,,argument0449,,argument0211,trigger0122,duty0439
-periodo de suspensión,,,se ampliará,LegalConcept,,argument0741,,,trigger0517,duty0440
-autoridad laboral,,,se dispondrá,LegalEntity,,argument0177,,,trigger0545,duty0441
-situaciones,,,interrumpen,LegalConcept,,argument0897,,,trigger0285,duty0442
+permiso,,,constar,LegalConcept,LegalConcept,argument0746,,,trigger0080,duty0416
+promotores,,empresa,deberán identificar,LegalAgent,LegalConcept,argument0789,,argument0445,trigger0162,duty0417
+promotores,,centro de trabajo,deberán identificar,LegalAgent,LegalConcept,argument0789,,argument0211,trigger0162,duty0418
+promotores,,proceso electoral,deberán identificar,LegalAgent,LegalConcept,argument0789,,argument0783,trigger0162,duty0419
+promotores,,fecha de inicio,deberán identificar,LegalAgent,LegalConcept,argument0789,,argument0499,trigger0162,duty0420
+promotores,,mesa electoral,deberán identificar,LegalAgent,LegalConcept,argument0789,,argument0643,trigger0162,duty0421
+promotores,,registro de la comunicación,deberán identificar,LegalAgent,LegalConcept,argument0789,,argument0824,trigger0162,duty0422
+promotores,,oficina pública,deberán identificar,LegalAgent,LegalConcept,argument0789,,argument0700,trigger0162,duty0423
+promotores,,autoridad laboral,deberán identificar,LegalAgent,LegalConcept,argument0789,,argument0177,trigger0162,duty0424
+"representación de los trabajadores, o de los empresarios",,otra parte,comunicará,LegalEntity,LegalConcept,argument0845,,argument0710,trigger0066,duty0425
+"representación de los trabajadores, o de los empresarios",,comunicación,comunicará,LegalEntity,LegalConcept,argument0845,,argument0245,trigger0066,duty0426
+"representación de los trabajadores, o de los empresarios",,legitimación,comunicará,LegalEntity,LegalConcept,argument0845,,argument0592,trigger0066,duty0427
+"representación de los trabajadores, o de los empresarios",,artículos anteriores,comunicará,LegalEntity,LegalConcept,argument0845,,argument0166,trigger0066,duty0428
+"representación de los trabajadores, o de los empresarios",,ámbitos del convenio,comunicará,LegalEntity,LegalConcept,argument0845,,argument0996,trigger0066,duty0429
+"representación de los trabajadores, o de los empresarios",,materias objeto de negociación,comunicará,LegalEntity,LegalConcept,argument0845,,argument0628,trigger0066,duty0430
+El cedente o el cesionario,,,vendrá obligado a iniciar,LegalAgent,LegalConcept,argument0021,,,trigger0710,duty0431
+esta oficina pública,,,procederá al registro,LegalEntity,LegalConcept,argument0475,,,trigger0461,duty0432
+El comité de empresa,,,tendrá,LegalEntity,LegalConcept,argument0022,,,trigger0651,duty0433
+dicha acomodación,,,deberá realizarse,LegalConcept,LegalConcept,argument0380,,,trigger0139,duty0434
+contratados,,,se computarán,LegalAgent,LegalConcept,argument0278,,,trigger0524,duty0435
+horas complementarias,,,se consideran,LegalConcept,LegalConcept,argument0512,,,trigger0529,duty0436
+el salario,,,será,LegalConcept,LegalConcept,argument0435,,,trigger0610,duty0437
+unos y otros,,,se abonarán,LegalConcept,LegalConcept,argument0983,,,trigger0514,duty0438
+empresario,,centro de trabajo,deberá facilitar,LegalAgent,LegalConcept,argument0449,,argument0211,trigger0122,duty0439
+periodo de suspensión,,,se ampliará,LegalConcept,LegalConcept,argument0741,,,trigger0517,duty0440
+autoridad laboral,,,se dispondrá,LegalEntity,LegalConcept,argument0177,,,trigger0545,duty0441
+situaciones,,,interrumpen,LegalConcept,LegalConcept,argument0897,,,trigger0285,duty0442
 empresario,representantes legales de los trabajadores,,entregará,LegalAgent,LegalAgent,argument0449,argument0853,,trigger0210,duty0443
-autoridad laboral,,,establecerá,LegalEntity,,argument0177,,,trigger0216,duty0444
+autoridad laboral,,,establecerá,LegalEntity,LegalConcept,argument0177,,,trigger0216,duty0444
 juez,Fondo de Garantía Salarial,,citara,LegalAgent,LegalEntity,argument0558,argument0041,,trigger0060,duty0445
-contrato a tiempo parcial,,,podrá concertarse,LegalConcept,,argument0284,,,trigger0367,duty0446
-empresa,,,deberá informar,LegalAgent,,argument0445,,,trigger0128,duty0447
-trabajadores y empresarios,,,regulan,LegalEntity,,argument0948,,,trigger0499,duty0448
-mesas electorales,,,extenderán,LegalEntity,,argument0644,,,trigger0252,duty0449
-progenitor,,,disfrutará,LegalAgent,,argument0786,,,trigger0191,duty0450
-mesa,,,habrán de transcurrir,LegalEntity,,argument0642,,,trigger0274,duty0451
-relación laboral,,,extinguirá,LegalConcept,,argument0839,,,trigger0254,duty0452
+contrato a tiempo parcial,,,podrá concertarse,LegalConcept,LegalConcept,argument0284,,,trigger0367,duty0446
+empresa,,,deberá informar,LegalAgent,LegalConcept,argument0445,,,trigger0128,duty0447
+trabajadores y empresarios,,,regulan,LegalEntity,LegalConcept,argument0948,,,trigger0499,duty0448
+mesas electorales,,,extenderán,LegalEntity,LegalConcept,argument0644,,,trigger0252,duty0449
+progenitor,,,disfrutará,LegalAgent,LegalConcept,argument0786,,,trigger0191,duty0450
+mesa,,,habrán de transcurrir,LegalEntity,LegalConcept,argument0642,,,trigger0274,duty0451
+relación laboral,,,extinguirá,LegalConcept,LegalConcept,argument0839,,,trigger0254,duty0452
 El Servicio Público de Empleo,dicho documento,en la que el trabajador preste sus servicios,emitirá,LegalEntity,LegalConcept,argument0017,argument0383,argument0467,trigger0203,duty0453
-contrato,,,se deberá formalizar,LegalConcept,,argument0283,,,trigger0540,duty0454
+contrato,,,se deberá formalizar,LegalConcept,LegalConcept,argument0283,,,trigger0540,duty0454
 requerimiento,sindicatos,,será comunicado,LegalConcept,LegalEntity,argument0854,argument0891,,trigger0613,duty0455
 requerimiento,candidaturas,,será comunicado,LegalConcept,LegalEntity,argument0854,argument0193,,trigger0613,duty0456
-contrato de relevo,,,se ajustará,LegalConcept,,argument0285,,,trigger0516,duty0457
-contrato de relevo,,,se ajustará,LegalConcept,,argument0285,,,trigger0516,duty0458
-consulta,,,se llevará a cabo,LegalConcept,,argument0271,,,trigger0573,duty0459
-miembros del comité o delegado de personal,,un crédito de horas mensuales retribuidas,Disponer,LegalAgent,,argument0650,,argument0970,trigger0005,duty0460
+contrato de relevo,,,se ajustará,LegalConcept,LegalConcept,argument0285,,,trigger0516,duty0457
+contrato de relevo,,,se ajustará,LegalConcept,LegalConcept,argument0285,,,trigger0516,duty0458
+consulta,,,se llevará a cabo,LegalConcept,LegalConcept,argument0271,,,trigger0573,duty0459
+miembros del comité o delegado de personal,,un crédito de horas mensuales retribuidas,Disponer,LegalAgent,LegalConcept,argument0650,,argument0970,trigger0005,duty0460
 despido,trabajador,,deberá ser notificado,LegalConcept,LegalAgent,argument0374,argument0925,,trigger0148,duty0461
-partes negociadoras,,,establecer,LegalEntity,,argument0730,,,trigger0214,duty0462
-reparto de los miembros de la comisión negociadora,,,efectuará,LegalConcept,,argument0841,,,trigger0195,duty0463
-,,,atribuirán,,,,,,trigger0052,duty0464
-,,,impugnar,,,,,,trigger0281,duty0465
-lista,,,figurar,LegalConcept,,argument0600,,,trigger0256,duty0466
-negociación colectiva,,,fijarán,LegalConcept,,argument0668,,,trigger0258,duty0467
-contrato,,,prorrogará,LegalConcept,,argument0283,,,trigger0470,duty0468
-aquella,,,se cubrirá,LegalAgent,,argument0159,,,trigger0537,duty0469
-compensación,,,comprenderá,LegalConcept,,argument0238,,,trigger0063,duty0470
-mesa electoral,,,se constituirá,LegalEntity,,argument0643,,,trigger0535,duty0471
-quien,,,Tendrá,LegalAgent,,argument0804,,,trigger0025,duty0472
-trabajador y el empresario,,,se someterán,LegalAgent,,argument0931,,,trigger0602,duty0473
+partes negociadoras,,,establecer,LegalEntity,LegalConcept,argument0730,,,trigger0214,duty0462
+reparto de los miembros de la comisión negociadora,,,efectuará,LegalConcept,LegalConcept,argument0841,,,trigger0195,duty0463
+,,,atribuirán,LegalConcept,LegalConcept,,,,trigger0052,duty0464
+,,,impugnar,LegalConcept,LegalConcept,,,,trigger0281,duty0465
+lista,,,figurar,LegalConcept,LegalConcept,argument0600,,,trigger0256,duty0466
+negociación colectiva,,,fijarán,LegalConcept,LegalConcept,argument0668,,,trigger0258,duty0467
+contrato,,,prorrogará,LegalConcept,LegalConcept,argument0283,,,trigger0470,duty0468
+aquella,,,se cubrirá,LegalAgent,LegalConcept,argument0159,,,trigger0537,duty0469
+compensación,,,comprenderá,LegalConcept,LegalConcept,argument0238,,,trigger0063,duty0470
+mesa electoral,,,se constituirá,LegalEntity,LegalConcept,argument0643,,,trigger0535,duty0471
+quien,,,Tendrá,LegalAgent,LegalConcept,argument0804,,,trigger0025,duty0472
+trabajador y el empresario,,,se someterán,LegalAgent,LegalConcept,argument0931,,,trigger0602,duty0473
 empresario,delegados sindicales,,dar audiencia previa,LegalAgent,LegalAgent,argument0449,argument0352,,trigger0102,duty0474
-trabajadores,,,ocupan,LegalAgent,,argument0933,,,trigger0339,duty0475
+trabajadores,,,ocupan,LegalAgent,LegalConcept,argument0933,,,trigger0339,duty0475
 cedente y el cesionario,representantes legales,,deberán informar,LegalEntity,LegalAgent,argument0208,argument0852,,trigger0163,duty0476
-trabajadores,,estos plazos,adquirirán,LegalAgent,,argument0933,,argument0481,trigger0040,duty0477
-trabajador,,,se asignará,LegalAgent,,argument0925,,,trigger0521,duty0478
-empresa,,,se podrá proceder,LegalAgent,,argument0445,,,trigger0580,duty0479
-representación de los trabajadores,,,corresponde,LegalConcept,,argument0844,,,trigger0096,duty0480
-convenios colectivos,,,habrán de expresar,LegalConcept,,argument0306,,,trigger0271,duty0481
-resultado del escrutinio,,acta,levantará,LegalConcept,,argument0865,,argument0127,trigger0292,duty0482
-resultado del escrutinio,,modelo normalizado,levantará,LegalConcept,,argument0865,,argument0653,trigger0292,duty0483
-resultado del escrutinio,,incidencias,levantará,LegalConcept,,argument0865,,argument0522,trigger0292,duty0484
-resultado del escrutinio,,protestas,levantará,LegalConcept,,argument0865,,argument0794,trigger0292,duty0485
-candidatos,,elecciones de delegados de personal,presentar,LegalAgent,,argument0192,,argument0439,trigger0452,duty0486
-candidatos,,miembros del comité de empresa,presentar,LegalAgent,,argument0192,,argument0647,trigger0452,duty0487
-candidatos,,sindicatos de trabajadores,presentar,LegalAgent,,argument0192,,argument0893,trigger0452,duty0488
-candidatos,,coaliciones,presentar,LegalAgent,,argument0192,,argument0222,trigger0452,duty0489
-contrato de trabajo,,causas,suspenderse,LegalConcept,,argument0286,,argument0201,trigger0649,duty0490
-contrato de trabajo,,consignadas,suspenderse,LegalConcept,,argument0286,,argument0268,trigger0649,duty0491
-funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,atribuciones,entenderán,LegalConcept,,argument0505,,argument0174,trigger0207,duty0492
-funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,jurisdicción,entenderán,LegalConcept,,argument0505,,argument0559,trigger0207,duty0493
-funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,autoridad laboral,entenderán,LegalConcept,,argument0505,,argument0177,trigger0207,duty0494
-funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,términos,entenderán,LegalConcept,,argument0505,,argument0965,trigger0207,duty0495
-funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,leyes,entenderán,LegalConcept,,argument0505,,argument0594,trigger0207,duty0496
+trabajadores,,estos plazos,adquirirán,LegalAgent,LegalConcept,argument0933,,argument0481,trigger0040,duty0477
+trabajador,,,se asignará,LegalAgent,LegalConcept,argument0925,,,trigger0521,duty0478
+empresa,,,se podrá proceder,LegalAgent,LegalConcept,argument0445,,,trigger0580,duty0479
+representación de los trabajadores,,,corresponde,LegalConcept,LegalConcept,argument0844,,,trigger0096,duty0480
+convenios colectivos,,,habrán de expresar,LegalConcept,LegalConcept,argument0306,,,trigger0271,duty0481
+resultado del escrutinio,,acta,levantará,LegalConcept,LegalConcept,argument0865,,argument0127,trigger0292,duty0482
+resultado del escrutinio,,modelo normalizado,levantará,LegalConcept,LegalConcept,argument0865,,argument0653,trigger0292,duty0483
+resultado del escrutinio,,incidencias,levantará,LegalConcept,LegalConcept,argument0865,,argument0522,trigger0292,duty0484
+resultado del escrutinio,,protestas,levantará,LegalConcept,LegalConcept,argument0865,,argument0794,trigger0292,duty0485
+candidatos,,elecciones de delegados de personal,presentar,LegalAgent,LegalConcept,argument0192,,argument0439,trigger0452,duty0486
+candidatos,,miembros del comité de empresa,presentar,LegalAgent,LegalConcept,argument0192,,argument0647,trigger0452,duty0487
+candidatos,,sindicatos de trabajadores,presentar,LegalAgent,LegalConcept,argument0192,,argument0893,trigger0452,duty0488
+candidatos,,coaliciones,presentar,LegalAgent,LegalConcept,argument0192,,argument0222,trigger0452,duty0489
+contrato de trabajo,,causas,suspenderse,LegalConcept,LegalConcept,argument0286,,argument0201,trigger0649,duty0490
+contrato de trabajo,,consignadas,suspenderse,LegalConcept,LegalConcept,argument0286,,argument0268,trigger0649,duty0491
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,atribuciones,entenderán,LegalConcept,LegalConcept,argument0505,,argument0174,trigger0207,duty0492
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,jurisdicción,entenderán,LegalConcept,LegalConcept,argument0505,,argument0559,trigger0207,duty0493
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,autoridad laboral,entenderán,LegalConcept,LegalConcept,argument0505,,argument0177,trigger0207,duty0494
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,términos,entenderán,LegalConcept,LegalConcept,argument0505,,argument0965,trigger0207,duty0495
+funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos,,leyes,entenderán,LegalConcept,LegalConcept,argument0505,,argument0594,trigger0207,duty0496
 cedente y el cesionario,representantes legales,,deberán informar,LegalAgent,LegalAgent,argument0208,argument0852,,trigger0163,duty0497
-informe,,,deberá ser evacuado,LegalConcept,,argument0534,,,trigger0145,duty0498
-trabajadores,,,elegirán,LegalAgent,,argument0933,,,trigger0202,duty0499
-parte del contrato,,,está obligada a notificar,LegalConcept,,argument0726,,,trigger0236,duty0500
-empresario,,,deberá informar,LegalAgent,,argument0449,,,trigger0128,duty0501
-distribución,,,deberá respetar,LegalConcept,,argument0406,,,trigger0142,duty0502
-dirección de la empresa,,,deberá comunicar,LegalEntity,,argument0388,,,trigger0113,duty0503
-acuerdos de la comisión,,,requerirán,LegalConcept,,argument0140,,,trigger0502,duty0504
-contrataciones,,,se regirán por,LegalConcept,,argument0276,,,trigger0596,duty0505
-empresario,,copia básica,entregará,LegalAgent,,argument0449,,argument0313,trigger0210,duty0506
-empresario,,contratos,entregará,LegalAgent,,argument0449,,argument0290,trigger0210,duty0507
-contrato,,duración máxima,considerará prorrogado,LegalConcept,,argument0283,,argument0415,trigger0076,duty0508
-contrato,,obra,considerará prorrogado,LegalConcept,,argument0283,,argument0696,trigger0076,duty0509
-contrato,,servicio,considerará prorrogado,LegalConcept,,argument0283,,argument0889,trigger0076,duty0510
-duración,,jornada ordinaria,será,LegalConcept,,argument0410,,argument0556,trigger0610,duty0511
-duración,,trabajo,será,LegalConcept,,argument0410,,argument0949,trigger0610,duty0512
-decisión,,eficacia,tendrá,LegalConcept,,argument0337,,argument0419,trigger0651,duty0513
-decisión,,acuerdos,tendrá,LegalConcept,,argument0337,,argument0139,trigger0651,duty0514
-procedimiento,,,se iniciará,LegalConcept,,argument0776,,,trigger0571,duty0515
-trabajador,,,deberá recibir,LegalAgent,,argument0925,,,trigger0140,duty0516
-órganos,,,habrá de dictarse,LegalEntity,,argument1002,,,trigger0270,duty0517
-empresa,,información,deberá informar,LegalAgent,,argument0445,,argument0531,trigger0128,duty0518
-comisión representativa,,,estará integrada,LegalConcept,,argument0228,,,trigger0221,duty0519
-empresario,,indemnización,podrá dejar de hacerlo,LegalAgent,,argument0449,,argument0529,trigger0369,duty0520
-convenios colectivos,,cláusulas,podrán establecer,LegalConcept,,argument0306,,argument0221,trigger0431,duty0521
-dirección empresarial,,,podrá limitar,LegalEntity,,argument0390,,,trigger0390,duty0522
-trabajadores,,,tienen como deberes básicos,LegalAgent,,argument0933,,,trigger0696,duty0523
-comunicación,,copia,enviará,LegalConcept,,argument0245,,argument0312,trigger0211,duty0524
-regulación,,organizaciones sindicales,hará,LegalConcept,,argument0831,,argument0706,trigger0277,duty0525
-regulación,,asociaciones empresariales,hará,LegalConcept,,argument0831,,argument0170,trigger0277,duty0526
-contratos,,normativa,continuarán rigiéndose,LegalConcept,,argument0290,,argument0675,trigger0090,duty0527
-empresario,,medios,facilitará,LegalAgent,,argument0449,,argument0639,trigger0255,duty0528
+informe,,,deberá ser evacuado,LegalConcept,LegalConcept,argument0534,,,trigger0145,duty0498
+trabajadores,,,elegirán,LegalAgent,LegalConcept,argument0933,,,trigger0202,duty0499
+parte del contrato,,,está obligada a notificar,LegalConcept,LegalConcept,argument0726,,,trigger0236,duty0500
+empresario,,,deberá informar,LegalAgent,LegalConcept,argument0449,,,trigger0128,duty0501
+distribución,,,deberá respetar,LegalConcept,LegalConcept,argument0406,,,trigger0142,duty0502
+dirección de la empresa,,,deberá comunicar,LegalEntity,LegalConcept,argument0388,,,trigger0113,duty0503
+acuerdos de la comisión,,,requerirán,LegalConcept,LegalConcept,argument0140,,,trigger0502,duty0504
+contrataciones,,,se regirán por,LegalConcept,LegalConcept,argument0276,,,trigger0596,duty0505
+empresario,,copia básica,entregará,LegalAgent,LegalConcept,argument0449,,argument0313,trigger0210,duty0506
+empresario,,contratos,entregará,LegalAgent,LegalConcept,argument0449,,argument0290,trigger0210,duty0507
+contrato,,duración máxima,considerará prorrogado,LegalConcept,LegalConcept,argument0283,,argument0415,trigger0076,duty0508
+contrato,,obra,considerará prorrogado,LegalConcept,LegalConcept,argument0283,,argument0696,trigger0076,duty0509
+contrato,,servicio,considerará prorrogado,LegalConcept,LegalConcept,argument0283,,argument0889,trigger0076,duty0510
+duración,,jornada ordinaria,será,LegalConcept,LegalConcept,argument0410,,argument0556,trigger0610,duty0511
+duración,,trabajo,será,LegalConcept,LegalConcept,argument0410,,argument0949,trigger0610,duty0512
+decisión,,eficacia,tendrá,LegalConcept,LegalConcept,argument0337,,argument0419,trigger0651,duty0513
+decisión,,acuerdos,tendrá,LegalConcept,LegalConcept,argument0337,,argument0139,trigger0651,duty0514
+procedimiento,,,se iniciará,LegalConcept,LegalConcept,argument0776,,,trigger0571,duty0515
+trabajador,,,deberá recibir,LegalAgent,LegalConcept,argument0925,,,trigger0140,duty0516
+órganos,,,habrá de dictarse,LegalEntity,LegalConcept,argument1002,,,trigger0270,duty0517
+empresa,,información,deberá informar,LegalAgent,LegalConcept,argument0445,,argument0531,trigger0128,duty0518
+comisión representativa,,,estará integrada,LegalConcept,LegalConcept,argument0228,,,trigger0221,duty0519
+empresario,,indemnización,podrá dejar de hacerlo,LegalAgent,LegalConcept,argument0449,,argument0529,trigger0369,duty0520
+convenios colectivos,,cláusulas,podrán establecer,LegalConcept,LegalConcept,argument0306,,argument0221,trigger0431,duty0521
+dirección empresarial,,,podrá limitar,LegalEntity,LegalConcept,argument0390,,,trigger0390,duty0522
+trabajadores,,,tienen como deberes básicos,LegalAgent,LegalConcept,argument0933,,,trigger0696,duty0523
+comunicación,,copia,enviará,LegalConcept,LegalConcept,argument0245,,argument0312,trigger0211,duty0524
+regulación,,organizaciones sindicales,hará,LegalConcept,LegalConcept,argument0831,,argument0706,trigger0277,duty0525
+regulación,,asociaciones empresariales,hará,LegalConcept,LegalConcept,argument0831,,argument0170,trigger0277,duty0526
+contratos,,normativa,continuarán rigiéndose,LegalConcept,LegalConcept,argument0290,,argument0675,trigger0090,duty0527
+empresario,,medios,facilitará,LegalAgent,LegalConcept,argument0449,,argument0639,trigger0255,duty0528
 empresario,autoridad laboral,,comunicará,LegalAgent,LegalEntity,argument0449,argument0177,,trigger0066,duty0529
-plazo,,realización de dicho texto,era,LegalConcept,,argument0761,,argument0811,trigger0212,duty0530
-trabajador,,derecho preferente al reingreso en las vacantes de igual o similar categoría a la suya que hubiera o se produjeran en la empresa,conserva,LegalAgent,,argument0925,,argument0364,trigger0070,duty0531
-empresario,,trabajadores de la empresa,deberá informar,LegalAgent,,argument0449,,argument0941,trigger0128,duty0532
-empresario,,puestos de trabajo vacantes,deberá informar,LegalAgent,,argument0449,,argument0803,trigger0128,duty0533
-empresario,,"solicitudes de conversión voluntaria de un trabajo a tiempo completo en un trabajo a tiempo parcial y viceversa, o para el incremento del tiempo de trabajo de los trabajadores a tiempo parcial",deberá informar,LegalAgent,,argument0449,,argument0901,trigger0128,duty0534
-número de miembros del comité de empresa,,,se determinará,LegalConcept,,argument0686,,,trigger0543,duty0535
-relaciones laborales de los trabajadores afectados por la sucesión,,"convenio colectivo que en el momento de la transmisión fuere de aplicación en la empresa, centro de trabajo o unidad productiva autónoma transferida",seguirán rigiéndose,LegalConcept,,argument0837,,argument0304,trigger0607,duty0536
-promoción,,elecciones para renovar la representación por conclusión de la duración del mandato,podrá efectuarse,LegalConcept,,argument0788,,argument0440,trigger0376,duty0537
-El Fondo,,,se tendrán en cuenta,LegalEntity,,argument0014,,,trigger0605,duty0538
-El acto de la votación,,,se efectuará,LegalConcept,,argument0018,,,trigger0547,duty0539
-La Comisión Consultiva Nacional de Convenios Colectivos,,,tendrá,LegalEntity,,argument0045,,,trigger0651,duty0540
+plazo,,realización de dicho texto,era,LegalConcept,LegalConcept,argument0761,,argument0811,trigger0212,duty0530
+trabajador,,derecho preferente al reingreso en las vacantes de igual o similar categoría a la suya que hubiera o se produjeran en la empresa,conserva,LegalAgent,LegalConcept,argument0925,,argument0364,trigger0070,duty0531
+empresario,,trabajadores de la empresa,deberá informar,LegalAgent,LegalConcept,argument0449,,argument0941,trigger0128,duty0532
+empresario,,puestos de trabajo vacantes,deberá informar,LegalAgent,LegalConcept,argument0449,,argument0803,trigger0128,duty0533
+empresario,,"solicitudes de conversión voluntaria de un trabajo a tiempo completo en un trabajo a tiempo parcial y viceversa, o para el incremento del tiempo de trabajo de los trabajadores a tiempo parcial",deberá informar,LegalAgent,LegalConcept,argument0449,,argument0901,trigger0128,duty0534
+número de miembros del comité de empresa,,,se determinará,LegalConcept,LegalConcept,argument0686,,,trigger0543,duty0535
+relaciones laborales de los trabajadores afectados por la sucesión,,"convenio colectivo que en el momento de la transmisión fuere de aplicación en la empresa, centro de trabajo o unidad productiva autónoma transferida",seguirán rigiéndose,LegalConcept,LegalConcept,argument0837,,argument0304,trigger0607,duty0536
+promoción,,elecciones para renovar la representación por conclusión de la duración del mandato,podrá efectuarse,LegalConcept,LegalConcept,argument0788,,argument0440,trigger0376,duty0537
+El Fondo,,,se tendrán en cuenta,LegalEntity,LegalConcept,argument0014,,,trigger0605,duty0538
+El acto de la votación,,,se efectuará,LegalConcept,LegalConcept,argument0018,,,trigger0547,duty0539
+La Comisión Consultiva Nacional de Convenios Colectivos,,,tendrá,LegalEntity,LegalConcept,argument0045,,,trigger0651,duty0540
 el empresario,al trabajador,un curso dirigido a facilitar la adaptación a las modificaciones operadas,deberá ofrecer,LegalAgent,LegalAgent,argument0428,argument0148,argument0971,trigger0134,duty0541
 acuerdo,empresa,,será comunicado,LegalConcept,LegalEntity,argument0135,argument0445,,trigger0613,duty0542
 acuerdo,autoridad laboral,,será comunicado,LegalConcept,LegalEntity,argument0135,argument0177,,trigger0613,duty0543
-convenio,,,deroga,LegalConcept,,argument0301,,,trigger0180,duty0544
-mesa electoral,,,cumplirá,LegalEntity,,argument0643,,,trigger0100,duty0545
-indemnización,,contratos,calculará,LegalConcept,,argument0529,,argument0290,trigger0058,duty0546
-cambio de funciones,,,requerirá,LegalConcept,,argument0188,,,trigger0501,duty0547
-progenitor,,,dispondrá,LegalAgent,,argument0786,,,trigger0193,duty0548
-trabajo nocturno,,,tendrá,LegalConcept,,argument0954,,,trigger0651,duty0549
-trabajadores nocturnos y quienes trabajen a turnos,,,deberán gozar,LegalAgent,,argument0947,,,trigger0161,duty0550
-contrato de trabajo,,,podrá suspenderse,LegalConcept,,argument0286,,,trigger0418,duty0551
-empresario,,,está obligado a comunicar,LegalAgent,,argument0449,,,trigger0237,duty0552
-cambio de puesto de trabajo,,,se llevará a cabo,LegalConcept,,argument0189,,,trigger0573,duty0553
-comité de empresa,,,tendrá,LegalEntity,,argument0231,,,trigger0651,duty0554
-,trabajadores,,designarán,,LegalAgent,,argument0933,,trigger0184,duty0555
-artículo 56.5,,,será de aplicación,LegalConcept,,argument0163,,,trigger0614,duty0556
-Fondo de Garantía Salarial,,,solicitará,LegalEntity,,argument0041,,,trigger0642,duty0557
-Gobierno,,salarios,se fijará,LegalEntity,,argument0042,,argument0881,trigger0562,duty0558
-periodo de descanso,,,tendrá,LegalConcept,,argument0738,,,trigger0651,duty0559
-jornada de los trabajadores a tiempo parcial,,,se registrará,LegalConcept,,argument0554,,,trigger0597,duty0560
-comisión representativa de los trabajadores,,,deberá quedar constituida,LegalEntity,,argument0229,,,trigger0138,duty0561
-concreción del modo de disfrute del permiso,,,se fijará,LegalConcept,,argument0255,,,trigger0562,duty0562
-consulta,,,deberá realizarse,LegalConcept,,argument0271,,,trigger0139,duty0563
-copia básica,,,contendrá,LegalConcept,,argument0313,,,trigger0087,duty0564
-censo de electores y elegibles,,,se distribuirá,LegalConcept,,argument0209,,,trigger0546,duty0565
-trabajadores,,,adquirirán,LegalAgent,,argument0933,,,trigger0040,duty0566
+convenio,,,deroga,LegalConcept,LegalConcept,argument0301,,,trigger0180,duty0544
+mesa electoral,,,cumplirá,LegalEntity,LegalConcept,argument0643,,,trigger0100,duty0545
+indemnización,,contratos,calculará,LegalConcept,LegalConcept,argument0529,,argument0290,trigger0058,duty0546
+cambio de funciones,,,requerirá,LegalConcept,LegalConcept,argument0188,,,trigger0501,duty0547
+progenitor,,,dispondrá,LegalAgent,LegalConcept,argument0786,,,trigger0193,duty0548
+trabajo nocturno,,,tendrá,LegalConcept,LegalConcept,argument0954,,,trigger0651,duty0549
+trabajadores nocturnos y quienes trabajen a turnos,,,deberán gozar,LegalAgent,LegalConcept,argument0947,,,trigger0161,duty0550
+contrato de trabajo,,,podrá suspenderse,LegalConcept,LegalConcept,argument0286,,,trigger0418,duty0551
+empresario,,,está obligado a comunicar,LegalAgent,LegalConcept,argument0449,,,trigger0237,duty0552
+cambio de puesto de trabajo,,,se llevará a cabo,LegalConcept,LegalConcept,argument0189,,,trigger0573,duty0553
+comité de empresa,,,tendrá,LegalEntity,LegalConcept,argument0231,,,trigger0651,duty0554
+,trabajadores,,designarán,LegalConcept,LegalAgent,,argument0933,,trigger0184,duty0555
+artículo 56.5,,,será de aplicación,LegalConcept,LegalConcept,argument0163,,,trigger0614,duty0556
+Fondo de Garantía Salarial,,,solicitará,LegalEntity,LegalConcept,argument0041,,,trigger0642,duty0557
+Gobierno,,salarios,se fijará,LegalEntity,LegalConcept,argument0042,,argument0881,trigger0562,duty0558
+periodo de descanso,,,tendrá,LegalConcept,LegalConcept,argument0738,,,trigger0651,duty0559
+jornada de los trabajadores a tiempo parcial,,,se registrará,LegalConcept,LegalConcept,argument0554,,,trigger0597,duty0560
+comisión representativa de los trabajadores,,,deberá quedar constituida,LegalEntity,LegalConcept,argument0229,,,trigger0138,duty0561
+concreción del modo de disfrute del permiso,,,se fijará,LegalConcept,LegalConcept,argument0255,,,trigger0562,duty0562
+consulta,,,deberá realizarse,LegalConcept,LegalConcept,argument0271,,,trigger0139,duty0563
+copia básica,,,contendrá,LegalConcept,LegalConcept,argument0313,,,trigger0087,duty0564
+censo de electores y elegibles,,,se distribuirá,LegalConcept,LegalConcept,argument0209,,,trigger0546,duty0565
+trabajadores,,,adquirirán,LegalAgent,LegalConcept,argument0933,,,trigger0040,duty0566
 empresario,trabajador,,deberá informar,LegalAgent,LegalAgent,argument0449,argument0925,,trigger0128,duty0567
-empresario,,Registro salarial,deberá incluir,LegalAgent,,argument0449,,argument0105,trigger0127,duty0568
+empresario,,Registro salarial,deberá incluir,LegalAgent,LegalConcept,argument0449,,argument0105,trigger0127,duty0568
 autoridad laboral,empresa,,verificará,LegalEntity,LegalAgent,argument0177,argument0445,,trigger0711,duty0569
-Gobierno,,,fijará,LegalEntity,,argument0042,,,trigger0257,duty0570
-acuerdo,,condiciones de trabajo,deberá determinar,LegalConcept,,argument0135,,argument0261,trigger0118,duty0571
-acuerdo,,duración,deberá determinar,LegalConcept,,argument0135,,argument0410,trigger0118,duty0572
-los salarios de tramitación,,las cuotas de la Seguridad Social correspondientes a dichos salarios,serán con cargo,LegalConcept,,argument0617,,argument0579,trigger0626,duty0573
-despido colectivo,,,se entenderá por,LegalConcept,,argument0375,,,trigger0553,duty0574
-La apertura del periodo de consultas y las posiciones de las partes,,a la autoridad laboral,deberán ser notificadas,LegalConcept,,argument0047,,argument0114,trigger0173,duty0575
+Gobierno,,,fijará,LegalEntity,LegalConcept,argument0042,,,trigger0257,duty0570
+acuerdo,,condiciones de trabajo,deberá determinar,LegalConcept,LegalConcept,argument0135,,argument0261,trigger0118,duty0571
+acuerdo,,duración,deberá determinar,LegalConcept,LegalConcept,argument0135,,argument0410,trigger0118,duty0572
+los salarios de tramitación,,las cuotas de la Seguridad Social correspondientes a dichos salarios,serán con cargo,LegalConcept,LegalConcept,argument0617,,argument0579,trigger0626,duty0573
+despido colectivo,,,se entenderá por,LegalConcept,LegalConcept,argument0375,,,trigger0553,duty0574
+La apertura del periodo de consultas y las posiciones de las partes,,a la autoridad laboral,deberán ser notificadas,LegalConcept,LegalConcept,argument0047,,argument0114,trigger0173,duty0575
 La oficina pública dependiente de la autoridad laboral,árbrito,,dará traslado,LegalEntity,LegalAgent,argument0062,argument1000,,trigger0106,duty0576
 La oficina pública dependiente de la autoridad laboral,escrito,,dará traslado,LegalEntity,LegalAgent,argument0062,argument0472,,trigger0106,duty0577
 La oficina pública dependiente de la autoridad laboral,copia del expediente electoral administrativo,,dará traslado,LegalEntity,LegalAgent,argument0062,argument0315,,trigger0106,duty0578
-Fondo,,,personará,LegalEntity,,argument0040,,,trigger0354,duty0579
-acuerdos,,oficina pública,comunicarse,LegalConcept,,argument0139,,argument0700,trigger0065,duty0580
-acuerdos,,autoridad laboral,comunicarse,LegalConcept,,argument0139,,argument0177,trigger0065,duty0581
-resultado de la votación,,tablones de anuncios,publicará,LegalConcept,,argument0864,,argument0917,trigger0471,duty0582
-trabajadores,,,realizasen,LegalAgent,,argument0933,,,trigger0491,duty0583
-autoridad laboral,,,resolverán,LegalEntity,,argument0177,,,trigger0505,duty0584
-decisión empresarial,,,impugnarse,LegalEntity,,argument0339,,,trigger0282,duty0585
-juez,,,prorrogar,LegalAgent,,argument0558,,,trigger0469,duty0586
-empresario,,,deberá acompañar,LegalAgent,,argument0449,,,trigger0110,duty0587
-comisión negociadora,,,entenderá válidamente constituida,LegalConcept,,argument0226,,,trigger0206,duty0588
-constitución del comité intercentros,,,guardará,LegalConcept,,argument0269,,,trigger0266,duty0589
-convenios colectivos,,,han de formalizarse,LegalConcept,,argument0306,,,trigger0276,duty0590
-se,,,procederá a constituir,,,argument0885,,,trigger0460,duty0591
+Fondo,,,personará,LegalEntity,LegalConcept,argument0040,,,trigger0354,duty0579
+acuerdos,,oficina pública,comunicarse,LegalConcept,LegalConcept,argument0139,,argument0700,trigger0065,duty0580
+acuerdos,,autoridad laboral,comunicarse,LegalConcept,LegalConcept,argument0139,,argument0177,trigger0065,duty0581
+resultado de la votación,,tablones de anuncios,publicará,LegalConcept,LegalConcept,argument0864,,argument0917,trigger0471,duty0582
+trabajadores,,,realizasen,LegalAgent,LegalConcept,argument0933,,,trigger0491,duty0583
+autoridad laboral,,,resolverán,LegalEntity,LegalConcept,argument0177,,,trigger0505,duty0584
+decisión empresarial,,,impugnarse,LegalEntity,LegalConcept,argument0339,,,trigger0282,duty0585
+juez,,,prorrogar,LegalAgent,LegalConcept,argument0558,,,trigger0469,duty0586
+empresario,,,deberá acompañar,LegalAgent,LegalConcept,argument0449,,,trigger0110,duty0587
+comisión negociadora,,,entenderá válidamente constituida,LegalConcept,LegalConcept,argument0226,,,trigger0206,duty0588
+constitución del comité intercentros,,,guardará,LegalConcept,LegalConcept,argument0269,,,trigger0266,duty0589
+convenios colectivos,,,han de formalizarse,LegalConcept,LegalConcept,argument0306,,,trigger0276,duty0590
+se,,,procederá a constituir,LegalConcept,LegalConcept,argument0885,,,trigger0460,duty0591
 empresa,puesto de trabajo,,tendrá,LegalAgent,LegalAgent,argument0445,argument0800,,trigger0651,duty0592
 empresario,componentes de la mesa electoral,censo laboral,remitirá,LegalAgent,LegalAgent,argument0449,argument0241,argument0210,trigger0500,duty0593
-Quienes presten servicios en trabajos fijos-discontinuos y los trabajadores vinculados por contrato de duración determinada,,,estarán representados,LegalAgent,,argument0102,,,trigger0234,duty0594
-fiestas,,,se respetarán,LegalConcept,,argument0501,,,trigger0601,duty0595
-decisión extintiva,,,se considerará,LegalConcept,,argument0340,,,trigger0530,duty0596
-concreción horaria y la determinación de los permisos y reducciones de jornada,,,corresponderán,LegalConcept,,argument0257,,,trigger0098,duty0597
-relaciones laborales de carácter especial,,,considerarán,LegalConcept,,argument0836,,,trigger0078,duty0598
-autoridad laboral,,,velará,LegalEntity,,argument0177,,,trigger0707,duty0599
-mesa electoral,,,cumplirá,LegalEntity,,argument0643,,,trigger0100,duty0600
-árbitros,,,deberán abstenerse,LegalAgent,,argument0999,,,trigger0151,duty0601
-cedente y el cesionario,,,habrán de proporcionar,LegalEntity,,argument0208,,,trigger0273,duty0602
+Quienes presten servicios en trabajos fijos-discontinuos y los trabajadores vinculados por contrato de duración determinada,,,estarán representados,LegalAgent,LegalConcept,argument0102,,,trigger0234,duty0594
+fiestas,,,se respetarán,LegalConcept,LegalConcept,argument0501,,,trigger0601,duty0595
+decisión extintiva,,,se considerará,LegalConcept,LegalConcept,argument0340,,,trigger0530,duty0596
+concreción horaria y la determinación de los permisos y reducciones de jornada,,,corresponderán,LegalConcept,LegalConcept,argument0257,,,trigger0098,duty0597
+relaciones laborales de carácter especial,,,considerarán,LegalConcept,LegalConcept,argument0836,,,trigger0078,duty0598
+autoridad laboral,,,velará,LegalEntity,LegalConcept,argument0177,,,trigger0707,duty0599
+mesa electoral,,,cumplirá,LegalEntity,LegalConcept,argument0643,,,trigger0100,duty0600
+árbitros,,,deberán abstenerse,LegalAgent,LegalConcept,argument0999,,,trigger0151,duty0601
+cedente y el cesionario,,,habrán de proporcionar,LegalEntity,LegalConcept,argument0208,,,trigger0273,duty0602
 contratación de trabajadores,otra empresa,empresas de trabajo temporal,podrá efectuarse,LegalConcept,LegalEntity,argument0277,argument0709,argument0458,trigger0376,duty0603
-contrato de trabajo,,causas Excedencia forzosa,podrá suspenderse,LegalConcept,,argument0286,,argument0203,trigger0418,duty0604
-periodo,,dicho cómputo,Se excluyen,LegalConcept,,argument0736,,argument0382,trigger0020,duty0605
-periodo,,seis semanas posteriores al parto,Se excluyen,LegalConcept,,argument0736,,argument0887,trigger0020,duty0606
-periodo,,suspensión obligatoria del contrato de la madre biológica,Se excluyen,LegalConcept,,argument0736,,argument0914,trigger0020,duty0607
-contrato de trabajo,,causas Ejercicio de cargo público representativo,podrá suspenderse,LegalConcept,,argument0286,,argument0202,trigger0418,duty0608
-contrato para la formación y el aprendizaje,,reglas,se regirá,LegalConcept,,argument0289,,argument0830,trigger0593,duty0609
-contrato para la formación y el aprendizaje,,cualificación o competencia profesional adquirida a través del contrato para la formación y el aprendizaje,se regirá,LegalConcept,,argument0289,,argument0325,trigger0593,duty0610
-contrato para la formación y el aprendizaje,,"términos previstos en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, y en su normativa de desarrollo",se regirá,LegalConcept,,argument0289,,argument0968,trigger0593,duty0611
-mesa electoral,,,cumplirá,LegalEntity,,argument0643,,,trigger0100,duty0612
+contrato de trabajo,,causas Excedencia forzosa,podrá suspenderse,LegalConcept,LegalConcept,argument0286,,argument0203,trigger0418,duty0604
+periodo,,dicho cómputo,Se excluyen,LegalConcept,LegalConcept,argument0736,,argument0382,trigger0020,duty0605
+periodo,,seis semanas posteriores al parto,Se excluyen,LegalConcept,LegalConcept,argument0736,,argument0887,trigger0020,duty0606
+periodo,,suspensión obligatoria del contrato de la madre biológica,Se excluyen,LegalConcept,LegalConcept,argument0736,,argument0914,trigger0020,duty0607
+contrato de trabajo,,causas Ejercicio de cargo público representativo,podrá suspenderse,LegalConcept,LegalConcept,argument0286,,argument0202,trigger0418,duty0608
+contrato para la formación y el aprendizaje,,reglas,se regirá,LegalConcept,LegalConcept,argument0289,,argument0830,trigger0593,duty0609
+contrato para la formación y el aprendizaje,,cualificación o competencia profesional adquirida a través del contrato para la formación y el aprendizaje,se regirá,LegalConcept,LegalConcept,argument0289,,argument0325,trigger0593,duty0610
+contrato para la formación y el aprendizaje,,"términos previstos en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, y en su normativa de desarrollo",se regirá,LegalConcept,LegalConcept,argument0289,,argument0968,trigger0593,duty0611
+mesa electoral,,,cumplirá,LegalEntity,LegalConcept,argument0643,,,trigger0100,duty0612
 empresarios,contratos,,habrán de notificar,LegalAgent,LegalConcept,argument0455,argument0290,,trigger0272,duty0613
-importe,,indemnización,calculará,LegalConcept,,argument0516,,argument0529,trigger0058,duty0614
-periodo o periodos,,disfrute,fijará,LegalConcept,,argument0742,,argument0394,trigger0257,duty0615
+importe,,indemnización,calculará,LegalConcept,LegalConcept,argument0516,,argument0529,trigger0058,duty0614
+periodo o periodos,,disfrute,fijará,LegalConcept,LegalConcept,argument0742,,argument0394,trigger0257,duty0615
 sistema de representación proporcional,lista,número de puestos,atribuirá,LegalConcept,LegalConcept,argument0896,argument0600,argument0687,trigger0051,duty0616
 acuerdo,comisión paritaria,,deberá ser notificado,LegalConcept,LegalConcept,argument0135,argument0227,,trigger0148,duty0617
 contratista o subcontratista,empresa principal,,deberán informar,LegalAgent,LegalEntity,argument0280,argument0447,,trigger0163,duty0618
-representantes de los trabajadores,,,paralizará,LegalAgent,,argument0850,,,trigger0349,duty0619
-intervención como interlocutores,,,corresponderá,LegalConcept,,argument0548,,,trigger0097,duty0620
-candidato o candidatura,,,nombrar,LegalAgent,,argument0191,,,trigger0331,duty0621
-derechos,,,corresponderá,LegalConcept,,argument0365,,,trigger0097,duty0622
-razones,,,Se considerarán,LegalConcept,,argument0808,,,trigger0018,duty0623
-informes,,comité de empresa,tendrán que elaborarse,LegalConcept,,argument0536,,argument0231,trigger0689,duty0624
-Fondo,,,abonar,LegalEntity,,argument0040,,,trigger0032,duty0625
+representantes de los trabajadores,,,paralizará,LegalAgent,LegalConcept,argument0850,,,trigger0349,duty0619
+intervención como interlocutores,,,corresponderá,LegalConcept,LegalConcept,argument0548,,,trigger0097,duty0620
+candidato o candidatura,,,nombrar,LegalAgent,LegalConcept,argument0191,,,trigger0331,duty0621
+derechos,,,corresponderá,LegalConcept,LegalConcept,argument0365,,,trigger0097,duty0622
+razones,,,Se considerarán,LegalConcept,LegalConcept,argument0808,,,trigger0018,duty0623
+informes,,comité de empresa,tendrán que elaborarse,LegalConcept,LegalConcept,argument0536,,argument0231,trigger0689,duty0624
+Fondo,,,abonar,LegalEntity,LegalConcept,argument0040,,,trigger0032,duty0625
 autoridad laboral,entidad gestora,,dará traslado,LegalEntity,LegalEntity,argument0177,argument0468,,trigger0106,duty0626
-contrato para la formación y el aprendizaje,,,se regirá,LegalConcept,,argument0289,,,trigger0593,duty0627
-oficina pública,,,requerirá,LegalEntity,,argument0700,,,trigger0501,duty0628
-duración,,,se ampliará,LegalConcept,,argument0410,,,trigger0517,duty0629
-duración,,,será,LegalConcept,,argument0410,,,trigger0610,duty0630
-empresa,,,deberá informar,LegalAgent,,argument0445,,,trigger0128,duty0631
+contrato para la formación y el aprendizaje,,,se regirá,LegalConcept,LegalConcept,argument0289,,,trigger0593,duty0627
+oficina pública,,,requerirá,LegalEntity,LegalConcept,argument0700,,,trigger0501,duty0628
+duración,,,se ampliará,LegalConcept,LegalConcept,argument0410,,,trigger0517,duty0629
+duración,,,será,LegalConcept,LegalConcept,argument0410,,,trigger0610,duty0630
+empresa,,,deberá informar,LegalAgent,LegalConcept,argument0445,,,trigger0128,duty0631
 empresa,trabajador,,pasar,LegalAgent,LegalAgent,argument0445,argument0925,,trigger0350,duty0632
-mesa,,,Publicará,LegalEntity,,argument0642,,,trigger0011,duty0633
+mesa,,,Publicará,LegalEntity,LegalConcept,argument0642,,,trigger0011,duty0633
 empresario principal,contratistas,,responderá solidariamente,LegalAgent,LegalAgent,argument0450,argument0281,,trigger0508,duty0634
 empresario principal,subcontratistas,,responderá solidariamente,LegalAgent,LegalAgent,argument0450,argument0904,,trigger0508,duty0635
-trabajador,,,se deducirá,LegalAgent,,argument0925,,,trigger0542,duty0636
-empresa,,,se constituirá,LegalAgent,,argument0445,,,trigger0535,duty0637
-laudo arbitral,,,podrá impugnarse,LegalConcept,,argument0590,,,trigger0388,duty0638
-contrato de trabajo,,"causas económicas, técnicas, organizativas o de producción",podrá suspenderse,LegalConcept,,argument0286,,argument0205,trigger0418,duty0639
-reingreso,,,deberá ser solicitado,LegalConcept,,argument0833,,,trigger0149,duty0640
-contrato de trabajo,,causas Incapacidad temporal,podrá suspenderse,LegalConcept,,argument0286,,argument0204,trigger0418,duty0641
-trabajadores,,las órdenes e instrucciones del empresario,tienen como deberes básicos,LegalAgent,,argument0933,,argument0588,trigger0696,duty0642
-la duración del periodo de prueba,,,no podrá exceder de,LegalConcept,,argument0567,,,trigger0312,duty0643
-Igual ampliación,,"en el supuesto de nacimiento, adopción, guarda con fines de adopción o acogimiento múltiple por cada hijo o hija distinta del primero",procederá,LegalConcept,,argument0044,,argument0465,trigger0459,duty0644
-trabajador,,horas complementarias,deberá conocer,LegalAgent,,argument0925,,argument0512,trigger0115,duty0645
-contrato de trabajo,,causas,podrá suspenderse,LegalConcept,,argument0286,,argument0201,trigger0418,duty0646
-contratos de duración determinada,,plazo máximo de duración,se entenderán prorrogados,LegalConcept,,argument0291,,argument0763,trigger0556,duty0647
+trabajador,,,se deducirá,LegalAgent,LegalConcept,argument0925,,,trigger0542,duty0636
+empresa,,,se constituirá,LegalAgent,LegalConcept,argument0445,,,trigger0535,duty0637
+laudo arbitral,,,podrá impugnarse,LegalConcept,LegalConcept,argument0590,,,trigger0388,duty0638
+contrato de trabajo,,"causas económicas, técnicas, organizativas o de producción",podrá suspenderse,LegalConcept,LegalConcept,argument0286,,argument0205,trigger0418,duty0639
+reingreso,,,deberá ser solicitado,LegalConcept,LegalConcept,argument0833,,,trigger0149,duty0640
+contrato de trabajo,,causas Incapacidad temporal,podrá suspenderse,LegalConcept,LegalConcept,argument0286,,argument0204,trigger0418,duty0641
+trabajadores,,las órdenes e instrucciones del empresario,tienen como deberes básicos,LegalAgent,LegalConcept,argument0933,,argument0588,trigger0696,duty0642
+la duración del periodo de prueba,,,no podrá exceder de,LegalConcept,LegalConcept,argument0567,,,trigger0312,duty0643
+Igual ampliación,,"en el supuesto de nacimiento, adopción, guarda con fines de adopción o acogimiento múltiple por cada hijo o hija distinta del primero",procederá,LegalConcept,LegalConcept,argument0044,,argument0465,trigger0459,duty0644
+trabajador,,horas complementarias,deberá conocer,LegalAgent,LegalConcept,argument0925,,argument0512,trigger0115,duty0645
+contrato de trabajo,,causas,podrá suspenderse,LegalConcept,LegalConcept,argument0286,,argument0201,trigger0418,duty0646
+contratos de duración determinada,,plazo máximo de duración,se entenderán prorrogados,LegalConcept,LegalConcept,argument0291,,argument0763,trigger0556,duty0647
 infracciones,empresario,texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social,prescribirán,LegalConcept,LegalAgent,argument0537,argument0449,argument0919,trigger0451,duty0648
 dirección de la empresa,trabajadores,,deberá comunicar,LegalEntity,LegalAgent,argument0388,argument0933,,trigger0113,duty0649
 dirección de la empresa,representantes,,deberá comunicar,LegalEntity,LegalAgent,argument0388,argument0849,,trigger0113,duty0650
-tratamiento de la información facilitada,,,estará sometido,LegalConcept,,argument0962,,,trigger0227,duty0651
-empresa,,calendario laboral,elaborará,LegalAgent,,argument0445,,argument0185,trigger0201,duty0652
-disposiciones reglamentarias,,,desarrollarán,LegalEntity,,argument0403,,,trigger0182,duty0653
+tratamiento de la información facilitada,,,estará sometido,LegalConcept,LegalConcept,argument0962,,,trigger0227,duty0651
+empresa,,calendario laboral,elaborará,LegalAgent,LegalConcept,argument0445,,argument0185,trigger0201,duty0652
+disposiciones reglamentarias,,,desarrollarán,LegalEntity,LegalConcept,argument0403,,,trigger0182,duty0653
 empresa,representantes legales,,deberá informar,LegalAgent,LegalAgent,argument0445,argument0852,,trigger0128,duty0654
-convenios colectivos,,,habrán de expresar,LegalConcept,,argument0306,,,trigger0271,duty0655
-En las empresas o centros de trabajo,,,se pondrá a disposición de,LegalConcept,,argument0034,,,trigger0586,duty0656
+convenios colectivos,,,habrán de expresar,LegalConcept,LegalConcept,argument0306,,,trigger0271,duty0655
+En las empresas o centros de trabajo,,,se pondrá a disposición de,LegalConcept,LegalConcept,argument0034,,,trigger0586,duty0656
 se,trabajadores,sistema de impartición,desarrollará,LegalConcept,LegalAgent,argument0885,argument0933,argument0895,trigger0181,duty0657
 se,trabajadores,características de la formación,desarrollará,LegalConcept,LegalAgent,argument0885,argument0933,argument0195,trigger0181,duty0658
-empresario,,,deberá informar,LegalAgent,,argument0449,,,trigger0128,duty0659
-regulación,,,tendrá,LegalConcept,,argument0831,,,trigger0651,duty0660
-intervención,,,autorizará,LegalConcept,,argument0547,,,trigger0054,duty0661
-elección,,,ajustará,LegalConcept,,argument0441,,,trigger0043,duty0662
-miembros del comité de empresa y los delegados de personal,,,tendrán,LegalEntity,,argument0649,,,trigger0676,duty0663
-incumplimiento de la obligación,,,podrá dar lugar,LegalConcept,,argument0525,,,trigger0368,duty0664
-acuerdo,,,requerirá,LegalConcept,,argument0135,,,trigger0501,duty0665
-contrato de relevo,,,ajustará,LegalConcept,,argument0285,,,trigger0043,duty0666
-empresarios,,,responderán,LegalAgent,,argument0455,,,trigger0509,duty0667
-"apartados 4, 5, y 6 del artículo 48",,,serán de aplicación,LegalConcept,,argument0154,,,trigger0627,duty0668
-disposiciones legales y reglamentarias,,,se aplicarán,LegalConcept,,argument0402,,,trigger0519,duty0669
-empresa,,,podrá limitar,LegalAgent,,argument0445,,,trigger0390,duty0670
-Los expedientes de regulación de empleo,,,se regirán,LegalConcept,,argument0087,,,trigger0595,duty0671
+empresario,,,deberá informar,LegalAgent,LegalConcept,argument0449,,,trigger0128,duty0659
+regulación,,,tendrá,LegalConcept,LegalConcept,argument0831,,,trigger0651,duty0660
+intervención,,,autorizará,LegalConcept,LegalConcept,argument0547,,,trigger0054,duty0661
+elección,,,ajustará,LegalConcept,LegalConcept,argument0441,,,trigger0043,duty0662
+miembros del comité de empresa y los delegados de personal,,,tendrán,LegalEntity,LegalConcept,argument0649,,,trigger0676,duty0663
+incumplimiento de la obligación,,,podrá dar lugar,LegalConcept,LegalConcept,argument0525,,,trigger0368,duty0664
+acuerdo,,,requerirá,LegalConcept,LegalConcept,argument0135,,,trigger0501,duty0665
+contrato de relevo,,,ajustará,LegalConcept,LegalConcept,argument0285,,,trigger0043,duty0666
+empresarios,,,responderán,LegalAgent,LegalConcept,argument0455,,,trigger0509,duty0667
+"apartados 4, 5, y 6 del artículo 48",,,serán de aplicación,LegalConcept,LegalConcept,argument0154,,,trigger0627,duty0668
+disposiciones legales y reglamentarias,,,se aplicarán,LegalConcept,LegalConcept,argument0402,,,trigger0519,duty0669
+empresa,,,podrá limitar,LegalAgent,LegalConcept,argument0445,,,trigger0390,duty0670
+Los expedientes de regulación de empleo,,,se regirán,LegalConcept,LegalConcept,argument0087,,,trigger0595,duty0671
 La decisión sobre la modificación colectiva de las condiciones de trabajo,los trabajadores,,será notificada,LegalConcept,LegalAgent,argument0051,argument0619,,trigger0619,duty0672
-trabajadores,,,tienen como deberes básicos,LegalAgent,,argument0933,,,trigger0696,duty0673
-dicho escrito,,extremos,se consignarán,LegalConcept,,argument0384,,argument0493,trigger0534,duty0674
-dicho escrito,,Número y clasificación profesional,se consignarán,LegalConcept,,argument0384,,argument0096,trigger0534,duty0675
-lista de electores,,,se hará pública,LegalConcept,,argument0602,,,trigger0566,duty0676
-Lo establecido en las letras anteriores,,,será de aplicación,LegalConcept,,argument0080,,,trigger0614,duty0677
-mesa,,,será,LegalEntity,,argument0642,,,trigger0610,duty0678
-regulación,,relaciones laborales,respetará,LegalConcept,,argument0831,,argument0835,trigger0506,duty0679
-persona trabajadora,,,deberá preavisar,LegalAgent,,argument0751,,,trigger0136,duty0680
-trabajador,,,deberá ser informado,LegalAgent,,argument0925,,,trigger0146,duty0681
-comité,,puestos,serán repartidos,LegalConcept,,argument0230,,argument0801,trigger0634,duty0682
-excedencia forzosa,,puesto,se concederá,LegalConcept,,argument0484,,argument0799,trigger0526,duty0683
-excedencia forzosa,,cómputo,se concederá,LegalConcept,,argument0484,,argument0333,trigger0526,duty0684
-excedencia forzosa,,antigüedad,se concederá,LegalConcept,,argument0484,,argument0152,trigger0526,duty0685
-empresario,,retribución,está obligado a pagar,LegalAgent,,argument0449,,argument0869,trigger0241,duty0686
-empresario,,,está obligado a garantizar,LegalAgent,,argument0449,,,trigger0238,duty0687
-trabajadores,,,tienen como deberes básicos,LegalAgent,,argument0933,,,trigger0696,duty0688
+trabajadores,,,tienen como deberes básicos,LegalAgent,LegalConcept,argument0933,,,trigger0696,duty0673
+dicho escrito,,extremos,se consignarán,LegalConcept,LegalConcept,argument0384,,argument0493,trigger0534,duty0674
+dicho escrito,,Número y clasificación profesional,se consignarán,LegalConcept,LegalConcept,argument0384,,argument0096,trigger0534,duty0675
+lista de electores,,,se hará pública,LegalConcept,LegalConcept,argument0602,,,trigger0566,duty0676
+Lo establecido en las letras anteriores,,,será de aplicación,LegalConcept,LegalConcept,argument0080,,,trigger0614,duty0677
+mesa,,,será,LegalEntity,LegalConcept,argument0642,,,trigger0610,duty0678
+regulación,,relaciones laborales,respetará,LegalConcept,LegalConcept,argument0831,,argument0835,trigger0506,duty0679
+persona trabajadora,,,deberá preavisar,LegalAgent,LegalConcept,argument0751,,,trigger0136,duty0680
+trabajador,,,deberá ser informado,LegalAgent,LegalConcept,argument0925,,,trigger0146,duty0681
+comité,,puestos,serán repartidos,LegalConcept,LegalConcept,argument0230,,argument0801,trigger0634,duty0682
+excedencia forzosa,,puesto,se concederá,LegalConcept,LegalConcept,argument0484,,argument0799,trigger0526,duty0683
+excedencia forzosa,,cómputo,se concederá,LegalConcept,LegalConcept,argument0484,,argument0333,trigger0526,duty0684
+excedencia forzosa,,antigüedad,se concederá,LegalConcept,LegalConcept,argument0484,,argument0152,trigger0526,duty0685
+empresario,,retribución,está obligado a pagar,LegalAgent,LegalConcept,argument0449,,argument0869,trigger0241,duty0686
+empresario,,,está obligado a garantizar,LegalAgent,LegalConcept,argument0449,,,trigger0238,duty0687
+trabajadores,,,tienen como deberes básicos,LegalAgent,LegalConcept,argument0933,,,trigger0696,duty0688
 empresario,trabajadores,,conservará,LegalAgent,LegalAgent,argument0449,argument0933,,trigger0072,duty0689
-periodo de consultas,,,deberá versar,LegalConcept,,argument0737,,,trigger0150,duty0690
-laudo,,impugnación del proceso electoral,será escrito y razonado,LegalConcept,,argument0589,,argument0520,trigger0616,duty0691
-laudo,,registro del acta,será escrito y razonado,LegalConcept,,argument0589,,argument0825,trigger0616,duty0692
-"Los representantes de la Administración, así como los de las organizaciones sindicales y de las asociaciones empresariales",,la copia básica de los contratos,observarán,LegalEntity,,argument0089,,argument0564,trigger0338,duty0693
+periodo de consultas,,,deberá versar,LegalConcept,LegalConcept,argument0737,,,trigger0150,duty0690
+laudo,,impugnación del proceso electoral,será escrito y razonado,LegalConcept,LegalConcept,argument0589,,argument0520,trigger0616,duty0691
+laudo,,registro del acta,será escrito y razonado,LegalConcept,LegalConcept,argument0589,,argument0825,trigger0616,duty0692
+"Los representantes de la Administración, así como los de las organizaciones sindicales y de las asociaciones empresariales",,la copia básica de los contratos,observarán,LegalEntity,LegalConcept,argument0089,,argument0564,trigger0338,duty0693
 La reducción de jornada contemplada en este apartado,"el otro progenitor, adoptante, guardador o acogedor",,constituye,LegalConcept,LegalAgent,argument0064,argument0431,,trigger0083,duty0694
-contrato de trabajo,,causas,podrá suspenderse,LegalConcept,,argument0286,,argument0201,trigger0418,duty0695
+contrato de trabajo,,causas,podrá suspenderse,LegalConcept,LegalConcept,argument0286,,argument0201,trigger0418,duty0695
 oficina,registro del acta,contenido del laudo,procederá,LegalEntity,LegalConcept,argument0698,argument0825,argument0275,trigger0459,duty0696
 oficina,denegación,contenido del laudo,procederá,LegalEntity,LegalConcept,argument0698,argument0354,argument0275,trigger0459,duty0697
-empresa,,,podrá limitar,LegalAgent,,argument0445,,,trigger0390,duty0698
-empresa,,,podrá recibir,LegalAgent,,argument0445,,,trigger0400,duty0699
-duración del permiso,,incrementará,se incrementará,LegalConcept,,argument0414,,argument0523,trigger0569,duty0700
-listas,,contener,deberán contener,LegalConcept,,argument0603,,argument0273,trigger0155,duty0701
-comisión representativa,,,deberá quedar constituida,LegalEntity,,argument0228,,,trigger0138,duty0702
+empresa,,,podrá limitar,LegalAgent,LegalConcept,argument0445,,,trigger0390,duty0698
+empresa,,,podrá recibir,LegalAgent,LegalConcept,argument0445,,,trigger0400,duty0699
+duración del permiso,,incrementará,se incrementará,LegalConcept,LegalConcept,argument0414,,argument0523,trigger0569,duty0700
+listas,,contener,deberán contener,LegalConcept,LegalConcept,argument0603,,argument0273,trigger0155,duty0701
+comisión representativa,,,deberá quedar constituida,LegalEntity,LegalConcept,argument0228,,,trigger0138,duty0702
 convocatoria,empresario,,se comunicará,LegalConcept,LegalAgent,argument0311,argument0449,,trigger0525,duty0703
-original del acta,,papeletas de votos nulos o impugnados por los interventores,serán presentadas,LegalConcept,,argument0708,,argument0723,trigger0632,duty0704
-original del acta,,acta de constitución de la mesa,serán presentadas,LegalConcept,,argument0708,,argument0128,trigger0632,duty0705
-convenios colectivos,,,constituyen,LegalConcept,,argument0306,,,trigger0084,duty0706
-negociación colectiva,,,pactarán,LegalConcept,,argument0668,,,trigger0348,duty0707
-electores de menor edad,,,actuará,LegalConcept,,argument0443,,,trigger0036,duty0708
+original del acta,,papeletas de votos nulos o impugnados por los interventores,serán presentadas,LegalConcept,LegalConcept,argument0708,,argument0723,trigger0632,duty0704
+original del acta,,acta de constitución de la mesa,serán presentadas,LegalConcept,LegalConcept,argument0708,,argument0128,trigger0632,duty0705
+convenios colectivos,,,constituyen,LegalConcept,LegalConcept,argument0306,,,trigger0084,duty0706
+negociación colectiva,,,pactarán,LegalConcept,LegalConcept,argument0668,,,trigger0348,duty0707
+electores de menor edad,,,actuará,LegalConcept,LegalConcept,argument0443,,,trigger0036,duty0708
 oficina pública,actas electorales,,procederá o no al registro,LegalEntity,LegalConcept,argument0700,argument0131,,trigger0463,duty0709
-comité de empresa,,,se determinará,LegalEntity,,argument0231,,,trigger0543,duty0710
-Reglamentariamente,,,se establecerá,LegalConcept,,argument0106,,,trigger0559,duty0711
-traslado de trabajadores,,,requerirá,LegalConcept,,argument0960,,,trigger0501,duty0712
-oficina pública,,,Corresponde,LegalEntity,,argument0700,,,trigger0004,duty0713
-suspensión del contrato,,,podrá distribuirse,LegalConcept,,argument0913,,,trigger0373,duty0714
-persona trabajadora,,derechos y obligaciones correspondientes al puesto de trabajo,tendrá,LegalAgent,,argument0751,,argument0369,trigger0651,duty0715
+comité de empresa,,,se determinará,LegalEntity,LegalConcept,argument0231,,,trigger0543,duty0710
+Reglamentariamente,,,se establecerá,LegalConcept,LegalConcept,argument0106,,,trigger0559,duty0711
+traslado de trabajadores,,,requerirá,LegalConcept,LegalConcept,argument0960,,,trigger0501,duty0712
+oficina pública,,,Corresponde,LegalEntity,LegalConcept,argument0700,,,trigger0004,duty0713
+suspensión del contrato,,,podrá distribuirse,LegalConcept,LegalConcept,argument0913,,,trigger0373,duty0714
+persona trabajadora,,derechos y obligaciones correspondientes al puesto de trabajo,tendrá,LegalAgent,LegalConcept,argument0751,,argument0369,trigger0651,duty0715
 empresario,trabajador,,ser notificada,LegalAgent,LegalAgent,argument0449,argument0925,,trigger0609,duty0716
-contrato para la formación y el aprendizaje,,,se regirá,LegalConcept,,argument0289,,,trigger0593,duty0717
-Lo previsto en el apartado anterior,,acciones,será de aplicación,LegalConcept,,argument0081,,argument0119,trigger0614,duty0718
-jornada de cada trabajador,,,se registrará,LegalConcept,,argument0553,,,trigger0597,duty0719
-cedente y el cesionario,,,responderán,LegalEntity,,argument0208,,,trigger0509,duty0720
-negociación colectiva,,,establecer,LegalEntity,,argument0668,,,trigger0214,duty0721
-contratistas,,,recabarán,LegalAgent,,argument0281,,,trigger0492,duty0722
+contrato para la formación y el aprendizaje,,,se regirá,LegalConcept,LegalConcept,argument0289,,,trigger0593,duty0717
+Lo previsto en el apartado anterior,,acciones,será de aplicación,LegalConcept,LegalConcept,argument0081,,argument0119,trigger0614,duty0718
+jornada de cada trabajador,,,se registrará,LegalConcept,LegalConcept,argument0553,,,trigger0597,duty0719
+cedente y el cesionario,,,responderán,LegalEntity,LegalConcept,argument0208,,,trigger0509,duty0720
+negociación colectiva,,,establecer,LegalEntity,LegalConcept,argument0668,,,trigger0214,duty0721
+contratistas,,,recabarán,LegalAgent,LegalConcept,argument0281,,,trigger0492,duty0722
 trabajadores,Fondo,parte de indemnización,solicitaran,LegalAgent,LegalEntity,argument0933,argument0040,argument0725,trigger0641,duty0723
 promotores,empresa,,comunicarán,LegalAgent,LegalEntity,argument0789,argument0445,,trigger0067,duty0724
 promotores,oficina pública,,comunicarán,LegalAgent,LegalEntity,argument0789,argument0700,,trigger0067,duty0725
-Gobierno,,,fijará,LegalEntity,,argument0042,,,trigger0257,duty0726
+Gobierno,,,fijará,LegalEntity,LegalConcept,argument0042,,,trigger0257,duty0726
 dirección de la empresa,representantes de los trabajadores,,comunicar,LegalEntity,LegalAgent,argument0388,argument0850,,trigger0064,duty0727
-La regulación de las condiciones establecidas en un convenio de empresa,,,tendrá prioridad aplicativa,LegalConcept,,argument0065,,,trigger0671,duty0728
-Las empresas,,,deberán efectuar,LegalEntity,,argument0069,,,trigger0156,duty0729
+La regulación de las condiciones establecidas en un convenio de empresa,,,tendrá prioridad aplicativa,LegalConcept,LegalConcept,argument0065,,,trigger0671,duty0728
+Las empresas,,,deberán efectuar,LegalEntity,LegalConcept,argument0069,,,trigger0156,duty0729
 Fondo de Garantía Salarial,trabajadores,,abonará,LegalEntity,LegalAgent,argument0041,argument0933,,trigger0033,duty0730
-dicho escrito,,,se consignarán,LegalConcept,,argument0384,,,trigger0534,duty0731
+dicho escrito,,,se consignarán,LegalConcept,LegalConcept,argument0384,,,trigger0534,duty0731

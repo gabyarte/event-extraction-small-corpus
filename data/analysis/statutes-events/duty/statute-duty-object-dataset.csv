@@ -1,0 +1,724 @@
+event_object,event_object_type,event_object_id,relation_id
+,LegalConcept,,duty0001
+,LegalConcept,,duty0002
+,LegalConcept,,duty0003
+,LegalConcept,,duty0004
+,LegalConcept,,duty0005
+empresario,LegalAgent,argument0449,duty0006
+interventores de las candidaturas,LegalAgent,argument0549,duty0007
+representantes electos,LegalAgent,argument0851,duty0008
+trabajadores afectados,LegalAgent,argument0935,duty0009
+,LegalConcept,,duty0010
+,LegalConcept,,duty0011
+,LegalConcept,,duty0012
+,LegalConcept,,duty0013
+trabajador afectado,LegalAgent,argument0927,duty0014
+representantes legales,LegalAgent,argument0852,duty0015
+solicitud de conciliación,LegalConcept,argument0899,duty0016
+,LegalConcept,,duty0017
+oficina pública,LegalEntity,argument0700,duty0018
+empresario,LegalEntity,argument0449,duty0019
+,LegalConcept,,duty0020
+,LegalConcept,,duty0021
+,LegalConcept,,duty0022
+,LegalConcept,,duty0023
+,LegalConcept,,duty0024
+,LegalConcept,,duty0025
+,LegalConcept,,duty0026
+,LegalConcept,,duty0027
+,LegalConcept,,duty0028
+,LegalConcept,,duty0029
+,LegalConcept,,duty0030
+,LegalConcept,,duty0031
+representantes de los trabajadores,LegalAgent,argument0850,duty0032
+,LegalConcept,,duty0033
+,LegalConcept,,duty0034
+,LegalConcept,,duty0035
+,LegalConcept,,duty0036
+,LegalConcept,,duty0037
+,LegalConcept,,duty0038
+,LegalConcept,,duty0039
+,LegalConcept,,duty0040
+,LegalConcept,,duty0041
+trabajador,LegalAgent,argument0925,duty0042
+,LegalConcept,,duty0043
+,LegalConcept,,duty0044
+,LegalConcept,,duty0045
+,LegalConcept,,duty0046
+empresario,LegalAgent,argument0449,duty0047
+empresarios,LegalAgent,argument0455,duty0048
+,LegalConcept,,duty0049
+,LegalConcept,,duty0050
+,LegalConcept,,duty0051
+,LegalConcept,,duty0052
+,LegalConcept,,duty0053
+,LegalConcept,,duty0054
+,LegalConcept,,duty0055
+,LegalConcept,,duty0056
+,LegalConcept,,duty0057
+términos de su ejercicio,LegalConcept,argument0966,duty0058
+,LegalConcept,,duty0059
+,LegalConcept,,duty0060
+,LegalConcept,,duty0061
+,LegalConcept,,duty0062
+,LegalConcept,,duty0063
+,LegalConcept,,duty0064
+,LegalConcept,,duty0065
+,LegalConcept,,duty0066
+,LegalConcept,,duty0067
+,LegalConcept,,duty0068
+,LegalConcept,,duty0069
+contrato de trabajo,LegalConcept,argument0286,duty0070
+,LegalConcept,,duty0071
+,LegalConcept,,duty0072
+,LegalConcept,,duty0073
+,LegalConcept,,duty0074
+,LegalConcept,,duty0075
+,LegalConcept,,duty0076
+,LegalConcept,,duty0077
+representantes de los trabajadores,LegalAgent,argument0850,duty0078
+autoridad laboral,LegalAgent,argument0177,duty0079
+,LegalConcept,,duty0080
+,LegalConcept,,duty0081
+,LegalConcept,,duty0082
+,LegalConcept,,duty0083
+,LegalConcept,,duty0084
+,LegalConcept,,duty0085
+,LegalConcept,,duty0086
+,LegalConcept,,duty0087
+,LegalConcept,,duty0088
+,LegalConcept,,duty0089
+,LegalConcept,,duty0090
+,LegalConcept,,duty0091
+,LegalConcept,,duty0092
+trabajador contratado,LegalAgent,argument0928,duty0093
+,LegalConcept,,duty0094
+,LegalConcept,,duty0095
+,LegalConcept,,duty0096
+,LegalConcept,,duty0097
+,LegalConcept,,duty0098
+,LegalConcept,,duty0099
+,LegalConcept,,duty0100
+comités de empresa propios,LegalEntity,argument0235,duty0101
+entidad gestora,LegalEntity,argument0468,duty0102
+,LegalConcept,,duty0103
+entidad gestora,LegalEntity,argument0468,duty0104
+trabajador,LegalAgent,argument0925,duty0105
+trabajador,LegalAgent,argument0925,duty0106
+trabajador,LegalAgent,argument0925,duty0107
+trabajador,LegalAgent,argument0925,duty0108
+trabajador,LegalAgent,argument0925,duty0109
+trabajador,LegalAgent,argument0925,duty0110
+trabajador,LegalAgent,argument0925,duty0111
+empresario,LegalAgent,argument0449,duty0112
+empresario,LegalAgent,argument0449,duty0113
+empresario,LegalAgent,argument0449,duty0114
+empresario,LegalAgent,argument0449,duty0115
+empresario,LegalAgent,argument0449,duty0116
+empresario,LegalAgent,argument0449,duty0117
+empresario,LegalAgent,argument0449,duty0118
+,LegalConcept,,duty0119
+,LegalConcept,,duty0120
+,LegalConcept,,duty0121
+,LegalConcept,,duty0122
+,LegalConcept,,duty0123
+,LegalConcept,,duty0124
+trabajador,LegalAgent,argument0925,duty0125
+trabajador,LegalAgent,argument0925,duty0126
+trabajador,LegalAgent,argument0925,duty0127
+,LegalConcept,,duty0128
+trabajador,LegalAgent,argument0925,duty0129
+,LegalConcept,,duty0130
+,LegalConcept,,duty0131
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0132
+,LegalConcept,,duty0133
+,LegalConcept,,duty0134
+,LegalConcept,,duty0135
+,LegalConcept,,duty0136
+,LegalConcept,,duty0137
+empresas,LegalEntity,argument0456,duty0138
+,LegalConcept,,duty0139
+,LegalConcept,,duty0140
+,LegalConcept,,duty0141
+,LegalConcept,,duty0142
+,LegalConcept,,duty0143
+,LegalConcept,,duty0144
+,LegalConcept,,duty0145
+,LegalConcept,,duty0146
+,LegalConcept,,duty0147
+,LegalConcept,,duty0148
+,LegalConcept,,duty0149
+,LegalConcept,,duty0150
+,LegalConcept,,duty0151
+,LegalConcept,,duty0152
+alguna reclamación,LegalAgent,argument0149,duty0153
+,LegalConcept,,duty0154
+aquel,LegalAgent,argument0158,duty0155
+distribución irregular de la jornada,LegalConcept,argument0407,duty0156
+,LegalConcept,,duty0157
+,LegalConcept,,duty0158
+,LegalConcept,,duty0159
+trabajadores,LegalAgent,argument0933,duty0160
+,LegalConcept,,duty0161
+,LegalConcept,,duty0162
+,LegalConcept,,duty0163
+,LegalConcept,,duty0164
+,LegalConcept,,duty0165
+la institución de garantía del Estado,LegalEntity,argument0569,duty0166
+,LegalConcept,,duty0167
+,LegalConcept,,duty0168
+,LegalConcept,,duty0169
+,LegalConcept,,duty0170
+,LegalConcept,,duty0171
+,LegalConcept,,duty0172
+,LegalConcept,,duty0173
+,LegalConcept,,duty0174
+trabajadores,LegalAgent,argument0933,duty0175
+,LegalConcept,,duty0176
+,LegalConcept,,duty0177
+,LegalConcept,,duty0178
+,LegalConcept,,duty0179
+,LegalConcept,,duty0180
+trabajadores,LegalAgent,argument0933,duty0181
+representantes de los trabajadores,LegalAgent,argument0850,duty0182
+partes,LegalAgent,argument0728,duty0183
+"trabajadores de la empresa con contratos de duración determinada o temporales, incluidos los contratos formativos",LegalAgent,argument0942,duty0184
+trabajador,LegalAgent,argument0925,duty0185
+,LegalConcept,,duty0186
+,LegalConcept,,duty0187
+trabajadores,LegalAgent,argument0933,duty0188
+,LegalConcept,,duty0189
+derechos y acciones de los trabajadores,LegalAgent,argument0367,duty0190
+,LegalConcept,,duty0191
+institución de garantía competente,LegalEntity,argument0543,duty0192
+,LegalConcept,,duty0193
+,LegalConcept,,duty0194
+,LegalConcept,,duty0195
+,LegalConcept,,duty0196
+contratista,LegalEntity,argument0279,duty0197
+contratista,LegalEntity,argument0279,duty0198
+contratista,LegalEntity,argument0279,duty0199
+contratista,LegalEntity,argument0279,duty0200
+subcontratista,LegalEntity,argument0903,duty0201
+subcontratista,LegalEntity,argument0903,duty0202
+subcontratista,LegalEntity,argument0903,duty0203
+subcontratista,LegalEntity,argument0903,duty0204
+,LegalConcept,,duty0205
+,LegalConcept,,duty0206
+,LegalConcept,,duty0207
+,LegalConcept,,duty0208
+,LegalConcept,,duty0209
+requisitos,LegalConcept,argument0855,duty0210
+requisitos,LegalConcept,argument0855,duty0211
+requisitos,LegalConcept,argument0855,duty0212
+,LegalConcept,,duty0213
+,LegalConcept,,duty0214
+trabajadores,LegalAgent,argument0933,duty0215
+,LegalConcept,,duty0216
+,LegalConcept,,duty0217
+cualificación profesional,LegalConcept,argument0326,duty0218
+,LegalConcept,,duty0219
+,LegalConcept,,duty0220
+,LegalConcept,,duty0221
+,LegalConcept,,duty0222
+,LegalConcept,,duty0223
+empresario,LegalEntity,argument0449,duty0224
+,LegalConcept,,duty0225
+,LegalConcept,,duty0226
+,LegalConcept,,duty0227
+,LegalConcept,,duty0228
+entidad gestora,LegalEntity,argument0468,duty0229
+,LegalConcept,,duty0230
+,LegalConcept,,duty0231
+,LegalConcept,,duty0232
+,LegalConcept,,duty0233
+,LegalConcept,,duty0234
+,LegalConcept,,duty0235
+,LegalConcept,,duty0236
+,LegalConcept,,duty0237
+,LegalConcept,,duty0238
+,LegalConcept,,duty0239
+trabajadores,LegalAgent,argument0933,duty0240
+,LegalConcept,,duty0241
+,LegalConcept,,duty0242
+árbitros,LegalAgent,argument0999,duty0243
+trabajadores,LegalAgent,argument0933,duty0244
+trabajadores,LegalAgent,argument0933,duty0245
+trabajadores,LegalAgent,argument0933,duty0246
+trabajadores,LegalAgent,argument0933,duty0247
+trabajadores,LegalAgent,argument0933,duty0248
+trabajadores,LegalAgent,argument0933,duty0249
+trabajadores,LegalAgent,argument0933,duty0250
+,LegalConcept,,duty0251
+,LegalConcept,,duty0252
+,LegalConcept,,duty0253
+,LegalConcept,,duty0254
+,LegalConcept,,duty0255
+,LegalConcept,,duty0256
+,LegalConcept,,duty0257
+la representación legal de los trabajadores,LegalAgent,argument0574,duty0258
+,LegalConcept,,duty0259
+,LegalConcept,,duty0260
+representantes legales de los trabajadores,LegalAgent,argument0853,duty0261
+representantes legales de los trabajadores,LegalAgent,argument0853,duty0262
+autoridad laboral,LegalAgent,argument0177,duty0263
+autoridad laboral,LegalAgent,argument0177,duty0264
+,LegalConcept,,duty0265
+,LegalConcept,,duty0266
+trabajador sustituido,LegalAgent,argument0930,duty0267
+,LegalConcept,,duty0268
+trabajador,LegalAgent,argument0925,duty0269
+contratos para la formación y el aprendizaje,LegalConcept,argument0296,duty0270
+adoptante,LegalAgent,argument0146,duty0271
+guardador,LegalAgent,argument0510,duty0272
+acogedor,LegalAgent,argument0123,duty0273
+,LegalConcept,,duty0274
+,LegalConcept,,duty0275
+,LegalConcept,,duty0276
+,LegalConcept,,duty0277
+,LegalConcept,,duty0278
+,LegalConcept,,duty0279
+,LegalConcept,,duty0280
+,LegalConcept,,duty0281
+,LegalConcept,,duty0282
+,LegalConcept,,duty0283
+comité de empresa,LegalEntity,argument0231,duty0284
+delegados de personal,LegalEntity,argument0348,duty0285
+,LegalConcept,,duty0286
+,LegalConcept,,duty0287
+,LegalConcept,,duty0288
+,LegalConcept,,duty0289
+,LegalConcept,,duty0290
+,LegalConcept,,duty0291
+,LegalConcept,,duty0292
+,LegalConcept,,duty0293
+,LegalConcept,,duty0294
+,LegalConcept,,duty0295
+,LegalConcept,,duty0298
+,LegalConcept,,duty0299
+,LegalConcept,,duty0300
+,LegalConcept,,duty0301
+,LegalConcept,,duty0302
+,LegalConcept,,duty0303
+,LegalConcept,,duty0304
+trabajadores,LegalAgent,argument0933,duty0305
+autoridad laboral,LegalAgent,argument0177,duty0306
+representantes de los trabajadores,LegalAgent,argument0850,duty0307
+autoridad laboral,LegalAgent,argument0177,duty0308
+trabajador,LegalAgent,argument0925,duty0309
+,LegalConcept,,duty0310
+,LegalConcept,,duty0311
+,LegalConcept,,duty0312
+,LegalConcept,,duty0313
+,LegalConcept,,duty0314
+,LegalConcept,,duty0315
+,LegalConcept,,duty0316
+,LegalConcept,,duty0317
+,LegalConcept,,duty0318
+,LegalConcept,,duty0319
+auxiliar,LegalAgent,argument0178,duty0320
+ayudante,LegalAgent,argument0179,duty0321
+,LegalConcept,,duty0322
+,LegalConcept,,duty0323
+,LegalConcept,,duty0324
+,LegalConcept,,duty0325
+procedimiento de extensión,LegalConcept,argument0780,duty0326
+procedimiento de extensión,LegalConcept,argument0780,duty0327
+comité de empresa,LegalEntity,argument0231,duty0328
+centro de trabajo,LegalEntity,argument0211,duty0329
+los que lo integren,LegalAgent,argument0613,duty0330
+discrepancia,LegalConcept,argument0391,duty0331
+,LegalConcept,,duty0332
+,LegalConcept,,duty0333
+,LegalConcept,,duty0334
+,LegalConcept,,duty0335
+,LegalConcept,,duty0336
+,LegalConcept,,duty0337
+,LegalConcept,,duty0338
+,LegalConcept,,duty0339
+,LegalConcept,,duty0340
+,LegalConcept,,duty0341
+,LegalConcept,,duty0342
+representantes de los trabajadores,LegalAgent,argument0850,duty0343
+representantes de los trabajadores,LegalAgent,argument0850,duty0344
+expertos,LegalAgent,argument0490,duty0345
+expertos,LegalAgent,argument0490,duty0346
+,LegalConcept,,duty0347
+,LegalConcept,,duty0351
+,LegalConcept,,duty0352
+,LegalConcept,,duty0353
+,LegalConcept,,duty0354
+,LegalConcept,,duty0355
+dichos contratistas,LegalEntity,argument0385,duty0356
+,LegalConcept,,duty0357
+,LegalConcept,,duty0358
+empresa,LegalEntity,argument0445,duty0359
+empresa,LegalEntity,argument0445,duty0360
+,LegalConcept,,duty0361
+,LegalConcept,,duty0362
+,LegalConcept,,duty0363
+,LegalConcept,,duty0364
+,LegalConcept,,duty0365
+,LegalConcept,,duty0366
+,LegalConcept,,duty0367
+,LegalConcept,,duty0368
+,LegalConcept,,duty0369
+,LegalConcept,,duty0370
+,LegalConcept,,duty0371
+empresario,LegalAgent,argument0449,duty0372
+,LegalConcept,,duty0373
+extremos,LegalConcept,argument0493,duty0374
+Criterios,LegalConcept,argument0008,duty0375
+representantes legales,LegalAgent,argument0852,duty0376
+copia íntegra,LegalConcept,argument0316,duty0377
+condiciones reconocidas a los trabajadores,LegalConcept,argument0262,duty0378
+condiciones reconocidas a los trabajadores,LegalConcept,argument0262,duty0379
+condiciones reconocidas a los trabajadores,LegalConcept,argument0262,duty0380
+,LegalConcept,,duty0381
+,LegalConcept,,duty0382
+periodo de consultas,LegalConcept,argument0737,duty0383
+periodo de consultas,LegalConcept,argument0737,duty0384
+,LegalConcept,,duty0385
+,LegalConcept,,duty0386
+arbitraje,LegalConcept,argument0161,duty0387
+,LegalConcept,,duty0388
+,LegalConcept,,duty0389
+periodo de consultas,LegalConcept,argument0737,duty0390
+,LegalConcept,,duty0391
+,LegalConcept,,duty0392
+,LegalConcept,,duty0393
+contrato de trabajo,LegalConcept,argument0286,duty0394
+trabajador,LegalAgent,argument0925,duty0395
+,LegalConcept,,duty0396
+,LegalConcept,,duty0397
+candidaturas,LegalAgent,argument0193,duty0398
+,LegalConcept,,duty0399
+,LegalConcept,,duty0400
+convenio colectivo,LegalConcept,argument0302,duty0401
+convenio colectivo,LegalConcept,argument0302,duty0402
+,LegalConcept,,duty0403
+,LegalConcept,,duty0404
+,LegalConcept,,duty0405
+,LegalConcept,,duty0406
+,LegalConcept,,duty0407
+,LegalConcept,,duty0408
+,LegalConcept,,duty0409
+,LegalConcept,,duty0410
+,LegalConcept,,duty0411
+,LegalConcept,,duty0412
+,LegalConcept,,duty0413
+representantes legales de los trabajadores,LegalAgent,argument0853,duty0414
+"los dos adoptantes, guardadores o acogedores",LegalAgent,argument0612,duty0415
+,LegalConcept,,duty0416
+,LegalConcept,,duty0417
+,LegalConcept,,duty0418
+,LegalConcept,,duty0419
+,LegalConcept,,duty0420
+,LegalConcept,,duty0421
+,LegalConcept,,duty0422
+,LegalConcept,,duty0423
+,LegalConcept,,duty0424
+,LegalConcept,,duty0425
+,LegalConcept,,duty0426
+,LegalConcept,,duty0427
+,LegalConcept,,duty0428
+,LegalConcept,,duty0429
+,LegalConcept,,duty0430
+,LegalConcept,,duty0431
+,LegalConcept,,duty0432
+,LegalConcept,,duty0433
+,LegalConcept,,duty0434
+,LegalConcept,,duty0435
+,LegalConcept,,duty0436
+,LegalConcept,,duty0437
+,LegalConcept,,duty0438
+,LegalConcept,,duty0439
+,LegalConcept,,duty0440
+,LegalConcept,,duty0441
+,LegalConcept,,duty0442
+representantes legales de los trabajadores,LegalAgent,argument0853,duty0443
+,LegalConcept,,duty0444
+Fondo de Garantía Salarial,LegalEntity,argument0041,duty0445
+,LegalConcept,,duty0446
+,LegalConcept,,duty0447
+,LegalConcept,,duty0448
+,LegalConcept,,duty0449
+,LegalConcept,,duty0450
+,LegalConcept,,duty0451
+,LegalConcept,,duty0452
+dicho documento,LegalConcept,argument0383,duty0453
+,LegalConcept,,duty0454
+sindicatos,LegalEntity,argument0891,duty0455
+candidaturas,LegalEntity,argument0193,duty0456
+,LegalConcept,,duty0457
+,LegalConcept,,duty0458
+,LegalConcept,,duty0459
+,LegalConcept,,duty0460
+trabajador,LegalAgent,argument0925,duty0461
+,LegalConcept,,duty0462
+,LegalConcept,,duty0463
+,LegalConcept,,duty0466
+,LegalConcept,,duty0467
+,LegalConcept,,duty0468
+,LegalConcept,,duty0469
+,LegalConcept,,duty0470
+,LegalConcept,,duty0471
+,LegalConcept,,duty0472
+,LegalConcept,,duty0473
+delegados sindicales,LegalAgent,argument0352,duty0474
+,LegalConcept,,duty0475
+representantes legales,LegalAgent,argument0852,duty0476
+,LegalConcept,,duty0477
+,LegalConcept,,duty0478
+,LegalConcept,,duty0479
+,LegalConcept,,duty0480
+,LegalConcept,,duty0481
+,LegalConcept,,duty0482
+,LegalConcept,,duty0483
+,LegalConcept,,duty0484
+,LegalConcept,,duty0485
+,LegalConcept,,duty0486
+,LegalConcept,,duty0487
+,LegalConcept,,duty0488
+,LegalConcept,,duty0489
+,LegalConcept,,duty0490
+,LegalConcept,,duty0491
+,LegalConcept,,duty0492
+,LegalConcept,,duty0493
+,LegalConcept,,duty0494
+,LegalConcept,,duty0495
+,LegalConcept,,duty0496
+representantes legales,LegalAgent,argument0852,duty0497
+,LegalConcept,,duty0498
+,LegalConcept,,duty0499
+,LegalConcept,,duty0500
+,LegalConcept,,duty0501
+,LegalConcept,,duty0502
+,LegalConcept,,duty0503
+,LegalConcept,,duty0504
+,LegalConcept,,duty0505
+,LegalConcept,,duty0506
+,LegalConcept,,duty0507
+,LegalConcept,,duty0508
+,LegalConcept,,duty0509
+,LegalConcept,,duty0510
+,LegalConcept,,duty0511
+,LegalConcept,,duty0512
+,LegalConcept,,duty0513
+,LegalConcept,,duty0514
+,LegalConcept,,duty0515
+,LegalConcept,,duty0516
+,LegalConcept,,duty0517
+,LegalConcept,,duty0518
+,LegalConcept,,duty0519
+,LegalConcept,,duty0520
+,LegalConcept,,duty0521
+,LegalConcept,,duty0522
+,LegalConcept,,duty0523
+,LegalConcept,,duty0524
+,LegalConcept,,duty0525
+,LegalConcept,,duty0526
+,LegalConcept,,duty0527
+,LegalConcept,,duty0528
+autoridad laboral,LegalEntity,argument0177,duty0529
+,LegalConcept,,duty0530
+,LegalConcept,,duty0531
+,LegalConcept,,duty0532
+,LegalConcept,,duty0533
+,LegalConcept,,duty0534
+,LegalConcept,,duty0535
+,LegalConcept,,duty0536
+,LegalConcept,,duty0537
+,LegalConcept,,duty0538
+,LegalConcept,,duty0539
+,LegalConcept,,duty0540
+al trabajador,LegalAgent,argument0148,duty0541
+empresa,LegalEntity,argument0445,duty0542
+autoridad laboral,LegalEntity,argument0177,duty0543
+,LegalConcept,,duty0544
+,LegalConcept,,duty0545
+,LegalConcept,,duty0546
+,LegalConcept,,duty0547
+,LegalConcept,,duty0548
+,LegalConcept,,duty0549
+,LegalConcept,,duty0550
+,LegalConcept,,duty0551
+,LegalConcept,,duty0552
+,LegalConcept,,duty0553
+,LegalConcept,,duty0554
+,LegalConcept,,duty0556
+,LegalConcept,,duty0557
+,LegalConcept,,duty0558
+,LegalConcept,,duty0559
+,LegalConcept,,duty0560
+,LegalConcept,,duty0561
+,LegalConcept,,duty0562
+,LegalConcept,,duty0563
+,LegalConcept,,duty0564
+,LegalConcept,,duty0565
+,LegalConcept,,duty0566
+trabajador,LegalAgent,argument0925,duty0567
+,LegalConcept,,duty0568
+empresa,LegalAgent,argument0445,duty0569
+,LegalConcept,,duty0570
+,LegalConcept,,duty0571
+,LegalConcept,,duty0572
+,LegalConcept,,duty0573
+,LegalConcept,,duty0574
+,LegalConcept,,duty0575
+árbrito,LegalAgent,argument1000,duty0576
+escrito,LegalAgent,argument0472,duty0577
+copia del expediente electoral administrativo,LegalAgent,argument0315,duty0578
+,LegalConcept,,duty0579
+,LegalConcept,,duty0580
+,LegalConcept,,duty0581
+,LegalConcept,,duty0582
+,LegalConcept,,duty0583
+,LegalConcept,,duty0584
+,LegalConcept,,duty0585
+,LegalConcept,,duty0586
+,LegalConcept,,duty0587
+,LegalConcept,,duty0588
+,LegalConcept,,duty0589
+,LegalConcept,,duty0590
+,LegalConcept,,duty0591
+puesto de trabajo,LegalAgent,argument0800,duty0592
+componentes de la mesa electoral,LegalAgent,argument0241,duty0593
+,LegalConcept,,duty0594
+,LegalConcept,,duty0595
+,LegalConcept,,duty0596
+,LegalConcept,,duty0597
+,LegalConcept,,duty0598
+,LegalConcept,,duty0599
+,LegalConcept,,duty0600
+,LegalConcept,,duty0601
+,LegalConcept,,duty0602
+otra empresa,LegalEntity,argument0709,duty0603
+,LegalConcept,,duty0604
+,LegalConcept,,duty0605
+,LegalConcept,,duty0606
+,LegalConcept,,duty0607
+,LegalConcept,,duty0608
+,LegalConcept,,duty0609
+,LegalConcept,,duty0610
+,LegalConcept,,duty0611
+,LegalConcept,,duty0612
+contratos,LegalConcept,argument0290,duty0613
+,LegalConcept,,duty0614
+,LegalConcept,,duty0615
+lista,LegalConcept,argument0600,duty0616
+comisión paritaria,LegalConcept,argument0227,duty0617
+empresa principal,LegalEntity,argument0447,duty0618
+,LegalConcept,,duty0619
+,LegalConcept,,duty0620
+,LegalConcept,,duty0621
+,LegalConcept,,duty0622
+,LegalConcept,,duty0623
+,LegalConcept,,duty0624
+,LegalConcept,,duty0625
+entidad gestora,LegalEntity,argument0468,duty0626
+,LegalConcept,,duty0627
+,LegalConcept,,duty0628
+,LegalConcept,,duty0629
+,LegalConcept,,duty0630
+,LegalConcept,,duty0631
+trabajador,LegalAgent,argument0925,duty0632
+,LegalConcept,,duty0633
+contratistas,LegalAgent,argument0281,duty0634
+subcontratistas,LegalAgent,argument0904,duty0635
+,LegalConcept,,duty0636
+,LegalConcept,,duty0637
+,LegalConcept,,duty0638
+,LegalConcept,,duty0639
+,LegalConcept,,duty0640
+,LegalConcept,,duty0641
+,LegalConcept,,duty0642
+,LegalConcept,,duty0643
+,LegalConcept,,duty0644
+,LegalConcept,,duty0645
+,LegalConcept,,duty0646
+,LegalConcept,,duty0647
+empresario,LegalAgent,argument0449,duty0648
+trabajadores,LegalAgent,argument0933,duty0649
+representantes,LegalAgent,argument0849,duty0650
+,LegalConcept,,duty0651
+,LegalConcept,,duty0652
+,LegalConcept,,duty0653
+representantes legales,LegalAgent,argument0852,duty0654
+,LegalConcept,,duty0655
+,LegalConcept,,duty0656
+trabajadores,LegalAgent,argument0933,duty0657
+trabajadores,LegalAgent,argument0933,duty0658
+,LegalConcept,,duty0659
+,LegalConcept,,duty0660
+,LegalConcept,,duty0661
+,LegalConcept,,duty0662
+,LegalConcept,,duty0663
+,LegalConcept,,duty0664
+,LegalConcept,,duty0665
+,LegalConcept,,duty0666
+,LegalConcept,,duty0667
+,LegalConcept,,duty0668
+,LegalConcept,,duty0669
+,LegalConcept,,duty0670
+,LegalConcept,,duty0671
+los trabajadores,LegalAgent,argument0619,duty0672
+,LegalConcept,,duty0673
+,LegalConcept,,duty0674
+,LegalConcept,,duty0675
+,LegalConcept,,duty0676
+,LegalConcept,,duty0677
+,LegalConcept,,duty0678
+,LegalConcept,,duty0679
+,LegalConcept,,duty0680
+,LegalConcept,,duty0681
+,LegalConcept,,duty0682
+,LegalConcept,,duty0683
+,LegalConcept,,duty0684
+,LegalConcept,,duty0685
+,LegalConcept,,duty0686
+,LegalConcept,,duty0687
+,LegalConcept,,duty0688
+trabajadores,LegalAgent,argument0933,duty0689
+,LegalConcept,,duty0690
+,LegalConcept,,duty0691
+,LegalConcept,,duty0692
+,LegalConcept,,duty0693
+"el otro progenitor, adoptante, guardador o acogedor",LegalAgent,argument0431,duty0694
+,LegalConcept,,duty0695
+registro del acta,LegalConcept,argument0825,duty0696
+denegación,LegalConcept,argument0354,duty0697
+,LegalConcept,,duty0698
+,LegalConcept,,duty0699
+,LegalConcept,,duty0700
+,LegalConcept,,duty0701
+,LegalConcept,,duty0702
+empresario,LegalAgent,argument0449,duty0703
+,LegalConcept,,duty0704
+,LegalConcept,,duty0705
+,LegalConcept,,duty0706
+,LegalConcept,,duty0707
+,LegalConcept,,duty0708
+actas electorales,LegalConcept,argument0131,duty0709
+,LegalConcept,,duty0710
+,LegalConcept,,duty0711
+,LegalConcept,,duty0712
+,LegalConcept,,duty0713
+,LegalConcept,,duty0714
+,LegalConcept,,duty0715
+trabajador,LegalAgent,argument0925,duty0716
+,LegalConcept,,duty0717
+,LegalConcept,,duty0718
+,LegalConcept,,duty0719
+,LegalConcept,,duty0720
+,LegalConcept,,duty0721
+,LegalConcept,,duty0722
+Fondo,LegalEntity,argument0040,duty0723
+empresa,LegalEntity,argument0445,duty0724
+oficina pública,LegalEntity,argument0700,duty0725
+,LegalConcept,,duty0726
+representantes de los trabajadores,LegalAgent,argument0850,duty0727
+,LegalConcept,,duty0728
+,LegalConcept,,duty0729
+trabajadores,LegalAgent,argument0933,duty0730
+,LegalConcept,,duty0731

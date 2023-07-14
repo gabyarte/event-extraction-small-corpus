@@ -1,0 +1,168 @@
+event_subject,event_subject_type,event_subject_id,relation_id
+convenios,LegalEntity,argument0305,noright0003
+empresas,LegalEntity,argument0456,noright0004
+comité de empresa o por los delegados de personal,LegalEntity,argument0232,noright0005
+arbitraje,LegalConcept,argument0161,noright0006
+"los títulos de grado, máster y, en su caso, doctorado, correspondientes a los estudios universitarios",LegalConcept,argument0621,noright0007
+El acuerdo de inaplicación,LegalConcept,argument0019,noright0008
+contratos temporales,LegalConcept,argument0298,noright0009
+insolvencia del empresario,LegalConcept,argument0541,noright0010
+coste,LegalConcept,argument0317,noright0011
+contrato,LegalConcept,argument0283,noright0012
+empresario,LegalAgent,argument0449,noright0013
+empresario,LegalAgent,argument0449,noright0014
+empresario,LegalAgent,argument0449,noright0015
+empresario,LegalAgent,argument0449,noright0016
+contrato de trabajo,LegalConcept,argument0286,noright0017
+promoción,LegalConcept,argument0788,noright0018
+empresa,LegalAgent,argument0445,noright0019
+Los trabajadores,LegalAgent,argument0091,noright0021
+asociaciones empresariales,LegalEntity,argument0170,noright0022
+trabajadores,LegalAgent,argument0933,noright0023
+empresa,LegalAgent,argument0445,noright0024
+personas prestadoras del servicio de transporte,LegalAgent,argument0757,noright0025
+retribución,LegalConcept,argument0869,noright0026
+empresa,LegalAgent,argument0445,noright0027
+Los trabajos familiares,LegalConcept,argument0093,noright0028
+El contrato de trabajo,LegalConcept,argument0024,noright0029
+situaciones,LegalConcept,argument0897,noright0030
+situaciones,LegalConcept,argument0897,noright0031
+situaciones,LegalConcept,argument0897,noright0032
+situaciones,LegalConcept,argument0897,noright0033
+situaciones,LegalConcept,argument0897,noright0034
+situaciones,LegalConcept,argument0897,noright0035
+situaciones,LegalConcept,argument0897,noright0036
+situaciones,LegalConcept,argument0897,noright0037
+situaciones,LegalConcept,argument0897,noright0038
+situaciones,LegalConcept,argument0897,noright0039
+situaciones,LegalConcept,argument0897,noright0040
+salarios profesionales,LegalEntity,argument0883,noright0041
+revocación,LegalConcept,argument0871,noright0042
+empresario,LegalAgent,argument0449,noright0043
+empresario,LegalAgent,argument0449,noright0044
+falta de constitución de la comisión representativa,LegalConcept,argument0494,noright0045
+inobservancia de cualquiera de las reglas anteriores,LegalConcept,argument0539,noright0046
+despido,LegalConcept,argument0374,noright0047
+"preceptos reglamentarios, cláusulas de los convenios colectivos, pactos individuales y decisiones unilaterales del empresario",LegalConcept,argument0769,noright0048
+excepción,LegalConcept,argument0485,noright0049
+interposición del conflicto,LegalConcept,argument0545,noright0050
+contrato de trabajo,LegalConcept,argument0286,noright0051
+asociaciones empresariales de comunidad autónoma,LegalEntity,argument0171,noright0052
+trabajo,LegalConcept,argument0949,noright0053
+trabajadores,LegalAgent,argument0933,noright0054
+acuerdos y convenios colectivos,LegalConcept,argument0142,noright0055
+trabajador,LegalAgent,argument0925,noright0056
+empresario,LegalAgent,argument0449,noright0057
+contrato de trabajo,LegalConcept,argument0286,noright0058
+empresario,LegalAgent,argument0449,noright0059
+Estos acuerdos y laudos,LegalConcept,argument0038,noright0060
+Un trabajo,LegalConcept,argument0113,noright0061
+La regulación de las condiciones establecidas en un convenio de empresa,LegalConcept,argument0065,noright0062
+contrato de trabajo,LegalConcept,argument0286,noright0063
+elecciones a miembros del comité de empresa,LegalConcept,argument0438,noright0064
+el ejercicio de la acción contra el despido o resolución de contratos temporales,LegalConcept,argument0426,noright0065
+lo dispuesto,LegalConcept,argument0605,noright0066
+empresa,LegalAgent,argument0445,noright0067
+empresario,LegalAgent,argument0449,noright0069
+pacto,LegalConcept,argument0718,noright0070
+contrato de trabajo,LegalConcept,argument0286,noright0071
+beneficios,LegalConcept,argument0181,noright0073
+trabajadores menores de dieciocho años,LegalAgent,argument0945,noright0074
+plazo,LegalConcept,argument0761,noright0075
+plazo,LegalConcept,argument0761,noright0076
+decisión extintiva,LegalConcept,argument0340,noright0077
+empresa,LegalAgent,argument0445,noright0078
+límite de edad y de duración,LegalConcept,argument0624,noright0079
+trabajadores menores de dieciocho años,LegalAgent,argument0945,noright0081
+trabajador,LegalAgent,argument0925,noright0082
+empresario solicitante,LegalAgent,argument0451,noright0083
+salario en especie,LegalConcept,argument0879,noright0084
+despido,LegalConcept,argument0374,noright0085
+contrato,LegalConcept,argument0283,noright0086
+supuestos de trabajos discontinuos,LegalConcept,argument0908,noright0087
+contrato de trabajo,LegalConcept,argument0286,noright0088
+contrato de trabajo,LegalConcept,argument0286,noright0089
+decisión extintiva del empresario,LegalEntity,argument0341,noright0090
+no concesión del preaviso o el error excusable en el cálculo de la indemnización,LegalConcept,argument0669,noright0091
+empresa,LegalAgent,argument0445,noright0092
+abono de las retribuciones periódicas y regulares,LegalConcept,argument0117,noright0093
+salario mínimo interprofesional,LegalConcept,argument0880,noright0094
+empresario,LegalAgent,argument0449,noright0095
+contrato de trabajo,LegalConcept,argument0286,noright0097
+justificación,LegalConcept,argument0561,noright0099
+trabajo,LegalConcept,argument0949,noright0100
+la opción,LegalConcept,argument0571,noright0101
+incumplimiento,LegalConcept,argument0524,noright0102
+acuerdo,LegalConcept,argument0135,noright0103
+tramitación,LegalConcept,argument0956,noright0104
+decisión extintiva,LegalConcept,argument0340,noright0105
+indemnización,LegalConcept,argument0529,noright0106
+fiestas laborales,LegalConcept,argument0502,noright0107
+acuerdo,LegalConcept,argument0135,noright0108
+empresario,LegalAgent,argument0449,noright0109
+empresa,LegalEntity,argument0445,noright0110
+convenios colectivos,LegalConcept,argument0306,noright0111
+acta,LegalConcept,argument0127,noright0112
+periodo de reducción de jornada,LegalConcept,argument0740,noright0113
+número de horas complementarias pactadas,LegalConcept,argument0682,noright0114
+trabajadores,LegalAgent,argument0933,noright0115
+trabajadores,LegalAgent,argument0933,noright0116
+renuncia,LegalAgent,argument0840,noright0117
+acciones,LegalConcept,argument0119,noright0118
+contrato,LegalConcept,argument0283,noright0119
+real decreto legislativo,LegalConcept,argument0810,noright0120
+obligaciones de información y consulta,LegalConcept,argument0690,noright0121
+inicio de la misma,LegalConcept,argument0538,noright0122
+convenio colectivo,LegalConcept,argument0302,noright0123
+adopción,LegalConcept,argument0144,noright0124
+trabajador,LegalAgent,argument0925,noright0125
+periodo de suspensión,LegalConcept,argument0741,noright0126
+parte receptora,LegalConcept,argument0727,noright0127
+los requisitos,LegalConcept,argument0615,noright0128
+trabajador,LegalAgent,argument0925,noright0129
+periodo de consultas,LegalConcept,argument0737,noright0130
+despido,LegalConcept,argument0374,noright0131
+componentes de la mesa,LegalEntity,argument0240,noright0132
+contrato para la formación y el aprendizaje,LegalConcept,argument0289,noright0133
+empresas,LegalEntity,argument0456,noright0134
+empresario,LegalAgent,argument0449,noright0135
+modificaciones,LegalConcept,argument0654,noright0136
+modificaciones,LegalConcept,argument0654,noright0137
+modificaciones,LegalConcept,argument0654,noright0138
+modificaciones,LegalConcept,argument0654,noright0139
+modificaciones,LegalConcept,argument0654,noright0140
+modificaciones,LegalConcept,argument0654,noright0141
+modificaciones,LegalConcept,argument0654,noright0142
+modificaciones,LegalConcept,argument0654,noright0143
+contrato,LegalConcept,argument0283,noright0144
+contratos,LegalConcept,argument0290,noright0145
+empresa,LegalAgent,argument0445,noright0146
+ineptitud,LegalConcept,argument0530,noright0148
+número de horas ordinarias de trabajo efectivo,LegalConcept,argument0684,noright0149
+trabajadores nocturnos,LegalAgent,argument0946,noright0150
+Lo previsto en el artículo 47,LegalConcept,argument0082,noright0151
+Lo previsto en el artículo 47,LegalConcept,argument0082,noright0152
+decisión extintiva,LegalConcept,argument0340,noright0153
+contrato de trabajo,LegalConcept,argument0286,noright0154
+trabajador,LegalAgent,argument0925,noright0155
+periodo de suspensión,LegalConcept,argument0741,noright0156
+no se computarán,LegalConcept,argument0671,noright0157
+empresa,LegalAgent,argument0445,noright0158
+Administraciones Públicas,LegalEntity,argument0000,noright0159
+negativa del trabajador,LegalAgent,argument0666,noright0160
+plan,LegalConcept,argument0759,noright0161
+decisión empresarial,LegalEntity,argument0339,noright0162
+árbitros,LegalAgent,argument0999,noright0163
+suma,LegalConcept,argument0907,noright0164
+comités intercentros,LegalConcept,argument0236,noright0165
+trabajadores,LegalAgent,argument0933,noright0166
+límite máximo de edad,LegalConcept,argument0625,noright0167
+responsabilidad,LegalConcept,argument0863,noright0168
+contrato de trabajo,LegalConcept,argument0286,noright0170
+ascensos,LegalConcept,argument0168,noright0171
+trabajador,LegalAgent,argument0925,noright0172
+trabajador,LegalAgent,argument0925,noright0173
+periodo de prueba,LegalConcept,argument0739,noright0174
+trabajadores,LegalAgent,argument0933,noright0175
+oficina pública,LegalEntity,argument0700,noright0176
+empresario,LegalAgent,argument0449,noright0177

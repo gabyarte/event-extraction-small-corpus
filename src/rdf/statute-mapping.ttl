@@ -14,179 +14,589 @@
 @prefix prv: <http://www.ittig.cnr.it/ontologies/def/ProvisionModel#> .
 @prefix ns: <http://spanish-laws.es/sws/resource/> .
 
-map:map_argumentTypeObject_000 rml:logicalSource map:source_001 ;
+map:language_000 rr:constant "es" .
+
+map:language_001 rr:constant "es" .
+
+map:language_002 rr:constant "es" .
+
+map:language_003 rr:constant "es" .
+
+map:language_004 rr:constant "es" .
+
+map:language_005 rr:constant "es" .
+
+map:language_006 rr:constant "es" .
+
+map:language_007 rr:constant "es" .
+
+map:language_008 rr:constant "es" .
+
+map:language_009 rr:constant "es" .
+
+map:language_010 rr:constant "es" .
+
+map:language_011 rr:constant "es" .
+
+map:language_012 rr:constant "es" .
+
+map:language_013 rr:constant "es" .
+
+map:language_014 rr:constant "es" .
+
+map:language_015 rr:constant "es" .
+
+map:map_dutyComplementRelation_000 rml:logicalSource map:source_007 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "argumentTypeObject" ;
-	rr:predicateObjectMap map:pom_001 ;
+	rdfs:label "dutyComplementRelation" ;
+	rr:predicateObjectMap map:pom_014, map:pom_015 ;
+	rr:subjectMap map:s_007 .
+
+map:map_dutyComplement_000 rml:logicalSource map:source_006 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "dutyComplement" ;
+	rr:predicateObjectMap map:pom_012, map:pom_013 ;
+	rr:subjectMap map:s_006 .
+
+map:map_dutyObjectRelation_000 rml:logicalSource map:source_005 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "dutyObjectRelation" ;
+	rr:predicateObjectMap map:pom_010, map:pom_011 ;
+	rr:subjectMap map:s_005 .
+
+map:map_dutyObject_000 rml:logicalSource map:source_004 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "dutyObject" ;
+	rr:predicateObjectMap map:pom_007, map:pom_008, map:pom_009 ;
+	rr:subjectMap map:s_004 .
+
+map:map_dutySubjectRelation_000 rml:logicalSource map:source_002 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "dutySubjectRelation" ;
+	rr:predicateObjectMap map:pom_004, map:pom_005 ;
+	rr:subjectMap map:s_002 .
+
+map:map_dutySubject_000 rml:logicalSource map:source_001 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "dutySubject" ;
+	rr:predicateObjectMap map:pom_001, map:pom_002, map:pom_003 ;
 	rr:subjectMap map:s_001 .
 
-map:map_argumentTypeSubject_000 rml:logicalSource map:source_000 ;
+map:map_dutyTriggerRelation_000 rml:logicalSource map:source_009 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "argumentTypeSubject" ;
+	rdfs:label "dutyTriggerRelation" ;
+	rr:predicateObjectMap map:pom_018, map:pom_019 ;
+	rr:subjectMap map:s_009 .
+
+map:map_dutyTrigger_000 rml:logicalSource map:source_008 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "dutyTrigger" ;
+	rr:predicateObjectMap map:pom_016, map:pom_017 ;
+	rr:subjectMap map:s_008 .
+
+map:map_dutyTypeObject_000 rml:logicalSource map:source_003 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "dutyTypeObject" ;
+	rr:predicateObjectMap map:pom_006 ;
+	rr:subjectMap map:s_003 .
+
+map:map_dutyTypeSubject_000 rml:logicalSource map:source_000 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "dutyTypeSubject" ;
 	rr:predicateObjectMap map:pom_000 ;
 	rr:subjectMap map:s_000 .
 
-map:map_complement_000 rml:logicalSource map:source_004 ;
+map:map_norightComplementRelation_000 rml:logicalSource map:source_027 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "complement" ;
-	rr:predicateObjectMap map:pom_008, map:pom_009 ;
-	rr:subjectMap map:s_004 .
+	rdfs:label "norightComplementRelation" ;
+	rr:predicateObjectMap map:pom_054, map:pom_055 ;
+	rr:subjectMap map:s_027 .
 
-map:map_dutyRelation_000 rml:logicalSource map:source_006 ;
+map:map_norightComplement_000 rml:logicalSource map:source_026 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "dutyRelation" ;
-	rr:predicateObjectMap map:pom_012, map:pom_013, map:pom_014, map:pom_015, map:pom_016 ;
-	rr:subjectMap map:s_006 .
+	rdfs:label "norightComplement" ;
+	rr:predicateObjectMap map:pom_052, map:pom_053 ;
+	rr:subjectMap map:s_026 .
 
-map:map_noRightRelation_000 rml:logicalSource map:source_008 ;
+map:map_norightObjectRelation_000 rml:logicalSource map:source_025 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "noRightRelation" ;
-	rr:predicateObjectMap map:pom_022, map:pom_023, map:pom_024, map:pom_025, map:pom_026 ;
-	rr:subjectMap map:s_008 .
+	rdfs:label "norightObjectRelation" ;
+	rr:predicateObjectMap map:pom_050, map:pom_051 ;
+	rr:subjectMap map:s_025 .
 
-map:map_object_000 rml:logicalSource map:source_003 ;
+map:map_norightObject_000 rml:logicalSource map:source_024 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "object" ;
-	rr:predicateObjectMap map:pom_005, map:pom_006, map:pom_007 ;
-	rr:subjectMap map:s_003 .
+	rdfs:label "norightObject" ;
+	rr:predicateObjectMap map:pom_047, map:pom_048, map:pom_049 ;
+	rr:subjectMap map:s_024 .
 
-map:map_privilegeRelation_000 rml:logicalSource map:source_009 ;
+map:map_norightSubjectRelation_000 rml:logicalSource map:source_022 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "privilegeRelation" ;
-	rr:predicateObjectMap map:pom_027, map:pom_028, map:pom_029, map:pom_030, map:pom_031 ;
-	rr:subjectMap map:s_009 .
+	rdfs:label "norightSubjectRelation" ;
+	rr:predicateObjectMap map:pom_044, map:pom_045 ;
+	rr:subjectMap map:s_022 .
 
-map:map_rightRelation_000 rml:logicalSource map:source_007 ;
+map:map_norightSubject_000 rml:logicalSource map:source_021 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "rightRelation" ;
-	rr:predicateObjectMap map:pom_017, map:pom_018, map:pom_019, map:pom_020, map:pom_021 ;
-	rr:subjectMap map:s_007 .
+	rdfs:label "norightSubject" ;
+	rr:predicateObjectMap map:pom_041, map:pom_042, map:pom_043 ;
+	rr:subjectMap map:s_021 .
 
-map:map_subject_000 rml:logicalSource map:source_002 ;
+map:map_norightTriggerRelation_000 rml:logicalSource map:source_029 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "subject" ;
-	rr:predicateObjectMap map:pom_002, map:pom_003, map:pom_004 ;
-	rr:subjectMap map:s_002 .
+	rdfs:label "norightTriggerRelation" ;
+	rr:predicateObjectMap map:pom_058, map:pom_059 ;
+	rr:subjectMap map:s_029 .
 
-map:map_trigger_000 rml:logicalSource map:source_005 ;
+map:map_norightTrigger_000 rml:logicalSource map:source_028 ;
 	rdf:type rr:TriplesMap ;
-	rdfs:label "trigger" ;
-	rr:predicateObjectMap map:pom_010, map:pom_011 ;
-	rr:subjectMap map:s_005 .
+	rdfs:label "norightTrigger" ;
+	rr:predicateObjectMap map:pom_056, map:pom_057 ;
+	rr:subjectMap map:s_028 .
+
+map:map_norightTypeObject_000 rml:logicalSource map:source_023 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "norightTypeObject" ;
+	rr:predicateObjectMap map:pom_046 ;
+	rr:subjectMap map:s_023 .
+
+map:map_norightTypeSubject_000 rml:logicalSource map:source_020 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "norightTypeSubject" ;
+	rr:predicateObjectMap map:pom_040 ;
+	rr:subjectMap map:s_020 .
+
+map:map_privilegeComplementRelation_000 rml:logicalSource map:source_037 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeComplementRelation" ;
+	rr:predicateObjectMap map:pom_074, map:pom_075 ;
+	rr:subjectMap map:s_037 .
+
+map:map_privilegeComplement_000 rml:logicalSource map:source_036 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeComplement" ;
+	rr:predicateObjectMap map:pom_072, map:pom_073 ;
+	rr:subjectMap map:s_036 .
+
+map:map_privilegeObjectRelation_000 rml:logicalSource map:source_035 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeObjectRelation" ;
+	rr:predicateObjectMap map:pom_070, map:pom_071 ;
+	rr:subjectMap map:s_035 .
+
+map:map_privilegeObject_000 rml:logicalSource map:source_034 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeObject" ;
+	rr:predicateObjectMap map:pom_067, map:pom_068, map:pom_069 ;
+	rr:subjectMap map:s_034 .
+
+map:map_privilegeSubjectRelation_000 rml:logicalSource map:source_032 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeSubjectRelation" ;
+	rr:predicateObjectMap map:pom_064, map:pom_065 ;
+	rr:subjectMap map:s_032 .
+
+map:map_privilegeSubject_000 rml:logicalSource map:source_031 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeSubject" ;
+	rr:predicateObjectMap map:pom_061, map:pom_062, map:pom_063 ;
+	rr:subjectMap map:s_031 .
+
+map:map_privilegeTriggerRelation_000 rml:logicalSource map:source_039 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeTriggerRelation" ;
+	rr:predicateObjectMap map:pom_078, map:pom_079 ;
+	rr:subjectMap map:s_039 .
+
+map:map_privilegeTrigger_000 rml:logicalSource map:source_038 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeTrigger" ;
+	rr:predicateObjectMap map:pom_076, map:pom_077 ;
+	rr:subjectMap map:s_038 .
+
+map:map_privilegeTypeObject_000 rml:logicalSource map:source_033 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeTypeObject" ;
+	rr:predicateObjectMap map:pom_066 ;
+	rr:subjectMap map:s_033 .
+
+map:map_privilegeTypeSubject_000 rml:logicalSource map:source_030 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "privilegeTypeSubject" ;
+	rr:predicateObjectMap map:pom_060 ;
+	rr:subjectMap map:s_030 .
+
+map:map_rightComplementRelation_000 rml:logicalSource map:source_017 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightComplementRelation" ;
+	rr:predicateObjectMap map:pom_034, map:pom_035 ;
+	rr:subjectMap map:s_017 .
+
+map:map_rightComplement_000 rml:logicalSource map:source_016 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightComplement" ;
+	rr:predicateObjectMap map:pom_032, map:pom_033 ;
+	rr:subjectMap map:s_016 .
+
+map:map_rightObjectRelation_000 rml:logicalSource map:source_015 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightObjectRelation" ;
+	rr:predicateObjectMap map:pom_030, map:pom_031 ;
+	rr:subjectMap map:s_015 .
+
+map:map_rightObject_000 rml:logicalSource map:source_014 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightObject" ;
+	rr:predicateObjectMap map:pom_027, map:pom_028, map:pom_029 ;
+	rr:subjectMap map:s_014 .
+
+map:map_rightSubjectRelation_000 rml:logicalSource map:source_012 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightSubjectRelation" ;
+	rr:predicateObjectMap map:pom_024, map:pom_025 ;
+	rr:subjectMap map:s_012 .
+
+map:map_rightSubject_000 rml:logicalSource map:source_011 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightSubject" ;
+	rr:predicateObjectMap map:pom_021, map:pom_022, map:pom_023 ;
+	rr:subjectMap map:s_011 .
+
+map:map_rightTriggerRelation_000 rml:logicalSource map:source_019 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightTriggerRelation" ;
+	rr:predicateObjectMap map:pom_038, map:pom_039 ;
+	rr:subjectMap map:s_019 .
+
+map:map_rightTrigger_000 rml:logicalSource map:source_018 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightTrigger" ;
+	rr:predicateObjectMap map:pom_036, map:pom_037 ;
+	rr:subjectMap map:s_018 .
+
+map:map_rightTypeObject_000 rml:logicalSource map:source_013 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightTypeObject" ;
+	rr:predicateObjectMap map:pom_026 ;
+	rr:subjectMap map:s_013 .
+
+map:map_rightTypeSubject_000 rml:logicalSource map:source_010 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "rightTypeSubject" ;
+	rr:predicateObjectMap map:pom_020 ;
+	rr:subjectMap map:s_010 .
 
 map:om_000 rdf:type rr:ObjectMap ;
 	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
 	rr:termType rr:IRI .
 
 map:om_001 rdf:type rr:ObjectMap ;
-	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
-	rr:termType rr:IRI .
-
-map:om_002 rdf:type rr:ObjectMap ;
 	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
 	rr:termType rr:IRI .
 
-map:om_003 rml:reference "event_subject" ;
+map:om_002 rml:languageMap map:language_000 ;
+	rml:reference "event_subject" ;
 	rdf:type rr:ObjectMap ;
-	rr:datatype xsd:string ;
 	rr:termType rr:Literal .
+
+map:om_003 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_dutyTypeSubject_000 .
 
 map:om_004 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_argumentTypeSubject_000 .
-
-map:om_005 rdf:type rr:ObjectMap ;
-	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
-	rr:termType rr:IRI .
-
-map:om_006 rml:reference "event_object" ;
-	rdf:type rr:ObjectMap ;
-	rr:datatype xsd:string ;
-	rr:termType rr:Literal .
-
-map:om_007 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_argumentTypeObject_000 .
-
-map:om_008 rdf:type rr:ObjectMap ;
-	rr:constant "http://www.w3.org/2004/02/skos/core#Concept" ;
-	rr:termType rr:IRI .
-
-map:om_009 rml:reference "event_complement" ;
-	rdf:type rr:ObjectMap ;
-	rr:datatype xsd:string ;
-	rr:termType rr:Literal .
-
-map:om_010 rdf:type rr:ObjectMap ;
-	rr:constant "http://schema.org/Action" ;
-	rr:termType rr:IRI .
-
-map:om_011 rml:reference "event_trigger" ;
-	rdf:type rr:ObjectMap ;
-	rr:datatype xsd:string ;
-	rr:termType rr:Literal .
-
-map:om_012 rdf:type rr:ObjectMap ;
 	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Duty" ;
 	rr:termType rr:IRI .
 
-map:om_013 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_subject_000 .
+map:om_005 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_dutySubject_000 .
+
+map:om_006 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
+	rr:termType rr:IRI .
+
+map:om_007 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
+	rr:termType rr:IRI .
+
+map:om_008 rml:languageMap map:language_001 ;
+	rml:reference "event_object" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_009 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_dutyTypeObject_000 .
+
+map:om_010 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Duty" ;
+	rr:termType rr:IRI .
+
+map:om_011 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_dutyObject_000 .
+
+map:om_012 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.w3.org/2004/02/skos/core#Concept" ;
+	rr:termType rr:IRI .
+
+map:om_013 rml:languageMap map:language_002 ;
+	rml:reference "event_complement" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
 
 map:om_014 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_object_000 .
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Duty" ;
+	rr:termType rr:IRI .
 
 map:om_015 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_complement_000 .
+	rr:parentTriplesMap map:map_dutyComplement_000 .
 
 map:om_016 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_trigger_000 .
+	rr:constant "http://schema.org/Action" ;
+	rr:termType rr:IRI .
 
-map:om_017 rdf:type rr:ObjectMap ;
+map:om_017 rml:languageMap map:language_003 ;
+	rml:reference "event_trigger" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_018 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Duty" ;
+	rr:termType rr:IRI .
+
+map:om_019 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_dutyTrigger_000 .
+
+map:om_020 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
+	rr:termType rr:IRI .
+
+map:om_021 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
+	rr:termType rr:IRI .
+
+map:om_022 rml:languageMap map:language_004 ;
+	rml:reference "event_subject" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_023 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_rightTypeSubject_000 .
+
+map:om_024 rdf:type rr:ObjectMap ;
 	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Right" ;
 	rr:termType rr:IRI .
 
-map:om_018 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_subject_000 .
+map:om_025 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_rightSubject_000 .
 
-map:om_019 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_object_000 .
+map:om_026 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
+	rr:termType rr:IRI .
 
-map:om_020 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_complement_000 .
+map:om_027 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
+	rr:termType rr:IRI .
 
-map:om_021 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_trigger_000 .
+map:om_028 rml:languageMap map:language_005 ;
+	rml:reference "event_object" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
 
-map:om_022 rdf:type rr:ObjectMap ;
+map:om_029 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_rightTypeObject_000 .
+
+map:om_030 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Right" ;
+	rr:termType rr:IRI .
+
+map:om_031 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_rightObject_000 .
+
+map:om_032 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.w3.org/2004/02/skos/core#Concept" ;
+	rr:termType rr:IRI .
+
+map:om_033 rml:languageMap map:language_006 ;
+	rml:reference "event_complement" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_034 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Right" ;
+	rr:termType rr:IRI .
+
+map:om_035 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_rightComplement_000 .
+
+map:om_036 rdf:type rr:ObjectMap ;
+	rr:constant "http://schema.org/Action" ;
+	rr:termType rr:IRI .
+
+map:om_037 rml:languageMap map:language_007 ;
+	rml:reference "event_trigger" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_038 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Right" ;
+	rr:termType rr:IRI .
+
+map:om_039 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_rightTrigger_000 .
+
+map:om_040 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
+	rr:termType rr:IRI .
+
+map:om_041 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
+	rr:termType rr:IRI .
+
+map:om_042 rml:languageMap map:language_008 ;
+	rml:reference "event_subject" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_043 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_norightTypeSubject_000 .
+
+map:om_044 rdf:type rr:ObjectMap ;
 	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Prohibition" ;
 	rr:termType rr:IRI .
 
-map:om_023 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_subject_000 .
+map:om_045 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_norightSubject_000 .
 
-map:om_024 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_object_000 .
+map:om_046 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
+	rr:termType rr:IRI .
 
-map:om_025 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_complement_000 .
+map:om_047 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
+	rr:termType rr:IRI .
 
-map:om_026 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_trigger_000 .
+map:om_048 rml:languageMap map:language_009 ;
+	rml:reference "event_object" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
 
-map:om_027 rdf:type rr:ObjectMap ;
+map:om_049 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_norightTypeObject_000 .
+
+map:om_050 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Prohibition" ;
+	rr:termType rr:IRI .
+
+map:om_051 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_norightObject_000 .
+
+map:om_052 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.w3.org/2004/02/skos/core#Concept" ;
+	rr:termType rr:IRI .
+
+map:om_053 rml:languageMap map:language_010 ;
+	rml:reference "event_complement" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_054 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Prohibition" ;
+	rr:termType rr:IRI .
+
+map:om_055 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_norightComplement_000 .
+
+map:om_056 rdf:type rr:ObjectMap ;
+	rr:constant "http://schema.org/Action" ;
+	rr:termType rr:IRI .
+
+map:om_057 rml:languageMap map:language_011 ;
+	rml:reference "event_trigger" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_058 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Prohibition" ;
+	rr:termType rr:IRI .
+
+map:om_059 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_norightTrigger_000 .
+
+map:om_060 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
+	rr:termType rr:IRI .
+
+map:om_061 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
+	rr:termType rr:IRI .
+
+map:om_062 rml:languageMap map:language_012 ;
+	rml:reference "event_subject" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_063 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_privilegeTypeSubject_000 .
+
+map:om_064 rdf:type rr:ObjectMap ;
 	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Permission" ;
 	rr:termType rr:IRI .
 
-map:om_028 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_subject_000 .
+map:om_065 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_privilegeSubject_000 .
 
-map:om_029 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_object_000 .
+map:om_066 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/ActorType" ;
+	rr:termType rr:IRI .
 
-map:om_030 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_complement_000 .
+map:om_067 rdf:type rr:ObjectMap ;
+	rr:constant "http://semanticweb.cs.vu.nl/2009/11/sem/Actor" ;
+	rr:termType rr:IRI .
 
-map:om_031 rdf:type rr:ObjectMap ;
-	rr:parentTriplesMap map:map_trigger_000 .
+map:om_068 rml:languageMap map:language_013 ;
+	rml:reference "event_object" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_069 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_privilegeTypeObject_000 .
+
+map:om_070 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Permission" ;
+	rr:termType rr:IRI .
+
+map:om_071 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_privilegeObject_000 .
+
+map:om_072 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.w3.org/2004/02/skos/core#Concept" ;
+	rr:termType rr:IRI .
+
+map:om_073 rml:languageMap map:language_014 ;
+	rml:reference "event_complement" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_074 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Permission" ;
+	rr:termType rr:IRI .
+
+map:om_075 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_privilegeComplement_000 .
+
+map:om_076 rdf:type rr:ObjectMap ;
+	rr:constant "http://schema.org/Action" ;
+	rr:termType rr:IRI .
+
+map:om_077 rml:languageMap map:language_015 ;
+	rml:reference "event_trigger" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_078 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.ittig.cnr.it/ontologies/def/ProvisionModel#Permission" ;
+	rr:termType rr:IRI .
+
+map:om_079 rdf:type rr:ObjectMap ;
+	rr:parentTriplesMap map:map_privilegeTrigger_000 .
 
 map:pm_000 rdf:type rr:PredicateMap ;
 	rr:constant rdf:type .
@@ -195,93 +605,237 @@ map:pm_001 rdf:type rr:PredicateMap ;
 	rr:constant rdf:type .
 
 map:pm_002 rdf:type rr:PredicateMap ;
-	rr:constant rdf:type .
+	rr:constant rdfs:label .
 
 map:pm_003 rdf:type rr:PredicateMap ;
-	rr:constant rdfs:label .
+	rr:constant sem:actorType .
 
 map:pm_004 rdf:type rr:PredicateMap ;
-	rr:constant sem:actorType .
+	rr:constant rdf:type .
 
 map:pm_005 rdf:type rr:PredicateMap ;
-	rr:constant rdf:type .
+	rr:constant prv:hasDutyBearer .
 
 map:pm_006 rdf:type rr:PredicateMap ;
-	rr:constant rdfs:label .
-
-map:pm_007 rdf:type rr:PredicateMap ;
-	rr:constant sem:actorType .
-
-map:pm_008 rdf:type rr:PredicateMap ;
 	rr:constant rdf:type .
 
-map:pm_009 rdf:type rr:PredicateMap ;
+map:pm_007 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_008 rdf:type rr:PredicateMap ;
 	rr:constant rdfs:label .
+
+map:pm_009 rdf:type rr:PredicateMap ;
+	rr:constant sem:actorType .
 
 map:pm_010 rdf:type rr:PredicateMap ;
 	rr:constant rdf:type .
 
 map:pm_011 rdf:type rr:PredicateMap ;
-	rr:constant rdfs:label .
+	rr:constant prv:hasDutyCounterpart .
 
 map:pm_012 rdf:type rr:PredicateMap ;
 	rr:constant rdf:type .
 
 map:pm_013 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasDutyBearer .
+	rr:constant rdfs:label .
 
 map:pm_014 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasDutyCounterpart .
+	rr:constant rdf:type .
 
 map:pm_015 rdf:type rr:PredicateMap ;
 	rr:constant prv:hasDutyObject .
 
 map:pm_016 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasDutyAction .
+	rr:constant rdf:type .
 
 map:pm_017 rdf:type rr:PredicateMap ;
-	rr:constant rdf:type .
+	rr:constant rdfs:label .
 
 map:pm_018 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasRightBearer .
-
-map:pm_019 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasRightCounterpart .
-
-map:pm_020 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasRightObject .
-
-map:pm_021 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasRightAction .
-
-map:pm_022 rdf:type rr:PredicateMap ;
 	rr:constant rdf:type .
 
+map:pm_019 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasDutyAction .
+
+map:pm_020 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_021 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_022 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
 map:pm_023 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasProhibitionBearer .
+	rr:constant sem:actorType .
 
 map:pm_024 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasProhibitionCounterpart .
+	rr:constant rdf:type .
 
 map:pm_025 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasProhibitionObject .
+	rr:constant prv:hasRightBearer .
 
 map:pm_026 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasProhibitionAction .
+	rr:constant rdf:type .
 
 map:pm_027 rdf:type rr:PredicateMap ;
 	rr:constant rdf:type .
 
 map:pm_028 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasPermissionBearer .
+	rr:constant rdfs:label .
 
 map:pm_029 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasPermissionCounterpart .
+	rr:constant sem:actorType .
 
 map:pm_030 rdf:type rr:PredicateMap ;
-	rr:constant prv:hasPermissionObject .
+	rr:constant rdf:type .
 
 map:pm_031 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasRightCounterpart .
+
+map:pm_032 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_033 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_034 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_035 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasRightObject .
+
+map:pm_036 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_037 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_038 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_039 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasRightAction .
+
+map:pm_040 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_041 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_042 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_043 rdf:type rr:PredicateMap ;
+	rr:constant sem:actorType .
+
+map:pm_044 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_045 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasProhibitionBearer .
+
+map:pm_046 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_047 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_048 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_049 rdf:type rr:PredicateMap ;
+	rr:constant sem:actorType .
+
+map:pm_050 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_051 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasProhibitionCounterpart .
+
+map:pm_052 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_053 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_054 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_055 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasProhibitionObject .
+
+map:pm_056 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_057 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_058 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_059 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasProhibitionAction .
+
+map:pm_060 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_061 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_062 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_063 rdf:type rr:PredicateMap ;
+	rr:constant sem:actorType .
+
+map:pm_064 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_065 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasPermissionBearer .
+
+map:pm_066 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_067 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_068 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_069 rdf:type rr:PredicateMap ;
+	rr:constant sem:actorType .
+
+map:pm_070 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_071 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasPermissionCounterpart .
+
+map:pm_072 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_073 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_074 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_075 rdf:type rr:PredicateMap ;
+	rr:constant prv:hasPermissionObject .
+
+map:pm_076 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_077 rdf:type rr:PredicateMap ;
+	rr:constant rdfs:label .
+
+map:pm_078 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_079 rdf:type rr:PredicateMap ;
 	rr:constant prv:hasPermissionAction .
 
 map:pom_000 rdf:type rr:PredicateObjectMap ;
@@ -412,75 +966,478 @@ map:pom_031 rdf:type rr:PredicateObjectMap ;
 	rr:objectMap map:om_031 ;
 	rr:predicateMap map:pm_031 .
 
-map:rules_000 <http://rdfs.org/ns/void#exampleResource> map:map_argumentTypeObject_000, map:map_argumentTypeSubject_000, map:map_complement_000, map:map_dutyRelation_000, map:map_noRightRelation_000, map:map_object_000, map:map_privilegeRelation_000, map:map_rightRelation_000, map:map_subject_000, map:map_trigger_000 ;
+map:pom_032 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_032 ;
+	rr:predicateMap map:pm_032 .
+
+map:pom_033 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_033 ;
+	rr:predicateMap map:pm_033 .
+
+map:pom_034 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_034 ;
+	rr:predicateMap map:pm_034 .
+
+map:pom_035 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_035 ;
+	rr:predicateMap map:pm_035 .
+
+map:pom_036 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_036 ;
+	rr:predicateMap map:pm_036 .
+
+map:pom_037 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_037 ;
+	rr:predicateMap map:pm_037 .
+
+map:pom_038 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_038 ;
+	rr:predicateMap map:pm_038 .
+
+map:pom_039 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_039 ;
+	rr:predicateMap map:pm_039 .
+
+map:pom_040 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_040 ;
+	rr:predicateMap map:pm_040 .
+
+map:pom_041 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_041 ;
+	rr:predicateMap map:pm_041 .
+
+map:pom_042 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_042 ;
+	rr:predicateMap map:pm_042 .
+
+map:pom_043 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_043 ;
+	rr:predicateMap map:pm_043 .
+
+map:pom_044 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_044 ;
+	rr:predicateMap map:pm_044 .
+
+map:pom_045 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_045 ;
+	rr:predicateMap map:pm_045 .
+
+map:pom_046 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_046 ;
+	rr:predicateMap map:pm_046 .
+
+map:pom_047 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_047 ;
+	rr:predicateMap map:pm_047 .
+
+map:pom_048 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_048 ;
+	rr:predicateMap map:pm_048 .
+
+map:pom_049 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_049 ;
+	rr:predicateMap map:pm_049 .
+
+map:pom_050 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_050 ;
+	rr:predicateMap map:pm_050 .
+
+map:pom_051 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_051 ;
+	rr:predicateMap map:pm_051 .
+
+map:pom_052 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_052 ;
+	rr:predicateMap map:pm_052 .
+
+map:pom_053 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_053 ;
+	rr:predicateMap map:pm_053 .
+
+map:pom_054 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_054 ;
+	rr:predicateMap map:pm_054 .
+
+map:pom_055 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_055 ;
+	rr:predicateMap map:pm_055 .
+
+map:pom_056 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_056 ;
+	rr:predicateMap map:pm_056 .
+
+map:pom_057 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_057 ;
+	rr:predicateMap map:pm_057 .
+
+map:pom_058 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_058 ;
+	rr:predicateMap map:pm_058 .
+
+map:pom_059 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_059 ;
+	rr:predicateMap map:pm_059 .
+
+map:pom_060 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_060 ;
+	rr:predicateMap map:pm_060 .
+
+map:pom_061 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_061 ;
+	rr:predicateMap map:pm_061 .
+
+map:pom_062 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_062 ;
+	rr:predicateMap map:pm_062 .
+
+map:pom_063 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_063 ;
+	rr:predicateMap map:pm_063 .
+
+map:pom_064 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_064 ;
+	rr:predicateMap map:pm_064 .
+
+map:pom_065 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_065 ;
+	rr:predicateMap map:pm_065 .
+
+map:pom_066 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_066 ;
+	rr:predicateMap map:pm_066 .
+
+map:pom_067 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_067 ;
+	rr:predicateMap map:pm_067 .
+
+map:pom_068 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_068 ;
+	rr:predicateMap map:pm_068 .
+
+map:pom_069 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_069 ;
+	rr:predicateMap map:pm_069 .
+
+map:pom_070 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_070 ;
+	rr:predicateMap map:pm_070 .
+
+map:pom_071 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_071 ;
+	rr:predicateMap map:pm_071 .
+
+map:pom_072 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_072 ;
+	rr:predicateMap map:pm_072 .
+
+map:pom_073 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_073 ;
+	rr:predicateMap map:pm_073 .
+
+map:pom_074 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_074 ;
+	rr:predicateMap map:pm_074 .
+
+map:pom_075 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_075 ;
+	rr:predicateMap map:pm_075 .
+
+map:pom_076 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_076 ;
+	rr:predicateMap map:pm_076 .
+
+map:pom_077 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_077 ;
+	rr:predicateMap map:pm_077 .
+
+map:pom_078 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_078 ;
+	rr:predicateMap map:pm_078 .
+
+map:pom_079 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_079 ;
+	rr:predicateMap map:pm_079 .
+
+map:rules_000 <http://rdfs.org/ns/void#exampleResource> map:map_dutyComplementRelation_000, map:map_dutyComplement_000, map:map_dutyObjectRelation_000, map:map_dutyObject_000, map:map_dutySubjectRelation_000, map:map_dutySubject_000, map:map_dutyTriggerRelation_000, map:map_dutyTrigger_000, map:map_dutyTypeObject_000, map:map_dutyTypeSubject_000, map:map_norightComplementRelation_000, map:map_norightComplement_000, map:map_norightObjectRelation_000, map:map_norightObject_000, map:map_norightSubjectRelation_000, map:map_norightSubject_000, map:map_norightTriggerRelation_000, map:map_norightTrigger_000, map:map_norightTypeObject_000, map:map_norightTypeSubject_000, map:map_privilegeComplementRelation_000, map:map_privilegeComplement_000, map:map_privilegeObjectRelation_000, map:map_privilegeObject_000, map:map_privilegeSubjectRelation_000, map:map_privilegeSubject_000, map:map_privilegeTriggerRelation_000, map:map_privilegeTrigger_000, map:map_privilegeTypeObject_000, map:map_privilegeTypeSubject_000, map:map_rightComplementRelation_000, map:map_rightComplement_000, map:map_rightObjectRelation_000, map:map_rightObject_000, map:map_rightSubjectRelation_000, map:map_rightSubject_000, map:map_rightTriggerRelation_000, map:map_rightTrigger_000, map:map_rightTypeObject_000, map:map_rightTypeSubject_000 ;
 	rdf:type <http://rdfs.org/ns/void#Dataset> .
 
 map:s_000 rdf:type rr:SubjectMap ;
 	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_subject_type}" .
 
 map:s_001 rdf:type rr:SubjectMap ;
-	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_object_type}" .
-
-map:s_002 rdf:type rr:SubjectMap ;
 	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_subject_id}" .
 
+map:s_002 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
 map:s_003 rdf:type rr:SubjectMap ;
-	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_object_id}" .
+	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_object_type}" .
 
 map:s_004 rdf:type rr:SubjectMap ;
-	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_complement_id}" .
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_object_id}" .
 
 map:s_005 rdf:type rr:SubjectMap ;
-	rr:template "http://spanish-laws.es/sws/resource/EventTrigger/{event_trigger_id}" .
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
 
 map:s_006 rdf:type rr:SubjectMap ;
-	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_complement_id}" .
 
 map:s_007 rdf:type rr:SubjectMap ;
 	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
 
 map:s_008 rdf:type rr:SubjectMap ;
-	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+	rr:template "http://spanish-laws.es/sws/resource/EventTrigger/{event_trigger_id}" .
 
 map:s_009 rdf:type rr:SubjectMap ;
 	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
 
+map:s_010 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_subject_type}" .
+
+map:s_011 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_subject_id}" .
+
+map:s_012 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_013 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_object_type}" .
+
+map:s_014 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_object_id}" .
+
+map:s_015 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_016 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_complement_id}" .
+
+map:s_017 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_018 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventTrigger/{event_trigger_id}" .
+
+map:s_019 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_020 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_subject_type}" .
+
+map:s_021 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_subject_id}" .
+
+map:s_022 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_023 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_object_type}" .
+
+map:s_024 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_object_id}" .
+
+map:s_025 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_026 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_complement_id}" .
+
+map:s_027 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_028 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventTrigger/{event_trigger_id}" .
+
+map:s_029 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_030 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_subject_type}" .
+
+map:s_031 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_subject_id}" .
+
+map:s_032 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_033 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/ArgumentType/{event_object_type}" .
+
+map:s_034 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_object_id}" .
+
+map:s_035 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_036 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventArgument/{event_complement_id}" .
+
+map:s_037 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
+map:s_038 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/EventTrigger/{event_trigger_id}" .
+
+map:s_039 rdf:type rr:SubjectMap ;
+	rr:template "http://spanish-laws.es/sws/resource/Relation/{relation_id}" .
+
 map:source_000 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-entities-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-subject-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_001 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-entities-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-subject-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_002 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-entities-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-subject-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_003 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-entities-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-object-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_004 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-entities-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-object-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_005 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-entities-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-object-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_006 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-duty-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-complement-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_007 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-right-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-complement-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_008 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-no-right-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-trigger-dataset.csv" ;
 	rdf:type rml:LogicalSource .
 
 map:source_009 rml:referenceFormulation ql:CSV ;
-	rml:source "data/analysis/statutes-events/statute-privilege-dataset.csv" ;
+	rml:source "../data/analysis/statutes-events/duty/statute-duty-trigger-dataset.csv" ;
 	rdf:type rml:LogicalSource .
+
+map:source_010 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_011 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_012 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_013 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_014 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_015 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_016 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-complement-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_017 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-complement-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_018 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-trigger-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_019 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/right/statute-right-trigger-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_020 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_021 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_022 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_023 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_024 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_025 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_026 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-complement-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_027 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-complement-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_028 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-trigger-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_029 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/noright/statute-noright-trigger-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_030 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_031 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_032 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-subject-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_033 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_034 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_035 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-object-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_036 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-complement-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_037 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-complement-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_038 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-trigger-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_039 rml:referenceFormulation ql:CSV ;
+	rml:source "../data/analysis/statutes-events/privilege/statute-privilege-trigger-dataset.csv" ;
+	rdf:type rml:LogicalSource .
+
